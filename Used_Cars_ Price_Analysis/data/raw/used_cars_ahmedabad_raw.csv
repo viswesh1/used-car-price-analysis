@@ -1,0 +1,1681 @@
+car_brand,car_name,year,km_driven,fuel,transmission,price,city
+Hyundai,Hyundai i20Asta,2023,"9,800kms",Petrol,Manual,₹7.70 Lakh,ahmedabad
+Hyundai,Hyundai i20Sportz Plus Dual Tone BSIV,2019,"22,371kms",Petrol,Manual,₹5.29 Lakh,ahmedabad
+Nissan,Nissan MagniteTurbo XV BSVI,2021,"99,687kms",Petrol,Manual,₹4.50 Lakh,ahmedabad
+Maruti,Maruti SwiftVXI,2019,"40,477kms",Petrol,Manual,₹4.47 Lakh,ahmedabad
+Jeep,Jeep Compass2.0 Limited,2017,"1,80,000kms",Diesel,Manual,₹6.50 Lakh,ahmedabad
+Maruti,Maruti SwiftVXI BSVI,2021,"46,000kms",Petrol,Manual,₹5.11 Lakh,ahmedabad
+Renault,Renault TriberRXT,2023,"28,302kms",Petrol,Manual,₹4.49 Lakh,ahmedabad
+Honda,Honda WR-Vi-VTEC S,2017,"63,000kms",Petrol,Manual,₹4.10 Lakh,ahmedabad
+Hyundai,Hyundai XcentVTVT Plus ABS,2016,"1,20,000kms",Petrol,Manual,₹3.45 Lakh,ahmedabad
+Renault,Renault KigerRXZ,2022,"80,000kms",Petrol,Manual,₹4.15 Lakh,ahmedabad
+Honda,Honda WR-Vi-VTEC VX,2019,"45,867kms",Petrol,Manual,₹5.23 Lakh,ahmedabad
+Kia,Kia CarnivalPrestige 6 STR,2020,"85,000kms",Diesel,Automatic,₹19.50 Lakh,ahmedabad
+Hyundai,Hyundai i10Magna,2013,"78,500kms",Petrol,Manual,₹2 Lakh,ahmedabad
+Maruti,Maruti SwiftLXI Optional-O,2016,"1,17,732kms",Petrol,Manual,₹3.21 Lakh,ahmedabad
+Maruti,Maruti Wagon RCNG LXI BSIV,2019,"1,29,340kms",CNG,Manual,₹3.08 Lakh,ahmedabad
+Maruti,Maruti SwiftVXI,2013,"56,225kms",Petrol,Manual,₹3.45 Lakh,ahmedabad
+Mercedes-Benz,Mercedes-Benz A-Class LimousineA 200 BSVI,2023,"20,000kms",Petrol,Automatic,₹35.90 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2017,"1,36,006kms",Petrol,Manual,₹3.25 Lakh,ahmedabad
+Honda,Honda WR-VVX,2022,"29,000kms",Petrol,Manual,₹8.50 Lakh,ahmedabad
+Honda,Honda WR-Vi-VTEC S,2017,"79,377kms",Petrol,Manual,₹3.92 Lakh,ahmedabad
+Hyundai,Hyundai VenueSX,2024,"50,000kms",Petrol,Manual,₹9 Lakh,ahmedabad
+Maruti,Maruti SwiftLXI,2016,"79,967kms",Petrol,Manual,₹3.29 Lakh,ahmedabad
+Tata,Tata TigorXZ Plus BSVI,2022,"16,000kms",Petrol,Manual,₹5.25 Lakh,ahmedabad
+Maruti,Maruti SwiftVXI BSVI,2022,"15,000kms",Petrol,Manual,₹5.50 Lakh,ahmedabad
+Toyota,Toyota Fortuner4X2,2023,"56,000kms",Petrol,Manual,₹25.50 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2017,"56,719kms",Petrol,Manual,₹3.92 Lakh,ahmedabad
+Hyundai,Hyundai EONEra Plus,2018,"1,31,159kms",Petrol,Manual,₹2.12 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI,2014,"1,00,406kms",Petrol,Manual,₹2.22 Lakh,ahmedabad
+Renault,Renault DusterRXL AWD,2015,"1,72,500kms",Diesel,Manual,₹4.25 Lakh,ahmedabad
+Honda,Honda BrioS MT,2015,"39,409kms",Petrol,Manual,₹2.55 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI BSVI,2014,"55,762kms",Petrol,Manual,₹2.82 Lakh,ahmedabad
+Hyundai,Hyundai EONMagna,2017,"52,803kms",Petrol,Manual,₹2.89 Lakh,ahmedabad
+Tata,Tata AltrozXZ,2023,"30,000kms",Petrol,Manual,₹6.30 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI BSVI,2014,"99,094kms",Petrol,Manual,₹2.56 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI BS IV,2014,"18,427kms",Petrol,Manual,₹2.24 Lakh,ahmedabad
+Maruti,Maruti Alto K10VXI,2016,"79,235kms",Petrol,Manual,₹2.04 Lakh,ahmedabad
+Audi,Audi A62.0 TDI,2013,"1,00,000kms",Diesel,Automatic,₹7 Lakh,ahmedabad
+Hyundai,Hyundai i10Sportz 1.1L,2014,"59,955kms",Petrol,Manual,₹2.84 Lakh,ahmedabad
+Hyundai,Hyundai EONEra Plus,2017,"18,625kms",Petrol,Manual,₹2.25 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi,2020,"45,605kms",Petrol,Manual,₹2.72 Lakh,ahmedabad
+Mahindra,Mahindra TUV 300T8,2016,"87,000kms",Diesel,Manual,₹4.50 Lakh,ahmedabad
+Hyundai,Hyundai i10Magna 1.1,2015,"79,509kms",Petrol,Manual,₹3 Lakh,ahmedabad
+Tata,Tata TiagoWizz 1.2 Revotron,2017,"74,070kms",Petrol,Manual,₹2.87 Lakh,ahmedabad
+Renault,Renault KWIDClimber 1.0 MT,2017,"79,870kms",Petrol,Manual,₹1.96 Lakh,ahmedabad
+Hyundai,Hyundai VernaVTVT 1.6 SX,2018,"90,000kms",Petrol,Manual,₹6 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI BSVI,2015,"69,451kms",Petrol,Manual,₹2.78 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXI,2017,"74,892kms",Petrol,Manual,₹2.18 Lakh,ahmedabad
+Honda,Honda BrioS MT,2013,"87,101kms",Petrol,Manual,₹1.97 Lakh,ahmedabad
+Kia,Kia SeltosHTX G,2020,"88,000kms",Petrol,Manual,₹8.50 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI,2014,"23,364kms",Petrol,Manual,₹2.95 Lakh,ahmedabad
+Hyundai,Hyundai EONEra,2015,"47,048kms",Petrol,Manual,₹2.24 Lakh,ahmedabad
+Maruti,Maruti SwiftLXI,2016,"1,42,033kms",Petrol,Manual,₹2.68 Lakh,ahmedabad
+Honda,Honda City1.5 S MT,2010,"1,60,000kms",Petrol,Manual,₹2.70 Lakh,ahmedabad
+Renault,Renault KWIDRXT,2017,"74,142kms",Petrol,Manual,₹2.42 Lakh,ahmedabad
+Renault,Renault KWID1.0 RXT Opt,2020,"55,336kms",Petrol,Manual,₹2.72 Lakh,ahmedabad
+Renault,Renault KWID1.0 RXT Opt,2019,"51,231kms",Petrol,Manual,₹2.89 Lakh,ahmedabad
+Maruti,Maruti Alto 800CNG LXI,2014,"70,000kms",CNG,Manual,₹1.70 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi,2017,"58,925kms",Petrol,Manual,₹2.55 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi,2016,"47,238kms",Petrol,Manual,₹2.34 Lakh,ahmedabad
+Hyundai,Hyundai i10Magna 1.1,2013,"76,520kms",Petrol,Manual,₹2.69 Lakh,ahmedabad
+Maruti,Maruti CiazZeta BSIV,2018,"66,000kms",Petrol,Manual,₹5 Lakh,ahmedabad
+Renault,Renault KWIDRXT,2017,"74,142kms",Petrol,Manual,₹2.42 Lakh,ahmedabad
+Renault,Renault KWID1.0 RXT Opt,2020,"55,336kms",Petrol,Manual,₹2.72 Lakh,ahmedabad
+Renault,Renault KWID1.0 RXT Opt,2019,"51,231kms",Petrol,Manual,₹2.89 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.6 VTVT AT SX Plus,2016,"60,000kms",Petrol,Automatic,₹7.45 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi,2016,"47,238kms",Petrol,Manual,₹2.34 Lakh,ahmedabad
+Hyundai,Hyundai i10Magna 1.1,2013,"76,520kms",Petrol,Manual,₹2.69 Lakh,ahmedabad
+Honda,Honda BrioV MT,2012,"95,376kms",Petrol,Manual,₹1.84 Lakh,ahmedabad
+Hyundai,Hyundai i10Magna 1.1,2013,"36,870kms",Petrol,Manual,₹2.43 Lakh,ahmedabad
+Hyundai,Hyundai i20Sportz Petrol,2012,"48,311kms",Petrol,Manual,₹2.54 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10Magna,2014,"90,776kms",Petrol,Manual,₹2.50 Lakh,ahmedabad
+Honda,Honda AmazeS i-Vtech,2014,"78,637kms",Petrol,Manual,₹2.75 Lakh,ahmedabad
+Hyundai,Hyundai i10Sportz,2012,"1,26,549kms",Petrol,Manual,₹1.38 Lakh,ahmedabad
+Renault,Renault KWIDRXL,2021,"35,342kms",Petrol,Manual,₹2.37 Lakh,ahmedabad
+Honda,Honda AmazeS i-Vtech,2014,"1,28,271kms",Petrol,Manual,₹2.29 Lakh,ahmedabad
+Tata,Tata Tiago1.2 Revotron XM Option,2018,"83,861kms",Petrol,Manual,₹2.77 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi,2016,"1,23,885kms",Petrol,Manual,₹2.13 Lakh,ahmedabad
+Hyundai,Hyundai i10Magna 1.1L,2015,"61,002kms",Petrol,Manual,₹2.17 Lakh,ahmedabad
+Honda,Honda AmazeEX i-Vtech,2015,"58,000kms",Petrol,Manual,₹2.75 Lakh,ahmedabad
+Maruti,Maruti EsteemVxi,2005,"1,28,000kms",Petrol,Manual,₹1.51 Lakh,ahmedabad
+Honda,Honda AmazeS i-Vtech,2014,"1,28,271kms",Petrol,Manual,₹2.29 Lakh,ahmedabad
+Honda,Honda AmazeS i-VTEC,2016,"54,000kms",Petrol,Manual,₹3 Lakh,ahmedabad
+Honda,Honda AmazeEX i-Vtech,2015,"58,000kms",Petrol,Manual,₹2.75 Lakh,ahmedabad
+Maruti,Maruti EsteemVxi,2005,"1,28,000kms",Petrol,Manual,₹1.51 Lakh,ahmedabad
+Volkswagen,Volkswagen PoloPetrol Highline 1.2L,2011,"72,000kms",Petrol,Manual,₹2 Lakh,ahmedabad
+Renault,Renault KWID1.0 RXL,2017,"65,000kms",Petrol,Manual,₹2.35 Lakh,ahmedabad
+Honda,Honda CityV MT,2010,"75,000kms",Petrol,Manual,₹2.51 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10Sportz,2015,"55,600kms",Petrol,Manual,₹2.95 Lakh,ahmedabad
+Hyundai,Hyundai Santro XingGL,2011,"56,000kms",Petrol,Manual,₹1.75 Lakh,ahmedabad
+Nissan,Nissan SunnyXE,2016,"79,000kms",Petrol,Manual,₹2.99 Lakh,ahmedabad
+Volkswagen,Volkswagen Polo1.2 MPI Comfortline,2015,"80,000kms",Petrol,Manual,₹2.75 Lakh,ahmedabad
+Honda,Honda Jazz1.2 V i VTEC,2015,"83,000kms",Petrol,Manual,₹2.90 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2017,"72,080kms",Petrol,Manual,₹4.37 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI CNG,2016,"52,324kms",CNG,Manual,₹3.33 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2019,"45,000kms",Petrol,Manual,₹4.25 Lakh,ahmedabad
+Hyundai,Hyundai VernaSX IVT Opt,2023,"28,000kms",Petrol,Automatic,₹10.99 Lakh,ahmedabad
+Honda,Honda WR-Vi-VTEC VX,2022,"42,606kms",Petrol,Manual,₹7.94 Lakh,ahmedabad
+Hyundai,Hyundai XcentPetrol,2014,"85,244kms",Petrol,Manual,₹3.40 Lakh,ahmedabad
+Tata,Tata TiagoXT CNG BSVI,2022,"99,275kms",CNG,Manual,₹4.17 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2018,"68,907kms",Petrol,Manual,₹4.01 Lakh,ahmedabad
+Hyundai,Hyundai VernaSX IVT Opt,2023,"28,000kms",Petrol,Automatic,₹10.99 Lakh,ahmedabad
+Honda,Honda WR-Vi-VTEC VX,2022,"42,606kms",Petrol,Manual,₹7.94 Lakh,ahmedabad
+Maruti,Maruti SwiftVXI,2017,"88,775kms",Petrol,Manual,₹3.28 Lakh,ahmedabad
+Hyundai,Hyundai AuraSX Plus AMT,2022,"67,386kms",Petrol,Automatic,₹5.56 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2017,"33,333kms",Petrol,Manual,₹4.35 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2014,"95,519kms",Petrol,Manual,₹3.41 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2013,"57,143kms",Petrol,Manual,₹3.38 Lakh,ahmedabad
+Maruti,Maruti SwiftVXI,2012,"72,677kms",Petrol,Manual,₹3.18 Lakh,ahmedabad
+Ford,Ford Ecosport1.5 Ti VCT MT Titanium,2017,"70,716kms",Petrol,Manual,₹3.57 Lakh,ahmedabad
+Maruti,Maruti Alto K10VXI,2019,"51,610kms",Petrol,Manual,₹3.45 Lakh,ahmedabad
+Maruti,Maruti CelerioZXI,2017,"1,12,035kms",Petrol,Manual,₹3.47 Lakh,ahmedabad
+Volkswagen,Volkswagen Polo1.0 MPI Comfortline,2018,"66,524kms",Petrol,Manual,₹4.27 Lakh,ahmedabad
+Maruti,Maruti BalenoDelta Diesel,2016,"44,193kms",Diesel,Manual,₹4.44 Lakh,ahmedabad
+Tata,Tata TiagoXZ CNG,2023,"41,309kms",CNG,Manual,₹5.77 Lakh,ahmedabad
+Tata,Tata TiagoXZA Plus,2020,"70,575kms",Petrol,Automatic,₹4.06 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXI Opt,2022,"29,405kms",Petrol,Manual,₹3.48 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI 1.2,2016,"18,191kms",Petrol,Manual,₹3.90 Lakh,ahmedabad
+Honda,Honda Amaze 2nd GenS,2016,"13,295kms",Petrol,Manual,₹4.41 Lakh,ahmedabad
+Maruti,Maruti Ignis1.2 Delta BSIV,2018,"33,163kms",Petrol,Manual,₹4 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2018,"35,771kms",Petrol,Manual,₹4.11 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXI Opt,2022,"29,405kms",Petrol,Manual,₹3.48 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI 1.2,2016,"18,191kms",Petrol,Manual,₹3.90 Lakh,ahmedabad
+Honda,Honda Amaze 2nd GenS,2016,"13,295kms",Petrol,Manual,₹4.41 Lakh,ahmedabad
+Maruti,Maruti Ignis1.2 Delta BSIV,2018,"33,163kms",Petrol,Manual,₹4 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2018,"35,771kms",Petrol,Manual,₹4.11 Lakh,ahmedabad
+Maruti,Maruti BalenoZeta Diesel,2016,"63,444kms",Diesel,Manual,₹4.41 Lakh,ahmedabad
+Maruti,Maruti SwiftVXI,2016,"1,16,687kms",Petrol,Manual,₹3.80 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2015,"24,284kms",Petrol,Manual,₹4.11 Lakh,ahmedabad
+Hyundai,Hyundai XcentPetrol,2014,"85,244kms",Petrol,Manual,₹3.40 Lakh,ahmedabad
+Tata,Tata TiagoXT CNG BSVI,2022,"99,275kms",CNG,Manual,₹4.17 Lakh,ahmedabad
+Tata,Tata TigorXZ,2022,"26,406kms",Petrol,Manual,₹5.44 Lakh,ahmedabad
+Maruti,Maruti SwiftLXi,2014,"48,878kms",Petrol,Manual,₹3.48 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2018,"68,907kms",Petrol,Manual,₹4.01 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI,2021,"9,203kms",Petrol,Manual,₹4.26 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2018,"82,119kms",Petrol,Manual,₹4.01 Lakh,ahmedabad
+Maruti,Maruti SwiftLXI Option,2015,"77,434kms",Petrol,Manual,₹3.48 Lakh,ahmedabad
+Hyundai,Hyundai SantroSportz,2020,"98,893kms",Petrol,Manual,₹3.33 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2019,"96,067kms",Petrol,Manual,₹4.36 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2018,"30,514kms",Petrol,Manual,₹3.20 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2017,"69,784kms",Petrol,Manual,₹3.36 Lakh,ahmedabad
+Maruti,Maruti SwiftLXI Option,2015,"77,434kms",Petrol,Manual,₹3.48 Lakh,ahmedabad
+Tata,Tata TiagoXZA Plus,2020,"70,575kms",Petrol,Automatic,₹4.06 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXI Opt,2022,"29,405kms",Petrol,Manual,₹3.48 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI 1.2,2016,"18,191kms",Petrol,Manual,₹3.90 Lakh,ahmedabad
+Honda,Honda Amaze 2nd GenS,2016,"13,295kms",Petrol,Manual,₹4.41 Lakh,ahmedabad
+Maruti,Maruti Ignis1.2 Delta BSIV,2018,"33,163kms",Petrol,Manual,₹4 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2018,"35,771kms",Petrol,Manual,₹4.11 Lakh,ahmedabad
+Tata,Tata TigorXZ,2022,"26,406kms",Petrol,Manual,₹5.44 Lakh,ahmedabad
+Maruti,Maruti SwiftLXi,2014,"48,878kms",Petrol,Manual,₹3.48 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2016,"54,327kms",Petrol,Manual,₹4.05 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2018,"90,609kms",Petrol,Manual,₹3.93 Lakh,ahmedabad
+Skoda,Skoda Rapid1.0 TSI Ambition AT,2021,"1,06,339kms",Petrol,Automatic,₹4.35 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz Option AT,2018,"39,647kms",Petrol,Automatic,₹4.62 Lakh,ahmedabad
+Hyundai,Hyundai SantroAsta,2019,"72,843kms",Petrol,Manual,₹3.93 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2018,"64,546kms",Petrol,Manual,₹4.35 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2016,"52,660kms",Petrol,Manual,₹3.93 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz Option,2017,"74,031kms",Petrol,Manual,₹4.12 Lakh,ahmedabad
+Honda,Honda Amaze 2nd GenS,2016,"1,10,692kms",Petrol,Manual,₹3.35 Lakh,ahmedabad
+Honda,Honda BrioVX,2015,"43,705kms",Petrol,Manual,₹3.12 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI 1.2,2016,"49,563kms",Petrol,Manual,₹3.36 Lakh,ahmedabad
+Skoda,Skoda Rapid1.0 TSI Onyx,2021,"87,562kms",Petrol,Manual,₹5.78 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2018,"90,609kms",Petrol,Manual,₹3.93 Lakh,ahmedabad
+Skoda,Skoda Rapid1.0 TSI Ambition AT,2021,"1,06,339kms",Petrol,Automatic,₹4.35 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz Option AT,2018,"39,647kms",Petrol,Automatic,₹4.62 Lakh,ahmedabad
+Hyundai,Hyundai SantroAsta,2019,"72,843kms",Petrol,Manual,₹3.93 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2018,"64,546kms",Petrol,Manual,₹4.35 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2016,"52,660kms",Petrol,Manual,₹3.93 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz Option,2017,"74,031kms",Petrol,Manual,₹4.12 Lakh,ahmedabad
+Hyundai,Hyundai i20Sportz 1.2,2017,"64,079kms",Petrol,Manual,₹3.76 Lakh,ahmedabad
+Mahindra,Mahindra XUV300W8 BSIV,2019,"1,34,003kms",Petrol,Manual,₹5.73 Lakh,ahmedabad
+Tata,Tata AltrozXT Diesel BSVI,2021,"75,000kms",Diesel,Manual,₹4.99 Lakh,ahmedabad
+Maruti,Maruti Celerio XVXI BSIV,2018,"71,000kms",Petrol,Manual,₹3.45 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 CRDi Sportz,2016,"91,444kms",Diesel,Manual,₹3.50 Lakh,ahmedabad
+Honda,Honda Cityi DTec SV,2016,"78,000kms",Diesel,Manual,₹3.55 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10Sportz,2017,"60,000kms",Petrol,Manual,₹4.10 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10Asta,2015,"96,000kms",Petrol,Manual,₹3.75 Lakh,ahmedabad
+Hyundai,Hyundai i20 Active1.4 SX,2015,"75,000kms",Diesel,Manual,₹4.90 Lakh,ahmedabad
+Renault,Renault Duster110PS Diesel RxL,2015,"63,000kms",Diesel,Manual,₹4.45 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI BS IV,2017,"77,000kms",Petrol,Manual,₹3.37 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10 NiosMagna,2021,"71,000kms",Petrol,Manual,₹4.95 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10Asta,2015,"96,000kms",Petrol,Manual,₹3.75 Lakh,ahmedabad
+Hyundai,Hyundai i20 Active1.4 SX,2015,"75,000kms",Diesel,Manual,₹4.90 Lakh,ahmedabad
+Renault,Renault Duster110PS Diesel RxL,2015,"63,000kms",Diesel,Manual,₹4.45 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI BS IV,2017,"77,000kms",Petrol,Manual,₹3.37 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10 NiosMagna,2021,"71,000kms",Petrol,Manual,₹4.95 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10Sportz,2017,"68,900kms",Petrol,Manual,₹4.25 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10Magna,2016,"70,000kms",Petrol,Manual,₹4.01 Lakh,ahmedabad
+Maruti,Maruti Swift Dzire Tour1.2 S STD CNG Opt,2018,"1,39,000kms",CNG,Manual,₹4.50 Lakh,ahmedabad
+Maruti,Maruti SwiftVXI,2020,"90,000kms",Petrol,Manual,₹4.55 Lakh,ahmedabad
+Mahindra,Mahindra XUV500W8 2WD,2015,"1,23,000kms",Diesel,Manual,₹4.95 Lakh,ahmedabad
+Honda,Honda AmazeS Petrol,2021,"46,000kms",Petrol,Manual,₹5.75 Lakh,ahmedabad
+Renault,Renault KigerRXT,2023,"13,000kms",Petrol,Manual,₹5.75 Lakh,ahmedabad
+Toyota,Toyota Innova2.5 E,2009,"1,30,000kms",Diesel,Manual,₹3.15 Lakh,ahmedabad
+Volkswagen,Volkswagen Polo1.2 MPI Comfortline,2015,"65,000kms",Petrol,Manual,₹3.60 Lakh,ahmedabad
+Tata,Tata Tiago1.2 Revotron XE,2018,"31,000kms",Petrol,Manual,₹3.90 Lakh,ahmedabad
+Maruti,Maruti IgnisSigma BSVI,2022,"33,000kms",Petrol,Manual,₹4.25 Lakh,ahmedabad
+Volkswagen,Volkswagen PoloGT TSI,2016,"68,000kms",Petrol,Automatic,₹5.50 Lakh,ahmedabad
+Maruti,Maruti BalenoDelta,2022,"71,000kms",Petrol,Manual,₹5.11 Lakh,ahmedabad
+Maruti,Maruti SwiftVXI,2018,"62,000kms",Petrol,Manual,₹4.75 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10 NiosAMT Sportz,2019,"47,000kms",Petrol,Automatic,₹5.35 Lakh,ahmedabad
+Volkswagen,Volkswagen PoloGT TSI,2016,"68,000kms",Petrol,Automatic,₹5.50 Lakh,ahmedabad
+Toyota,Toyota Innova2.5 E,2009,"1,30,000kms",Diesel,Manual,₹3.15 Lakh,ahmedabad
+Maruti,Maruti BalenoDelta,2022,"71,000kms",Petrol,Manual,₹5.11 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10 NiosAMT Sportz,2019,"47,000kms",Petrol,Automatic,₹5.35 Lakh,ahmedabad
+Ford,Ford Ecosport1.5 Petrol Titanium Plus BSIV,2016,"75,000kms",Petrol,Manual,₹3.50 Lakh,ahmedabad
+Maruti,Maruti SwiftVXI,2018,"62,000kms",Petrol,Manual,₹4.75 Lakh,ahmedabad
+Volkswagen,Volkswagen Taigun1.0 Topline AT,2022,"59,360kms",Petrol,Automatic,₹11.60 Lakh,ahmedabad
+Hyundai,Hyundai VenueSX Turbo Executive,2019,"47,446kms",Diesel,Manual,₹7.44 Lakh,ahmedabad
+Hyundai,Hyundai i20Asta 1.2,2024,"7,880kms",Petrol,Manual,₹8.39 Lakh,ahmedabad
+MG,MG HectorSharp CVT,2021,"61,094kms",Petrol,Automatic,₹9.45 Lakh,ahmedabad
+Kia,Kia SeltosGTX Plus,2020,"70,565kms",Petrol,Manual,₹8.42 Lakh,ahmedabad
+Hyundai,Hyundai VenueSX Opt Turbo DCT Special Edition,2022,"48,902kms",Petrol,Automatic,₹8.80 Lakh,ahmedabad
+Honda,Honda CR-V2.0 2WD,2017,"1,14,633kms",Petrol,Manual,₹7.75 Lakh,ahmedabad
+Honda,Honda City1.5 V MT Exclusive,2023,"49,515kms",Petrol,Manual,₹9.19 Lakh,ahmedabad
+Maruti,Maruti SwiftVXI BSVI,2022,"54,000kms",Petrol,Manual,₹6.50 Lakh,ahmedabad
+Toyota,Toyota GlanzaG,2023,"50,000kms",Petrol,Manual,₹6.90 Lakh,ahmedabad
+Hyundai,Hyundai VernaCRDi 1.6 AT SX Plus,2018,"90,000kms",Diesel,Automatic,₹7.45 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVXI BSVI,2021,"56,000kms",Petrol,Manual,₹6.35 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.6 CRDi SX Option,2017,"72,000kms",Diesel,Manual,₹7.90 Lakh,ahmedabad
+Jeep,Jeep Compass2.0 Limited,2017,"51,000kms",Diesel,Manual,₹7.75 Lakh,ahmedabad
+Jeep,Jeep Compass2.0 Limited,2017,"51,000kms",Diesel,Manual,₹7.75 Lakh,ahmedabad
+Kia,Kia SonetGTX Plus Diesel AT BSVI,2020,"76,000kms",Diesel,Automatic,₹8.90 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.6 VTVT AT SX Plus,2018,"1,04,107kms",Petrol,Automatic,₹6.75 Lakh,ahmedabad
+Hyundai,Hyundai Tucson2.0 Dual VTVT 2WD AT GL,2017,"70,000kms",Petrol,Automatic,₹7.51 Lakh,ahmedabad
+Honda,Honda Cityi VTEC CVT VX,2017,"55,000kms",Petrol,Automatic,₹6.90 Lakh,ahmedabad
+Tata,Tata TigorXZ Plus CNG,2023,"65,000kms",CNG,Manual,₹6.25 Lakh,ahmedabad
+Toyota,Toyota YarisVX CVT BSIV,2018,"31,000kms",Petrol,Automatic,₹7.50 Lakh,ahmedabad
+Hyundai,Hyundai VernaCRDi 1.6 AT SX Plus,2018,"90,000kms",Diesel,Automatic,₹7.45 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.4 CRDi S Plus,2017,"65,000kms",Diesel,Manual,₹7.65 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVXI BSVI,2021,"56,000kms",Petrol,Manual,₹6.35 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.6 CRDi SX Option,2017,"72,000kms",Diesel,Manual,₹7.90 Lakh,ahmedabad
+Maruti,Maruti SwiftZXI,2023,"65,000kms",Petrol,Manual,₹6.50 Lakh,ahmedabad
+Toyota,Toyota GlanzaG,2023,"50,000kms",Petrol,Manual,₹6.90 Lakh,ahmedabad
+Toyota,Toyota YarisVX CVT BSIV,2018,"56,000kms",Petrol,Automatic,₹7.50 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.4 E Plus CRDi,2018,"65,000kms",Diesel,Manual,₹7.90 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.4 E Plus,2019,"81,000kms",Diesel,Manual,₹7.99 Lakh,ahmedabad
+Toyota,Toyota Innova Crysta2.4 G 8Str,2016,"97,672kms",Diesel,Manual,₹12.54 Lakh,ahmedabad
+Tata,Tata CurvvAccomplished S DCA,2025,"3,300kms",Petrol,Automatic,₹15.75 Lakh,ahmedabad
+MG,2024MG Hector PlusSavvy Pro CVT  -2025,2023,"19,000kms",Petrol,Automatic,₹15.75 Lakh,ahmedabad
+Toyota,Toyota Innova Crysta2.4 GX 8Str,2018,"1,06,885kms",Diesel,Manual,₹13.68 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.4 E Plus,2019,"81,000kms",Diesel,Manual,₹7.99 Lakh,ahmedabad
+Toyota,Toyota Innova Crysta2.4 G 8Str,2016,"97,672kms",Diesel,Manual,₹12.54 Lakh,ahmedabad
+Tata,Tata CurvvAccomplished S DCA,2025,"3,300kms",Petrol,Automatic,₹15.75 Lakh,ahmedabad
+MG,2024MG Hector PlusSavvy Pro CVT  -2025,2023,"19,000kms",Petrol,Automatic,₹15.75 Lakh,ahmedabad
+Toyota,Toyota Innova Crysta2.4 GX 8Str,2018,"1,06,885kms",Diesel,Manual,₹13.68 Lakh,ahmedabad
+Toyota,Toyota Innova Crysta2.4 G MT BSIV,2018,"63,000kms",Diesel,Manual,₹14 Lakh,ahmedabad
+Volkswagen,Volkswagen Taigun1.5 TSI GT Plus DSG,2022,"86,513kms",Petrol,Automatic,₹11.84 Lakh,ahmedabad
+Hyundai,Hyundai VernaSX Turbo DCT,2023,"38,068kms",Petrol,Automatic,₹12.62 Lakh,ahmedabad
+Hyundai,Hyundai VernaSX Turbo DCT,2023,"72,612kms",Petrol,Automatic,₹11.59 Lakh,ahmedabad
+Hyundai,Hyundai VernaSX Opt Turbo,2021,"48,402kms",Petrol,Automatic,₹10.70 Lakh,ahmedabad
+Tata,2022Tata HarrierXT plus  -2022,2020,"66,992kms",Diesel,Manual,₹14.25 Lakh,ahmedabad
+Volkswagen,Volkswagen VirtusHighline,2023,"35,842kms",Petrol,Manual,₹10.07 Lakh,ahmedabad
+Volkswagen,Volkswagen VirtusGT Plus DSG ES,2022,"40,748kms",Petrol,Automatic,₹12.62 Lakh,ahmedabad
+Honda,Honda CityCVT,2023,"9,684kms",Petrol,Automatic,₹14.80 Lakh,ahmedabad
+Volkswagen,Volkswagen PoloGT TSI,2015,"73,000kms",Petrol,Automatic,₹4.75 Lakh,ahmedabad
+Honda,Honda CityVX MT,2021,"63,656kms",Petrol,Manual,₹8.02 Lakh,ahmedabad
+Maruti,Maruti S-PressoVXi Plus Opt AT,2023,"56,489kms",Petrol,Automatic,₹4.68 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2017,"40,710kms",Petrol,Manual,₹4.16 Lakh,ahmedabad
+Honda,Honda CityCorporate Edition,2012,"57,575kms",Petrol,Manual,₹3.25 Lakh,ahmedabad
+Honda,Honda AmazeS Petrol BSIV,2018,"87,764kms",Petrol,Manual,₹4.50 Lakh,ahmedabad
+Honda,Honda CityVX MT,2021,"63,656kms",Petrol,Manual,₹8.02 Lakh,ahmedabad
+Maruti,Maruti S-PressoVXi Plus Opt AT,2023,"56,489kms",Petrol,Automatic,₹4.68 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2017,"40,710kms",Petrol,Manual,₹4.16 Lakh,ahmedabad
+Honda,Honda CityCorporate Edition,2012,"57,575kms",Petrol,Manual,₹3.25 Lakh,ahmedabad
+Honda,Honda AmazeS Petrol BSIV,2018,"87,764kms",Petrol,Manual,₹4.50 Lakh,ahmedabad
+Tata,Tata TiagoXT Rhythm BSVI,2023,"46,000kms",Petrol,Manual,₹4.85 Lakh,ahmedabad
+Honda,Honda Amaze 2nd GenE,2015,"32,218kms",Petrol,Manual,₹3.62 Lakh,ahmedabad
+Honda,Honda CityV,2023,"17,817kms",Petrol,Manual,₹9.87 Lakh,ahmedabad
+Honda,Honda Cityi-VTEC CVT V,2017,"80,707kms",Petrol,Automatic,₹5.09 Lakh,ahmedabad
+Maruti,Maruti Celerio XAMT VXI BSIV,2018,"60,000kms",Petrol,Automatic,₹3.55 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI BS IV,2016,"55,000kms",Petrol,Manual,₹3.25 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI BS IV,2015,"51,000kms",Petrol,Manual,₹3.15 Lakh,ahmedabad
+Mahindra,Mahindra XUV300W6 BSIV,2020,"99,728kms",Petrol,Manual,₹4.91 Lakh,ahmedabad
+Hyundai,Hyundai i20Sportz 1.4 CRDi,2014,"2,02,178kms",Diesel,Manual,₹4.50 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi,2016,"1,04,041kms",Petrol,Manual,₹2.22 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10Asta,2014,"47,125kms",Petrol,Manual,₹3.20 Lakh,ahmedabad
+Hyundai,Hyundai i20Asta 1.2,2016,"35,962kms",Petrol,Manual,₹4.20 Lakh,ahmedabad
+Mahindra,Mahindra XUV500W10 AWD,2017,"83,342kms",Diesel,Manual,₹6.25 Lakh,ahmedabad
+Hyundai,Hyundai i20Asta Turbo DCT DT,2021,"50,382kms",Petrol,Automatic,₹6.35 Lakh,ahmedabad
+Kia,Kia CarensLuxury Plus Diesel iMT BSVI,2022,"92,716kms",Diesel,Automatic,₹11.72 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10Asta,2014,"47,125kms",Petrol,Manual,₹3.20 Lakh,ahmedabad
+Hyundai,Hyundai i20Asta 1.2,2016,"35,962kms",Petrol,Manual,₹4.20 Lakh,ahmedabad
+Mahindra,Mahindra XUV500W10 AWD,2017,"83,342kms",Diesel,Manual,₹6.25 Lakh,ahmedabad
+Hyundai,Hyundai i20Asta Turbo DCT DT,2021,"50,382kms",Petrol,Automatic,₹6.35 Lakh,ahmedabad
+Kia,Kia CarensLuxury Plus Diesel iMT BSVI,2022,"92,716kms",Diesel,Automatic,₹11.72 Lakh,ahmedabad
+Hyundai,Hyundai Verna1.6 VTVT,2015,"1,04,380kms",Petrol,Manual,₹5.05 Lakh,ahmedabad
+Maruti,Maruti ErtigaZXI AT,2021,"62,000kms",Petrol,Automatic,₹9.25 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVXI,2016,"45,000kms",Petrol,Manual,₹4.50 Lakh,ahmedabad
+Maruti,Maruti CiazAT ZXi,2015,"65,000kms",Petrol,Automatic,₹4.25 Lakh,ahmedabad
+Honda,Honda Cityi VTEC CVT VX,2015,"53,000kms",Petrol,Automatic,₹5.25 Lakh,ahmedabad
+Tata,Tata Nexon1.5 Revotorq XZ,2021,"1,21,481kms",Diesel,Manual,₹50.55 Lakh,ahmedabad
+Maruti,Maruti XL6Zeta,2020,"78,000kms",Petrol,Manual,₹8.50 Lakh,ahmedabad
+Hyundai,Hyundai i201.2 Asta Option,2015,"81,180kms",Petrol,Manual,₹4.48 Lakh,ahmedabad
+Maruti,Maruti ErtigaSHVS ZDI,2017,"74,921kms",Diesel,Manual,₹7.09 Lakh,ahmedabad
+Hyundai,Hyundai i20Asta Opt IVT,2022,"26,669kms",Petrol,Automatic,₹8.13 Lakh,ahmedabad
+Honda,Honda Jazz1.2 SV i VTEC,2017,"37,272kms",Petrol,Manual,₹3.70 Lakh,ahmedabad
+Hyundai,Hyundai i20Asta 1.2,2015,"49,278kms",Petrol,Manual,₹3.74 Lakh,ahmedabad
+Honda,Honda AmazeS Petrol BSIV,2018,"80,731kms",Petrol,Manual,₹3.62 Lakh,ahmedabad
+Maruti,Maruti Vitara BrezzaLXI,2021,"66,000kms",Petrol,Manual,₹6.50 Lakh,ahmedabad
+Renault,Renault KWIDClimber 1.0 MT,2017,"47,705kms",Petrol,Manual,₹3.25 Lakh,ahmedabad
+Hyundai,Hyundai i201.2 Asta Option,2015,"81,180kms",Petrol,Manual,₹4.48 Lakh,ahmedabad
+Maruti,Maruti ErtigaSHVS ZDI,2017,"74,921kms",Diesel,Manual,₹7.09 Lakh,ahmedabad
+Hyundai,Hyundai i20Asta Opt IVT,2022,"26,669kms",Petrol,Automatic,₹8.13 Lakh,ahmedabad
+Maruti,Maruti Vitara BrezzaLXI,2021,"66,000kms",Petrol,Manual,₹6.50 Lakh,ahmedabad
+Renault,Renault KWIDClimber 1.0 MT,2017,"47,705kms",Petrol,Manual,₹3.25 Lakh,ahmedabad
+Hyundai,Hyundai i20Magna Optional 1.2,2013,"55,859kms",Petrol,Manual,₹2.25 Lakh,ahmedabad
+Hyundai,Hyundai i10Magna 1.1L,2014,"92,000kms",Petrol,Manual,₹2.25 Lakh,ahmedabad
+Jeep,Jeep Compass2.0 Sport Plus,2020,"52,000kms",Diesel,Manual,₹9.25 Lakh,ahmedabad
+Mahindra,Mahindra TharLX 4WD Convert Top AT BSVI,2021,"36,000kms",Petrol,Automatic,₹9.50 Lakh,ahmedabad
+Tata,Tata AltrozXT,2023,"24,000kms",Petrol,Manual,₹6.11 Lakh,ahmedabad
+Maruti,Maruti BalenoAlpha Diesel,2016,"90,000kms",Diesel,Manual,₹4.54 Lakh,ahmedabad
+Maruti,Maruti CiazDelta BSIV,2018,"1,01,049kms",Petrol,Manual,₹4.59 Lakh,ahmedabad
+Maruti,Maruti Vitara BrezzaZXI Plus Dual Tone,2016,"87,041kms",Petrol,Manual,₹6.63 Lakh,ahmedabad
+Skoda,Skoda Slavia1.0 TSI Style,2022,"48,909kms",Petrol,Manual,₹10.04 Lakh,ahmedabad
+Maruti,Maruti Baleno1.2 CVT Zeta,2017,"85,745kms",Petrol,Automatic,₹3.94 Lakh,ahmedabad
+Hyundai,Hyundai i20Asta Opt Turbo DCT BSVI,2022,"37,000kms",Petrol,Automatic,₹8.50 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2019,"65,000kms",Petrol,Manual,₹4.75 Lakh,ahmedabad
+Toyota,Toyota Corolla Altis1.8 G,2018,"85,000kms",Petrol,Manual,₹7.50 Lakh,ahmedabad
+Mahindra,Mahindra KUV 100mFALCON G80 K2,2017,"70,000kms",Petrol,Manual,₹2.75 Lakh,ahmedabad
+Hyundai,Hyundai TucsonSignature Diesel AT BSVI,2022,"41,000kms",Diesel,Automatic,₹28.50 Lakh,ahmedabad
+Hyundai,Hyundai i20Asta Opt Turbo DCT BSVI,2022,"37,000kms",Petrol,Automatic,₹8.50 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2019,"65,000kms",Petrol,Manual,₹4.75 Lakh,ahmedabad
+Toyota,Toyota Corolla Altis1.8 G,2018,"85,000kms",Petrol,Manual,₹7.50 Lakh,ahmedabad
+Mahindra,Mahindra KUV 100mFALCON G80 K2,2017,"70,000kms",Petrol,Manual,₹2.75 Lakh,ahmedabad
+Hyundai,Hyundai TucsonSignature Diesel AT BSVI,2022,"41,000kms",Diesel,Automatic,₹28.50 Lakh,ahmedabad
+Hyundai,Hyundai i201.2 Spotz,2018,"95,311kms",Petrol,Manual,₹3.56 Lakh,ahmedabad
+Maruti,Maruti CelerioZXI AMT,2017,"1,06,997kms",Petrol,Automatic,₹3 Lakh,ahmedabad
+Hyundai,Hyundai VenueSX Opt Turbo DCT Special Edition,2021,"32,803kms",Petrol,Automatic,₹7.58 Lakh,ahmedabad
+Hyundai,Hyundai VernaSX IVT,2023,"48,000kms",Petrol,Automatic,₹10.50 Lakh,ahmedabad
+Maruti,Maruti Baleno1.2 CVT Delta,2017,"66,000kms",Petrol,Automatic,₹4.40 Lakh,ahmedabad
+Hyundai,Hyundai i20 Active1.2 SX,2016,"68,000kms",Petrol,Manual,₹4.15 Lakh,ahmedabad
+Toyota,Toyota Innova Crysta2.4 VX 8 STR,2022,"96,000kms",Diesel,Manual,₹20.50 Lakh,ahmedabad
+Tata,Tata Nexon1.2 Revotron XM,2018,"93,655kms",Petrol,Manual,₹3.95 Lakh,ahmedabad
+Volkswagen,Volkswagen VirtusTopline,2023,"59,269kms",Petrol,Manual,₹10.62 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2018,"18,449kms",Petrol,Manual,₹4.32 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Magna AT,2018,"79,336kms",Petrol,Automatic,₹3.75 Lakh,ahmedabad
+Hyundai,Hyundai i201.2 Asta Option,2017,"1,31,406kms",Petrol,Manual,₹3.96 Lakh,ahmedabad
+Hyundai,Hyundai VenueS Opt Plus,2025,"5,000kms",Petrol,Manual,₹8.90 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI BS IV,2014,"66,371kms",Petrol,Manual,₹2.36 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI BSVI,2013,"89,719kms",Petrol,Manual,₹2.40 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Magna AT,2018,"79,336kms",Petrol,Automatic,₹3.75 Lakh,ahmedabad
+Hyundai,Hyundai i201.2 Asta Option,2017,"1,31,406kms",Petrol,Manual,₹3.96 Lakh,ahmedabad
+Hyundai,Hyundai VenueS Opt Plus,2025,"5,000kms",Petrol,Manual,₹8.90 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI BS IV,2014,"66,371kms",Petrol,Manual,₹2.36 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI BSVI,2013,"89,719kms",Petrol,Manual,₹2.40 Lakh,ahmedabad
+Datsun,Datsun GOT,2015,"1,22,106kms",Petrol,Manual,₹1.17 Lakh,ahmedabad
+Jeep,Jeep Compass1.4 Limited Plus BSIV,2019,"43,000kms",Petrol,Automatic,₹10.90 Lakh,ahmedabad
+Jeep,Jeep Compass1.4 Model S Opt AT,2021,"50,000kms",Petrol,Automatic,₹14.75 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi,2016,"68,980kms",Petrol,Manual,₹2.40 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi,2017,"72,534kms",Petrol,Manual,₹2.65 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXI,2014,"1,10,309kms",Petrol,Manual,₹1.50 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi,2018,"43,117kms",Petrol,Manual,₹2.89 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi,2013,"79,933kms",Petrol,Manual,₹2.03 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi,2015,"68,926kms",Petrol,Manual,₹2.34 Lakh,ahmedabad
+Maruti,Maruti Swift1.2 VXI BSIV,2011,"57,491kms",Petrol,Manual,₹2.66 Lakh,ahmedabad
+Maruti,Maruti Alto K10VXI,2014,"59,340kms",Petrol,Manual,₹1.81 Lakh,ahmedabad
+Hyundai,Hyundai i20Sportz 1.2,2013,"47,227kms",Petrol,Manual,₹2.80 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi,2018,"48,554kms",Petrol,Manual,₹2.60 Lakh,ahmedabad
+Tata,Tata ZestRevotron 1.2T XM,2014,"89,294kms",Petrol,Manual,₹1.82 Lakh,ahmedabad
+Renault,Renault KWIDClimber 1.0 AMT,2017,"43,063kms",Petrol,Automatic,₹2.16 Lakh,ahmedabad
+Maruti,Maruti Alto K10VXI,2014,"59,340kms",Petrol,Manual,₹1.81 Lakh,ahmedabad
+Hyundai,Hyundai i20Sportz 1.2,2013,"47,227kms",Petrol,Manual,₹2.80 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi,2018,"48,554kms",Petrol,Manual,₹2.60 Lakh,ahmedabad
+Tata,Tata ZestRevotron 1.2T XM,2014,"89,294kms",Petrol,Manual,₹1.82 Lakh,ahmedabad
+Renault,Renault KWIDClimber 1.0 AMT,2017,"43,063kms",Petrol,Automatic,₹2.16 Lakh,ahmedabad
+Hyundai,Hyundai EONMagna,2017,"54,325kms",Petrol,Manual,₹2.87 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI BS IV,2015,"57,629kms",Petrol,Manual,₹2.46 Lakh,ahmedabad
+Maruti,Maruti Alto K10VXI,2017,"56,950kms",Petrol,Manual,₹2.66 Lakh,ahmedabad
+Honda,Honda BrioS MT,2013,"52,033kms",Petrol,Manual,₹2.79 Lakh,ahmedabad
+Hyundai,Hyundai EONEra Plus,2017,"39,805kms",Petrol,Manual,₹1.98 Lakh,ahmedabad
+Maruti,Maruti Ignis1.2 Delta BSIV,2018,"1,33,249kms",Petrol,Manual,₹2.54 Lakh,ahmedabad
+Honda,Honda AmazeS i-VTEC,2013,"1,05,352kms",Petrol,Manual,₹2.73 Lakh,ahmedabad
+Honda,Honda BrioE MT,2015,"69,450kms",Petrol,Manual,₹2.07 Lakh,ahmedabad
+Hyundai,Hyundai Xcent1.2 Kappa S,2015,"1,10,613kms",Petrol,Manual,₹2.32 Lakh,ahmedabad
+Maruti,Maruti Alto 800VXI,2018,"60,564kms",Petrol,Manual,₹2.92 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi,2017,"48,377kms",Petrol,Manual,₹2.75 Lakh,ahmedabad
+Honda,Honda BrioS MT,2015,"56,503kms",Petrol,Manual,₹2.39 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi,2016,"63,968kms",Petrol,Manual,₹2.26 Lakh,ahmedabad
+Hyundai,Hyundai SantroMagna BSIV,2019,"55,760kms",Petrol,Manual,₹2.55 Lakh,ahmedabad
+Honda,Honda BrioS MT,2014,"67,673kms",Petrol,Manual,₹2.05 Lakh,ahmedabad
+Maruti,Maruti Swift1.2 VXI BSIV,2011,"57,491kms",Petrol,Manual,₹2.66 Lakh,ahmedabad
+Maruti,Maruti Alto K10VXI,2014,"59,340kms",Petrol,Manual,₹1.81 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi,2016,"63,968kms",Petrol,Manual,₹2.26 Lakh,ahmedabad
+Hyundai,Hyundai SantroMagna BSIV,2019,"55,760kms",Petrol,Manual,₹2.55 Lakh,ahmedabad
+Honda,Honda BrioS MT,2014,"67,673kms",Petrol,Manual,₹2.05 Lakh,ahmedabad
+Hyundai,Hyundai i10Magna 1.1,2015,"99,286kms",Petrol,Manual,₹2.67 Lakh,ahmedabad
+Renault,Renault KWID1.0 RXT Opt,2017,"35,874kms",Petrol,Manual,₹2.52 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI BS IV,2013,"80,259kms",Petrol,Manual,₹1.83 Lakh,ahmedabad
+Honda,Honda BrioVX,2017,"1,01,807kms",Petrol,Manual,₹2.97 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi,2015,"59,095kms",Petrol,Manual,₹2.25 Lakh,ahmedabad
+Hyundai,Hyundai EONSportz,2018,"25,376kms",Petrol,Manual,₹2.90 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi,2017,"1,09,527kms",Petrol,Manual,₹2.17 Lakh,ahmedabad
+Maruti,Maruti Alto 800VXI,2016,"64,348kms",Petrol,Manual,₹2.43 Lakh,ahmedabad
+Toyota,Toyota EtiosG,2011,"82,000kms",Petrol,Manual,₹2.40 Lakh,ahmedabad
+Volkswagen,Volkswagen Polo1.2 MPI Comfortline,2016,"1,20,000kms",Petrol,Manual,₹2.99 Lakh,ahmedabad
+Toyota,Toyota EtiosG,2011,"55,000kms",Petrol,Manual,₹2.65 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI BS IV,2015,"64,080kms",Petrol,Manual,₹2.90 Lakh,ahmedabad
+Honda,Honda BrioS MT,2015,"72,228kms",Petrol,Manual,₹2.90 Lakh,ahmedabad
+Honda,Honda BrioS MT,2016,"71,000kms",Petrol,Manual,₹2.25 Lakh,ahmedabad
+Mahindra,Mahindra KUV 100mFALCON G80 K6,2017,"56,000kms",Petrol,Manual,₹2.55 Lakh,ahmedabad
+Toyota,Toyota EtiosG,2011,"55,000kms",Petrol,Manual,₹2.65 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI BS IV,2015,"64,080kms",Petrol,Manual,₹2.90 Lakh,ahmedabad
+Honda,Honda BrioS MT,2015,"72,228kms",Petrol,Manual,₹2.90 Lakh,ahmedabad
+Honda,Honda BrioS MT,2016,"71,000kms",Petrol,Manual,₹2.25 Lakh,ahmedabad
+Mahindra,Mahindra KUV 100mFALCON G80 K6,2017,"56,000kms",Petrol,Manual,₹2.55 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXI,2018,"57,000kms",Petrol,Manual,₹2.60 Lakh,ahmedabad
+Hyundai,Hyundai i10Era,2012,"70,000kms",Petrol,Manual,₹2.10 Lakh,ahmedabad
+Hyundai,Hyundai i201.4 CRDi Sportz,2011,"69,000kms",Diesel,Manual,₹1.75 Lakh,ahmedabad
+Hyundai,Hyundai i10Magna 1.1 iTech SE,2015,"68,000kms",Petrol,Manual,₹2.85 Lakh,ahmedabad
+Hyundai,Hyundai i10Sportz,2009,"72,000kms",Petrol,Manual,₹1.90 Lakh,ahmedabad
+Honda,Honda Jazz1.2 VX i VTEC,2016,"48,000kms",Petrol,Manual,₹3 Lakh,ahmedabad
+Hyundai,Hyundai i10Era,2012,"58,000kms",Petrol,Manual,₹1.75 Lakh,ahmedabad
+Maruti,Maruti Wagon R StingrayVXI,2014,"70,000kms",Petrol,Manual,₹2 Lakh,ahmedabad
+Mahindra,Mahindra XUV300W8 Diesel BSVI,2021,"37,334kms",Diesel,Manual,₹8.19 Lakh,ahmedabad
+Toyota,Toyota Innova2.5 GX (Diesel) 7 Seater,2013,"85,000kms",Diesel,Manual,₹7 Lakh,ahmedabad
+Honda,Honda JazzVX CVT,2018,"56,000kms",Petrol,Automatic,₹5.75 Lakh,ahmedabad
+Mahindra,Mahindra XUV300W8 Option BSVI,2019,"62,977kms",Petrol,Manual,₹6.48 Lakh,ahmedabad
+Honda,Honda Amaze 2nd GenE,2017,"81,162kms",Petrol,Manual,₹3.44 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2014,"75,556kms",Petrol,Manual,₹3.59 Lakh,ahmedabad
+Maruti,Maruti Baleno1.2 CVT Alpha,2019,"75,860kms",Petrol,Automatic,₹4.58 Lakh,ahmedabad
+Honda,Honda JazzVX CVT,2018,"56,000kms",Petrol,Automatic,₹5.75 Lakh,ahmedabad
+Renault,Renault KWID1.0 RXT Opt,2021,"1,01,063kms",Petrol,Manual,₹3.28 Lakh,ahmedabad
+Nissan,Nissan MicraXV CVT,2016,"65,751kms",Petrol,Automatic,₹3.37 Lakh,ahmedabad
+Honda,Honda WR-Vi-VTEC VX,2018,"81,998kms",Petrol,Manual,₹4.84 Lakh,ahmedabad
+Hyundai,Hyundai i201.2 Asta Option,2016,"60,522kms",Petrol,Manual,₹4.75 Lakh,ahmedabad
+Tata,Tata TiagoXZ Plus,2021,"53,124kms",Petrol,Manual,₹4.18 Lakh,ahmedabad
+Honda,Honda AmazeS i-VTEC,2015,"36,806kms",Petrol,Manual,₹3.56 Lakh,ahmedabad
+Maruti,Maruti CelerioZXI,2016,"67,702kms",Petrol,Manual,₹3.05 Lakh,ahmedabad
+Honda,Honda CityZX MT,2023,"8,873kms",Petrol,Manual,₹15.25 Lakh,ahmedabad
+Hyundai,Hyundai i20Asta 1.2,2016,"65,000kms",Petrol,Manual,₹5.85 Lakh,ahmedabad
+Maruti,Maruti CelerioZXI AMT BSIV,2017,"60,500kms",Petrol,Automatic,₹3.95 Lakh,ahmedabad
+Hyundai,Hyundai Xcent1.2 VTVT E Plus,2018,"73,000kms",Petrol,Manual,₹4.85 Lakh,ahmedabad
+Honda,Honda AmazeE Petrol,2020,"37,000kms",Petrol,Manual,₹5.60 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI Optional,2017,"62,127kms",Petrol,Manual,₹3.65 Lakh,ahmedabad
+Volkswagen,Volkswagen Ameo1.0 MPI Comfortline,2019,"42,000kms",Petrol,Manual,₹3.75 Lakh,ahmedabad
+Honda,Honda Cityi VTEC V,2014,"62,000kms",Petrol,Manual,₹4.08 Lakh,ahmedabad
+Honda,Honda AmazeVX i-VTEC,2018,"70,000kms",Petrol,Manual,₹5.75 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI BS IV,2016,"75,000kms",Petrol,Manual,₹3.15 Lakh,ahmedabad
+Ford,Ford Endeavour3.2 Titanium AT 4X4,2019,"1,18,000kms",Diesel,Automatic,₹18.90 Lakh,ahmedabad
+Honda,Honda AmazeVX CVT Petrol,2016,"90,481kms",Petrol,Automatic,₹3.50 Lakh,ahmedabad
+Honda,Honda Cityi VTEC V,2014,"62,000kms",Petrol,Manual,₹4.08 Lakh,ahmedabad
+Honda,Honda AmazeVX i-VTEC,2018,"70,000kms",Petrol,Manual,₹5.75 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI BS IV,2016,"75,000kms",Petrol,Manual,₹3.15 Lakh,ahmedabad
+Ford,Ford Endeavour3.2 Titanium AT 4X4,2019,"1,18,000kms",Diesel,Automatic,₹18.90 Lakh,ahmedabad
+Honda,Honda AmazeVX CVT Petrol,2016,"90,481kms",Petrol,Automatic,₹3.50 Lakh,ahmedabad
+Renault,Renault KWID1.0 RXL BSVI,2022,"50,600kms",Petrol,Manual,₹3.25 Lakh,ahmedabad
+Maruti,Maruti BalenoDelta,2021,"54,000kms",Petrol,Manual,₹5.40 Lakh,ahmedabad
+Ford,Ford Endeavour3.2 Titanium AT 4X4,2018,"65,000kms",Diesel,Automatic,₹17.90 Lakh,ahmedabad
+Maruti,Maruti XL6Alpha AT,2021,"49,000kms",Petrol,Automatic,₹9.75 Lakh,ahmedabad
+Maruti,Maruti Baleno1.2 CVT Zeta,2017,"41,000kms",Petrol,Automatic,₹5.50 Lakh,ahmedabad
+Jeep,Jeep Compass1.4 Limited,2018,"41,000kms",Petrol,Automatic,₹8.50 Lakh,ahmedabad
+Tata,Tata HarrierXZA Plus AT BSVI,2022,"67,000kms",Diesel,Automatic,₹14.90 Lakh,ahmedabad
+Maruti,Maruti BrezzaZxi BSVI,2022,"31,000kms",Petrol,Manual,₹9.75 Lakh,ahmedabad
+Hyundai,Hyundai i201.2 Magna Executive,2018,"43,000kms",Petrol,Manual,₹4.90 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10Asta Option AT,2016,"43,000kms",Petrol,Automatic,₹4.90 Lakh,ahmedabad
+Maruti,Maruti Celerio XVXI BSIV,2018,"71,000kms",Petrol,Manual,₹3.45 Lakh,ahmedabad
+Honda,Honda Cityi VTEC CVT SV,2014,"40,310kms",Petrol,Automatic,₹3.20 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2019,"46,883kms",Petrol,Manual,₹4 Lakh,ahmedabad
+Maruti,Maruti Baleno1.2 Delta,2017,"68,000kms",Petrol,Manual,₹5.05 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI,2019,"48,700kms",Petrol,Manual,₹4.41 Lakh,ahmedabad
+Mahindra,Mahindra XUV300W8 Opt,2020,"35,286kms",Petrol,Manual,₹6.19 Lakh,ahmedabad
+Maruti,Maruti BalenoDelta Diesel,2018,"76,444kms",Diesel,Manual,₹4.53 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2015,"35,121kms",Petrol,Manual,₹3.87 Lakh,ahmedabad
+Renault,Renault KWID1.0 RXT Opt,2018,"54,177kms",Petrol,Manual,₹2.80 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2018,"1,11,736kms",Petrol,Manual,₹3.13 Lakh,ahmedabad
+Maruti,Maruti CelerioZXI,2016,"66,078kms",Petrol,Manual,₹3.37 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz Option,2017,"75,708kms",Petrol,Manual,₹4.31 Lakh,ahmedabad
+Maruti,Maruti DzireVXI,2019,"56,083kms",Petrol,Manual,₹5.41 Lakh,ahmedabad
+Tata,2021Tata TiagoXZ  -2022,2020,"54,320kms",Petrol,Manual,₹3.80 Lakh,ahmedabad
+Honda,Honda BrioVX,2015,"73,535kms",Petrol,Manual,₹3.30 Lakh,ahmedabad
+Maruti,Maruti Baleno1.2 CVT Alpha,2018,"94,538kms",Petrol,Automatic,₹4.67 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI,2018,"40,387kms",Petrol,Manual,₹3.77 Lakh,ahmedabad
+Honda,Honda City1.5 V MT Exclusive,2022,"25,224kms",Petrol,Manual,₹9.27 Lakh,ahmedabad
+Honda,Honda WR-Vi-VTEC S,2019,"46,105kms",Petrol,Manual,₹5.42 Lakh,ahmedabad
+Renault,Renault KigerRXZ,2023,"46,319kms",Petrol,Manual,₹6.09 Lakh,ahmedabad
+Renault,Renault KWIDRXL,2022,"33,178kms",Petrol,Manual,₹3.47 Lakh,ahmedabad
+Hyundai,Hyundai XcentPetrol,2018,"39,140kms",Petrol,Manual,₹5.25 Lakh,ahmedabad
+Hyundai,Hyundai VernaSX,2022,"67,085kms",Petrol,Manual,₹9.05 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2019,"48,753kms",Petrol,Manual,₹3.95 Lakh,ahmedabad
+Honda,Honda Cityi-VTEC CVT ZX,2019,"65,180kms",Petrol,Automatic,₹6.43 Lakh,ahmedabad
+Renault,Renault KWIDClimber 1.0 MT Opt BSIV,2020,"98,530kms",Petrol,Manual,₹2.55 Lakh,ahmedabad
+Renault,Renault Duster1.5 Petrol RXE,2018,"77,522kms",Petrol,Manual,₹4.05 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2018,"66,773kms",Petrol,Manual,₹3.73 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz Option AT,2018,"86,919kms",Petrol,Automatic,₹3.94 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2019,"45,238kms",Petrol,Manual,₹4.81 Lakh,ahmedabad
+Renault,Renault CapturPlatine Dual Tone Petrol,2018,"83,295kms",Petrol,Manual,₹4.41 Lakh,ahmedabad
+Maruti,Maruti BalenoZeta,2020,"62,577kms",Petrol,Manual,₹5.02 Lakh,ahmedabad
+Honda,Honda Cityi VTEC E,2015,"72,000kms",Petrol,Manual,₹4.90 Lakh,ahmedabad
+Maruti,Maruti Ignis1.2 Sigma BSIV,2018,"90,000kms",Petrol,Manual,₹3.10 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2016,"33,765kms",Petrol,Manual,₹4.27 Lakh,ahmedabad
+Hyundai,Hyundai VenueSX Opt Turbo DCT Special Edition,2021,"43,031kms",Petrol,Automatic,₹8.49 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2014,"74,501kms",Petrol,Manual,₹3.47 Lakh,ahmedabad
+Mahindra,Mahindra XUV300W8 Opt,2020,"35,286kms",Petrol,Manual,₹6.19 Lakh,ahmedabad
+Maruti,Maruti BalenoDelta Diesel,2018,"76,444kms",Diesel,Manual,₹4.53 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2015,"35,121kms",Petrol,Manual,₹3.87 Lakh,ahmedabad
+Renault,Renault KWID1.0 RXT Opt,2018,"54,177kms",Petrol,Manual,₹2.80 Lakh,ahmedabad
+Skoda,Skoda Slavia1.0 TSI Style BSVI,2022,"68,593kms",Petrol,Manual,₹8.44 Lakh,ahmedabad
+Hyundai,Hyundai i20 N-LineN8 DCT Dual Tone BSVI,2021,"48,515kms",Petrol,Automatic,₹5.97 Lakh,ahmedabad
+Honda,Honda Cityi VTEC SV,2015,"80,810kms",Petrol,Manual,₹3.40 Lakh,ahmedabad
+Hyundai,Hyundai Verna1.6 SX VTVT (O) AT,2020,"53,041kms",Petrol,Automatic,₹9.87 Lakh,ahmedabad
+Renault,Renault KWID1.0 RXT Opt,2018,"54,177kms",Petrol,Manual,₹2.80 Lakh,ahmedabad
+Skoda,Skoda Slavia1.0 TSI Style BSVI,2022,"68,593kms",Petrol,Manual,₹8.44 Lakh,ahmedabad
+Hyundai,Hyundai i20 N-LineN8 DCT Dual Tone BSVI,2021,"48,515kms",Petrol,Automatic,₹5.97 Lakh,ahmedabad
+Honda,Honda Cityi VTEC SV,2015,"80,810kms",Petrol,Manual,₹3.40 Lakh,ahmedabad
+Hyundai,Hyundai Verna1.6 SX VTVT (O) AT,2020,"53,041kms",Petrol,Automatic,₹9.87 Lakh,ahmedabad
+Kia,Kia SonetHTX Turbo DCT BSVI,2023,"39,843kms",Petrol,Automatic,₹9.07 Lakh,ahmedabad
+Honda,Honda CityV,2017,"78,555kms",Petrol,Manual,₹4.37 Lakh,ahmedabad
+Honda,Honda BrioVX,2015,"73,535kms",Petrol,Manual,₹3.30 Lakh,ahmedabad
+Maruti,Maruti Baleno1.2 CVT Alpha,2018,"94,538kms",Petrol,Automatic,₹4.67 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI,2018,"40,387kms",Petrol,Manual,₹3.77 Lakh,ahmedabad
+Hyundai,Hyundai VernaSX,2022,"67,085kms",Petrol,Manual,₹9.05 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2019,"48,753kms",Petrol,Manual,₹3.95 Lakh,ahmedabad
+Honda,Honda Cityi-VTEC CVT ZX,2019,"65,180kms",Petrol,Automatic,₹6.43 Lakh,ahmedabad
+Hyundai,Hyundai i20Sportz Plus CVT BSIV,2019,"1,36,954kms",Petrol,Automatic,₹4.55 Lakh,ahmedabad
+Renault,Renault KWIDRXT,2015,"96,382kms",Petrol,Manual,₹2.04 Lakh,ahmedabad
+Volkswagen,Volkswagen Vento1.2 TSI Highline BSIV,2016,"59,967kms",Petrol,Automatic,₹5.15 Lakh,ahmedabad
+Maruti,Maruti Baleno1.2 CVT Alpha,2019,"75,860kms",Petrol,Automatic,₹4.58 Lakh,ahmedabad
+Renault,Renault KigerRXZ AMT,2022,"22,687kms",Petrol,Automatic,₹6.20 Lakh,ahmedabad
+Hyundai,Hyundai VenueSX Opt Turbo DCT Special Edition,2021,"99,350kms",Petrol,Automatic,₹7.20 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2017,"63,264kms",Petrol,Manual,₹4.14 Lakh,ahmedabad
+Hyundai,Hyundai i20Sportz 1.2,2014,"60,260kms",Petrol,Manual,₹3.49 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10Sportz,2015,"43,941kms",Petrol,Manual,₹3.35 Lakh,ahmedabad
+Hyundai,Hyundai i201.2 Asta Option,2016,"45,893kms",Petrol,Manual,₹5.29 Lakh,ahmedabad
+Maruti,Maruti Vitara BrezzaZXI Plus,2023,"47,587kms",Petrol,Manual,₹8.67 Lakh,ahmedabad
+Honda,Honda CityVX MT,2022,"67,040kms",Petrol,Manual,₹7.97 Lakh,ahmedabad
+Renault,Renault KWIDClimber 1.0 MT,2017,"59,367kms",Petrol,Manual,₹3.16 Lakh,ahmedabad
+Tata,Tata HexaXT,2018,"1,01,248kms",Diesel,Manual,₹6.79 Lakh,ahmedabad
+Mahindra,Mahindra XUV300W8 Option AMT BSVI,2022,"26,264kms",Petrol,Automatic,₹7.60 Lakh,ahmedabad
+Honda,Honda CityZX MT,2023,"8,873kms",Petrol,Manual,₹15.25 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2016,"33,765kms",Petrol,Manual,₹4.27 Lakh,ahmedabad
+Hyundai,Hyundai VenueSX Opt Turbo DCT Special Edition,2021,"43,031kms",Petrol,Automatic,₹8.49 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2014,"74,501kms",Petrol,Manual,₹3.47 Lakh,ahmedabad
+Skoda,Skoda Slavia1.0 TSI Style BSVI,2022,"68,593kms",Petrol,Manual,₹8.44 Lakh,ahmedabad
+Hyundai,Hyundai i20 N-LineN8 DCT Dual Tone BSVI,2021,"48,515kms",Petrol,Automatic,₹5.97 Lakh,ahmedabad
+Honda,Honda Cityi VTEC SV,2015,"80,810kms",Petrol,Manual,₹3.40 Lakh,ahmedabad
+Hyundai,Hyundai Verna1.6 SX VTVT (O) AT,2020,"53,041kms",Petrol,Automatic,₹9.87 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2019,"45,238kms",Petrol,Manual,₹4.81 Lakh,ahmedabad
+Renault,Renault CapturPlatine Dual Tone Petrol,2018,"83,295kms",Petrol,Manual,₹4.41 Lakh,ahmedabad
+Maruti,Maruti BalenoZeta,2020,"62,577kms",Petrol,Manual,₹5.02 Lakh,ahmedabad
+Tata,Tata AltrozXZ Plus Dark Edition BSVI,2021,"29,120kms",Petrol,Manual,₹5.85 Lakh,ahmedabad
+Hyundai,Hyundai Verna1.6 SX VTVT (O) AT,2020,"53,041kms",Petrol,Automatic,₹9.87 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2019,"45,238kms",Petrol,Manual,₹4.81 Lakh,ahmedabad
+Renault,Renault CapturPlatine Dual Tone Petrol,2018,"83,295kms",Petrol,Manual,₹4.41 Lakh,ahmedabad
+Maruti,Maruti BalenoZeta,2020,"62,577kms",Petrol,Manual,₹5.02 Lakh,ahmedabad
+Tata,Tata AltrozXZ Plus Dark Edition BSVI,2021,"29,120kms",Petrol,Manual,₹5.85 Lakh,ahmedabad
+Kia,Kia SonetHTX Turbo DCT BSVI,2023,"39,843kms",Petrol,Automatic,₹9.07 Lakh,ahmedabad
+Honda,Honda CityV,2017,"78,555kms",Petrol,Manual,₹4.37 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2018,"66,773kms",Petrol,Manual,₹3.73 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz Option AT,2018,"86,919kms",Petrol,Automatic,₹3.94 Lakh,ahmedabad
+Hyundai,Hyundai i20Sportz Plus CVT BSIV,2019,"1,36,954kms",Petrol,Automatic,₹4.55 Lakh,ahmedabad
+Renault,Renault KWIDRXT,2015,"96,382kms",Petrol,Manual,₹2.04 Lakh,ahmedabad
+Volkswagen,Volkswagen Vento1.2 TSI Highline BSIV,2016,"59,967kms",Petrol,Automatic,₹5.15 Lakh,ahmedabad
+Honda,Honda AmazeVX i-VTEC,2018,"70,000kms",Petrol,Manual,₹5.75 Lakh,ahmedabad
+Renault,Renault KWID1.0 RXL BSVI,2022,"50,600kms",Petrol,Manual,₹3.25 Lakh,ahmedabad
+Hyundai,Hyundai i20Asta 1.2,2016,"65,000kms",Petrol,Manual,₹5.85 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI BS IV,2016,"75,000kms",Petrol,Manual,₹3.15 Lakh,ahmedabad
+Hyundai,Hyundai Xcent1.2 VTVT E Plus,2018,"73,000kms",Petrol,Manual,₹4.85 Lakh,ahmedabad
+Honda,Honda AmazeE Petrol,2020,"37,000kms",Petrol,Manual,₹5.60 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI Optional,2017,"62,127kms",Petrol,Manual,₹3.65 Lakh,ahmedabad
+Ford,Ford Endeavour3.2 Titanium AT 4X4,2019,"1,18,000kms",Diesel,Automatic,₹18.90 Lakh,ahmedabad
+Honda,Honda City1.5 V MT Exclusive,2022,"25,224kms",Petrol,Manual,₹9.27 Lakh,ahmedabad
+Honda,Honda WR-Vi-VTEC S,2019,"46,105kms",Petrol,Manual,₹5.42 Lakh,ahmedabad
+Renault,Renault KigerRXZ,2023,"46,319kms",Petrol,Manual,₹6.09 Lakh,ahmedabad
+Renault,Renault KWIDRXL,2022,"33,178kms",Petrol,Manual,₹3.47 Lakh,ahmedabad
+Hyundai,Hyundai XcentPetrol,2018,"39,140kms",Petrol,Manual,₹5.25 Lakh,ahmedabad
+Renault,Renault CapturPlatine Dual Tone Petrol,2017,"48,654kms",Petrol,Manual,₹3.75 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2017,"65,345kms",Petrol,Manual,₹3.41 Lakh,ahmedabad
+Hyundai,Hyundai VernaSX Opt Turbo,2022,"6,539kms",Petrol,Automatic,₹12.84 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2015,"1,01,238kms",Petrol,Manual,₹3.65 Lakh,ahmedabad
+Tata,Tata Tiago1.2 Revotron XZ Plus,2019,"61,173kms",Petrol,Manual,₹3.98 Lakh,ahmedabad
+Maruti,Maruti DzireZXI Plus,2018,"93,939kms",Petrol,Manual,₹5.07 Lakh,ahmedabad
+Hyundai,Hyundai i201.2 Asta,2016,"46,692kms",Petrol,Manual,₹4.88 Lakh,ahmedabad
+Ford,Ford FiestaPetrol Style,2021,"62,014kms",Petrol,Manual,₹7.66 Lakh,ahmedabad
+Hyundai,Hyundai i201.2 Asta,2018,"64,904kms",Petrol,Manual,₹5.30 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2015,"68,092kms",Petrol,Manual,₹3.65 Lakh,ahmedabad
+Ford,Ford FiestaPetrol Style,2021,"61,604kms",Petrol,Manual,₹6.41 Lakh,ahmedabad
+Mahindra,Mahindra XUV300W8 Option BSVI,2019,"62,977kms",Petrol,Manual,₹6.48 Lakh,ahmedabad
+Maruti,Maruti Wagon RZXI 1.2,2020,"1,07,950kms",Petrol,Manual,₹3.77 Lakh,ahmedabad
+Honda,Honda AmazeVX i-VTEC,2013,"39,266kms",Petrol,Manual,₹3.56 Lakh,ahmedabad
+Honda,Honda Amaze 2nd GenE,2017,"81,162kms",Petrol,Manual,₹3.44 Lakh,ahmedabad
+Honda,Honda Cityi VTEC V,2014,"62,000kms",Petrol,Manual,₹4.08 Lakh,ahmedabad
+Hyundai,Hyundai i20Asta 1.2,2016,"63,000kms",Petrol,Manual,₹4.90 Lakh,ahmedabad
+Honda,Honda AmazeVX Petrol,2023,"21,292kms",Petrol,Manual,₹8.58 Lakh,ahmedabad
+Honda,Honda CityZX MT,2023,"22,805kms",Petrol,Manual,₹14.41 Lakh,ahmedabad
+Honda,Honda Cityi VTEC E,2015,"72,000kms",Petrol,Manual,₹4.90 Lakh,ahmedabad
+Maruti,Maruti Ignis1.2 Sigma BSIV,2018,"90,000kms",Petrol,Manual,₹3.10 Lakh,ahmedabad
+Ford,Ford Endeavour3.2 Titanium AT 4X4,2018,"65,000kms",Diesel,Automatic,₹17.90 Lakh,ahmedabad
+Honda,Honda AmazeVX CVT Petrol,2016,"90,481kms",Petrol,Automatic,₹3.50 Lakh,ahmedabad
+Maruti,Maruti BrezzaZxi BSVI,2022,"31,000kms",Petrol,Manual,₹9.75 Lakh,ahmedabad
+Hyundai,Hyundai i201.2 Magna Executive,2018,"43,000kms",Petrol,Manual,₹4.90 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10Asta Option AT,2016,"43,000kms",Petrol,Automatic,₹4.90 Lakh,ahmedabad
+Maruti,Maruti BalenoDelta,2021,"54,000kms",Petrol,Manual,₹5.40 Lakh,ahmedabad
+Honda,Honda Cityi VTEC CVT SV,2014,"40,310kms",Petrol,Automatic,₹3.20 Lakh,ahmedabad
+Maruti,Maruti Celerio XVXI BSIV,2018,"71,000kms",Petrol,Manual,₹3.45 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2019,"46,883kms",Petrol,Manual,₹4 Lakh,ahmedabad
+Renault,Renault KWID1.0 RXL BSVI,2022,"50,600kms",Petrol,Manual,₹3.25 Lakh,ahmedabad
+Tata,Tata HarrierXZA Plus AT BSVI,2022,"67,000kms",Diesel,Automatic,₹14.90 Lakh,ahmedabad
+Ford,Ford EcosportTitanium Diesel,2021,"44,000kms",Diesel,Manual,₹8.90 Lakh,ahmedabad
+Maruti,Maruti CelerioVXI AT,2014,"73,000kms",Petrol,Automatic,₹3.25 Lakh,ahmedabad
+Maruti,Maruti Baleno1.2 CVT Zeta,2017,"41,000kms",Petrol,Automatic,₹5.50 Lakh,ahmedabad
+Renault,Renault KWID1.0 RXL BSVI,2022,"50,600kms",Petrol,Manual,₹3.25 Lakh,ahmedabad
+Tata,Tata HarrierXZA Plus AT BSVI,2022,"67,000kms",Diesel,Automatic,₹14.90 Lakh,ahmedabad
+Ford,Ford EcosportTitanium Diesel,2021,"44,000kms",Diesel,Manual,₹8.90 Lakh,ahmedabad
+Maruti,Maruti CelerioVXI AT,2014,"73,000kms",Petrol,Automatic,₹3.25 Lakh,ahmedabad
+Maruti,Maruti Baleno1.2 CVT Zeta,2017,"41,000kms",Petrol,Automatic,₹5.50 Lakh,ahmedabad
+Jeep,Jeep Compass1.4 Limited,2018,"41,000kms",Petrol,Automatic,₹8.50 Lakh,ahmedabad
+Maruti,Maruti Baleno1.2 Delta,2017,"68,000kms",Petrol,Manual,₹5.05 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI,2019,"48,700kms",Petrol,Manual,₹4.41 Lakh,ahmedabad
+Hyundai,Hyundai CretaE Diesel BSVI,2022,"69,000kms",Diesel,Manual,₹12.61 Lakh,ahmedabad
+Hyundai,Hyundai Xcent1.2 Kappa S,2015,"72,000kms",Petrol,Manual,₹3.75 Lakh,ahmedabad
+Mahindra,Mahindra Scorpio1.99 S4 9S,2017,"1,85,000kms",Diesel,Manual,₹7.40 Lakh,ahmedabad
+Maruti,Maruti XL6Alpha AT,2021,"49,000kms",Petrol,Automatic,₹9.75 Lakh,ahmedabad
+Maruti,Maruti Baleno1.2 CVT Zeta,2018,"49,500kms",Petrol,Automatic,₹5.35 Lakh,ahmedabad
+Honda,Honda ElevateZX Non RF,2023,"12,979kms",Petrol,Manual,₹17 Lakh,ahmedabad
+Ford,Ford Ecosport1.5 Ti VCT MT Titanium BSIV,2015,"50,000kms",Petrol,Manual,₹3.50 Lakh,ahmedabad
+Ford,Ford Endeavour3.2 Titanium AT 4X4,2018,"61,000kms",Diesel,Automatic,₹17.90 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10Sportz,2016,"57,000kms",Petrol,Manual,₹3.75 Lakh,ahmedabad
+Mahindra,Mahindra XUV500W8 2WD,2012,"1,05,000kms",Diesel,Manual,₹3.15 Lakh,ahmedabad
+Honda,Honda Brio1.2 S Option MT,2018,"85,000kms",Petrol,Manual,₹3.10 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10Magna,2016,"91,000kms",Petrol,Manual,₹3.55 Lakh,ahmedabad
+Ford,Ford Endeavour3.2 Titanium AT 4X4,2018,"61,000kms",Diesel,Automatic,₹17.90 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10Sportz,2016,"57,000kms",Petrol,Manual,₹3.75 Lakh,ahmedabad
+Mahindra,Mahindra XUV500W8 2WD,2012,"1,05,000kms",Diesel,Manual,₹3.15 Lakh,ahmedabad
+Honda,Honda Brio1.2 S Option MT,2018,"85,000kms",Petrol,Manual,₹3.10 Lakh,ahmedabad
+Maruti,Maruti ErtigaSHVS VDI,2016,"67,000kms",Diesel,Manual,₹6.75 Lakh,ahmedabad
+Maruti,Maruti S CrossZeta DDiS 200 SH,2018,"65,000kms",Diesel,Manual,₹6.90 Lakh,ahmedabad
+Tata,Tata AltrozXZ Plus DCT BSVI,2022,"29,000kms",Petrol,Automatic,₹7.50 Lakh,ahmedabad
+Honda,Honda WR-Vi-VTEC S,2017,"66,000kms",Petrol,Manual,₹4 Lakh,ahmedabad
+Maruti,Maruti Baleno1.2 Delta,2018,"70,000kms",Petrol,Manual,₹4.99 Lakh,ahmedabad
+MG,MG Hector PlusSharp Diesel MT,2023,"28,000kms",Diesel,Manual,₹15.90 Lakh,ahmedabad
+Ford,Ford EcosportTitanium Diesel,2021,"44,000kms",Diesel,Manual,₹8.90 Lakh,ahmedabad
+Maruti,Maruti Baleno1.2 CVT Zeta,2018,"49,500kms",Petrol,Automatic,₹5.35 Lakh,ahmedabad
+Honda,Honda ElevateZX Non RF,2023,"12,979kms",Petrol,Manual,₹17 Lakh,ahmedabad
+Hyundai,Hyundai i10Sportz 1.1L,2017,"65,000kms",Petrol,Manual,₹4.50 Lakh,ahmedabad
+Mahindra,Mahindra Scorpio1.99 S4 9S,2017,"1,85,000kms",Diesel,Manual,₹7.40 Lakh,ahmedabad
+Tata,Tata HarrierXT Plus,2023,"64,000kms",Diesel,Manual,₹13.75 Lakh,ahmedabad
+Honda,Honda Jazz1.2 SV i VTEC,2016,"65,000kms",Petrol,Manual,₹3.85 Lakh,ahmedabad
+Tata,Tata TiagoXT CNG,2018,"65,137kms",CNG,Manual,₹3.85 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI 1.2,2021,"19,356kms",Petrol,Manual,₹4.50 Lakh,ahmedabad
+Renault,Renault KWIDCLIMBER AMT BSVI,2022,"27,697kms",Petrol,Automatic,₹3.57 Lakh,ahmedabad
+Honda,Honda Brio1.2 S Option MT,2018,"85,000kms",Petrol,Manual,₹3.10 Lakh,ahmedabad
+Mahindra,Mahindra Scorpio1.99 S4 9S,2017,"1,85,000kms",Diesel,Manual,₹7.40 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2013,"47,095kms",Petrol,Manual,₹3.36 Lakh,ahmedabad
+Honda,Honda AmazeV,2015,"92,386kms",Petrol,Manual,₹3.05 Lakh,ahmedabad
+Tata,Tata TiagoXT CNG,2018,"65,137kms",CNG,Manual,₹3.85 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI 1.2,2021,"19,356kms",Petrol,Manual,₹4.50 Lakh,ahmedabad
+Renault,Renault KWIDCLIMBER AMT BSVI,2022,"27,697kms",Petrol,Automatic,₹3.57 Lakh,ahmedabad
+Honda,Honda WR-Vi-VTEC VX,2019,"25,183kms",Petrol,Manual,₹5.44 Lakh,ahmedabad
+Ford,Ford Aspire1.2 Ti-VCT Titanium,2016,"59,935kms",Petrol,Manual,₹3.52 Lakh,ahmedabad
+Honda,Honda WR-Vi-VTEC VX,2017,"1,15,388kms",Petrol,Manual,₹5 Lakh,ahmedabad
+Volkswagen,Volkswagen Polo1.0 TSI Highline Plus,2019,"75,103kms",Petrol,Manual,₹5.08 Lakh,ahmedabad
+Maruti,Maruti CiazZeta Diesel,2017,"1,11,558kms",Diesel,Manual,₹4.01 Lakh,ahmedabad
+Maruti,Maruti CiazVXi Plus,2016,"95,979kms",Petrol,Manual,₹3.58 Lakh,ahmedabad
+Hyundai,Hyundai i10Magna 1.1,2014,"18,267kms",Petrol,Manual,₹3.08 Lakh,ahmedabad
+Maruti,Maruti SwiftLXi,2014,"22,890kms",Petrol,Manual,₹3.41 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2018,"42,440kms",Petrol,Manual,₹4.33 Lakh,ahmedabad
+Tata,Tata Nexon1.2 Revotron XM,2020,"1,45,444kms",Petrol,Manual,₹4.26 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVDI,2017,"1,38,676kms",Diesel,Manual,₹3.89 Lakh,ahmedabad
+Hyundai,Hyundai i201.2 Asta,2016,"47,817kms",Petrol,Manual,₹5.13 Lakh,ahmedabad
+Tata,Tata AltrozXZ Diesel BSVI,2020,"32,192kms",Diesel,Manual,₹4.64 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2018,"42,440kms",Petrol,Manual,₹4.33 Lakh,ahmedabad
+Tata,Tata Nexon1.2 Revotron XM,2020,"1,45,444kms",Petrol,Manual,₹4.26 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVDI,2017,"1,38,676kms",Diesel,Manual,₹3.89 Lakh,ahmedabad
+Hyundai,Hyundai i201.2 Asta,2016,"47,817kms",Petrol,Manual,₹5.13 Lakh,ahmedabad
+Tata,Tata AltrozXZ Diesel BSVI,2020,"32,192kms",Diesel,Manual,₹4.64 Lakh,ahmedabad
+Toyota,Toyota Innova2.5 GX (Diesel) 8 Seater,2014,"73,319kms",Diesel,Manual,₹4.41 Lakh,ahmedabad
+Honda,Honda AmazeVX i-VTEC,2014,"44,724kms",Petrol,Manual,₹4.14 Lakh,ahmedabad
+Toyota,Toyota YarisVX CVT,2018,"66,129kms",Petrol,Automatic,₹5.55 Lakh,ahmedabad
+Ford,Ford Ecosport1.5 Ti VCT AT Titanium BSIV,2016,"1,00,877kms",Petrol,Automatic,₹3.34 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2017,"84,513kms",Petrol,Manual,₹4 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2017,"57,995kms",Petrol,Manual,₹3.07 Lakh,ahmedabad
+Mahindra,Mahindra MarazzoM2 BSIV,2019,"84,800kms",Diesel,Manual,₹5.70 Lakh,ahmedabad
+Honda,Honda Cityi VTEC VX,2016,"66,622kms",Petrol,Manual,₹4.45 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2017,"97,124kms",Petrol,Manual,₹3.27 Lakh,ahmedabad
+Honda,Honda AmazeS i-VTEC,2014,"58,095kms",Petrol,Manual,₹3.24 Lakh,ahmedabad
+Hyundai,Hyundai XcentPetrol,2016,"66,499kms",Petrol,Manual,₹4.03 Lakh,ahmedabad
+Ford,Ford FreestyleTitanium,2021,"1,16,338kms",Petrol,Manual,₹4.82 Lakh,ahmedabad
+Hyundai,Hyundai i201.2 Asta,2018,"63,535kms",Petrol,Manual,₹5.22 Lakh,ahmedabad
+Renault,Renault DusterRXZ,2021,"67,444kms",Petrol,Manual,₹4.34 Lakh,ahmedabad
+Tata,Tata TigorXZ Plus,2019,"1,40,487kms",Petrol,Manual,₹3.23 Lakh,ahmedabad
+Tata,Tata TigorXZ Plus,2019,"1,40,487kms",Petrol,Manual,₹3.23 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2018,"22,048kms",Petrol,Manual,₹3.73 Lakh,ahmedabad
+Ford,Ford Ecosport1.5 Ti VCT AT Titanium BSIV,2016,"1,00,877kms",Petrol,Automatic,₹3.34 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2017,"84,513kms",Petrol,Manual,₹4 Lakh,ahmedabad
+Honda,Honda AmazeS i-VTEC,2014,"58,095kms",Petrol,Manual,₹3.24 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2017,"97,124kms",Petrol,Manual,₹3.27 Lakh,ahmedabad
+Maruti,Maruti CelerioZXI,2023,"25,000kms",Petrol,Manual,₹4.50 Lakh,ahmedabad
+Maruti,Maruti CiazVDi Option SHVS,2016,"70,000kms",Diesel,Manual,₹5.41 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10Sportz,2016,"72,000kms",Petrol,Manual,₹3.45 Lakh,ahmedabad
+Toyota,Toyota EtiosGD,2012,"52,000kms",Diesel,Manual,₹3.75 Lakh,ahmedabad
+Honda,Honda Cityi DTEC SV,2014,"87,000kms",Diesel,Manual,₹3.35 Lakh,ahmedabad
+Tata,Tata TiagoXT,2024,"19,000kms",Petrol,Manual,₹5.50 Lakh,ahmedabad
+Honda,Honda Cityi VTEC CVT VX,2016,"75,000kms",Petrol,Automatic,₹5.75 Lakh,ahmedabad
+Honda,Honda AmazeS Petrol,2020,"1,08,842kms",Petrol,Manual,₹4.60 Lakh,ahmedabad
+Maruti,Maruti CiazAT VXi Plus,2017,"60,000kms",Petrol,Automatic,₹5.25 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2018,"56,000kms",Petrol,Manual,₹4.45 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10Sportz,2017,"37,000kms",Petrol,Manual,₹4.15 Lakh,ahmedabad
+Nissan,Nissan Micra ActiveXV,2018,"50,000kms",Petrol,Manual,₹3.25 Lakh,ahmedabad
+Mahindra,Mahindra KUV 100 NXTG80 K2 Plus 6 Str,2018,"47,618kms",Petrol,Manual,₹3.64 Lakh,ahmedabad
+Honda,Honda JazzBasic,2009,"1,65,551kms",Petrol,Manual,₹1.50 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2018,"56,000kms",Petrol,Manual,₹4.45 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10Sportz,2017,"37,000kms",Petrol,Manual,₹4.15 Lakh,ahmedabad
+Nissan,Nissan Micra ActiveXV,2018,"50,000kms",Petrol,Manual,₹3.25 Lakh,ahmedabad
+Mahindra,Mahindra KUV 100 NXTG80 K2 Plus 6 Str,2018,"47,618kms",Petrol,Manual,₹3.64 Lakh,ahmedabad
+Honda,Honda JazzBasic,2009,"1,65,551kms",Petrol,Manual,₹1.50 Lakh,ahmedabad
+Kia,Kia SeltosHTK Plus D,2020,"1,47,705kms",Diesel,Manual,₹8.40 Lakh,ahmedabad
+Jeep,Jeep Compass1.4 Limited,2018,"68,910kms",Petrol,Automatic,₹6.36 Lakh,ahmedabad
+Ford,Ford FiestaPetrol Style,2021,"1,09,001kms",Petrol,Manual,₹6.31 Lakh,ahmedabad
+Maruti,Maruti ErtigaZXI,2021,"1,01,541kms",Petrol,Manual,₹7.64 Lakh,ahmedabad
+Tata,Tata NexonXMA AMT S,2021,"49,958kms",Petrol,Automatic,₹6.73 Lakh,ahmedabad
+Maruti,Maruti Vitara BrezzaVDi Option,2017,"51,159kms",Diesel,Manual,₹6.28 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.6 SX Automatic,2019,"92,083kms",Petrol,Automatic,₹7.88 Lakh,ahmedabad
+Honda,Honda AmazeVX Petrol,2024,"3,620kms",Petrol,Manual,₹8.95 Lakh,ahmedabad
+Kia,Kia SeltosGTX Plus DCT,2020,"85,000kms",Petrol,Automatic,₹9.90 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVXI BSVI,2020,"48,000kms",Petrol,Manual,₹6.25 Lakh,ahmedabad
+Tata,Tata AltrozXM Plus CNG,2024,"25,000kms",CNG,Manual,₹6.90 Lakh,ahmedabad
+Maruti,Maruti Alto 800VXI BSVI,2020,"40,712kms",Petrol,Manual,₹2.36 Lakh,ahmedabad
+Renault,Renault KWIDClimber 1.0 AMT Opt BSIV,2019,"83,945kms",Petrol,Automatic,₹2.26 Lakh,ahmedabad
+Hyundai,Hyundai i10Magna 1.1L,2012,"71,253kms",Petrol,Manual,₹2.06 Lakh,ahmedabad
+Hyundai,Hyundai i10Era,2012,"58,000kms",Petrol,Manual,₹2.25 Lakh,ahmedabad
+Tata,Tata AltrozXM Plus CNG,2024,"25,000kms",CNG,Manual,₹6.90 Lakh,ahmedabad
+Maruti,Maruti Alto 800VXI BSVI,2020,"40,712kms",Petrol,Manual,₹2.36 Lakh,ahmedabad
+Renault,Renault KWIDClimber 1.0 AMT Opt BSIV,2019,"83,945kms",Petrol,Automatic,₹2.26 Lakh,ahmedabad
+Hyundai,Hyundai i10Magna 1.1L,2012,"71,253kms",Petrol,Manual,₹2.06 Lakh,ahmedabad
+Hyundai,Hyundai i10Era,2012,"58,000kms",Petrol,Manual,₹2.25 Lakh,ahmedabad
+Honda,Honda ElevateZX CVT,2024,"27,903kms",Petrol,Automatic,₹17 Lakh,ahmedabad
+Honda,Honda AmazeSX i-VTEC,2016,"40,000kms",Petrol,Manual,₹4.15 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10AT Asta,2015,"46,361kms",Petrol,Automatic,₹4.11 Lakh,ahmedabad
+Honda,Honda BrioE MT,2012,"1,27,532kms",Petrol,Manual,₹1.37 Lakh,ahmedabad
+Ford,Ford Ecosport1.5 Petrol Titanium,2021,"47,341kms",Petrol,Manual,₹5.37 Lakh,ahmedabad
+Hyundai,Hyundai i10Magna 1.1L,2012,"1,05,771kms",Petrol,Manual,₹1.58 Lakh,ahmedabad
+Renault,Renault KWID1.0 RXT 02 Anniversary Edition,2017,"37,810kms",Petrol,Manual,₹2.31 Lakh,ahmedabad
+Hyundai,Hyundai i10Sportz 1.1L,2014,"80,468kms",Petrol,Manual,₹2.53 Lakh,ahmedabad
+Ford,Ford EcosportTitanium Plus AT,2019,"24,552kms",Petrol,Automatic,₹7.01 Lakh,ahmedabad
+Mahindra,Mahindra Bolero NeoN10 R BSVI,2023,"40,000kms",Diesel,Manual,₹8.75 Lakh,ahmedabad
+Ford,Ford FigoPetrol Titanium,2019,"73,627kms",Petrol,Manual,₹4.13 Lakh,ahmedabad
+Honda,Honda AmazeS i-Dtech,2015,"68,000kms",Diesel,Manual,₹4.11 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXI,2013,"53,831kms",Petrol,Manual,₹1.61 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI BSVI,2012,"82,706kms",Petrol,Manual,₹1.96 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI BS IV,2015,"46,956kms",Petrol,Manual,₹2.72 Lakh,ahmedabad
+Ford,Ford FigoPetrol Titanium,2019,"73,627kms",Petrol,Manual,₹4.13 Lakh,ahmedabad
+Honda,Honda AmazeS i-Dtech,2015,"68,000kms",Diesel,Manual,₹4.11 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXI,2013,"53,831kms",Petrol,Manual,₹1.61 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI BSVI,2012,"82,706kms",Petrol,Manual,₹1.96 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI BS IV,2015,"46,956kms",Petrol,Manual,₹2.72 Lakh,ahmedabad
+Datsun,Datsun RediGOT Option,2017,"82,983kms",Petrol,Manual,₹1.28 Lakh,ahmedabad
+Kia,Kia SeltosHTX IVT,2023,"39,000kms",Petrol,Automatic,₹13.75 Lakh,ahmedabad
+Toyota,Toyota Innova Crysta2.4 G 7 STR,2020,"99,000kms",Diesel,Manual,₹16 Lakh,ahmedabad
+Hyundai,Hyundai CretaSX (O) Diesel AT,2021,"76,519kms",Diesel,Automatic,₹13.58 Lakh,ahmedabad
+Tata,Tata CurvvCreative Plus S Diesel,2024,"22,486kms",Diesel,Manual,₹13.90 Lakh,ahmedabad
+Hyundai,Hyundai CretaSX Opt Turbo BSVI,2022,"62,580kms",Petrol,Automatic,₹10.08 Lakh,ahmedabad
+Honda,Honda ElevateVX Non RF,2023,"12,966kms",Petrol,Manual,₹11.47 Lakh,ahmedabad
+Mahindra,Mahindra TharLX 4WD Hard Top Diesel AT BSVI,2022,"90,000kms",Diesel,Automatic,₹11.90 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVXi,2011,"80,000kms",Petrol,Manual,₹2.35 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXI,2019,"38,068kms",Petrol,Manual,₹2.24 Lakh,ahmedabad
+Honda,Honda CityZX MT,2019,"70,000kms",Petrol,Manual,₹7.90 Lakh,ahmedabad
+Maruti,Maruti SwiftLXI,2014,"96,432kms",Petrol,Manual,₹2.35 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXI,2017,"83,321kms",Petrol,Manual,₹1.89 Lakh,ahmedabad
+Renault,Renault KWID1.0 RXT AMT Opt,2018,"37,418kms",Petrol,Automatic,₹2.69 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXI,2017,"96,802kms",Petrol,Manual,₹1.95 Lakh,ahmedabad
+Honda,Honda CityZX MT,2019,"70,000kms",Petrol,Manual,₹7.90 Lakh,ahmedabad
+Maruti,Maruti SwiftLXI,2014,"96,432kms",Petrol,Manual,₹2.35 Lakh,ahmedabad
+Maruti,Maruti CelerioZXI,2014,"1,21,385kms",Petrol,Manual,₹2.54 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXI,2017,"83,321kms",Petrol,Manual,₹1.89 Lakh,ahmedabad
+Renault,Renault KWID1.0 RXT AMT Opt,2017,"45,340kms",Petrol,Automatic,₹2.89 Lakh,ahmedabad
+Maruti,Maruti Alto K10VXI,2017,"36,534kms",Petrol,Manual,₹2.39 Lakh,ahmedabad
+Maruti,Maruti SwiftLXi,2013,"1,08,753kms",Petrol,Manual,₹2.74 Lakh,ahmedabad
+Renault,Renault KWID1.0 RXT AMT Opt,2018,"37,418kms",Petrol,Automatic,₹2.69 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXI,2017,"96,802kms",Petrol,Manual,₹1.95 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXI,2017,"52,642kms",Petrol,Manual,₹1.99 Lakh,ahmedabad
+Tata,Tata Tiago1.05 Revotorq XM,2018,"81,000kms",Diesel,Manual,₹2.95 Lakh,ahmedabad
+Honda,Honda AmazeS Diesel,2015,"1,18,259kms",Diesel,Manual,₹2.70 Lakh,ahmedabad
+Maruti,Maruti SwiftVXI,2013,"1,08,000kms",Petrol,Manual,₹2.85 Lakh,ahmedabad
+Hyundai,Hyundai i201.4 CRDi Sportz,2012,"1,03,000kms",Diesel,Manual,₹2.25 Lakh,ahmedabad
+Tata,Tata ZestQuadrajet 1.3 XM,2016,"78,000kms",Diesel,Manual,₹2.21 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi BSIII,2010,"76,000kms",Petrol,Manual,₹1.20 Lakh,ahmedabad
+Toyota,Toyota EtiosGD,2012,"63,000kms",Diesel,Manual,₹3 Lakh,ahmedabad
+Maruti,Maruti Alto 800CNG LXI,2018,"75,000kms",CNG,Manual,₹2.85 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXI,2017,"52,290kms",Petrol,Manual,₹2.32 Lakh,ahmedabad
+Honda,Honda AmazeS i-Dtech,2015,"1,49,107kms",Diesel,Manual,₹3 Lakh,ahmedabad
+Honda,Honda AmazeS Diesel,2015,"1,18,259kms",Diesel,Manual,₹2.70 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi BSIII,2010,"76,000kms",Petrol,Manual,₹1.20 Lakh,ahmedabad
+Toyota,Toyota EtiosGD,2012,"63,000kms",Diesel,Manual,₹3 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXI,2017,"52,290kms",Petrol,Manual,₹2.32 Lakh,ahmedabad
+Honda,Honda AmazeS i-Dtech,2015,"1,49,107kms",Diesel,Manual,₹3 Lakh,ahmedabad
+Tata,Tata ZestRevotron 1.2T XM,2015,"61,884kms",Petrol,Manual,₹2 Lakh,ahmedabad
+Tata,Tata Tigor1.2 Revotron XM,2020,"89,732kms",Petrol,Manual,₹3.65 Lakh,ahmedabad
+Tata,Tata Tiago1.2 Revotron XM Option,2017,"45,332kms",Petrol,Manual,₹2.77 Lakh,ahmedabad
+Honda,Honda CityCorporate Edition,2012,"1,15,554kms",Petrol,Manual,₹2.05 Lakh,ahmedabad
+Toyota,Toyota CamryHybrid,2017,"1,12,000kms",Petrol,Automatic,₹13.50 Lakh,ahmedabad
+Ford,Ford Ecosport1.5 TDCi Titanium BSIV,2017,"79,818kms",Diesel,Manual,₹4.82 Lakh,ahmedabad
+Maruti,Maruti Alto K10VXI S-CNG,2023,"34,848kms",CNG,Manual,₹4.68 Lakh,ahmedabad
+Ford,Ford FigoTitanium Plus AT,2021,"42,433kms",Petrol,Automatic,₹5.41 Lakh,ahmedabad
+Tata,Tata AltrozXZ,2021,"56,472kms",Petrol,Manual,₹5.30 Lakh,ahmedabad
+Honda,Honda AmazeS i-VTEC,2013,"92,537kms",Petrol,Manual,₹3.18 Lakh,ahmedabad
+Maruti,Maruti CiazDelta Diesel,2017,"98,249kms",Diesel,Automatic,₹4.56 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10 NiosSportz,2020,"48,835kms",Petrol,Manual,₹4.44 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVXI,2015,"98,682kms",Petrol,Manual,₹3.23 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10Magna,2016,"46,536kms",Petrol,Manual,₹3.11 Lakh,ahmedabad
+Hyundai,Hyundai Xcent1.2 Kappa S Option,2015,"61,983kms",Petrol,Manual,₹3.35 Lakh,ahmedabad
+Maruti,Maruti CiazDelta Diesel,2017,"98,249kms",Diesel,Automatic,₹4.56 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10 NiosSportz,2020,"48,835kms",Petrol,Manual,₹4.44 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVXI,2015,"98,682kms",Petrol,Manual,₹3.23 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10Magna,2016,"46,536kms",Petrol,Manual,₹3.11 Lakh,ahmedabad
+Hyundai,Hyundai Xcent1.2 Kappa S Option,2015,"61,983kms",Petrol,Manual,₹3.35 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10 NiosSportz,2023,"32,356kms",Petrol,Manual,₹5.84 Lakh,ahmedabad
+Maruti,Maruti Swift DzireZXi,2014,"48,544kms",Petrol,Manual,₹4.17 Lakh,ahmedabad
+Honda,Honda WR-Vi-VTEC VX,2018,"1,12,971kms",Petrol,Manual,₹4.97 Lakh,ahmedabad
+Maruti,Maruti Swift DzireAMT VDI,2017,"79,828kms",Diesel,Automatic,₹4.53 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.6 VTVT AT SX Plus,2016,"1,01,744kms",Petrol,Automatic,₹4.86 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVXI,2016,"49,097kms",Petrol,Manual,₹3.45 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.6 VTVT E Plus,2017,"72,393kms",Petrol,Manual,₹5.75 Lakh,ahmedabad
+Volkswagen,Volkswagen Vento1.5 TDI Comfortline AT,2015,"77,000kms",Diesel,Automatic,₹5.50 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVXI,2015,"66,000kms",Petrol,Manual,₹3.45 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVXI 1.2,2019,"67,000kms",Petrol,Manual,₹5.21 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVXI,2013,"43,000kms",Petrol,Manual,₹3.65 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10 NiosAMT Sportz,2020,"58,000kms",Petrol,Automatic,₹5.75 Lakh,ahmedabad
+Maruti,Maruti Swift DzireZXI,2018,"92,453kms",Petrol,Manual,₹4.50 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVDI,2018,"75,000kms",Diesel,Manual,₹5.31 Lakh,ahmedabad
+Honda,Honda AmazeS i-Vtech,2015,"45,000kms",Petrol,Manual,₹3.45 Lakh,ahmedabad
+Maruti,Maruti Swift DzireZXI,2018,"92,453kms",Petrol,Manual,₹4.50 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10 NiosAMT Sportz,2020,"58,000kms",Petrol,Automatic,₹5.75 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVXI,2015,"66,000kms",Petrol,Manual,₹3.45 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVXI,2013,"43,000kms",Petrol,Manual,₹3.65 Lakh,ahmedabad
+Honda,Honda AmazeS i-Vtech,2015,"45,000kms",Petrol,Manual,₹3.45 Lakh,ahmedabad
+Hyundai,Hyundai i20Asta 1.2,2017,"75,093kms",Petrol,Manual,₹4.28 Lakh,ahmedabad
+Honda,Honda Cityi DTEC V,2015,"75,000kms",Diesel,Manual,₹4.70 Lakh,ahmedabad
+Hyundai,Hyundai i10Magna 1.1,2013,"53,438kms",Petrol,Manual,₹2.52 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI BSIII,2012,"55,000kms",Petrol,Manual,₹2.10 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10 NiosSportz,2020,"52,000kms",Petrol,Manual,₹5.50 Lakh,ahmedabad
+Maruti,Maruti CelerioZXI AT Optional,2017,"89,000kms",Petrol,Automatic,₹3.65 Lakh,ahmedabad
+Honda,Honda Amaze 2nd GenS BSVI,2021,"22,813kms",Petrol,Manual,₹5.11 Lakh,ahmedabad
+Hyundai,Hyundai EONEra Plus,2017,"1,10,624kms",Petrol,Manual,₹1.95 Lakh,ahmedabad
+Ford,Ford EcosportTitanium Diesel,2021,"44,845kms",Diesel,Manual,₹8.50 Lakh,ahmedabad
+Tata,Tata Tiago EVXZ Plus LR,2023,"40,000kms",Electric,Automatic,₹7.75 Lakh,ahmedabad
+Tata,Tata Tigor EVXZ Plus,2021,"38,000kms",Electric,Automatic,₹6.90 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10 NiosSportz,2020,"64,000kms",Petrol,Manual,₹5.50 Lakh,ahmedabad
+Honda,Honda Brio1.2 VX AT,2017,"40,000kms",Petrol,Automatic,₹4.25 Lakh,ahmedabad
+Jeep,Jeep Compass1.4 Limited Plus BSIV,2019,"80,423kms",Petrol,Automatic,₹9.40 Lakh,ahmedabad
+Mahindra,Mahindra TharLX 4WD Hard Top Diesel AT BSVI,2021,"68,371kms",Diesel,Automatic,₹10 Lakh,ahmedabad
+Tata,Tata Tiago EVXZ Plus LR,2023,"40,000kms",Electric,Automatic,₹7.75 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10 NiosSportz,2020,"64,000kms",Petrol,Manual,₹5.50 Lakh,ahmedabad
+Honda,Honda Brio1.2 VX AT,2017,"40,000kms",Petrol,Automatic,₹4.25 Lakh,ahmedabad
+Jeep,Jeep Compass1.4 Limited Plus BSIV,2019,"80,423kms",Petrol,Automatic,₹9.40 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.4 CRDi S Plus,2016,"73,000kms",Diesel,Manual,₹6.10 Lakh,ahmedabad
+Mahindra,Mahindra TharLX 4WD Hard Top Diesel AT BSVI,2021,"68,371kms",Diesel,Automatic,₹10 Lakh,ahmedabad
+Maruti,Maruti CelerioZXI,2015,"42,696kms",Petrol,Manual,₹3.53 Lakh,ahmedabad
+Maruti,Maruti Ignis1.2 AMT Delta BSIV,2018,"85,388kms",Petrol,Automatic,₹3.57 Lakh,ahmedabad
+Tata,Tata HarrierFearless X Plus Dark,2026,"5,000kms",Diesel,Manual,₹19.75 Lakh,ahmedabad
+Ford,Ford FigoDiesel ZXI,2013,"63,000kms",Diesel,Manual,₹2.25 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi,2019,"55,121kms",Petrol,Manual,₹2.76 Lakh,ahmedabad
+Hyundai,Hyundai i10Magna 1.1,2014,"47,118kms",Petrol,Manual,₹2.95 Lakh,ahmedabad
+Mahindra,Mahindra Scorpio NZ8 Diesel 4x4 AT,2024,"45,000kms",Diesel,Automatic,₹21.90 Lakh,ahmedabad
+Hyundai,Hyundai i10Sportz AT,2011,"1,16,700kms",Petrol,Automatic,₹1.80 Lakh,ahmedabad
+Honda,Honda BrioE MT,2012,"44,832kms",Petrol,Manual,₹1.61 Lakh,ahmedabad
+Hyundai,Hyundai Santro XingGL,2012,"50,000kms",Petrol,Manual,₹2 Lakh,ahmedabad
+Mahindra,Mahindra TharLX Hard Top Diesel AT,2022,"72,860kms",Diesel,Automatic,₹10.67 Lakh,ahmedabad
+Skoda,Skoda Rapid1.0 TSI Ambition AT,2020,"82,390kms",Petrol,Automatic,₹5.28 Lakh,ahmedabad
+Renault,2017Renault KWID1.0 RXT Optional AT  -2019,2016,"50,000kms",Petrol,Automatic,₹2.75 Lakh,ahmedabad
+Maruti,Maruti CelerioVXI AMT,2015,"70,020kms",Petrol,Automatic,₹2.91 Lakh,ahmedabad
+Hyundai,Hyundai Santro XingGL,2012,"50,000kms",Petrol,Manual,₹2 Lakh,ahmedabad
+Mahindra,Mahindra TharLX Hard Top Diesel AT,2022,"72,860kms",Diesel,Automatic,₹10.67 Lakh,ahmedabad
+Skoda,Skoda Rapid1.0 TSI Ambition AT,2020,"82,390kms",Petrol,Automatic,₹5.28 Lakh,ahmedabad
+Renault,2017Renault KWID1.0 RXT Optional AT  -2019,2016,"50,000kms",Petrol,Automatic,₹2.75 Lakh,ahmedabad
+Maruti,Maruti CelerioVXI AMT,2015,"70,020kms",Petrol,Automatic,₹2.91 Lakh,ahmedabad
+Ford,Ford Ecosport1.5 DV5 MT Titanium,2013,"73,126kms",Diesel,Manual,₹2.96 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVXI,2013,"45,738kms",Petrol,Manual,₹2.86 Lakh,ahmedabad
+Ford,Ford Figo1.5P Titanium AT,2015,"42,000kms",Petrol,Automatic,₹2.75 Lakh,ahmedabad
+Honda,Honda AmazeS i-Dtech,2013,"72,000kms",Diesel,Manual,₹2.25 Lakh,ahmedabad
+Maruti,Maruti RitzVDi,2012,"71,000kms",Diesel,Manual,₹2.30 Lakh,ahmedabad
+Hyundai,Hyundai Xcent1.1 CRDi S,2014,"98,946kms",Diesel,Manual,₹3.31 Lakh,ahmedabad
+Tata,Tata AltrozXZ,2020,"35,944kms",Petrol,Manual,₹5.58 Lakh,ahmedabad
+Honda,Honda Amaze 2nd GenE,2014,"95,135kms",Petrol,Manual,₹3.12 Lakh,ahmedabad
+Tata,Tata TiagoXZ Diesel,2019,"61,791kms",Diesel,Manual,₹3.79 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2018,"62,098kms",Petrol,Manual,₹4.47 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10 NiosSportz,2020,"65,549kms",Petrol,Manual,₹4.60 Lakh,ahmedabad
+Tata,Tata Tiago1.2 Revotron XZ,2017,"58,548kms",Petrol,Manual,₹2.94 Lakh,ahmedabad
+Maruti,Maruti Alto 800VXI,2015,"34,959kms",Petrol,Manual,₹2.25 Lakh,ahmedabad
+Tata,Tata HarrierXZA Plus Kaziranga Edition AT,2022,"38,653kms",Diesel,Automatic,₹15.90 Lakh,ahmedabad
+Honda,Honda Brio1.2 VX MT,2014,"59,506kms",Petrol,Manual,₹2 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10 NiosSportz,2020,"65,549kms",Petrol,Manual,₹4.60 Lakh,ahmedabad
+Tata,Tata Tiago1.2 Revotron XZ,2017,"58,548kms",Petrol,Manual,₹2.94 Lakh,ahmedabad
+Maruti,Maruti Alto 800VXI,2015,"34,959kms",Petrol,Manual,₹2.25 Lakh,ahmedabad
+Tata,Tata HarrierXZA Plus Kaziranga Edition AT,2022,"38,653kms",Diesel,Automatic,₹15.90 Lakh,ahmedabad
+Honda,Honda Brio1.2 VX MT,2014,"59,506kms",Petrol,Manual,₹2 Lakh,ahmedabad
+Honda,Honda Cityi DTEC SV,2015,"54,000kms",Diesel,Manual,₹5.25 Lakh,ahmedabad
+Kia,Kia SeltosHTK Plus iMT,2021,"53,710kms",Petrol,Manual,₹8.42 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVXI,2013,"83,716kms",Petrol,Manual,₹3.26 Lakh,ahmedabad
+Maruti,Maruti BalenoDelta Diesel,2021,"43,524kms",Diesel,Manual,₹5.28 Lakh,ahmedabad
+Ford,Ford Ecosport1.5 Diesel Titanium BSIV,2018,"1,04,012kms",Diesel,Manual,₹5.35 Lakh,ahmedabad
+Ford,Ford Ecosport1.5 Diesel Titanium Plus BSIV,2018,"90,566kms",Diesel,Manual,₹5.01 Lakh,ahmedabad
+Honda,Honda WR-Vi-VTEC VX,2017,"50,020kms",Petrol,Manual,₹5.12 Lakh,ahmedabad
+Skoda,Skoda SuperbPetrol Ambition,2021,"1,23,879kms",Petrol,Manual,₹5.59 Lakh,ahmedabad
+Honda,Honda AmazeS i-VTEC,2014,"45,503kms",Petrol,Manual,₹3.29 Lakh,ahmedabad
+Maruti,Maruti SwiftVDI BSIV,2017,"66,000kms",Diesel,Manual,₹5.40 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.6 CRDi SX,2016,"1,25,000kms",Diesel,Manual,₹7.40 Lakh,ahmedabad
+Chevrolet,Chevrolet Spark1.0,2008,"60,000kms",Petrol,Manual,₹1 Lakh,ahmedabad
+Ford,Ford EcosportTitanium Plus AT,2018,"57,388kms",Petrol,Automatic,₹6.09 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2018,"60,933kms",Petrol,Manual,₹4.21 Lakh,ahmedabad
+Maruti,Maruti CelerioVXI AT,2016,"75,000kms",Petrol,Automatic,₹2.90 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.6 CRDi SX,2016,"1,25,000kms",Diesel,Manual,₹7.40 Lakh,ahmedabad
+Chevrolet,Chevrolet Spark1.0,2008,"60,000kms",Petrol,Manual,₹1 Lakh,ahmedabad
+Ford,Ford EcosportTitanium Plus AT,2018,"57,388kms",Petrol,Automatic,₹6.09 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2018,"60,933kms",Petrol,Manual,₹4.21 Lakh,ahmedabad
+Maruti,Maruti CelerioVXI AT,2016,"75,000kms",Petrol,Automatic,₹2.90 Lakh,ahmedabad
+Ford,Ford Ecosport1.5 Diesel Titanium Plus BSIV,2019,"1,26,514kms",Diesel,Manual,₹5.30 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVXI,2014,"57,537kms",Petrol,Manual,₹3.70 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVXI,2013,"1,10,396kms",Petrol,Manual,₹3.08 Lakh,ahmedabad
+Ford,Ford Ecosport1.5 TDCi Titanium BSIV,2016,"1,06,870kms",Diesel,Manual,₹5.01 Lakh,ahmedabad
+Hyundai,Hyundai i20Sportz Plus Dual Tone BSIV,2019,"52,549kms",Petrol,Manual,₹5.25 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI 1.2,2020,"93,490kms",Petrol,Manual,₹3.93 Lakh,ahmedabad
+Tata,Tata AltrozXZA Plus Dark Edition DCT BSVI,2022,"50,007kms",Petrol,Automatic,₹5.58 Lakh,ahmedabad
+Mahindra,Mahindra TharLX 4WD Hard Top Diesel AT BSVI,2023,"22,000kms",Diesel,Automatic,₹14.90 Lakh,ahmedabad
+Renault,Renault KWIDClimber 1.0 MT,2017,"48,843kms",Petrol,Manual,₹2.74 Lakh,ahmedabad
+Chevrolet,Chevrolet TaveraLS B3 7 Seats BSIII,2006,"2,81,000kms",Diesel,Manual,₹1.15 Lakh,ahmedabad
+Mahindra,Mahindra XUV700AX5 5Str AT,2022,"73,094kms",Petrol,Automatic,₹14.57 Lakh,ahmedabad
+Maruti,Maruti DzireZXI AMT,2020,"1,04,452kms",Petrol,Automatic,₹5.42 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI BS IV,2018,"40,285kms",Petrol,Manual,₹3.34 Lakh,ahmedabad
+Renault,Renault DusterPetrol RxL,2017,"30,983kms",Petrol,Manual,₹4.99 Lakh,ahmedabad
+Volkswagen,Volkswagen Taigun1.0 TSI Topline BSVI,2022,"54,233kms",Petrol,Manual,₹9.59 Lakh,ahmedabad
+Mahindra,Mahindra XUV700AX5 5Str AT,2022,"73,094kms",Petrol,Automatic,₹14.57 Lakh,ahmedabad
+Maruti,Maruti DzireZXI AMT,2020,"1,04,452kms",Petrol,Automatic,₹5.42 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI BS IV,2018,"40,285kms",Petrol,Manual,₹3.34 Lakh,ahmedabad
+Renault,Renault DusterPetrol RxL,2017,"30,983kms",Petrol,Manual,₹4.99 Lakh,ahmedabad
+Volkswagen,Volkswagen Taigun1.0 TSI Topline BSVI,2022,"54,233kms",Petrol,Manual,₹9.59 Lakh,ahmedabad
+Honda,Honda AmazeS i-Dtech,2015,"73,000kms",Diesel,Manual,₹3.65 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXI S-CNG,2021,"36,648kms",CNG,Manual,₹3.22 Lakh,ahmedabad
+Maruti,Maruti CelerioVXI MT BSIV,2018,"50,000kms",Petrol,Manual,₹3.60 Lakh,ahmedabad
+Toyota,Toyota Innova Crysta2.4 G 7 STR,2021,"1,90,000kms",Diesel,Manual,₹22.75 Lakh,ahmedabad
+MG,MG GlosterSavvy 6-Str,2020,"30,000kms",Diesel,Automatic,₹26.75 Lakh,ahmedabad
+Renault,Renault KWIDRXT,2016,"68,557kms",Petrol,Manual,₹2.36 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi,2013,"1,01,437kms",Petrol,Manual,₹1.99 Lakh,ahmedabad
+Renault,Renault KWIDRXT,2016,"53,299kms",Petrol,Manual,₹2.45 Lakh,ahmedabad
+Datsun,Datsun RediGOT Option,2017,"33,733kms",Petrol,Manual,₹1.36 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI BSVI,2011,"72,723kms",Petrol,Manual,₹1.89 Lakh,ahmedabad
+Maruti,Maruti Alto 800VXI,2016,"45,115kms",Petrol,Manual,₹2.41 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI BSII,2010,"58,273kms",Petrol,Manual,₹1.85 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVXI,2012,"71,000kms",Petrol,Manual,₹2.55 Lakh,ahmedabad
+Hyundai,Hyundai Santro XingGL,2012,"61,000kms",Petrol,Manual,₹1.85 Lakh,ahmedabad
+Hyundai,Hyundai i10Era,2010,"65,000kms",Petrol,Manual,₹1.85 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi,2013,"1,01,437kms",Petrol,Manual,₹1.99 Lakh,ahmedabad
+Honda,Honda BrioEX MT,2012,"70,000kms",Petrol,Manual,₹2.21 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI BSII,2010,"58,273kms",Petrol,Manual,₹1.85 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVXI,2012,"71,000kms",Petrol,Manual,₹2.55 Lakh,ahmedabad
+Hyundai,Hyundai Santro XingGL,2012,"61,000kms",Petrol,Manual,₹1.85 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi,2011,"38,000kms",Petrol,Manual,₹1.75 Lakh,ahmedabad
+Nissan,Nissan SunnyXE,2013,"55,000kms",Petrol,Manual,₹1.55 Lakh,ahmedabad
+Honda,Honda Jazz1.5,2010,"62,000kms",Diesel,Manual,₹1.95 Lakh,ahmedabad
+Hyundai,Hyundai i10Era,2010,"65,000kms",Petrol,Manual,₹1.85 Lakh,ahmedabad
+Renault,Renault KWID1.0 RXT,2018,"38,000kms",Petrol,Manual,₹2.50 Lakh,ahmedabad
+Tata,Tata IndicaGLX BSIII,2011,"18,000kms",Petrol,Manual,₹1.50 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI BS IV,2012,"59,243kms",Petrol,Manual,₹1.60 Lakh,ahmedabad
+Hyundai,Hyundai AccentGLE,2010,"1,25,000kms",Petrol,Manual,₹1.40 Lakh,ahmedabad
+Hyundai,Hyundai i10Era,2013,"68,000kms",Petrol,Manual,₹1.60 Lakh,ahmedabad
+Hyundai,Hyundai AccentGLE,2010,"1,15,000kms",Petrol,Manual,₹1.27 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI BS IV,2010,"65,000kms",Petrol,Manual,₹1.60 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi BSIII,2008,"64,000kms",Petrol,Manual,₹1.10 Lakh,ahmedabad
+Tata,Tata PunchAdventure BSVI,2022,"38,834kms",Petrol,Manual,₹4.77 Lakh,ahmedabad
+Hyundai,Hyundai Verna1.6 CRDi SX,2013,"1,15,188kms",Diesel,Manual,₹3.93 Lakh,ahmedabad
+Volkswagen,Volkswagen PoloCup Edition Comfortline,2019,"95,093kms",Petrol,Manual,₹4.24 Lakh,ahmedabad
+Honda,Honda BrioEX MT,2012,"70,000kms",Petrol,Manual,₹2.21 Lakh,ahmedabad
+Renault,Renault KWID1.0 RXT,2018,"38,000kms",Petrol,Manual,₹2.50 Lakh,ahmedabad
+Hyundai,Hyundai Verna1.6 CRDi SX,2013,"1,15,188kms",Diesel,Manual,₹3.93 Lakh,ahmedabad
+Volkswagen,Volkswagen PoloCup Edition Comfortline,2019,"95,093kms",Petrol,Manual,₹4.24 Lakh,ahmedabad
+Maruti,Maruti SwiftVDI,2016,"1,12,999kms",Diesel,Manual,₹3.92 Lakh,ahmedabad
+Maruti,Maruti BalenoAlpha Diesel,2019,"79,832kms",Diesel,Manual,₹5.25 Lakh,ahmedabad
+Tata,Tata Tigor1.2 Revotron XZ,2022,"1,16,866kms",Petrol,Manual,₹5.61 Lakh,ahmedabad
+Tata,Tata PunchAdventure BSVI,2022,"38,834kms",Petrol,Manual,₹4.77 Lakh,ahmedabad
+Hyundai,Hyundai SantroSportz CNG BSIV,2019,"60,682kms",CNG,Manual,₹3.12 Lakh,ahmedabad
+Maruti,Maruti BalenoZeta Diesel,2021,"81,825kms",Diesel,Manual,₹4.95 Lakh,ahmedabad
+Ford,Ford FreestyleTitanium,2021,"24,669kms",Petrol,Manual,₹4.80 Lakh,ahmedabad
+Renault,Renault KWID1.0 RXT Opt,2019,"30,452kms",Petrol,Manual,₹3.01 Lakh,ahmedabad
+Tata,Tata TiagoXZ CNG,2022,"93,497kms",CNG,Manual,₹4.93 Lakh,ahmedabad
+Maruti,Maruti CiazPetrol,2017,"69,719kms",Diesel,Manual,₹5.84 Lakh,ahmedabad
+Maruti,Maruti CiazDelta Diesel,2017,"70,504kms",Diesel,Automatic,₹5.24 Lakh,ahmedabad
+Maruti,Maruti BalenoZeta Diesel,2020,"54,893kms",Diesel,Manual,₹5.26 Lakh,ahmedabad
+Ford,Ford FigoTitanium AT 2019-2020,2018,"42,911kms",Petrol,Automatic,₹3.58 Lakh,ahmedabad
+Hyundai,Hyundai SantroSportz CNG,2019,"51,253kms",CNG,Manual,₹4.52 Lakh,ahmedabad
+Tata,Tata TiagoXT CNG,2022,"89,259kms",CNG,Manual,₹4.69 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVXI,2014,"57,498kms",Petrol,Manual,₹3.40 Lakh,ahmedabad
+Maruti,Maruti CiazPetrol,2017,"69,719kms",Diesel,Manual,₹5.84 Lakh,ahmedabad
+Maruti,Maruti CiazDelta Diesel,2017,"70,504kms",Diesel,Automatic,₹5.24 Lakh,ahmedabad
+Maruti,Maruti BalenoZeta Diesel,2020,"54,893kms",Diesel,Manual,₹5.26 Lakh,ahmedabad
+Ford,Ford FigoTitanium AT 2019-2020,2018,"42,911kms",Petrol,Automatic,₹3.58 Lakh,ahmedabad
+Hyundai,Hyundai SantroSportz CNG,2019,"51,253kms",CNG,Manual,₹4.52 Lakh,ahmedabad
+Tata,Tata TiagoXT CNG,2022,"89,259kms",CNG,Manual,₹4.69 Lakh,ahmedabad
+Maruti,Maruti SwiftZXI AMT,2018,"68,950kms",Petrol,Automatic,₹4.95 Lakh,ahmedabad
+Toyota,Toyota Corolla AltisD-4D J,2016,"71,000kms",Diesel,Manual,₹5.40 Lakh,ahmedabad
+Maruti,Maruti SwiftVXI,2014,"38,000kms",Petrol,Manual,₹3.75 Lakh,ahmedabad
+Hyundai,Hyundai i20Sportz 1.4 CRDi,2016,"62,000kms",Diesel,Manual,₹5.40 Lakh,ahmedabad
+Honda,Honda Cityi VTEC V,2015,"50,000kms",Petrol,Manual,₹5.50 Lakh,ahmedabad
+Maruti,Maruti SwiftZXI Plus,2016,"41,000kms",Petrol,Manual,₹5.15 Lakh,ahmedabad
+Hyundai,Hyundai Verna1.6 CRDi S,2016,"63,000kms",Diesel,Manual,₹5.35 Lakh,ahmedabad
+Honda,Honda Amaze 2nd GenVX BSVI,2022,"15,000kms",Petrol,Manual,₹5.75 Lakh,ahmedabad
+Tata,Tata TiagoXT Option,2023,"28,000kms",Petrol,Manual,₹4.50 Lakh,ahmedabad
+Maruti,Maruti ErtigaVXI CNG,2016,"1,10,000kms",CNG,Manual,₹5.51 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI CNG,2017,"78,000kms",CNG,Manual,₹3.40 Lakh,ahmedabad
+Honda,Honda CitySV MT,2014,"12,000kms",Petrol,Manual,₹3.50 Lakh,ahmedabad
+Nissan,Nissan MagniteXL,2023,"22,000kms",Petrol,Manual,₹5.75 Lakh,ahmedabad
+Maruti,Maruti SwiftVXI,2014,"38,000kms",Petrol,Manual,₹3.50 Lakh,ahmedabad
+Maruti,Maruti ErtigaVDI,2014,"81,000kms",Diesel,Manual,₹4.50 Lakh,ahmedabad
+Hyundai,Hyundai Verna1.6 CRDi SX,2015,"69,756kms",Diesel,Manual,₹4.99 Lakh,ahmedabad
+Nissan,Nissan MagniteXL,2023,"22,000kms",Petrol,Manual,₹5.75 Lakh,ahmedabad
+Mahindra,Mahindra ScorpioVLX 2WD BSIII,2014,"1,32,000kms",Diesel,Manual,₹4.50 Lakh,ahmedabad
+Maruti,Maruti Swift DzireAMT VXI,2018,"68,000kms",Petrol,Automatic,₹5.50 Lakh,ahmedabad
+Toyota,Toyota Corolla AltisD-4D J,2016,"71,000kms",Diesel,Manual,₹5.40 Lakh,ahmedabad
+Maruti,Maruti ErtigaVXI CNG,2016,"1,10,000kms",CNG,Manual,₹5.51 Lakh,ahmedabad
+Honda,Honda Amaze 2nd GenVX BSVI,2022,"15,000kms",Petrol,Manual,₹5.75 Lakh,ahmedabad
+Tata,Tata TiagoXT Option,2023,"28,000kms",Petrol,Manual,₹4.50 Lakh,ahmedabad
+Ford,Ford Ecosport1.5 Petrol Titanium Plus AT BSIV,2018,"42,000kms",Petrol,Automatic,₹4.99 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI CNG,2017,"78,000kms",CNG,Manual,₹3.40 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI CNG,2017,"63,000kms",CNG,Manual,₹3.50 Lakh,ahmedabad
+Mahindra,Mahindra Bolero NeoN8,2022,"80,302kms",Diesel,Manual,₹6 Lakh,ahmedabad
+Hyundai,Hyundai i20Magna 1.4 CRDi,2016,"73,000kms",Diesel,Manual,₹5.15 Lakh,ahmedabad
+Mahindra,Mahindra TUV 300T8,2015,"95,000kms",Diesel,Manual,₹4.25 Lakh,ahmedabad
+Hyundai,Hyundai Xcent PrimeT Plus CNG,2019,"75,000kms",CNG,Manual,₹3.95 Lakh,ahmedabad
+Maruti,Maruti SwiftVXI,2016,"78,000kms",Petrol,Manual,₹4.11 Lakh,ahmedabad
+Honda,Honda CitySV MT,2014,"12,000kms",Petrol,Manual,₹3.50 Lakh,ahmedabad
+Maruti,Maruti SwiftVXI,2014,"38,000kms",Petrol,Manual,₹3.50 Lakh,ahmedabad
+Toyota,Toyota GlanzaV AMT BSVI,2023,"26,218kms",Petrol,Automatic,₹7.62 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI CNG,2017,"63,000kms",CNG,Manual,₹3.50 Lakh,ahmedabad
+Hyundai,Hyundai Verna1.6 CRDi SX,2015,"69,756kms",Diesel,Manual,₹4.99 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI CNG,2017,"78,000kms",CNG,Manual,₹3.40 Lakh,ahmedabad
+Honda,Honda CitySV MT,2014,"12,000kms",Petrol,Manual,₹3.50 Lakh,ahmedabad
+Ford,Ford Ecosport1.5 Ti VCT AT Titanium,2020,"48,973kms",Petrol,Automatic,₹6.42 Lakh,ahmedabad
+Tata,Tata Nexon1.5 Revotorq XZ Plus Dual Tone,2023,"29,408kms",Diesel,Manual,₹6.68 Lakh,ahmedabad
+Skoda,Skoda Kushaq1.5 TSI Style DSG,2021,"73,920kms",Petrol,Automatic,₹9.85 Lakh,ahmedabad
+Ford,Ford Ecosport1.5 Ti VCT MT Titanium,2020,"76,268kms",Petrol,Manual,₹6.19 Lakh,ahmedabad
+Ford,Ford EcosportThunder Edition Diesel,2020,"83,649kms",Diesel,Manual,₹6.16 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.4 S,2019,"65,598kms",Diesel,Manual,₹9.17 Lakh,ahmedabad
+Toyota,Toyota GlanzaV AMT BSVI,2023,"26,218kms",Petrol,Automatic,₹7.62 Lakh,ahmedabad
+Ford,Ford EcosportTitanium,2018,"41,303kms",Petrol,Manual,₹6.40 Lakh,ahmedabad
+Ford,Ford Ecosport1.5 Ti VCT AT Titanium,2021,"1,11,292kms",Petrol,Automatic,₹6.76 Lakh,ahmedabad
+Kia,Kia SeltosGTX Plus DCT,2020,"70,224kms",Petrol,Automatic,₹9.25 Lakh,ahmedabad
+Kia,Kia SeltosGTX Plus S Turbo DCT,2019,"88,250kms",Petrol,Automatic,₹8.89 Lakh,ahmedabad
+Kia,Kia SeltosGTX Plus,2020,"46,990kms",Petrol,Manual,₹7.56 Lakh,ahmedabad
+Honda,Honda AmazeVX,2024,"20,395kms",Petrol,Manual,₹7.59 Lakh,ahmedabad
+Ford,Ford EcosportSE Petrol,2021,"37,435kms",Petrol,Manual,₹7.59 Lakh,ahmedabad
+Volkswagen,Volkswagen Taigun1.5 TSI GT Plus DSG,2022,"55,492kms",Petrol,Automatic,₹9.67 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10 NiosAMT Magna,2020,"27,000kms",Petrol,Automatic,₹6.11 Lakh,ahmedabad
+Honda,Honda AmazeVX,2024,"20,395kms",Petrol,Manual,₹7.59 Lakh,ahmedabad
+Ford,Ford EcosportSE Petrol,2021,"37,435kms",Petrol,Manual,₹7.59 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.4 S,2019,"65,598kms",Diesel,Manual,₹9.17 Lakh,ahmedabad
+Volkswagen,Volkswagen Taigun1.5 TSI GT Plus DSG,2022,"55,492kms",Petrol,Automatic,₹9.67 Lakh,ahmedabad
+Ford,Ford Ecosport1.5 Petrol Titanium BSIV,2019,"1,10,000kms",Petrol,Manual,₹7.21 Lakh,ahmedabad
+Hyundai,Hyundai VernaCRDi 1.6 AT SX Plus,2017,"80,000kms",Diesel,Automatic,₹8.85 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10 NiosAMT Magna,2020,"27,000kms",Petrol,Automatic,₹6.11 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.6 CRDi AT SX Plus,2015,"82,000kms",Diesel,Automatic,₹6.15 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10 NiosSportz,2022,"28,000kms",Petrol,Manual,₹6.50 Lakh,ahmedabad
+Honda,Honda AmazeZX CVT,2025,"4,000kms",Petrol,Automatic,₹7.30 Lakh,ahmedabad
+Maruti,Maruti Baleno1.2 Zeta,2021,"77,000kms",Petrol,Manual,₹6.50 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10 NiosAMT Sportz,2021,"38,000kms",Petrol,Automatic,₹6.50 Lakh,ahmedabad
+Maruti,Maruti Swift DzireAMT ZXI Plus,2018,"45,000kms",Petrol,Automatic,₹6.25 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10 NiosSportz CNG,2021,"55,000kms",CNG,Manual,₹6.45 Lakh,ahmedabad
+Hyundai,Hyundai VenueSX Turbo,2024,"20,200kms",Petrol,Manual,₹9 Lakh,ahmedabad
+Maruti,Maruti ErtigaVXI CNG,2022,"62,000kms",CNG,Manual,₹9 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.6 CRDi SX,2015,"64,594kms",Diesel,Manual,₹7.25 Lakh,ahmedabad
+Mahindra,Mahindra XUV500AT W10 FWD,2018,"80,000kms",Diesel,Automatic,₹8.90 Lakh,ahmedabad
+Hyundai,Hyundai Elantra1.6 SX Option AT,2018,"99,001kms",Diesel,Automatic,₹8.75 Lakh,ahmedabad
+Hyundai,Hyundai Elantra2.0 SX,2017,"48,000kms",Petrol,Manual,₹7.35 Lakh,ahmedabad
+Maruti,Maruti ErtigaVXI CNG,2022,"62,000kms",CNG,Manual,₹9 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.6 CRDi SX,2015,"64,594kms",Diesel,Manual,₹7.25 Lakh,ahmedabad
+Mahindra,Mahindra XUV500AT W10 FWD,2018,"80,000kms",Diesel,Automatic,₹8.90 Lakh,ahmedabad
+Hyundai,Hyundai Elantra1.6 SX Option AT,2018,"99,001kms",Diesel,Automatic,₹8.75 Lakh,ahmedabad
+Hyundai,Hyundai Elantra2.0 SX,2017,"48,000kms",Petrol,Manual,₹7.35 Lakh,ahmedabad
+Hyundai,Hyundai VernaCRDi 1.6 AT SX Plus,2017,"69,000kms",Diesel,Automatic,₹8.65 Lakh,ahmedabad
+MG,MG Hector PlusSharp CVT,2021,"95,000kms",Petrol,Automatic,₹9.45 Lakh,ahmedabad
+Hyundai,Hyundai VenueSX Plus Turbo DCT BSIV,2019,"68,000kms",Petrol,Automatic,₹6.99 Lakh,ahmedabad
+Kia,Kia SonetHTK Plus Diesel BSVI,2021,"72,000kms",Diesel,Manual,₹8.25 Lakh,ahmedabad
+Honda,Honda JazzZX,2021,"52,073kms",Petrol,Manual,₹6.60 Lakh,ahmedabad
+Honda,Honda CityCVT,2023,"17,797kms",Petrol,Automatic,₹16.51 Lakh,ahmedabad
+Honda,Honda City HybridZX Sensing eHEV,2023,"36,529kms",Petrol,Automatic,₹19.74 Lakh,ahmedabad
+Toyota,Toyota Innova Crysta2.4 VX MT,2019,"67,000kms",Diesel,Manual,₹18.50 Lakh,ahmedabad
+Toyota,Toyota Innova Crysta2.4 G MT,2020,"1,06,000kms",Diesel,Manual,₹18.49 Lakh,ahmedabad
+Mahindra,Mahindra Thar ROXXAX5L RWD Diesel AT,2024,"50,000kms",Diesel,Automatic,₹17.90 Lakh,ahmedabad
+Hyundai,Hyundai CretaSX (O) Diesel AT,2024,"64,000kms",Diesel,Automatic,₹17.90 Lakh,ahmedabad
+Hyundai,Hyundai CretaS (O) Diesel AT,2024,"77,000kms",Diesel,Automatic,₹17.50 Lakh,ahmedabad
+Toyota,Toyota Innova Crysta2.4 G 7 STR,2021,"76,000kms",Diesel,Manual,₹19.90 Lakh,ahmedabad
+Honda,Honda WR-Vi-DTEC VX,2020,"1,02,907kms",Diesel,Manual,₹7 Lakh,ahmedabad
+Volkswagen,Volkswagen Taigun1.0 Topline,2022,"47,548kms",Petrol,Manual,₹9.70 Lakh,ahmedabad
+Hyundai,Hyundai CretaSX (O) Diesel AT,2024,"64,000kms",Diesel,Automatic,₹17.90 Lakh,ahmedabad
+Hyundai,Hyundai CretaS (O) Diesel AT,2024,"77,000kms",Diesel,Automatic,₹17.50 Lakh,ahmedabad
+Toyota,Toyota Innova Crysta2.4 G 7 STR,2021,"76,000kms",Diesel,Manual,₹19.90 Lakh,ahmedabad
+Honda,Honda WR-Vi-DTEC VX,2020,"1,02,907kms",Diesel,Manual,₹7 Lakh,ahmedabad
+Volkswagen,Volkswagen Taigun1.0 Topline,2022,"47,548kms",Petrol,Manual,₹9.70 Lakh,ahmedabad
+Tata,Tata PunchCreative AMT DT,2022,"42,070kms",Petrol,Automatic,₹6.68 Lakh,ahmedabad
+Hyundai,Hyundai VernaSX Opt Turbo,2022,"42,142kms",Petrol,Automatic,₹11.78 Lakh,ahmedabad
+Hyundai,Hyundai CretaSX Opt Turbo DCT,2022,"83,873kms",Petrol,Automatic,₹12.49 Lakh,ahmedabad
+Hyundai,Hyundai VernaSX Turbo,2024,"21,111kms",Petrol,Manual,₹13.17 Lakh,ahmedabad
+Toyota,Toyota Innova Crysta2.4 Zx 7Str,2019,"75,344kms",Diesel,Manual,₹14.28 Lakh,ahmedabad
+Toyota,Toyota Innova Crysta2.4 G 8Str,2016,"95,708kms",Diesel,Manual,₹12.59 Lakh,ahmedabad
+Kia,Kia SeltosHTX,2022,"37,220kms",Petrol,Manual,₹10.65 Lakh,ahmedabad
+Hyundai,Hyundai CretaSX Opt Turbo DCT,2022,"66,882kms",Petrol,Automatic,₹13.01 Lakh,ahmedabad
+Kia,Kia SeltosHTX Plus Diesel,2022,"55,000kms",Diesel,Manual,₹13.75 Lakh,ahmedabad
+Maruti,Maruti ErtigaCNG VXI,2021,"20,000kms",CNG,Manual,₹10.25 Lakh,ahmedabad
+Maruti,Maruti ErtigaCNG VXI,2021,"62,000kms",CNG,Manual,₹10.50 Lakh,ahmedabad
+Volkswagen,Volkswagen Taigun1.0 Topline AT,2023,"8,000kms",Petrol,Automatic,₹14.50 Lakh,ahmedabad
+Kia,Kia SonetHTX Diesel,2024,"7,000kms",Diesel,Manual,₹12.50 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.4 CRDi S Plus,2020,"68,000kms",Diesel,Manual,₹10.75 Lakh,ahmedabad
+Tata,Tata HarrierXTA Plus AT BSVI,2022,"82,000kms",Diesel,Automatic,₹13.25 Lakh,ahmedabad
+Maruti,Maruti ErtigaCNG VXI,2021,"62,000kms",CNG,Manual,₹10.50 Lakh,ahmedabad
+Volkswagen,Volkswagen Taigun1.0 Topline AT,2023,"8,000kms",Petrol,Automatic,₹14.50 Lakh,ahmedabad
+Kia,Kia SonetHTX Diesel,2024,"7,000kms",Diesel,Manual,₹12.50 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.4 CRDi S Plus,2020,"68,000kms",Diesel,Manual,₹10.75 Lakh,ahmedabad
+Tata,Tata HarrierXTA Plus AT BSVI,2022,"82,000kms",Diesel,Automatic,₹13.25 Lakh,ahmedabad
+Hyundai,Hyundai CretaE Diesel,2023,"69,000kms",Diesel,Manual,₹11.25 Lakh,ahmedabad
+Maruti,Maruti CelerioZXI,2015,"77,137kms",Petrol,Manual,₹3.36 Lakh,ahmedabad
+Renault,Renault KWID1.0 RXT Opt,2019,"56,959kms",Petrol,Manual,₹3.14 Lakh,ahmedabad
+Hyundai,Hyundai AlcazarSignature Diesel AT,2021,"31,008kms",Diesel,Automatic,₹20.27 Lakh,ahmedabad
+Toyota,Toyota Fortuner2.7 2WD MT BSIV,2017,"1,85,000kms",Petrol,Manual,₹21.50 Lakh,ahmedabad
+Toyota,Toyota Fortuner2.8 2WD MT BSIV,2018,"91,000kms",Diesel,Manual,₹21.50 Lakh,ahmedabad
+Renault,Renault KWIDRXL,2016,"67,101kms",Petrol,Manual,₹1.76 Lakh,ahmedabad
+Renault,Renault KWID1.0 AMT RXT,2017,"22,166kms",Petrol,Automatic,₹2.69 Lakh,ahmedabad
+Renault,Renault KWID1.0 AMT RXT,2018,"35,812kms",Petrol,Automatic,₹2.94 Lakh,ahmedabad
+Datsun,Datsun RediGOT,2021,"38,994kms",Petrol,Manual,₹1.81 Lakh,ahmedabad
+Renault,Renault KWID1.0 AMT RXT,2018,"41,293kms",Petrol,Automatic,₹2.47 Lakh,ahmedabad
+Nissan,Nissan MicraXV CVT,2015,"43,000kms",Petrol,Automatic,₹2.90 Lakh,ahmedabad
+Maruti,Maruti CelerioVXI AT,2014,"65,000kms",Petrol,Automatic,₹2.95 Lakh,ahmedabad
+Datsun,Datsun GOA,2017,"46,000kms",Petrol,Manual,₹1.45 Lakh,ahmedabad
+Maruti,Maruti SwiftLDI,2013,"1,16,000kms",Diesel,Manual,₹2.70 Lakh,ahmedabad
+Renault,Renault KWID1.0 AMT RXT,2018,"41,293kms",Petrol,Automatic,₹2.47 Lakh,ahmedabad
+Nissan,Nissan MicraXV CVT,2015,"43,000kms",Petrol,Automatic,₹2.90 Lakh,ahmedabad
+Maruti,Maruti CelerioVXI AT,2014,"65,000kms",Petrol,Automatic,₹2.95 Lakh,ahmedabad
+Datsun,Datsun GOA,2017,"46,000kms",Petrol,Manual,₹1.45 Lakh,ahmedabad
+Maruti,Maruti SwiftLDI,2013,"1,16,000kms",Diesel,Manual,₹2.70 Lakh,ahmedabad
+Hyundai,Hyundai EONMagna,2013,"79,845kms",Petrol,Manual,₹2.10 Lakh,ahmedabad
+Volkswagen,Volkswagen Taigun1.0 Topline,2022,"54,814kms",Petrol,Manual,₹10.03 Lakh,ahmedabad
+Hyundai,Hyundai i10Sportz 1.1L,2014,"26,342kms",Petrol,Manual,₹2.98 Lakh,ahmedabad
+Hyundai,Hyundai VenueSX Opt Turbo DCT Special Edition,2021,"32,780kms",Petrol,Automatic,₹7.94 Lakh,ahmedabad
+Nissan,Nissan MagniteTurbo CVT XV Premium,2023,"19,259kms",Petrol,Automatic,₹8.22 Lakh,ahmedabad
+Honda,Honda AmazeVX CVT Petrol,2023,"12,832kms",Petrol,Automatic,₹7.84 Lakh,ahmedabad
+Renault,Renault KigerRXZ,2021,"46,461kms",Petrol,Manual,₹4.48 Lakh,ahmedabad
+Maruti,Maruti Vitara BrezzaZDi Plus,2016,"1,04,764kms",Diesel,Manual,₹5.14 Lakh,ahmedabad
+MG,MG AstorSuper MT,2023,"48,083kms",Petrol,Manual,₹6.79 Lakh,ahmedabad
+MG,MG Hector PlusSharp CVT,2021,"42,349kms",Petrol,Automatic,₹12.72 Lakh,ahmedabad
+Hyundai,Hyundai EONMagna,2016,"45,015kms",Petrol,Manual,₹2.21 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI BSVI,2013,"99,926kms",Petrol,Manual,₹2.21 Lakh,ahmedabad
+MG,MG Hector PlusSharp CVT,2021,"58,637kms",Petrol,Automatic,₹11.20 Lakh,ahmedabad
+Hyundai,Hyundai EONEra Plus,2016,"55,303kms",Petrol,Manual,₹1.65 Lakh,ahmedabad
+Renault,Renault TriberRXL,2020,"60,261kms",Petrol,Manual,₹4.09 Lakh,ahmedabad
+Hyundai,Hyundai EONMagna,2016,"45,015kms",Petrol,Manual,₹2.21 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI BSVI,2013,"99,926kms",Petrol,Manual,₹2.21 Lakh,ahmedabad
+MG,MG Hector PlusSharp CVT,2021,"58,637kms",Petrol,Automatic,₹11.20 Lakh,ahmedabad
+Hyundai,Hyundai EONEra Plus,2016,"55,303kms",Petrol,Manual,₹1.65 Lakh,ahmedabad
+Renault,Renault TriberRXL,2020,"60,261kms",Petrol,Manual,₹4.09 Lakh,ahmedabad
+Maruti,Maruti Vitara BrezzaZDi,2017,"1,11,689kms",Diesel,Manual,₹5.40 Lakh,ahmedabad
+Ford,Ford EcosportTitanium Plus AT,2018,"75,658kms",Petrol,Automatic,₹5.86 Lakh,ahmedabad
+Skoda,Skoda Octavia2.0 TDI AT L K,2018,"1,47,902kms",Diesel,Automatic,₹9.50 Lakh,ahmedabad
+Skoda,Skoda Kushaq1.0 TSI Ambition,2023,"65,263kms",Petrol,Manual,₹7.20 Lakh,ahmedabad
+Hyundai,Hyundai VenueSX Opt Turbo DCT Special Edition,2021,"62,111kms",Petrol,Automatic,₹8.21 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI,2014,"55,647kms",Petrol,Manual,₹2.66 Lakh,ahmedabad
+Hyundai,Hyundai i20Petrol CVT Asta,2018,"26,851kms",Petrol,Automatic,₹5.81 Lakh,ahmedabad
+Hyundai,Hyundai XcentPetrol,2019,"23,463kms",Petrol,Manual,₹4.69 Lakh,ahmedabad
+Hyundai,Hyundai XcentPetrol,2019,"27,953kms",Petrol,Manual,₹5.29 Lakh,ahmedabad
+Hyundai,Hyundai VernaSX Turbo DCT,2023,"23,529kms",Petrol,Automatic,₹13.42 Lakh,ahmedabad
+Renault,Renault KWIDRXT,2016,"24,707kms",Petrol,Manual,₹2.52 Lakh,ahmedabad
+Jeep,Jeep Compass1.4 Limited Plus BSIV,2018,"76,385kms",Petrol,Automatic,₹7.75 Lakh,ahmedabad
+Nissan,Nissan MagniteTurbo CVT XV,2021,"60,083kms",Petrol,Automatic,₹6.61 Lakh,ahmedabad
+Kia,Kia CarensLuxury Plus Diesel AT 6 STR,2022,"40,784kms",Diesel,Automatic,₹15.68 Lakh,ahmedabad
+Tata,Tata Tiago NRGPetrol,2018,"73,428kms",Petrol,Manual,₹3.63 Lakh,ahmedabad
+Renault,Renault KWIDRXT,2016,"24,707kms",Petrol,Manual,₹2.52 Lakh,ahmedabad
+Jeep,Jeep Compass1.4 Limited Plus BSIV,2018,"76,385kms",Petrol,Automatic,₹7.75 Lakh,ahmedabad
+Nissan,Nissan MagniteTurbo CVT XV,2021,"60,083kms",Petrol,Automatic,₹6.61 Lakh,ahmedabad
+Kia,Kia CarensLuxury Plus Diesel AT 6 STR,2022,"40,784kms",Diesel,Automatic,₹15.68 Lakh,ahmedabad
+Tata,Tata Tiago NRGPetrol,2018,"73,428kms",Petrol,Manual,₹3.63 Lakh,ahmedabad
+Renault,Renault DusterRXS,2021,"80,122kms",Petrol,Manual,₹4.20 Lakh,ahmedabad
+Maruti,Maruti Celerio XZXI,2020,"37,210kms",Petrol,Manual,₹4.33 Lakh,ahmedabad
+Renault,Renault KWID1.0 RXT Opt,2021,"47,338kms",Petrol,Manual,₹3.33 Lakh,ahmedabad
+Hyundai,Hyundai i10Magna 1.1,2013,"62,833kms",Petrol,Manual,₹2.78 Lakh,ahmedabad
+Renault,Renault KWID1.0 RXT Opt,2017,"47,103kms",Petrol,Manual,₹2.53 Lakh,ahmedabad
+Honda,Honda CityZX MT,2023,"30,696kms",Petrol,Manual,₹10.35 Lakh,ahmedabad
+Maruti,Maruti S CrossZeta,2022,"42,166kms",Petrol,Manual,₹7.53 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.6 VTVT AT SX Plus,2019,"91,383kms",Petrol,Automatic,₹7.96 Lakh,ahmedabad
+Kia,Kia CarensLuxury Plus Diesel AT 6 STR,2022,"99,412kms",Diesel,Automatic,₹14.53 Lakh,ahmedabad
+Honda,Honda AmazeVX i-VTEC,2014,"70,508kms",Petrol,Manual,₹3.91 Lakh,ahmedabad
+Hyundai,Hyundai i20 N-LineN8 DCT,2023,"49,724kms",Petrol,Automatic,₹7.89 Lakh,ahmedabad
+Honda,Honda CityZX MT,2020,"1,22,817kms",Petrol,Manual,₹8.45 Lakh,ahmedabad
+Honda,Honda AmazeS i-VTEC,2013,"54,455kms",Petrol,Manual,₹3.13 Lakh,ahmedabad
+Tata,Tata Tigor1.2 Revotron XZ,2023,"26,389kms",Petrol,Manual,₹6.67 Lakh,ahmedabad
+Mahindra,Mahindra XUV700AX5 7 Str Diesel,2022,"58,164kms",Diesel,Manual,₹13.22 Lakh,ahmedabad
+Hyundai,Hyundai Verna1.6 SX VTVT (O) AT,2021,"41,492kms",Petrol,Automatic,₹10.87 Lakh,ahmedabad
+Honda,Honda AmazeVX CVT i-VTEC,2017,"67,173kms",Petrol,Automatic,₹5 Lakh,ahmedabad
+Honda,Honda AmazeVX i-VTEC,2014,"70,508kms",Petrol,Manual,₹3.91 Lakh,ahmedabad
+Hyundai,Hyundai EONMagna,2013,"79,845kms",Petrol,Manual,₹2.10 Lakh,ahmedabad
+Volkswagen,Volkswagen Taigun1.0 Topline,2022,"54,814kms",Petrol,Manual,₹10.03 Lakh,ahmedabad
+Hyundai,Hyundai i10Sportz 1.1L,2014,"26,342kms",Petrol,Manual,₹2.98 Lakh,ahmedabad
+Hyundai,Hyundai EONEra Plus,2016,"55,303kms",Petrol,Manual,₹1.65 Lakh,ahmedabad
+Renault,Renault KigerRXZ,2021,"46,461kms",Petrol,Manual,₹4.48 Lakh,ahmedabad
+Maruti,Maruti Vitara BrezzaZDi Plus,2016,"1,04,764kms",Diesel,Manual,₹5.14 Lakh,ahmedabad
+Skoda,Skoda Octavia2.0 TDI AT L K,2018,"1,47,902kms",Diesel,Automatic,₹9.50 Lakh,ahmedabad
+MG,MG AstorSuper MT,2023,"48,083kms",Petrol,Manual,₹6.79 Lakh,ahmedabad
+MG,MG Hector PlusSharp CVT,2021,"42,349kms",Petrol,Automatic,₹12.72 Lakh,ahmedabad
+Hyundai,Hyundai XcentPetrol,2019,"23,463kms",Petrol,Manual,₹4.69 Lakh,ahmedabad
+Hyundai,Hyundai XcentPetrol,2019,"27,953kms",Petrol,Manual,₹5.29 Lakh,ahmedabad
+Hyundai,Hyundai VernaSX Turbo DCT,2023,"23,529kms",Petrol,Automatic,₹13.42 Lakh,ahmedabad
+Renault,Renault KWIDRXT,2016,"24,707kms",Petrol,Manual,₹2.52 Lakh,ahmedabad
+Maruti,Maruti BalenoAlpha Diesel,2017,"1,17,231kms",Diesel,Manual,₹4.67 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI BSVI,2013,"99,926kms",Petrol,Manual,₹2.21 Lakh,ahmedabad
+MG,MG Hector PlusSharp CVT,2021,"58,637kms",Petrol,Automatic,₹11.20 Lakh,ahmedabad
+Renault,Renault TriberRXL,2020,"60,261kms",Petrol,Manual,₹4.09 Lakh,ahmedabad
+Tata,Tata Tigor1.2 Revotron XZ,2023,"25,985kms",Petrol,Manual,₹6.77 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI,2011,"47,997kms",Petrol,Manual,₹2.03 Lakh,ahmedabad
+Hyundai,Hyundai VenueSX Turbo iMT,2022,"49,998kms",Petrol,Manual,₹7.16 Lakh,ahmedabad
+Skoda,Skoda Kushaq1.0 TSI Style,2021,"80,533kms",Petrol,Manual,₹8.06 Lakh,ahmedabad
+Volkswagen,Volkswagen VentoRed And White Edition,2020,"1,11,318kms",Petrol,Automatic,₹6.34 Lakh,ahmedabad
+Skoda,Skoda OctaviaElegance 2.0 TDI AT,2015,"1,07,702kms",Diesel,Automatic,₹8.37 Lakh,ahmedabad
+Hyundai,Hyundai i20Sportz 1.2,2019,"1,06,534kms",Petrol,Manual,₹4.90 Lakh,ahmedabad
+Maruti,Maruti BalenoAlpha Diesel,2017,"1,17,231kms",Diesel,Manual,₹4.67 Lakh,ahmedabad
+Maruti,Maruti ErtigaZXI Plus,2020,"42,000kms",Petrol,Manual,₹9.50 Lakh,ahmedabad
+Hyundai,Hyundai AuraS,2021,"46,000kms",Petrol,Manual,₹6.15 Lakh,ahmedabad
+Hyundai,Hyundai i20Magna 1.2,2017,"59,000kms",Petrol,Manual,₹5.51 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10Sportz,2019,"61,000kms",Petrol,Manual,₹5.25 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 CRDi Magna,2018,"62,000kms",Diesel,Manual,₹4.95 Lakh,ahmedabad
+Maruti,Maruti Swift DzireAMT ZDI,2017,"57,000kms",Diesel,Automatic,₹6.25 Lakh,ahmedabad
+Maruti,Maruti ErtigaBSIV ZXI Plus,2020,"56,000kms",Petrol,Manual,₹9.50 Lakh,ahmedabad
+Maruti,Maruti ErtigaBSIV VXI,2021,"31,000kms",Petrol,Manual,₹9.19 Lakh,ahmedabad
+Hyundai,Hyundai i20Asta Option 1.2,2017,"60,000kms",Petrol,Manual,₹5.95 Lakh,ahmedabad
+Maruti,Maruti Vitara BrezzaVDi Option,2017,"40,000kms",Diesel,Manual,₹7.50 Lakh,ahmedabad
+Hyundai,Hyundai i20Asta 1.2,2016,"47,000kms",Petrol,Manual,₹5.35 Lakh,ahmedabad
+Maruti,Maruti Wagon RAMT VXI,2019,"38,000kms",Petrol,Automatic,₹4.90 Lakh,ahmedabad
+Honda,Honda CityCVT,2023,"8,120kms",Petrol,Automatic,₹15.66 Lakh,ahmedabad
+Honda,Honda CityCVT,2023,"15,001kms",Petrol,Automatic,₹15.51 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10Magna,2017,"40,389kms",Petrol,Manual,₹4.65 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10Sportz,2017,"58,539kms",Petrol,Manual,₹4.75 Lakh,ahmedabad
+Hyundai,Hyundai i10Magna,2011,"50,000kms",Petrol,Manual,₹2.40 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI BS IV,2012,"68,000kms",Petrol,Manual,₹2.75 Lakh,ahmedabad
+Hyundai,Hyundai i20Asta 1.2,2016,"47,000kms",Petrol,Manual,₹5.35 Lakh,ahmedabad
+Honda,Honda ElevateZX CVT Non RF,2023,"24,114kms",Petrol,Automatic,₹15.18 Lakh,ahmedabad
+Hyundai,Hyundai VenueSX Plus Turbo DCT BSIV,2019,"55,000kms",Petrol,Automatic,₹7.90 Lakh,ahmedabad
+Maruti,Maruti Wagon RAMT VXI,2019,"38,000kms",Petrol,Automatic,₹4.90 Lakh,ahmedabad
+Honda,Honda BrioS MT,2012,"66,000kms",Petrol,Manual,₹2.35 Lakh,ahmedabad
+Hyundai,Hyundai i20Sportz Plus,2020,"55,000kms",Petrol,Manual,₹6.25 Lakh,ahmedabad
+Hyundai,Hyundai i20Magna 1.2,2015,"51,000kms",Petrol,Manual,₹4.60 Lakh,ahmedabad
+Maruti,Maruti ErtigaZXI Plus,2020,"42,000kms",Petrol,Manual,₹9.50 Lakh,ahmedabad
+Hyundai,Hyundai AuraS,2021,"46,000kms",Petrol,Manual,₹6.15 Lakh,ahmedabad
+Hyundai,Hyundai i20Magna 1.2,2017,"59,000kms",Petrol,Manual,₹5.51 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10Sportz,2019,"61,000kms",Petrol,Manual,₹5.25 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 CRDi Magna,2018,"62,000kms",Diesel,Manual,₹4.95 Lakh,ahmedabad
+Maruti,Maruti Swift DzireAMT ZDI,2017,"57,000kms",Diesel,Automatic,₹6.25 Lakh,ahmedabad
+Maruti,Maruti ErtigaBSIV ZXI Plus,2020,"56,000kms",Petrol,Manual,₹9.50 Lakh,ahmedabad
+Mahindra,Mahindra XUV700AX5 AT BSVI,2022,"1,57,000kms",Petrol,Automatic,₹12.49 Lakh,ahmedabad
+Volkswagen,Volkswagen Polo1.2 MPI Comfortline,2013,"97,000kms",Petrol,Manual,₹2.70 Lakh,ahmedabad
+Mahindra,Mahindra ScorpioS5,2020,"75,000kms",Diesel,Manual,₹10.50 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.6 SX,2018,"72,000kms",Petrol,Manual,₹7.85 Lakh,ahmedabad
+Tata,Tata HarrierXZA Plus AT BSVI,2022,"72,000kms",Diesel,Automatic,₹14.65 Lakh,ahmedabad
+Tata,Tata Tiago1.2 Revotron XT,2019,"62,000kms",Petrol,Manual,₹3.60 Lakh,ahmedabad
+Hyundai,Hyundai CretaSX Executive BSVI,2021,"57,000kms",Petrol,Manual,₹10.50 Lakh,ahmedabad
+Ford,Ford Ecosport1.5 Ti VCT MT Titanium,2014,"70,000kms",Petrol,Manual,₹3.55 Lakh,ahmedabad
+Hyundai,Hyundai VenueSX Plus Turbo DCT BSIV,2019,"55,000kms",Petrol,Automatic,₹7.90 Lakh,ahmedabad
+Maruti,Maruti ErtigaVXI,2023,"31,000kms",Petrol,Manual,₹9.25 Lakh,ahmedabad
+Ford,Ford Endeavour3.2 Titanium AT 4X4,2017,"1,63,000kms",Diesel,Automatic,₹18.50 Lakh,ahmedabad
+Maruti,Maruti BalenoZeta,2021,"28,000kms",Petrol,Manual,₹6.50 Lakh,ahmedabad
+Hyundai,Hyundai AlcazarSignature Diesel BSVI,2022,"78,001kms",Diesel,Manual,₹15.90 Lakh,ahmedabad
+Skoda,Skoda Rapid1.5 TDI AT Ambition,2014,"99,000kms",Diesel,Automatic,₹4.90 Lakh,ahmedabad
+Tata,Tata HarrierXZ Plus BSVI,2021,"63,000kms",Diesel,Manual,₹14.50 Lakh,ahmedabad
+Skoda,Skoda SuperbLaurin & klement,2023,"44,000kms",Petrol,Automatic,₹29.50 Lakh,ahmedabad
+Honda,Honda AmazeS i-Vtech,2015,"53,000kms",Petrol,Manual,₹3 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI BS IV,2013,"66,000kms",Petrol,Manual,₹2.25 Lakh,ahmedabad
+Mahindra,Mahindra XUV500R W10 FWD,2016,"85,000kms",Diesel,Manual,₹7.50 Lakh,ahmedabad
+Honda,Honda CityCVT,2023,"8,120kms",Petrol,Automatic,₹15.66 Lakh,ahmedabad
+Volkswagen,Volkswagen Polo1.2 MPI Comfortline,2013,"97,000kms",Petrol,Manual,₹2.70 Lakh,ahmedabad
+Mahindra,Mahindra ScorpioS5,2020,"75,000kms",Diesel,Manual,₹10.50 Lakh,ahmedabad
+Hyundai,Hyundai CretaSX Diesel,2023,"67,000kms",Diesel,Manual,₹12.99 Lakh,ahmedabad
+Hyundai,Hyundai Venue N LineN6 Turbo,2023,"3,000kms",Petrol,Manual,₹8.95 Lakh,ahmedabad
+Honda,Honda Jazz1.2 S AT i VTEC,2018,"42,463kms",Petrol,Automatic,₹4.11 Lakh,ahmedabad
+Hyundai,Hyundai CretaSX Executive BSVI,2021,"57,000kms",Petrol,Manual,₹10.50 Lakh,ahmedabad
+Hyundai,Hyundai VenueSX Plus Turbo DCT BSIV,2019,"50,000kms",Petrol,Automatic,₹7.25 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.6 SX,2018,"72,000kms",Petrol,Manual,₹7.85 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.6 SX Automatic Diesel,2020,"57,000kms",Diesel,Automatic,₹12.75 Lakh,ahmedabad
+Mahindra,Mahindra XUV500R W10 FWD,2016,"89,000kms",Diesel,Manual,₹4.95 Lakh,ahmedabad
+Maruti,Maruti BrezzaLxi,2024,"30,000kms",Petrol,Manual,₹7.90 Lakh,ahmedabad
+Mahindra,Mahindra XUV500AT W10 AWD,2016,"77,000kms",Diesel,Automatic,₹6.50 Lakh,ahmedabad
+Tata,Tata Tiago1.2 Revotron XT,2019,"62,000kms",Petrol,Manual,₹3.60 Lakh,ahmedabad
+Tata,Tata HarrierXZA Plus AT BSVI,2022,"72,000kms",Diesel,Automatic,₹14.65 Lakh,ahmedabad
+Honda,Honda Cityi VTEC CVT VX,2015,"35,915kms",Petrol,Automatic,₹4.80 Lakh,ahmedabad
+Hyundai,Hyundai VenueSX Dual Tone Turbo BSIV,2019,"1,10,000kms",Petrol,Manual,₹6.35 Lakh,ahmedabad
+Honda,Honda AmazeS Diesel,2021,"58,000kms",Diesel,Manual,₹6.50 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.6 VTVT AT SX Plus,2017,"94,000kms",Petrol,Automatic,₹7.25 Lakh,ahmedabad
+Honda,Honda Cityi VTEC CVT SV,2014,"90,000kms",Petrol,Automatic,₹4.55 Lakh,ahmedabad
+Maruti,Maruti ErtigaBSIV VXI,2016,"89,744kms",Petrol,Manual,₹5.70 Lakh,ahmedabad
+Honda,Honda BrioS MT,2012,"67,325kms",Petrol,Manual,₹2.10 Lakh,ahmedabad
+Honda,Honda City1.5 S MT,2011,"46,680kms",Petrol,Manual,₹2.80 Lakh,ahmedabad
+Maruti,Maruti ErtigaVXI,2022,"15,000kms",Petrol,Manual,₹9.11 Lakh,ahmedabad
+Maruti,Maruti Vitara BrezzaVDi,2018,"63,000kms",Diesel,Manual,₹6.90 Lakh,ahmedabad
+Skoda,Skoda Rapid1.5 TDI AT Ambition,2014,"85,000kms",Diesel,Automatic,₹4.90 Lakh,ahmedabad
+Hyundai,Hyundai i20Petrol Asta Option,2019,"58,000kms",Petrol,Manual,₹6.21 Lakh,ahmedabad
+Maruti,Maruti ErtigaBSIV VXI,2016,"89,744kms",Petrol,Manual,₹5.70 Lakh,ahmedabad
+Tata,Tata HarrierXT Plus Dark Edition,2023,"45,000kms",Diesel,Manual,₹14.90 Lakh,ahmedabad
+Mahindra,Mahindra XUV500AT W10 AWD,2016,"77,000kms",Diesel,Automatic,₹6.50 Lakh,ahmedabad
+Honda,Honda Cityi VTEC CVT VX,2015,"35,915kms",Petrol,Automatic,₹4.80 Lakh,ahmedabad
+Hyundai,Hyundai VenueSX Dual Tone Turbo BSIV,2019,"1,10,000kms",Petrol,Manual,₹6.35 Lakh,ahmedabad
+Honda,Honda AmazeS Diesel,2021,"58,000kms",Diesel,Manual,₹6.50 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.6 VTVT AT SX Plus,2017,"94,000kms",Petrol,Automatic,₹7.25 Lakh,ahmedabad
+Honda,Honda Cityi VTEC CVT SV,2014,"90,000kms",Petrol,Automatic,₹4.55 Lakh,ahmedabad
+Hyundai,Hyundai CretaSX Diesel,2023,"67,000kms",Diesel,Manual,₹12.99 Lakh,ahmedabad
+Hyundai,Hyundai Venue N LineN6 Turbo,2023,"3,000kms",Petrol,Manual,₹8.95 Lakh,ahmedabad
+Maruti,Maruti BrezzaLxi,2024,"30,000kms",Petrol,Manual,₹7.90 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.6 SX Automatic Diesel,2020,"57,000kms",Diesel,Automatic,₹12.75 Lakh,ahmedabad
+Mahindra,Mahindra XUV500R W10 FWD,2016,"89,000kms",Diesel,Manual,₹4.95 Lakh,ahmedabad
+Renault,Renault KigerRXT AMT,2021,"24,555kms",Petrol,Automatic,₹4.83 Lakh,ahmedabad
+Ford,Ford Endeavour3.2 Titanium AT 4X4,2017,"1,63,000kms",Diesel,Automatic,₹18.50 Lakh,ahmedabad
+Maruti,Maruti Vitara BrezzaVDi,2018,"63,000kms",Diesel,Manual,₹6.90 Lakh,ahmedabad
+Skoda,Skoda Rapid1.5 TDI AT Ambition,2014,"85,000kms",Diesel,Automatic,₹4.90 Lakh,ahmedabad
+Mahindra,Mahindra XUV500R W10 FWD,2016,"85,000kms",Diesel,Manual,₹7.50 Lakh,ahmedabad
+Renault,Renault KigerRXT Turbo,2021,"22,361kms",Petrol,Manual,₹5 Lakh,ahmedabad
+Renault,Renault KigerRXT AMT,2021,"24,555kms",Petrol,Automatic,₹4.83 Lakh,ahmedabad
+Hyundai,Hyundai Verna1.4 CRDi,2016,"91,262kms",Diesel,Manual,₹4.06 Lakh,ahmedabad
+Ford,Ford Ecosport1.5 Diesel Trend BSIV,2017,"90,376kms",Diesel,Manual,₹3.39 Lakh,ahmedabad
+Renault,Renault KWID1.0 RXT,2025,"21,211kms",Petrol,Manual,₹4.58 Lakh,ahmedabad
+Maruti,Maruti Swift DzireLXI BSVI,2022,"67,000kms",Petrol,Manual,₹6 Lakh,ahmedabad
+Tata,Tata Safari StormeEX,2013,"70,000kms",Diesel,Manual,₹3.65 Lakh,ahmedabad
+Honda,Honda Cityi DTEC SV,2015,"82,000kms",Diesel,Manual,₹4.25 Lakh,ahmedabad
+Maruti,Maruti Alto K10VXI,2017,"10,400kms",Petrol,Manual,₹3.50 Lakh,ahmedabad
+Maruti,Maruti SwiftZXI Plus,2017,"73,000kms",Petrol,Manual,₹5.30 Lakh,ahmedabad
+Mahindra,Mahindra ScorpioVLX 2WD 7S BSIV,2014,"81,000kms",Diesel,Manual,₹5 Lakh,ahmedabad
+Toyota,Toyota Fortuner4X2 Diesel,2023,"22,000kms",Diesel,Manual,₹34.50 Lakh,ahmedabad
+BMW,BMW X4M Sport X xDrive30d,2019,"55,000kms",Diesel,Automatic,₹34.75 Lakh,ahmedabad
+Tata,Tata NexonFearless Plus S DT DCA,2024,"17,029kms",Petrol,Automatic,₹9.91 Lakh,ahmedabad
+Ford,Ford EcosportSports Diesel,2021,"59,000kms",Diesel,Manual,₹8.75 Lakh,ahmedabad
+Ford,Ford EcosportSports Diesel,2021,"59,000kms",Diesel,Manual,₹8.35 Lakh,ahmedabad
+Toyota,Toyota Fortuner4X2 Diesel,2023,"22,000kms",Diesel,Manual,₹34.50 Lakh,ahmedabad
+BMW,BMW X4M Sport X xDrive30d,2019,"55,000kms",Diesel,Automatic,₹34.75 Lakh,ahmedabad
+Tata,Tata NexonFearless Plus S DT DCA,2024,"17,029kms",Petrol,Automatic,₹9.91 Lakh,ahmedabad
+Toyota,Toyota Innova2.5 GX (Diesel) 7 Seater BS IV,2016,"90,000kms",Diesel,Manual,₹8.85 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.6 CRDi AT SX Plus,2017,"70,000kms",Diesel,Automatic,₹8.50 Lakh,ahmedabad
+Ford,Ford EcosportSports Diesel,2021,"59,000kms",Diesel,Manual,₹8.35 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.4 E Plus,2019,"83,000kms",Diesel,Manual,₹8.90 Lakh,ahmedabad
+Ford,Ford EcosportSports Diesel,2021,"59,000kms",Diesel,Manual,₹8.75 Lakh,ahmedabad
+Kia,Kia SeltosGTX Plus Turbo DCT,2023,"32,218kms",Petrol,Automatic,₹15.99 Lakh,ahmedabad
+Audi,Audi Q52.0 TDI Premium Plus,2014,"92,000kms",Diesel,Automatic,₹16.50 Lakh,ahmedabad
+Toyota,Toyota Fortuner4X2 Diesel AT,2023,"33,000kms",Diesel,Automatic,₹38.90 Lakh,ahmedabad
+Kia,Kia SeltosGTX Plus DCT,2021,"46,552kms",Petrol,Automatic,₹13.37 Lakh,ahmedabad
+Mahindra,Mahindra XUV700AX7 AT Luxury Pack BSVI,2022,"38,547kms",Petrol,Automatic,₹13.44 Lakh,ahmedabad
+Kia,Kia SeltosHTX IVT,2023,"39,263kms",Petrol,Automatic,₹12 Lakh,ahmedabad
+Kia,Kia SeltosHTX (O) iVT,2022,"40,934kms",Petrol,Automatic,₹10.62 Lakh,ahmedabad
+Kia,Kia SeltosHTX,2022,"39,258kms",Petrol,Manual,₹10.34 Lakh,ahmedabad
+Hyundai,Hyundai VenueSX Diesel,2024,"34,000kms",Diesel,Manual,₹11.49 Lakh,ahmedabad
+Toyota,Toyota Fortuner4x2 AT,2015,"80,000kms",Diesel,Automatic,₹14.75 Lakh,ahmedabad
+Kia,Kia SeltosHTK Plus D,2021,"93,000kms",Diesel,Manual,₹10.15 Lakh,ahmedabad
+Mahindra,Mahindra TharLX 4WD Hard Top Diesel BSVI,2021,"19,000kms",Diesel,Manual,₹11.90 Lakh,ahmedabad
+Kia,Kia SeltosHTX,2022,"39,258kms",Petrol,Manual,₹10.34 Lakh,ahmedabad
+Hyundai,Hyundai VenueSX Diesel,2024,"34,000kms",Diesel,Manual,₹11.49 Lakh,ahmedabad
+Toyota,Toyota Fortuner4x2 AT,2015,"80,000kms",Diesel,Automatic,₹14.75 Lakh,ahmedabad
+Kia,Kia SeltosHTK Plus D,2021,"93,000kms",Diesel,Manual,₹10.15 Lakh,ahmedabad
+Mahindra,Mahindra TharLX 4WD Hard Top Diesel BSVI,2021,"19,000kms",Diesel,Manual,₹11.90 Lakh,ahmedabad
+Honda,Honda ElevateZX CVT,2024,"4,000kms",Petrol,Automatic,₹14.90 Lakh,ahmedabad
+Kia,Kia SeltosHTX Plus AT D,2019,"93,000kms",Diesel,Automatic,₹11.65 Lakh,ahmedabad
+Maruti,Maruti Alto 800CNG LXI,2012,"95,000kms",CNG,Manual,₹1.30 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10 NiosSportz CNG,2021,"75,480kms",CNG,Manual,₹5.50 Lakh,ahmedabad
+Toyota,Toyota Fortuner4x2 AT,2015,"89,000kms",Diesel,Automatic,₹15.90 Lakh,ahmedabad
+Mercedes-Benz,Mercedes-Benz GLE300d BSVI,2021,"33,000kms",Diesel,Automatic,₹64.75 Lakh,ahmedabad
+BMW,BMW 5 Series520d Luxury Line,2014,"1,09,000kms",Diesel,Automatic,₹13.65 Lakh,ahmedabad
+BMW,BMW X1M Sport sDrive 20d,2015,"65,000kms",Diesel,Automatic,₹14.75 Lakh,ahmedabad
+BMW,BMW X1sDrive20d Expedition,2017,"85,000kms",Diesel,Automatic,₹16.50 Lakh,ahmedabad
+Tata,Tata ZestQuadrajet 1.3 XT,2015,"1,50,000kms",Diesel,Manual,₹2.25 Lakh,ahmedabad
+Nissan,Nissan MicraXV,2011,"70,000kms",Petrol,Manual,₹1 Lakh,ahmedabad
+Hyundai,Hyundai AccentGLE,2011,"1,39,000kms",Petrol,Manual,₹1.30 Lakh,ahmedabad
+Toyota,Toyota EtiosG,2011,"70,000kms",Petrol,Manual,₹3.20 Lakh,ahmedabad
+Maruti,Maruti SwiftVXi,2025,"10,000kms",Petrol,Manual,₹5.90 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVXI 1.2,2019,"40,000kms",Petrol,Manual,₹4.50 Lakh,ahmedabad
+Nissan,Nissan MicraXV,2011,"70,000kms",Petrol,Manual,₹1 Lakh,ahmedabad
+Hyundai,Hyundai AccentGLE,2011,"1,39,000kms",Petrol,Manual,₹1.30 Lakh,ahmedabad
+Toyota,Toyota EtiosG,2011,"70,000kms",Petrol,Manual,₹3.20 Lakh,ahmedabad
+Maruti,Maruti SwiftVXi,2025,"10,000kms",Petrol,Manual,₹5.90 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVXI 1.2,2019,"40,000kms",Petrol,Manual,₹4.50 Lakh,ahmedabad
+Skoda,Skoda RapidLeisure 1.6 TDI MT,2012,"70,000kms",Diesel,Manual,₹1.44 Lakh,ahmedabad
+Mahindra,Mahindra XUV500W6 2WD,2012,"1,20,000kms",Diesel,Manual,₹3 Lakh,ahmedabad
+Maruti,Maruti SwiftZXI BSIV,2016,"37,000kms",Petrol,Manual,₹4.44 Lakh,ahmedabad
+Volkswagen,Volkswagen PoloPetrol Comfortline 1.2L,2010,"1,05,000kms",Petrol,Manual,₹2 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVXI,2012,"90,000kms",Petrol,Manual,₹3 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI BS IV,2012,"1,20,000kms",Petrol,Manual,₹1.30 Lakh,ahmedabad
+Maruti,Maruti Wagon RCNG LXI,2021,"88,000kms",CNG,Manual,₹4.10 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVXI,2016,"70,000kms",Petrol,Manual,₹3.50 Lakh,ahmedabad
+Tata,Tata Tiago1.2 Revotron XZ,2016,"1,00,000kms",Petrol,Manual,₹2.25 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi,2011,"1,20,000kms",Petrol,Manual,₹1.20 Lakh,ahmedabad
+Mahindra,Mahindra TUV 300T4,2015,"90,000kms",Diesel,Manual,₹3 Lakh,ahmedabad
+Honda,Honda City1.5 E MT,2010,"1,30,000kms",Petrol,Manual,₹2 Lakh,ahmedabad
+Hyundai,Hyundai Santro XingGLS,2012,"80,000kms",Petrol,Manual,₹1.85 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi,2011,"1,00,000kms",Petrol,Manual,₹1.40 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVDI,2014,"1,60,000kms",Diesel,Manual,₹3 Lakh,ahmedabad
+Honda,Honda City1.5 E MT,2010,"1,30,000kms",Petrol,Manual,₹2 Lakh,ahmedabad
+Hyundai,Hyundai Santro XingGLS,2012,"80,000kms",Petrol,Manual,₹1.85 Lakh,ahmedabad
+Maruti,Maruti Alto 800LX,2011,"1,20,000kms",Petrol,Manual,₹1.40 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi,2011,"1,00,000kms",Petrol,Manual,₹1.40 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVDI,2014,"1,60,000kms",Diesel,Manual,₹3 Lakh,ahmedabad
+Tata,Tata ZestRevotron 1.2 XT,2018,"50,000kms",Petrol,Manual,₹2.40 Lakh,ahmedabad
+Renault,Renault DusterRXL AWD,2013,"1,20,000kms",Diesel,Manual,₹2.65 Lakh,ahmedabad
+Volkswagen,Volkswagen PoloDiesel Comfortline 1.2L,2012,"90,000kms",Diesel,Manual,₹1.50 Lakh,ahmedabad
+Maruti,Maruti Wagon R StingrayVXI,2015,"1,60,000kms",Petrol,Manual,₹2.10 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXI,2016,"90,000kms",Petrol,Manual,₹2.50 Lakh,ahmedabad
+Renault,Renault KWID1.0 RXT Optional,2019,"50,000kms",Petrol,Manual,₹2.50 Lakh,ahmedabad
+Maruti,Maruti RitzZXi,2013,"80,000kms",Petrol,Manual,₹1.50 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI Minor,2008,"1,50,000kms",Petrol,Manual,"₹80,000",ahmedabad
+Maruti,Maruti Wagon RLXI Minor,2009,"40,000kms",Petrol,Manual,"₹80,000",ahmedabad
+Chevrolet,Chevrolet BeatDiesel PS,2012,"1,20,000kms",Diesel,Manual,"₹60,000",ahmedabad
+Datsun,Datsun GO PlusT Option Petrol,2019,"47,000kms",Petrol,Manual,₹2.30 Lakh,ahmedabad
+Hyundai,Hyundai i10Magna,2010,"1,20,000kms",Petrol,Manual,₹1.20 Lakh,ahmedabad
+Tata,Tata SafariDicor EX 4X2,2012,"1,50,000kms",Diesel,Manual,₹1.80 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVXi,2011,"80,000kms",Petrol,Manual,₹1.60 Lakh,ahmedabad
+Maruti,Maruti RitzVXI,2011,"1,00,000kms",Petrol,Manual,₹1.45 Lakh,ahmedabad
+Tata,Tata SafariDicor EX 4X2,2012,"1,50,000kms",Diesel,Manual,₹1.80 Lakh,ahmedabad
+Maruti,Maruti Alto 800LX,2011,"1,20,000kms",Petrol,Manual,₹1.40 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI BS IV,2011,"90,000kms",Petrol,Manual,₹1.60 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVXi,2011,"80,000kms",Petrol,Manual,₹1.60 Lakh,ahmedabad
+Maruti,Maruti RitzVXI,2011,"1,00,000kms",Petrol,Manual,₹1.45 Lakh,ahmedabad
+Hyundai,Hyundai i10Era,2011,"1,00,000kms",Petrol,Manual,₹1.50 Lakh,ahmedabad
+Hyundai,Hyundai i10Magna,2011,"60,000kms",Petrol,Manual,₹2 Lakh,ahmedabad
+Volkswagen,Volkswagen Polo1.2 MPI Trendline,2015,"90,000kms",Petrol,Manual,₹2.75 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI BS IV,2013,"1,00,000kms",Petrol,Manual,₹1.82 Lakh,ahmedabad
+Volkswagen,Volkswagen Jetta1.9 TDI Trendline,2010,"1,00,000kms",Diesel,Manual,₹1.70 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi,2011,"1,20,000kms",Petrol,Manual,₹1.20 Lakh,ahmedabad
+Hyundai,Hyundai Verna1.6 SX,2012,"1,30,000kms",Diesel,Manual,₹2.40 Lakh,ahmedabad
+Honda,Honda JazzActive,2010,"78,000kms",Petrol,Manual,₹1.30 Lakh,ahmedabad
+Maruti,Maruti A-StarVxi,2010,"1,20,000kms",Petrol,Manual,₹1.50 Lakh,ahmedabad
+Hyundai,Hyundai EONMagna Plus,2017,"1,60,000kms",Petrol,Manual,₹1.70 Lakh,ahmedabad
+Tata,Tata Indica V2LX,2013,"68,000kms",Diesel,Manual,₹1.30 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXI,2016,"90,000kms",Petrol,Manual,₹2.50 Lakh,ahmedabad
+Hyundai,Hyundai i10Magna 1.1L,2015,"30,000kms",Petrol,Manual,₹2.25 Lakh,ahmedabad
+Tata,Tata ZestRevotron 1.2T XMS,2015,"1,60,000kms",Petrol,Manual,₹2 Lakh,ahmedabad
+Tata,Tata ManzaAura Quadrajet BS IV,2011,"60,000kms",Diesel,Manual,₹1.10 Lakh,ahmedabad
+Chevrolet,Chevrolet BeatLT Option,2010,"70,000kms",Petrol,Manual,"₹90,000",ahmedabad
+Renault,Renault KWID1.0 RXT,2016,"30,000kms",Petrol,Manual,₹2.50 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXI,2015,"1,22,000kms",Petrol,Manual,₹2.10 Lakh,ahmedabad
+Volkswagen,Volkswagen Polo1.2 MPI Trendline,2015,"90,000kms",Petrol,Manual,₹2.75 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI BS IV,2013,"1,00,000kms",Petrol,Manual,₹1.82 Lakh,ahmedabad
+Volkswagen,Volkswagen Jetta1.9 TDI Trendline,2010,"1,00,000kms",Diesel,Manual,₹1.70 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXi,2011,"1,20,000kms",Petrol,Manual,₹1.20 Lakh,ahmedabad
+Mahindra,Mahindra TUV 300T4,2015,"90,000kms",Diesel,Manual,₹3 Lakh,ahmedabad
+Honda,Honda JazzActive,2010,"78,000kms",Petrol,Manual,₹1.30 Lakh,ahmedabad
+Maruti,Maruti A-StarVxi,2010,"1,20,000kms",Petrol,Manual,₹1.50 Lakh,ahmedabad
+Hyundai,Hyundai Verna1.6 SX,2012,"1,30,000kms",Diesel,Manual,₹2.40 Lakh,ahmedabad
+Hyundai,Hyundai i10Era,2011,"1,00,000kms",Petrol,Manual,₹1.50 Lakh,ahmedabad
+Hyundai,Hyundai i10Magna,2011,"60,000kms",Petrol,Manual,₹2 Lakh,ahmedabad
+Hyundai,Hyundai EONMagna Plus,2017,"1,60,000kms",Petrol,Manual,₹1.70 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI,2006,"80,000kms",Petrol,Manual,"₹70,000",ahmedabad
+Maruti,Maruti Alto 800LXI,2017,"60,000kms",Petrol,Manual,₹2.25 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI Minor,2007,"1,00,000kms",Petrol,Manual,"₹65,000",ahmedabad
+Hyundai,Hyundai Creta1.6 CRDi AT S Plus,2016,"1,00,000kms",Diesel,Automatic,₹6.50 Lakh,ahmedabad
+Kia,Kia SonetHTK Plus Diesel BSVI,2021,"60,000kms",Diesel,Manual,₹9 Lakh,ahmedabad
+Maruti,Maruti Ciaz1.3 Alpha,2017,"1,60,000kms",Diesel,Manual,₹4.65 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXI,2017,"60,000kms",Petrol,Manual,₹2.25 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI Minor,2007,"1,00,000kms",Petrol,Manual,"₹65,000",ahmedabad
+Hyundai,Hyundai Creta1.6 CRDi AT S Plus,2016,"1,00,000kms",Diesel,Automatic,₹6.50 Lakh,ahmedabad
+Kia,Kia SonetHTK Plus Diesel BSVI,2021,"60,000kms",Diesel,Manual,₹9 Lakh,ahmedabad
+Maruti,Maruti Ciaz1.3 Alpha,2017,"1,60,000kms",Diesel,Manual,₹4.65 Lakh,ahmedabad
+Mercedes-Benz,Mercedes-Benz CLA200 CDI Style,2017,"1,20,000kms",Diesel,Automatic,₹20 Lakh,ahmedabad
+Mercedes-Benz,Mercedes-Benz GLA Class200 CDI,2015,"2,27,000kms",Diesel,Automatic,₹9 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10 NiosAsta,2021,"50,000kms",Petrol,Manual,₹5.50 Lakh,ahmedabad
+Maruti,Maruti Wagon RCNG LXI,2022,"1,25,000kms",CNG,Manual,₹4.70 Lakh,ahmedabad
+Nissan,Nissan MagniteXV BSVI,2022,"80,000kms",Petrol,Manual,₹5.75 Lakh,ahmedabad
+Hyundai,Hyundai XcentPrime T Plus CNG BSIV,2017,"1,00,000kms",CNG,Manual,₹3.25 Lakh,ahmedabad
+Ford,Ford Ecosport1.5 Diesel Titanium,2020,"88,000kms",Diesel,Manual,₹5.50 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.4 CRDi S,2015,"1,22,200kms",Diesel,Manual,₹5.10 Lakh,ahmedabad
+Tata,Tata Safari StormeEX,2018,"1,20,000kms",Diesel,Manual,₹5 Lakh,ahmedabad
+Maruti,Maruti SwiftLXI BSIV,2015,"90,000kms",Petrol,Manual,₹3.90 Lakh,ahmedabad
+Hyundai,Hyundai SantroSportz CNG,2022,"60,000kms",CNG,Manual,₹4 Lakh,ahmedabad
+Volkswagen,Volkswagen PoloExquisite 1.5 TDI Highline,2016,"1,00,000kms",Diesel,Manual,₹3.50 Lakh,ahmedabad
+Tata,Tata TiagoXE,2023,"10,000kms",Petrol,Manual,₹4.50 Lakh,ahmedabad
+Maruti,Maruti CiazZDi Plus SHVS,2016,"90,000kms",Diesel,Manual,₹4.50 Lakh,ahmedabad
+Nissan,Nissan MagniteXV,2023,"25,000kms",Petrol,Manual,₹6 Lakh,ahmedabad
+Ford,Ford EcosportThunder Edition Petrol,2020,"63,000kms",Petrol,Manual,₹6 Lakh,ahmedabad
+Maruti,Maruti SwiftVXI,2015,"54,000kms",Petrol,Manual,₹4.30 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI CNG,2017,"50,000kms",CNG,Manual,₹3.10 Lakh,ahmedabad
+Maruti,Maruti SwiftLXI BSIV,2015,"90,000kms",Petrol,Manual,₹3.90 Lakh,ahmedabad
+Hyundai,Hyundai SantroSportz CNG,2022,"60,000kms",CNG,Manual,₹4 Lakh,ahmedabad
+Volkswagen,Volkswagen PoloExquisite 1.5 TDI Highline,2016,"1,00,000kms",Diesel,Manual,₹3.50 Lakh,ahmedabad
+Ford,Ford Ecosport1.5 TDCi Titanium BSIV,2017,"1,20,000kms",Diesel,Manual,₹4.80 Lakh,ahmedabad
+Honda,Honda AmazeVX Petrol,2021,"30,000kms",Petrol,Manual,₹5.30 Lakh,ahmedabad
+Tata,Tata PunchAccomplished BSVI,2022,"60,000kms",Petrol,Manual,₹5.50 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.4 CRDi S,2015,"1,22,200kms",Diesel,Manual,₹5.10 Lakh,ahmedabad
+Tata,Tata Safari StormeEX,2018,"1,20,000kms",Diesel,Manual,₹5 Lakh,ahmedabad
+Maruti,Maruti Wagon RCNG LXI,2022,"1,25,000kms",CNG,Manual,₹4.70 Lakh,ahmedabad
+Nissan,Nissan MagniteXV,2023,"25,000kms",Petrol,Manual,₹6 Lakh,ahmedabad
+Maruti,2022Maruti S-PressoVXI AT  -2022,2019,"20,000kms",Petrol,Automatic,₹4 Lakh,ahmedabad
+Maruti,Maruti CiazZDi SHVS,2015,"1,24,000kms",Diesel,Manual,₹4.50 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI,2019,"31,000kms",Petrol,Manual,₹4.50 Lakh,ahmedabad
+Maruti,Maruti SwiftVDI BSIV,2016,"1,00,000kms",Diesel,Manual,₹4.25 Lakh,ahmedabad
+Maruti,Maruti SwiftLXI BSVI,2021,"60,000kms",Petrol,Manual,₹4.99 Lakh,ahmedabad
+Ford,Ford Ecosport1.5 Diesel Titanium,2020,"88,000kms",Diesel,Manual,₹5.50 Lakh,ahmedabad
+Tata,Tata Nexon1.2 Revotron XMA,2018,"60,000kms",Petrol,Automatic,₹5.50 Lakh,ahmedabad
+Maruti,Maruti CiazVDi Plus,2015,"1,17,000kms",Diesel,Manual,₹4.30 Lakh,ahmedabad
+Maruti,2022Maruti S-PressoVXI AT  -2022,2019,"20,000kms",Petrol,Automatic,₹4 Lakh,ahmedabad
+Ford,Ford Ecosport1.5 TDCi Titanium BSIV,2017,"1,20,000kms",Diesel,Manual,₹4.80 Lakh,ahmedabad
+Honda,Honda AmazeVX Petrol,2021,"30,000kms",Petrol,Manual,₹5.30 Lakh,ahmedabad
+Maruti,Maruti CiazZDi SHVS,2015,"1,24,000kms",Diesel,Manual,₹4.50 Lakh,ahmedabad
+Tata,Tata PunchAccomplished BSVI,2022,"60,000kms",Petrol,Manual,₹5.50 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI,2019,"31,000kms",Petrol,Manual,₹4.50 Lakh,ahmedabad
+Maruti,Maruti SwiftVDI BSIV,2016,"1,00,000kms",Diesel,Manual,₹4.25 Lakh,ahmedabad
+Tata,Tata TigorXZ Plus BSVI,2022,"70,000kms",Petrol,Manual,₹6 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10 NiosSportz,2020,"40,000kms",Petrol,Manual,₹5 Lakh,ahmedabad
+Maruti,Maruti SwiftZXI,2018,"80,000kms",Petrol,Manual,₹5 Lakh,ahmedabad
+Ford,Ford Ecosport1.5 Diesel Titanium BSIV,2017,"90,000kms",Diesel,Manual,₹4.60 Lakh,ahmedabad
+Ford,Ford Ecosport1.5 TDCi Titanium BSIV,2015,"80,000kms",Diesel,Manual,₹3.81 Lakh,ahmedabad
+Maruti,Maruti CiazZDi Plus SHVS,2016,"1,50,000kms",Diesel,Manual,₹3.70 Lakh,ahmedabad
+Maruti,Maruti CiazZDi Plus SHVS,2016,"1,50,000kms",Diesel,Manual,₹4.65 Lakh,ahmedabad
+Mercedes-Benz,Mercedes-Benz GLA220d,2023,"40,000kms",Diesel,Automatic,₹44.51 Lakh,ahmedabad
+Toyota,Toyota Fortuner4X4 Diesel,2025,"18,000kms",Diesel,Manual,₹42.53 Lakh,ahmedabad
+Toyota,Toyota Fortuner4X2 Diesel BSVI,2021,"32,000kms",Diesel,Manual,₹32 Lakh,ahmedabad
+Toyota,Toyota Fortuner4X2 AT BSVI,2022,"80,000kms",Petrol,Automatic,₹32.50 Lakh,ahmedabad
+Maruti,Maruti SwiftZXi Plus,2024,"10,000kms",Petrol,Manual,₹7.99 Lakh,ahmedabad
+Mercedes-Benz,Mercedes-Benz GLA220d,2023,"40,000kms",Diesel,Automatic,₹44.51 Lakh,ahmedabad
+Toyota,Toyota Fortuner4X4 Diesel,2025,"18,000kms",Diesel,Manual,₹42.53 Lakh,ahmedabad
+Toyota,Toyota Fortuner4X2 AT BSVI,2022,"80,000kms",Petrol,Automatic,₹32.50 Lakh,ahmedabad
+Toyota,Toyota Fortuner4X2 Diesel BSVI,2021,"32,000kms",Diesel,Manual,₹32 Lakh,ahmedabad
+Maruti,Maruti SwiftZXi Plus,2024,"10,000kms",Petrol,Manual,₹7.99 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.4 EX Diesel,2019,"1,35,000kms",Diesel,Manual,₹8 Lakh,ahmedabad
+Tata,Tata NexonXM S BSVI,2023,"30,000kms",Petrol,Manual,₹6.25 Lakh,ahmedabad
+Toyota,Toyota GlanzaS AMT,2024,"20,000kms",Petrol,Automatic,₹8.50 Lakh,ahmedabad
+Hyundai,Hyundai VernaCRDi 1.6 SX Option,2018,"1,50,000kms",Diesel,Manual,₹6.50 Lakh,ahmedabad
+Maruti,Maruti Swift DzireZXI Plus,2020,"1,00,000kms",Petrol,Manual,₹6.50 Lakh,ahmedabad
+Kia,Kia SonetHTX Diesel BSVI,2022,"1,00,000kms",Diesel,Manual,₹8.50 Lakh,ahmedabad
+Tata,Tata NexonXZA Plus (O) AMT,2021,"30,000kms",Petrol,Automatic,₹8.50 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVXI,2024,"20,000kms",Petrol,Manual,₹7 Lakh,ahmedabad
+Hyundai,Hyundai VernaCRDi 1.6 AT SX,2019,"90,000kms",Diesel,Automatic,₹8 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10 NiosSportz CNG,2022,"40,000kms",CNG,Manual,₹6.30 Lakh,ahmedabad
+Tata,Tata AltrozXM Plus CNG,2025,"7,500kms",CNG,Manual,₹8.50 Lakh,ahmedabad
+Tata,Tata NexonPure,2024,"23,000kms",Petrol,Manual,₹9.50 Lakh,ahmedabad
+Tata,Tata NexonXM S BSVI,2021,"38,000kms",Petrol,Manual,₹7.25 Lakh,ahmedabad
+Tata,Tata NexonXZ Plus Diesel S,2020,"1,20,000kms",Diesel,Manual,₹6.50 Lakh,ahmedabad
+Hyundai,Hyundai AuraS CNG,2022,"90,000kms",CNG,Manual,₹6.25 Lakh,ahmedabad
+Tata,Tata AltrozXM Plus CNG,2025,"7,500kms",CNG,Manual,₹8.50 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10 NiosSportz CNG,2022,"40,000kms",CNG,Manual,₹6.30 Lakh,ahmedabad
+Maruti,Maruti Swift DzireVXI,2024,"20,000kms",Petrol,Manual,₹7 Lakh,ahmedabad
+Hyundai,Hyundai VernaCRDi 1.6 AT SX,2019,"90,000kms",Diesel,Automatic,₹8 Lakh,ahmedabad
+Hyundai,Hyundai ExterS,2024,"45,000kms",Petrol,Manual,₹6.80 Lakh,ahmedabad
+Tata,Tata NexonXZ Plus Diesel S,2020,"1,20,000kms",Diesel,Manual,₹6.50 Lakh,ahmedabad
+Maruti,Maruti ErtigaCNG VXI,2021,"1,60,000kms",CNG,Manual,₹8.50 Lakh,ahmedabad
+Mercedes-Benz,Mercedes-Benz GLC300 4MATIC,2016,"1,00,000kms",Petrol,Automatic,₹20 Lakh,ahmedabad
+Tata,Tata HarrierXZA Plus AT BSVI,2022,"80,000kms",Diesel,Automatic,₹16 Lakh,ahmedabad
+Tata,Tata HarrierXZA Plus AT BSVI,2021,"70,000kms",Diesel,Automatic,₹17 Lakh,ahmedabad
+Kia,Kia SeltosGTX Plus,2020,"1,00,000kms",Petrol,Manual,₹10.25 Lakh,ahmedabad
+Toyota,2025Toyota FortunerLeader Edition 4x2 Diesel AT  -2025,2023,"30,000kms",Diesel,Automatic,₹39 Lakh,ahmedabad
+Toyota,Toyota Innova Crysta2.4 G MT 8S BSIV,2018,"1,20,000kms",Diesel,Manual,₹11.51 Lakh,ahmedabad
+Kia,Kia SeltosHTX Plus Diesel,2021,"80,000kms",Diesel,Manual,₹12.50 Lakh,ahmedabad
+Kia,Kia SeltosGTX Plus Turbo DCT,2023,"30,000kms",Petrol,Automatic,₹14 Lakh,ahmedabad
+Tata,Tata NexonXZA Plus AMT,2023,"30,000kms",Petrol,Automatic,₹10.50 Lakh,ahmedabad
+BMW,BMW 5 Series520d Modern Line,2014,"90,000kms",Diesel,Automatic,₹10.50 Lakh,ahmedabad
+Kia,Kia SeltosGTX Plus DCT,2020,"54,000kms",Petrol,Automatic,₹10.50 Lakh,ahmedabad
+Toyota,Toyota HyryderG,2023,"70,000kms",Petrol,Manual,₹11.50 Lakh,ahmedabad
+Skoda,Skoda Slavia1.0 TSI Style AT BSVI,2022,"51,000kms",Petrol,Automatic,₹14 Lakh,ahmedabad
+Tata,Tata NexonXZA Plus AMT,2023,"30,000kms",Petrol,Automatic,₹10.50 Lakh,ahmedabad
+BMW,BMW 5 Series520d Modern Line,2014,"90,000kms",Diesel,Automatic,₹10.50 Lakh,ahmedabad
+Kia,Kia SeltosGTX Plus DCT,2020,"54,000kms",Petrol,Automatic,₹10.50 Lakh,ahmedabad
+Toyota,Toyota HyryderG,2023,"70,000kms",Petrol,Manual,₹11.50 Lakh,ahmedabad
+Skoda,Skoda Slavia1.0 TSI Style AT BSVI,2022,"51,000kms",Petrol,Automatic,₹14 Lakh,ahmedabad
+Kia,Kia SeltosHTK Plus G,2021,"60,000kms",Petrol,Manual,₹10.80 Lakh,ahmedabad
+Volvo,Volvo S60D4 SUMMUM,2014,"68,000kms",Diesel,Automatic,₹10.75 Lakh,ahmedabad
+Toyota,Toyota Innova2.5 GX (Diesel) 7 Seater,2012,"40,000kms",Diesel,Manual,₹13.80 Lakh,ahmedabad
+Toyota,Toyota Innova Crysta2.4 G MT 8S BSIV,2017,"2,70,000kms",Diesel,Manual,₹14 Lakh,ahmedabad
+Honda,Honda AmazeS i-Dtech,2015,"1,50,000kms",Diesel,Manual,₹3 Lakh,ahmedabad
+Tata,Tata TiagoXZ Plus BSVI,2021,"30,000kms",Petrol,Manual,₹4.30 Lakh,ahmedabad
+Tata,Tata AltrozXZ Plus Dark Edition BSVI,2022,"30,000kms",Petrol,Manual,₹5.50 Lakh,ahmedabad
+Volkswagen,Volkswagen Taigun1.0 Comfortline,2024,"30,000kms",Petrol,Manual,₹10.50 Lakh,ahmedabad
+Volkswagen,Volkswagen PoloPetrol Comfortline 1.2L,2012,"90,000kms",Petrol,Manual,₹2.50 Lakh,ahmedabad
+Skoda,Skoda Slavia1.0 TSI Style,2023,"30,000kms",Petrol,Manual,₹10 Lakh,ahmedabad
+Mahindra,Mahindra XUV300W4 BSVI,2022,"50,000kms",Petrol,Manual,₹6.75 Lakh,ahmedabad
+Mahindra,Mahindra XUV500W8 2WD,2013,"1,20,000kms",Diesel,Manual,₹4.50 Lakh,ahmedabad
+Maruti,Maruti SwiftLDI,2013,"90,000kms",Diesel,Manual,₹3 Lakh,ahmedabad
+Mercedes-Benz,Mercedes-Benz AMG GLC 434MATIC Coupe BSVI,2021,"50,000kms",Petrol,Automatic,₹54 Lakh,ahmedabad
+Hyundai,Hyundai Xcent1.2 CRDi E Plus,2017,"1,60,000kms",Diesel,Manual,₹3.21 Lakh,ahmedabad
+Mahindra,Mahindra XUV300W4 BSVI,2022,"50,000kms",Petrol,Manual,₹6.75 Lakh,ahmedabad
+Mahindra,Mahindra XUV500W8 2WD,2013,"1,20,000kms",Diesel,Manual,₹4.50 Lakh,ahmedabad
+Maruti,Maruti SwiftLDI,2013,"90,000kms",Diesel,Manual,₹3 Lakh,ahmedabad
+Mercedes-Benz,Mercedes-Benz AMG GLC 434MATIC Coupe BSVI,2021,"50,000kms",Petrol,Automatic,₹54 Lakh,ahmedabad
+Skoda,Skoda Slavia1.0L Sportline,2025,"7,831kms",Petrol,Manual,₹13.50 Lakh,ahmedabad
+Tata,Tata AltrozXZ,2023,"30,000kms",Petrol,Manual,₹5.25 Lakh,ahmedabad
+Hyundai,Hyundai Xcent1.2 CRDi E Plus,2017,"1,60,000kms",Diesel,Manual,₹3.21 Lakh,ahmedabad
+Honda,Honda AmazeVX Opt Petrol BSIV,2019,"80,000kms",Petrol,Manual,₹5.50 Lakh,ahmedabad
+Hyundai,Hyundai i10Magna,2014,"55,000kms",Petrol,Manual,₹2.30 Lakh,ahmedabad
+Maruti,Maruti Wagon RVXI Optional,2018,"56,179kms",Petrol,Manual,₹3.45 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10Magna,2016,"80,000kms",Petrol,Manual,₹3.15 Lakh,ahmedabad
+Hyundai,Hyundai Grand i10CRDi Sportz,2016,"70,000kms",Diesel,Manual,₹2.95 Lakh,ahmedabad
+Hyundai,Hyundai CretaSX Tech Diesel,2025,"30,000kms",Diesel,Manual,₹18 Lakh,ahmedabad
+Hyundai,Hyundai VernaVTVT 1.6 SX,2018,"60,000kms",Petrol,Manual,₹6 Lakh,ahmedabad
+Honda,Honda Cityi-VTEC SV,2018,"1,50,000kms",Petrol,Manual,₹5.35 Lakh,ahmedabad
+Tata,Tata HarrierXZ Plus BSVI,2022,"65,000kms",Diesel,Manual,₹15 Lakh,ahmedabad
+Hyundai,Hyundai i201.2 Magna,2011,"1,20,000kms",Petrol,Manual,₹2.18 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.6 VTVT E Plus,2017,"1,50,000kms",Petrol,Manual,₹5.30 Lakh,ahmedabad
+Hyundai,Hyundai i20Magna Plus Diesel,2019,"70,000kms",Diesel,Manual,₹6 Lakh,ahmedabad
+Tata,Tata AltrozXT BSVI,2020,"50,000kms",Petrol,Manual,₹5 Lakh,ahmedabad
+Hyundai,Hyundai i201.2 Magna,2011,"1,20,000kms",Petrol,Manual,₹2.18 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.6 VTVT E Plus,2017,"1,50,000kms",Petrol,Manual,₹5.30 Lakh,ahmedabad
+Hyundai,Hyundai i20Magna Plus Diesel,2019,"70,000kms",Diesel,Manual,₹6 Lakh,ahmedabad
+Tata,Tata AltrozXT BSVI,2020,"50,000kms",Petrol,Manual,₹5 Lakh,ahmedabad
+Honda,Honda Cityi-VTEC SV,2018,"1,50,000kms",Petrol,Manual,₹5.35 Lakh,ahmedabad
+Mahindra,Mahindra XUV 3XOMX3 Pro,2024,"10,000kms",Petrol,Manual,₹10 Lakh,ahmedabad
+Honda,Honda CityVX CVT,2020,"30,000kms",Petrol,Automatic,₹10.51 Lakh,ahmedabad
+Hyundai,Hyundai CretaSX BSVI,2020,"90,000kms",Petrol,Manual,₹10.50 Lakh,ahmedabad
+Hyundai,Hyundai ExterS CNG 4 Cylinder,2023,"45,000kms",CNG,Manual,₹6.70 Lakh,ahmedabad
+Mercedes-Benz,Mercedes-Benz C-ClassAMG Line C 300d,2019,"60,000kms",Diesel,Automatic,₹27 Lakh,ahmedabad
+Jaguar,Jaguar XF2.0 Diesel Pure,2018,"60,000kms",Diesel,Automatic,₹25 Lakh,ahmedabad
+Tata,Tata Tiago1.2 Revotron XZ,2017,"80,000kms",Petrol,Manual,₹2.80 Lakh,ahmedabad
+Mahindra,Mahindra XUV700AX7L 7Str Diesel AT,2025,"6,200kms",Diesel,Automatic,₹24.50 Lakh,ahmedabad
+Hyundai,Hyundai i10Magna 1.2 iTech SE,2015,"1,33,500kms",Petrol,Manual,₹3 Lakh,ahmedabad
+Tata,Tata SafariAccomplished Plus,2023,"30,000kms",Diesel,Manual,₹22 Lakh,ahmedabad
+Hyundai,Hyundai EONEra Plus,2015,"80,000kms",Petrol,Manual,₹1.40 Lakh,ahmedabad
+Hyundai,Hyundai AlcazarPrestige 7-Seater Diesel,2023,"20,000kms",Diesel,Manual,₹15 Lakh,ahmedabad
+Hyundai,Hyundai CretaSX (O),2024,"20,000kms",Petrol,Manual,₹16 Lakh,ahmedabad
+Hyundai,Hyundai i10Magna,2009,"40,000kms",Petrol,Manual,"₹90,000",ahmedabad
+Chevrolet,Chevrolet Spark1.0 LS,2009,"60,000kms",Petrol,Manual,"₹45,000",ahmedabad
+Hyundai,Hyundai EONEra Plus,2015,"80,000kms",Petrol,Manual,₹1.40 Lakh,ahmedabad
+Hyundai,Hyundai AlcazarPrestige 7-Seater Diesel,2023,"20,000kms",Diesel,Manual,₹15 Lakh,ahmedabad
+Hyundai,Hyundai CretaSX (O),2024,"20,000kms",Petrol,Manual,₹16 Lakh,ahmedabad
+Ford,Ford FigoDiesel Titanium,2014,"80,000kms",Diesel,Manual,₹2 Lakh,ahmedabad
+Chevrolet,Chevrolet Spark1.0 LS,2009,"60,000kms",Petrol,Manual,"₹45,000",ahmedabad
+Hyundai,Hyundai i10Magna,2009,"40,000kms",Petrol,Manual,"₹90,000",ahmedabad
+Hyundai,Hyundai Santro XingABS,2007,"1,00,000kms",Petrol,Manual,"₹55,000",ahmedabad
+Maruti,Maruti Wagon RLX BSIII,2007,"90,000kms",Petrol,Manual,"₹40,000",ahmedabad
+Tata,Tata Tiago EVXZ Plus LR,2023,"44,000kms",Electric,Automatic,₹8 Lakh,ahmedabad
+Hyundai,Hyundai VenueS,2021,"96,000kms",Petrol,Manual,₹6 Lakh,ahmedabad
+Kia,Kia SeltosGTX Plus,2021,"18,000kms",Petrol,Manual,₹16.81 Lakh,ahmedabad
+Ford,Ford FreestyleTitanium Diesel,2021,"95,000kms",Diesel,Manual,₹5.62 Lakh,ahmedabad
+Maruti,Maruti XL6Alpha,2021,"30,000kms",Petrol,Manual,₹9 Lakh,ahmedabad
+Kia,Kia SonetGTX Plus Diesel BSVI,2021,"36,000kms",Diesel,Manual,₹10 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2019,"37,000kms",Petrol,Manual,₹3.90 Lakh,ahmedabad
+MG,MG HectorSharp DCT,2020,"50,000kms",Petrol,Automatic,₹11 Lakh,ahmedabad
+Hyundai,Hyundai Creta1.6 VTVT SX Plus,2017,"1,00,000kms",Petrol,Manual,₹6.50 Lakh,ahmedabad
+Renault,Renault Duster85PS Diesel RxE,2013,"90,000kms",Diesel,Manual,₹3.75 Lakh,ahmedabad
+Mahindra,Mahindra XUV500W11 FWD Diesel,2020,"60,000kms",Diesel,Manual,₹14 Lakh,ahmedabad
+Hyundai,Hyundai i10Magna,2012,"90,000kms",Petrol,Manual,₹2.50 Lakh,ahmedabad
+Maruti,Maruti Baleno1.2 Delta,2018,"60,000kms",Petrol,Manual,₹4.25 Lakh,ahmedabad
+Maruti,Maruti Alto 800LXI,2017,"30,000kms",Petrol,Manual,₹2.70 Lakh,ahmedabad
+Hyundai,Hyundai VenueSX Opt Turbo DCT,2024,"20,000kms",Petrol,Automatic,₹10.50 Lakh,ahmedabad
+Hyundai,Hyundai i10Magna 1.1L,2015,"60,000kms",Petrol,Manual,₹2.35 Lakh,ahmedabad
+Maruti,Maruti ErtigaZXI Plus,2019,"50,000kms",Petrol,Manual,₹10 Lakh,ahmedabad
+Hyundai,Hyundai VenueSX,2024,"30,000kms",Petrol,Manual,₹9.74 Lakh,ahmedabad
+Honda,Honda Cityi VTEC CVT VX,2015,"1,00,000kms",Petrol,Automatic,₹4.50 Lakh,ahmedabad
+Hyundai,Hyundai Xcent1.1 CRDi S,2014,"1,36,000kms",Diesel,Manual,₹3.10 Lakh,ahmedabad
+Skoda,Skoda Rapid1.6 TDI Ambition Plus,2014,"1,20,000kms",Diesel,Manual,₹2.40 Lakh,ahmedabad
+Tata,Tata SafariAccomplished Plus Dark,2024,"10,000kms",Diesel,Manual,₹22 Lakh,ahmedabad
+Tata,Tata Tiago1.2 Revotron XZ,2018,"1,20,000kms",Petrol,Manual,₹3.50 Lakh,ahmedabad
+Kia,Kia SeltosGTX Plus,2021,"18,000kms",Petrol,Manual,₹16.81 Lakh,ahmedabad
+Maruti,Maruti Baleno1.2 Delta,2017,"1,00,000kms",Petrol,Manual,₹4.50 Lakh,ahmedabad
+Hyundai,Hyundai CretaSX (O) Turbo DCT,2024,"40,000kms",Petrol,Automatic,₹16 Lakh,ahmedabad
+Hyundai,Hyundai i20Magna,2023,"25,000kms",Petrol,Manual,₹6.10 Lakh,ahmedabad
+Kia,Kia SonetGTX Plus Diesel BSVI,2021,"36,000kms",Diesel,Manual,₹10 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2019,"37,000kms",Petrol,Manual,₹3.90 Lakh,ahmedabad
+Renault,Renault Duster85PS Diesel RxE,2013,"90,000kms",Diesel,Manual,₹3.75 Lakh,ahmedabad
+Mahindra,Mahindra XUV500W11 FWD Diesel,2020,"60,000kms",Diesel,Manual,₹14 Lakh,ahmedabad
+Maruti,Maruti Wagon RLXI BS IV,2014,"60,000kms",Petrol,Manual,₹4 Lakh,ahmedabad
+Hyundai,Hyundai i20Asta,2023,"9,800kms",Petrol,Manual,₹7.70 Lakh,ahmedabad
+Hyundai,Hyundai i20Sportz Plus Dual Tone BSIV,2019,"22,371kms",Petrol,Manual,₹5.29 Lakh,ahmedabad
+Nissan,Nissan MagniteTurbo XV BSVI,2021,"99,687kms",Petrol,Manual,₹4.50 Lakh,ahmedabad
+Maruti,Maruti SwiftVXI,2019,"40,477kms",Petrol,Manual,₹4.47 Lakh,ahmedabad
+Jeep,Jeep Compass2.0 Limited,2017,"1,80,000kms",Diesel,Manual,₹6.50 Lakh,ahmedabad
+Maruti,Maruti SwiftVXI BSVI,2021,"46,000kms",Petrol,Manual,₹5.11 Lakh,ahmedabad
+Renault,Renault TriberRXT,2023,"28,302kms",Petrol,Manual,₹4.49 Lakh,ahmedabad
+Honda,Honda WR-Vi-VTEC S,2017,"63,000kms",Petrol,Manual,₹4.10 Lakh,ahmedabad
+Hyundai,Hyundai XcentVTVT Plus ABS,2016,"1,20,000kms",Petrol,Manual,₹3.45 Lakh,ahmedabad
+Renault,Renault KigerRXZ,2022,"80,000kms",Petrol,Manual,₹4.15 Lakh,ahmedabad
+Honda,Honda WR-Vi-VTEC VX,2019,"45,867kms",Petrol,Manual,₹5.23 Lakh,ahmedabad
+Kia,Kia CarnivalPrestige 6 STR,2020,"85,000kms",Diesel,Automatic,₹19.50 Lakh,ahmedabad
+Hyundai,Hyundai i10Magna,2013,"78,500kms",Petrol,Manual,₹2 Lakh,ahmedabad
+Maruti,Maruti SwiftLXI Optional-O,2016,"1,17,732kms",Petrol,Manual,₹3.21 Lakh,ahmedabad
+Maruti,Maruti SwiftVXI,2013,"56,225kms",Petrol,Manual,₹3.45 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2017,"1,36,006kms",Petrol,Manual,₹3.25 Lakh,ahmedabad
+Mercedes-Benz,Mercedes-Benz A-Class LimousineA 200 BSVI,2023,"20,000kms",Petrol,Automatic,₹35.90 Lakh,ahmedabad
+Maruti,Maruti Wagon RCNG LXI BSIV,2019,"1,29,340kms",CNG,Manual,₹3.08 Lakh,ahmedabad
+Honda,Honda WR-VVX,2022,"29,000kms",Petrol,Manual,₹8.50 Lakh,ahmedabad
+Honda,Honda WR-Vi-VTEC S,2017,"79,377kms",Petrol,Manual,₹3.92 Lakh,ahmedabad
+Hyundai,Hyundai i20Asta,2023,"9,800kms",Petrol,Manual,₹7.70 Lakh,ahmedabad
+Hyundai,Hyundai i20Sportz Plus Dual Tone BSIV,2019,"22,371kms",Petrol,Manual,₹5.29 Lakh,ahmedabad
+Nissan,Nissan MagniteTurbo XV BSVI,2021,"99,687kms",Petrol,Manual,₹4.50 Lakh,ahmedabad
+Maruti,Maruti SwiftVXI,2019,"40,477kms",Petrol,Manual,₹4.47 Lakh,ahmedabad
+Jeep,Jeep Compass2.0 Limited,2017,"1,80,000kms",Diesel,Manual,₹6.50 Lakh,ahmedabad
+Maruti,Maruti SwiftVXI BSVI,2021,"46,000kms",Petrol,Manual,₹5.11 Lakh,ahmedabad
+Renault,Renault TriberRXT,2023,"28,302kms",Petrol,Manual,₹4.49 Lakh,ahmedabad
+Honda,Honda WR-Vi-VTEC S,2017,"63,000kms",Petrol,Manual,₹4.10 Lakh,ahmedabad
+Hyundai,Hyundai XcentVTVT Plus ABS,2016,"1,20,000kms",Petrol,Manual,₹3.45 Lakh,ahmedabad
+Renault,Renault KigerRXZ,2022,"80,000kms",Petrol,Manual,₹4.15 Lakh,ahmedabad
+Honda,Honda WR-Vi-VTEC VX,2019,"45,867kms",Petrol,Manual,₹5.23 Lakh,ahmedabad
+Kia,Kia CarnivalPrestige 6 STR,2020,"85,000kms",Diesel,Automatic,₹19.50 Lakh,ahmedabad
+Hyundai,Hyundai i10Magna,2013,"78,500kms",Petrol,Manual,₹2 Lakh,ahmedabad
+Maruti,Maruti SwiftLXI Optional-O,2016,"1,17,732kms",Petrol,Manual,₹3.21 Lakh,ahmedabad
+Maruti,Maruti SwiftVXI,2013,"56,225kms",Petrol,Manual,₹3.45 Lakh,ahmedabad
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2017,"1,36,006kms",Petrol,Manual,₹3.25 Lakh,ahmedabad
+Mercedes-Benz,Mercedes-Benz A-Class LimousineA 200 BSVI,2023,"20,000kms",Petrol,Automatic,₹35.90 Lakh,ahmedabad
+Maruti,Maruti Wagon RCNG LXI BSIV,2019,"1,29,340kms",CNG,Manual,₹3.08 Lakh,ahmedabad
+Honda,Honda WR-VVX,2022,"29,000kms",Petrol,Manual,₹8.50 Lakh,ahmedabad
+Honda,Honda WR-Vi-VTEC S,2017,"79,377kms",Petrol,Manual,₹3.92 Lakh,ahmedabad

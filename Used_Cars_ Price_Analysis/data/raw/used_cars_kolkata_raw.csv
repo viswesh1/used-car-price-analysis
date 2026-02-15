@@ -1,0 +1,1321 @@
+car_brand,car_name,year,km_driven,fuel,transmission,price,city
+Lamborghini ,Lamborghini UrusV8,2020,"19,500kms",Petrol,Automatic,₹3.15 Crore,kolkata
+Maruti,Maruti BalenoZeta,2021,"51,000kms",Petrol,Manual,₹4.75 Lakh,kolkata
+Hyundai,Hyundai Grand i10 NiosCorp Edition,2022,"31,000kms",Petrol,Manual,₹4.69 Lakh,kolkata
+Honda,Honda City1.5 V MT Sunroof,2012,"69,000kms",Petrol,Manual,₹2.25 Lakh,kolkata
+Tata,Tata Tigor EVXZ Plus,2022,"20,000kms",Electric,Automatic,₹7.50 Lakh,kolkata
+Honda,Honda City1.5 V MT,2010,"81,644kms",Petrol,Manual,₹2.15 Lakh,kolkata
+Volkswagen,Volkswagen CrossPolo1.5 TDI,2014,"48,000kms",Diesel,Manual,₹2.61 Lakh,kolkata
+Maruti,Maruti Wagon RVXI BS IV,2016,"41,173kms",Petrol,Manual,₹2.20 Lakh,kolkata
+Maruti,Maruti SwiftVDI,2013,"52,000kms",Diesel,Manual,₹2.45 Lakh,kolkata
+Maruti,Maruti BalenoDelta Diesel,2021,"58,932kms",Diesel,Manual,₹4.74 Lakh,kolkata
+Maruti,Maruti BalenoDelta Diesel,2016,"21,761kms",Diesel,Manual,₹3.89 Lakh,kolkata
+Honda,Honda Cityi-VTEC VX,2018,"60,449kms",Petrol,Manual,₹6.25 Lakh,kolkata
+Hyundai,Hyundai CretaSX BSVI,2021,"30,000kms",Petrol,Manual,₹8.69 Lakh,kolkata
+Honda,Honda Cityi-VTEC VX,2018,"60,449kms",Petrol,Manual,₹6.25 Lakh,kolkata
+Honda,Honda CityZX MT,2021,"25,742kms",Petrol,Manual,₹7.95 Lakh,kolkata
+Honda,Honda CityVX MT,2021,"58,500kms",Petrol,Manual,₹6.99 Lakh,kolkata
+Tata,Tata NexonXZ Plus BSVI,2023,"72,000kms",Petrol,Manual,₹7 Lakh,kolkata
+Hyundai,Hyundai Grand i10 NiosSportz,2020,"27,000kms",Petrol,Manual,₹4.65 Lakh,kolkata
+Hyundai,Hyundai i20Magna 1.2,2015,"38,000kms",Petrol,Manual,₹3.31 Lakh,kolkata
+Maruti,Maruti Baleno1.2 Alpha,2019,"73,830kms",Petrol,Manual,₹4.10 Lakh,kolkata
+Maruti,Maruti Wagon RAMT VXI,2017,"57,000kms",Petrol,Automatic,₹2.71 Lakh,kolkata
+Maruti,Maruti Ignis1.2 Zeta BSIV,2018,"29,145kms",Petrol,Manual,₹3.26 Lakh,kolkata
+Maruti,Maruti CiazPetrol,2017,"51,385kms",Diesel,Manual,₹5.04 Lakh,kolkata
+Hyundai,Hyundai i201.2 Magna Executive,2017,"56,848kms",Petrol,Manual,₹3.33 Lakh,kolkata
+Maruti,Maruti Wagon RVXI BS IV,2016,"42,000kms",Petrol,Manual,₹2.75 Lakh,kolkata
+Honda,Honda CitySV MT,2015,"54,661kms",Petrol,Manual,₹3.90 Lakh,kolkata
+Maruti,Maruti Alto K10VXI AMT,2019,"32,750kms",Petrol,Automatic,₹3.07 Lakh,kolkata
+Hyundai,Hyundai i201.2 Asta,2018,"44,706kms",Petrol,Manual,₹4.82 Lakh,kolkata
+Maruti,Maruti SwiftVXI BSVI,2022,"41,000kms",Petrol,Manual,₹5.25 Lakh,kolkata
+Honda,Honda Cityi-VTEC V,2018,"51,392kms",Petrol,Manual,₹4.85 Lakh,kolkata
+Honda,Honda Cityi-DTEC VX,2018,"84,269kms",Diesel,Manual,₹5.15 Lakh,kolkata
+Honda,Honda CitySV,2019,"47,607kms",Petrol,Manual,₹5.38 Lakh,kolkata
+Kia,Kia SonetGTX Plus Turbo iMT BSVI,2021,"35,000kms",Petrol,Manual,₹7.49 Lakh,kolkata
+Tata,Tata TiagoXT BSVI,2022,"82,299kms",Petrol,Manual,₹3.61 Lakh,kolkata
+Toyota,Toyota GlanzaG CVT,2019,"45,930kms",Petrol,Automatic,₹4.25 Lakh,kolkata
+Maruti,Maruti CelerioVXI AMT,2017,"68,747kms",Petrol,Automatic,₹3.01 Lakh,kolkata
+Hyundai,Hyundai VenueSX Turbo BSIV,2019,"23,000kms",Petrol,Manual,₹5.99 Lakh,kolkata
+Maruti,Maruti S-PressoVXI Plus AT  -2022,2019,"42,450kms",Petrol,Automatic,₹3.10 Lakh,kolkata
+Hyundai,Hyundai i20Magna Plus,2019,"54,777kms",Petrol,Manual,₹4.46 Lakh,kolkata
+Honda,Honda AmazeVX i DTEC,2018,"1,00,226kms",Diesel,Manual,₹4.50 Lakh,kolkata
+Volkswagen,Volkswagen PoloGT TSI,2014,"20,000kms",Petrol,Automatic,₹5 Lakh,kolkata
+Hyundai,Hyundai i20Magna Plus,2019,"54,777kms",Petrol,Manual,₹4.46 Lakh,kolkata
+Honda,Honda AmazeVX i DTEC,2018,"1,00,226kms",Diesel,Manual,₹4.50 Lakh,kolkata
+Honda,Honda CitySV MT,2019,"40,100kms",Petrol,Manual,₹4.70 Lakh,kolkata
+Maruti,Maruti Wagon RVXI BS IV,2018,"38,000kms",Petrol,Manual,₹3.15 Lakh,kolkata
+Maruti,Maruti Baleno1.2 Zeta,2016,"83,465kms",Petrol,Manual,₹3.55 Lakh,kolkata
+Maruti,Maruti S-PressoVXI Plus AT  -2022,2019,"42,450kms",Petrol,Automatic,₹3.10 Lakh,kolkata
+Tata,Tata Tiago1.2 Revotron XZ,2019,"48,000kms",Petrol,Manual,₹3.75 Lakh,kolkata
+Maruti,Maruti CelerioVXI AT,2016,"3,000kms",Petrol,Automatic,₹3.20 Lakh,kolkata
+Hyundai,Hyundai Grand i10 NiosSportz,2020,"31,100kms",Petrol,Manual,₹4.25 Lakh,kolkata
+Volkswagen,Volkswagen Polo1.5 TDI Comfortline,2015,"58,000kms",Diesel,Manual,₹3.25 Lakh,kolkata
+Honda,Honda Jazz1.2 VX i VTEC,2018,"66,000kms",Petrol,Manual,₹3.70 Lakh,kolkata
+Maruti,Maruti Baleno1.2 Delta,2018,"29,000kms",Petrol,Manual,₹3.99 Lakh,kolkata
+Hyundai,Hyundai i20Sportz 1.2,2015,"49,151kms",Petrol,Manual,₹3.65 Lakh,kolkata
+Hyundai,Hyundai i20 Active1.2 S,2015,"52,235kms",Petrol,Manual,₹3.75 Lakh,kolkata
+Ford,Ford AspireTitanium Blu Diesel,2018,"49,114kms",Diesel,Manual,₹4.45 Lakh,kolkata
+Hyundai,Hyundai VenueSX Diesel,2021,"53,134kms",Diesel,Manual,₹7.10 Lakh,kolkata
+Maruti,Maruti CiazZDi Plus SHVS,2016,"85,000kms",Diesel,Manual,₹4.85 Lakh,kolkata
+Maruti,Maruti IgnisZeta BSVI,2020,"45,000kms",Petrol,Manual,₹4.45 Lakh,kolkata
+Hyundai,Hyundai i20Magna Plus BSIV,2019,"46,000kms",Petrol,Manual,₹4.75 Lakh,kolkata
+BMW,BMW 3 Series330i Sport,2022,"20,000kms",Petrol,Automatic,₹30.99 Lakh,kolkata
+Honda,Honda Cityi-VTEC VX,2018,"83,000kms",Petrol,Manual,₹5.45 Lakh,kolkata
+Honda,Honda Cityi VTEC V,2015,"20,000kms",Petrol,Manual,₹3.95 Lakh,kolkata
+Honda,Honda Cityi VTEC V,2017,"62,561kms",Petrol,Manual,₹4.25 Lakh,kolkata
+Hyundai,Hyundai TucsonSignature AT,2023,"13,000kms",Petrol,Automatic,₹26 Lakh,kolkata
+Honda,Honda Cityi VTEC V,2017,"62,561kms",Petrol,Manual,₹4.25 Lakh,kolkata
+Maruti,Maruti Swift DzireVXI 1.2,2017,"50,000kms",Petrol,Manual,₹4.75 Lakh,kolkata
+Maruti,Maruti Ignis1.2 Zeta BSIV,2019,"52,911kms",Petrol,Manual,₹4.50 Lakh,kolkata
+Kia,Kia SeltosHTK Diesel,2024,"10,000kms",Diesel,Manual,₹10.86 Lakh,kolkata
+Honda,Honda Cityi-VTEC CVT ZX,2017,"80,000kms",Petrol,Automatic,₹5.75 Lakh,kolkata
+Maruti,Maruti ErtigaVDI,2012,"48,127kms",Diesel,Manual,₹3.90 Lakh,kolkata
+Hyundai,Hyundai Grand i10 NiosMagna,2022,"6,000kms",Petrol,Manual,₹4.69 Lakh,kolkata
+BMW,BMW 3 SeriesM340i xDrive,2024,"3,500kms",Petrol,Automatic,₹62 Lakh,kolkata
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2018,"49,000kms",Petrol,Manual,₹3.55 Lakh,kolkata
+Honda,Honda Cityi-VTEC CVT ZX,2017,"74,000kms",Petrol,Automatic,₹5.25 Lakh,kolkata
+Maruti,Maruti Swift DzireZXI 1.2,2018,"39,000kms",Petrol,Manual,₹4.75 Lakh,kolkata
+Honda,Honda Jazz1.2 V AT i VTEC,2015,"63,000kms",Petrol,Automatic,₹2.80 Lakh,kolkata
+Maruti,Maruti CiazVDi Option SHVS,2015,"49,500kms",Diesel,Manual,₹3.70 Lakh,kolkata
+Honda,Honda CityZX CVT,2022,"43,284kms",Petrol,Automatic,₹8.79 Lakh,kolkata
+Hyundai,Hyundai Elantra2.0 SX Option AT,2019,"54,199kms",Petrol,Automatic,₹7.10 Lakh,kolkata
+Audi,Audi A335 TFSI Premium,2018,"10,300kms",Petrol,Automatic,₹16 Lakh,kolkata
+Mahindra,Mahindra XUV300W8 BSVI,2021,"39,740kms",Petrol,Manual,₹6.35 Lakh,kolkata
+Maruti,Maruti CelerioZXI,2018,"76,332kms",Petrol,Manual,₹2.55 Lakh,kolkata
+Maruti,Maruti RitzVDi,2013,"65,293kms",Diesel,Manual,₹2.89 Lakh,kolkata
+Toyota,Toyota Innova Crysta2.4 VX MT 8S BSIV,2016,"1,19,237kms",Diesel,Manual,₹11.35 Lakh,kolkata
+Renault,Renault KWIDClimber 1.0 MT,2017,"47,305kms",Petrol,Manual,₹2.84 Lakh,kolkata
+Hyundai,Hyundai Xcent1.1 CRDi S,2014,"66,000kms",Diesel,Manual,₹2.65 Lakh,kolkata
+Skoda,Skoda SuperbElegance 1.8 TSI,2013,"67,000kms",Petrol,Manual,₹2.99 Lakh,kolkata
+Mahindra,Mahindra TUV 300T4 Plus BSIV,2020,"80,000kms",Diesel,Manual,₹5.75 Lakh,kolkata
+Honda,Honda AmazeS Option i-VTEC,2017,"40,000kms",Petrol,Manual,₹2.75 Lakh,kolkata
+Honda,Honda AmazeS i-Dtech,2013,"57,244kms",Diesel,Manual,₹2.21 Lakh,kolkata
+Honda,Honda JazzSelect Edition,2012,"42,000kms",Petrol,Manual,₹2.25 Lakh,kolkata
+Renault,Renault DusterRXS Option CVT BSIV,2019,"50,000kms",Petrol,Automatic,₹5.50 Lakh,kolkata
+Hyundai,Hyundai Grand i10Sportz,2015,"60,870kms",Petrol,Manual,₹2.85 Lakh,kolkata
+Maruti,Maruti SwiftVXI,2013,"1,15,826kms",Petrol,Manual,₹2.05 Lakh,kolkata
+Hyundai,Hyundai Grand i10Sportz,2015,"60,870kms",Petrol,Manual,₹2.85 Lakh,kolkata
+Maruti,Maruti Swift DzireLDI,2013,"49,000kms",Diesel,Manual,₹2.53 Lakh,kolkata
+Hyundai,Hyundai Elantra1.6 SX Option AT,2017,"58,000kms",Diesel,Automatic,₹7.49 Lakh,kolkata
+Mahindra,Mahindra ScorpioS3 7 Seater,2018,"87,000kms",Diesel,Manual,₹8.25 Lakh,kolkata
+Jeep,Jeep Compass2.0 Limited Option,2018,"34,000kms",Diesel,Manual,₹7.50 Lakh,kolkata
+Jeep,Jeep Compass2.0 Limited Option,2018,"34,000kms",Diesel,Manual,₹7.50 Lakh,kolkata
+Toyota,Toyota Innova2.5 G (Diesel) 7 Seater BS IV,2015,"20,000kms",Diesel,Manual,₹7.25 Lakh,kolkata
+Hyundai,Hyundai CretaSX BSVI,2020,"54,247kms",Petrol,Manual,₹9.50 Lakh,kolkata
+Mahindra,Mahindra ScorpioS3 7 Seater,2018,"65,000kms",Diesel,Manual,₹8.45 Lakh,kolkata
+Toyota,Toyota Innova2.5 G (Diesel) 8 Seater,2014,"65,000kms",Diesel,Manual,₹7.85 Lakh,kolkata
+Honda,Honda CR-V2.4L 4WD AT,2016,"51,000kms",Petrol,Automatic,₹6.41 Lakh,kolkata
+Jeep,Jeep Compass2.0 Limited Option,2018,"50,000kms",Diesel,Manual,₹6.86 Lakh,kolkata
+,Force GurkhaXpedition,2019,"51,000kms",Diesel,Manual,₹7.67 Lakh,kolkata
+Renault,Renault KigerRXZ Turbo CVT,2024,"16,524kms",Petrol,Automatic,₹7.85 Lakh,kolkata
+Hyundai,Hyundai Elantra1.6 SX Option AT,2019,"44,000kms",Diesel,Automatic,₹9.89 Lakh,kolkata
+Skoda,Skoda Kodiaq2.0 TDI Laurin Klement,2019,"40,000kms",Diesel,Automatic,₹18 Lakh,kolkata
+Skoda,Skoda Kodiaq2.0 TDI Laurin Klement,2019,"67,186kms",Diesel,Automatic,₹19 Lakh,kolkata
+Skoda,Skoda Kodiaq2.0 TDI Laurin Klement,2019,"67,186kms",Diesel,Automatic,₹19 Lakh,kolkata
+MG,MG Hector PlusSharp Pro SNOWSTORM 7Str Diesel  -2025,2024,"10,000kms",Diesel,Manual,₹16 Lakh,kolkata
+MG,MG AstorSharp EX BSVI,2022,"39,214kms",Petrol,Manual,₹8.50 Lakh,kolkata
+MG,MG HectorSharp DCT,2020,"34,669kms",Petrol,Automatic,₹9.75 Lakh,kolkata
+Kia,Kia SeltosHTX IVT G,2019,"38,260kms",Petrol,Automatic,₹8.06 Lakh,kolkata
+Toyota,Toyota Innova2.5 G (Diesel) 8 Seater,2014,"67,000kms",Diesel,Manual,₹7.75 Lakh,kolkata
+Kia,Kia SeltosHTK Plus G,2022,"45,000kms",Petrol,Manual,₹8.50 Lakh,kolkata
+Skoda,Skoda Octavia1.8 TSI AT L K,2019,"41,724kms",Petrol,Automatic,₹12.05 Lakh,kolkata
+MG,MG HectorSharp DCT,2020,"34,669kms",Petrol,Automatic,₹9.75 Lakh,kolkata
+Kia,Kia SeltosHTX IVT G,2019,"38,260kms",Petrol,Automatic,₹8.06 Lakh,kolkata
+Kia,Kia SeltosHTK Plus G,2022,"45,000kms",Petrol,Manual,₹8.50 Lakh,kolkata
+Toyota,Toyota Innova2.5 G (Diesel) 8 Seater,2014,"67,000kms",Diesel,Manual,₹7.75 Lakh,kolkata
+Skoda,Skoda Octavia1.8 TSI AT L K,2019,"41,724kms",Petrol,Automatic,₹12.05 Lakh,kolkata
+MG,MG Hector PlusSharp Hybrid MT,2020,"52,035kms",Petrol,Manual,₹10.65 Lakh,kolkata
+MG,MG AstorSavvy CVT BSVI,2022,"17,466kms",Petrol,Automatic,₹11 Lakh,kolkata
+Skoda,Skoda Octavia1.8 TSI AT L K,2018,"51,352kms",Petrol,Automatic,₹10.70 Lakh,kolkata
+Hyundai,Hyundai CretaSX Diesel,2022,"99,837kms",Diesel,Manual,₹10.41 Lakh,kolkata
+Hyundai,Hyundai CretaSX (O) iVT,2022,"22,000kms",Petrol,Automatic,₹11.90 Lakh,kolkata
+Hyundai,Hyundai CretaSX,2023,"7,000kms",Petrol,Manual,₹11.99 Lakh,kolkata
+Tata,Tata HarrierXZA Plus Dark Edition AT BSVI,2022,"49,900kms",Diesel,Automatic,₹13.99 Lakh,kolkata
+Mahindra,Mahindra ScorpioS11,2021,"1,16,000kms",Diesel,Manual,₹12.25 Lakh,kolkata
+Toyota,Toyota Fortuner4x2 Manual,2013,"1,77,000kms",Diesel,Manual,₹10.95 Lakh,kolkata
+Volkswagen,Volkswagen Taigun1.0 Topline,2022,"33,016kms",Petrol,Manual,₹10.50 Lakh,kolkata
+Tata,Tata HarrierXZ Plus BSVI,2022,"43,000kms",Diesel,Manual,₹12.50 Lakh,kolkata
+Kia,Kia SeltosGTX Plus,2021,"37,000kms",Petrol,Manual,₹10.95 Lakh,kolkata
+Jeep,Jeep Compass2.0 Limited,2019,"39,497kms",Diesel,Manual,₹10.25 Lakh,kolkata
+Volkswagen,Volkswagen Taigun1.0 TSI Topline BSVI,2022,"33,016kms",Petrol,Manual,₹10.50 Lakh,kolkata
+Kia,Kia SeltosHTK Plus,2023,"21,504kms",Petrol,Manual,₹12.25 Lakh,kolkata
+Hyundai,Hyundai CretaSX,2023,"7,000kms",Petrol,Manual,₹11.99 Lakh,kolkata
+Skoda,Skoda Slavia1.0 TSI Style,2023,"8,157kms",Petrol,Manual,₹10.99 Lakh,kolkata
+Kia,Kia SeltosHTK Plus,2023,"21,504kms",Petrol,Manual,₹12.25 Lakh,kolkata
+Hyundai,Hyundai CretaSX (O),2024,"15,000kms",Petrol,Manual,₹14.75 Lakh,kolkata
+Kia,Kia SeltosGTX Plus,2021,"37,000kms",Petrol,Manual,₹10.95 Lakh,kolkata
+Jeep,Jeep Compass2.0 Limited,2019,"39,497kms",Diesel,Manual,₹10.25 Lakh,kolkata
+Volkswagen,Volkswagen Taigun1.0 TSI Topline BSVI,2022,"33,016kms",Petrol,Manual,₹10.50 Lakh,kolkata
+Maruti,Maruti Baleno1.2 CVT Alpha,2018,"44,873kms",Petrol,Automatic,₹4.76 Lakh,kolkata
+Renault,Renault KWID1.0 RXT Opt,2021,"33,081kms",Petrol,Manual,₹3.55 Lakh,kolkata
+Renault,Renault KWID1.0 RXT AMT Opt,2021,"73,931kms",Petrol,Automatic,₹3.59 Lakh,kolkata
+Maruti,Maruti CiazPetrol,2018,"96,791kms",Diesel,Manual,₹4.59 Lakh,kolkata
+Honda,Honda Amaze 2nd GenS BSVI,2022,"20,831kms",Petrol,Manual,₹4.60 Lakh,kolkata
+Toyota,Toyota GlanzaS,2023,"4,041kms",Petrol,Manual,₹5.30 Lakh,kolkata
+Tata,Tata TiagoXZA AMT,2020,"1,08,554kms",Petrol,Automatic,₹4.17 Lakh,kolkata
+Hyundai,Hyundai i20Petrol CVT Asta,2018,"49,000kms",Petrol,Automatic,₹4.50 Lakh,kolkata
+Toyota,Toyota YarisVX BSIV,2018,"36,000kms",Petrol,Manual,₹4.65 Lakh,kolkata
+Maruti,2020Maruti S-PressoVXI  -2022,2019,"32,000kms",Petrol,Manual,₹3.35 Lakh,kolkata
+Maruti,Maruti S CrossZeta DDiS 200 SH,2017,"50,000kms",Diesel,Manual,₹5.25 Lakh,kolkata
+Hyundai,Hyundai i201.2 Asta,2018,"50,000kms",Petrol,Manual,₹4.85 Lakh,kolkata
+Maruti,Maruti Wagon RZXI 1.2,2020,"42,000kms",Petrol,Manual,₹4.55 Lakh,kolkata
+Toyota,Toyota YarisVX BSIV,2018,"36,000kms",Petrol,Manual,₹4.65 Lakh,kolkata
+Maruti,2020Maruti S-PressoVXI  -2022,2019,"32,000kms",Petrol,Manual,₹3.35 Lakh,kolkata
+Maruti,Maruti S CrossZeta DDiS 200 SH,2017,"50,000kms",Diesel,Manual,₹5.25 Lakh,kolkata
+Hyundai,Hyundai i201.2 Asta,2018,"50,000kms",Petrol,Manual,₹4.85 Lakh,kolkata
+Maruti,Maruti Wagon RZXI 1.2,2020,"42,000kms",Petrol,Manual,₹4.55 Lakh,kolkata
+Mahindra,Mahindra XUV500R W10 FWD,2015,"90,000kms",Diesel,Manual,₹5.95 Lakh,kolkata
+Maruti,2020Maruti S-PressoVXI  -2022,2019,"50,000kms",Petrol,Manual,₹3.60 Lakh,kolkata
+Renault,Renault KWIDRXL BSIV,2020,"29,000kms",Petrol,Manual,₹3.40 Lakh,kolkata
+Skoda,Skoda Rapid1.6 MPI Elegance AT,2017,"47,850kms",Petrol,Automatic,₹5.10 Lakh,kolkata
+Honda,Honda AmazeV Petrol BSIV,2019,"43,000kms",Petrol,Manual,₹4.50 Lakh,kolkata
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2018,"31,000kms",Petrol,Manual,₹4.11 Lakh,kolkata
+Hyundai,Hyundai Grand i101.2 Kappa Sportz Dual Tone,2018,"35,000kms",Petrol,Manual,₹4.25 Lakh,kolkata
+Honda,Honda Cityi-VTEC VX,2017,"57,000kms",Petrol,Manual,₹4.70 Lakh,kolkata
+Maruti,Maruti Vitara BrezzaVXI,2021,"51,000kms",Petrol,Manual,₹5.50 Lakh,kolkata
+Hyundai,Hyundai AuraSX Plus AMT,2020,"31,275kms",Petrol,Automatic,₹5.75 Lakh,kolkata
+Maruti,Maruti Baleno1.2 CVT Delta,2016,"60,141kms",Petrol,Automatic,₹4.25 Lakh,kolkata
+Honda,Honda WR-Vi-VTEC VX,2019,"18,900kms",Petrol,Manual,₹5.49 Lakh,kolkata
+Renault,Renault KWIDRXT,2023,"20,451kms",Petrol,Manual,₹3.75 Lakh,kolkata
+Skoda,Skoda Rapid1.6 MPI Ambition BSIV,2019,"45,231kms",Petrol,Manual,₹4.55 Lakh,kolkata
+Skoda,Skoda Rapid1.6 MPI Ambition BSIV,2020,"45,231kms",Petrol,Manual,₹4.55 Lakh,kolkata
+Honda,Honda Cityi-VTEC VX,2017,"57,000kms",Petrol,Manual,₹4.70 Lakh,kolkata
+Maruti,Maruti Vitara BrezzaVXI,2021,"51,000kms",Petrol,Manual,₹5.50 Lakh,kolkata
+Maruti,Maruti Ignis1.2 Delta BSIV,2019,"35,000kms",Petrol,Manual,₹3.65 Lakh,kolkata
+Skoda,Skoda Rapid1.6 MPI Ambition BSIV,2019,"45,231kms",Petrol,Manual,₹4.55 Lakh,kolkata
+Honda,Honda BR-Vi-VTEC V MT,2016,"18,000kms",Petrol,Manual,₹4.50 Lakh,kolkata
+Honda,Honda WR-Vi-VTEC VX,2019,"18,900kms",Petrol,Manual,₹5.49 Lakh,kolkata
+Maruti,Maruti S-PressoVXi Plus BSVI,2023,"27,000kms",Petrol,Manual,₹3.85 Lakh,kolkata
+Hyundai,Hyundai i201.2 Asta,2018,"62,000kms",Petrol,Manual,₹4.65 Lakh,kolkata
+Ford,Ford Ecosport1.5 Diesel Ambiente BSIV,2017,"47,527kms",Diesel,Manual,₹3.34 Lakh,kolkata
+Skoda,Skoda Rapid1.6 MPI AT Elegance,2016,"48,000kms",Petrol,Automatic,₹5.10 Lakh,kolkata
+Renault,Renault KWIDRXT,2023,"20,451kms",Petrol,Manual,₹3.75 Lakh,kolkata
+Hyundai,Hyundai AuraSX Plus AMT,2020,"31,275kms",Petrol,Automatic,₹5.75 Lakh,kolkata
+Maruti,Maruti Baleno1.2 CVT Delta,2016,"60,141kms",Petrol,Automatic,₹4.25 Lakh,kolkata
+Maruti,Maruti Celerio XZXI,2021,"50,000kms",Petrol,Manual,₹3.99 Lakh,kolkata
+Skoda,Skoda Rapid1.6 MPI Ambition BSIV,2020,"45,231kms",Petrol,Manual,₹4.55 Lakh,kolkata
+Jeep,Jeep Compass2.0 Sport,2018,"55,000kms",Diesel,Manual,₹6.49 Lakh,kolkata
+Maruti,Maruti RitzVXi,2012,"53,465kms",Petrol,Manual,₹1.40 Lakh,kolkata
+Toyota,Toyota Fortuner4x2 Manual,2016,"75,000kms",Diesel,Manual,₹22.33 Lakh,kolkata
+Toyota,Toyota CamryHybrid 2.5,2019,"8,520kms",Petrol,Automatic,₹22.20 Lakh,kolkata
+Maruti,Maruti SwiftZXI,2023,"25,764kms",Petrol,Manual,₹6.21 Lakh,kolkata
+Jeep,Jeep Compass2.0 Sport,2018,"55,000kms",Diesel,Manual,₹6.49 Lakh,kolkata
+Maruti,Maruti RitzVXi,2012,"53,465kms",Petrol,Manual,₹1.40 Lakh,kolkata
+Toyota,Toyota CamryHybrid 2.5,2019,"8,520kms",Petrol,Automatic,₹22.20 Lakh,kolkata
+Toyota,Toyota Fortuner4x2 Manual,2016,"75,000kms",Diesel,Manual,₹22.33 Lakh,kolkata
+Maruti,Maruti SwiftZXI,2023,"25,764kms",Petrol,Manual,₹6.21 Lakh,kolkata
+Hyundai,Hyundai i20 Active1.2 S,2016,"86,660kms",Petrol,Manual,₹3.10 Lakh,kolkata
+Audi,Audi A645 TFSI Premium Plus,2024,"14,000kms",Petrol,Automatic,₹44.95 Lakh,kolkata
+Land Rover,Land Rover Discovery SportDynamic SE Diesel,2021,"19,100kms",Diesel,Automatic,₹38 Lakh,kolkata
+Maruti,Maruti S CrossZeta AT,2021,"32,000kms",Petrol,Automatic,₹6.99 Lakh,kolkata
+Tata,Tata Tiago1.2 Revotron XZ,2018,"24,000kms",Petrol,Manual,₹3.29 Lakh,kolkata
+Honda,Honda Jazz1.2 SV i VTEC,2016,"38,572kms",Petrol,Manual,₹2.55 Lakh,kolkata
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2014,"1,07,496kms",Petrol,Manual,₹2.54 Lakh,kolkata
+Maruti,Maruti Wagon RVXI BS IV,2017,"58,924kms",Petrol,Manual,₹2.62 Lakh,kolkata
+Hyundai,Hyundai EONSportz,2018,"17,522kms",Petrol,Manual,₹2.75 Lakh,kolkata
+Honda,Honda AmazeS i-VTEC,2014,"1,15,131kms",Petrol,Manual,₹2.40 Lakh,kolkata
+Honda,Honda BrioS MT,2015,"78,000kms",Petrol,Manual,₹2.25 Lakh,kolkata
+Honda,Honda BrioS MT,2015,"88,000kms",Petrol,Manual,₹2.25 Lakh,kolkata
+Mahindra,Mahindra KUV 100 NXTD75 K2,2018,"32,000kms",Diesel,Manual,₹2.65 Lakh,kolkata
+Nissan,Nissan TerranoXL 110 PS,2016,"1,44,000kms",Diesel,Manual,₹2.99 Lakh,kolkata
+Skoda,Skoda Rapid1.5 TDI Active,2015,"48,000kms",Diesel,Manual,₹2.75 Lakh,kolkata
+Honda,Honda BrioS MT,2015,"78,000kms",Petrol,Manual,₹2.25 Lakh,kolkata
+Honda,Honda BrioS MT,2015,"88,000kms",Petrol,Manual,₹2.25 Lakh,kolkata
+Mahindra,Mahindra KUV 100 NXTD75 K2,2018,"32,000kms",Diesel,Manual,₹2.65 Lakh,kolkata
+Honda,Honda CityCorporate Edition,2013,"40,000kms",Petrol,Manual,₹2.50 Lakh,kolkata
+Volkswagen,Volkswagen VentoPetrol Breeze,2012,"46,000kms",Petrol,Manual,₹2.44 Lakh,kolkata
+Maruti,Maruti CelerioVXI,2014,"52,000kms",Petrol,Manual,₹2.45 Lakh,kolkata
+Honda,Honda BrioS MT,2012,"59,999kms",Petrol,Manual,₹1.99 Lakh,kolkata
+Hyundai,Hyundai i201.2 Magna,2010,"47,000kms",Petrol,Manual,₹1.49 Lakh,kolkata
+Maruti,Maruti SwiftVVT VXI,2014,"64,115kms",Petrol,Manual,₹2.65 Lakh,kolkata
+Volkswagen,Volkswagen Vento1.5 TDI Comfortline,2015,"51,000kms",Diesel,Manual,₹2.99 Lakh,kolkata
+Toyota,Toyota Etios Cross1.2L G,2015,"70,000kms",Petrol,Manual,₹2.99 Lakh,kolkata
+Hyundai,Hyundai i10Magna 1.1L,2017,"25,000kms",Petrol,Manual,₹2.85 Lakh,kolkata
+Volkswagen,Volkswagen Polo1.5 TDI Comfortline,2016,"65,007kms",Diesel,Manual,₹2.75 Lakh,kolkata
+Volkswagen,Volkswagen Polo1.5 TDI Highline,2015,"65,007kms",Diesel,Manual,₹2.75 Lakh,kolkata
+Nissan,Nissan TerranoXL 110 PS,2016,"1,44,000kms",Diesel,Manual,₹2.99 Lakh,kolkata
+Skoda,Skoda Rapid1.5 TDI Active,2015,"48,000kms",Diesel,Manual,₹2.75 Lakh,kolkata
+Toyota,Toyota EtiosG,2013,"41,804kms",Petrol,Manual,₹2.21 Lakh,kolkata
+Hyundai,Hyundai Grand i10Sportz,2016,"67,042kms",Petrol,Manual,₹2.65 Lakh,kolkata
+Honda,Honda CityZX MT,2021,"1,07,974kms",Petrol,Manual,₹8.95 Lakh,kolkata
+Maruti,Maruti XL6Alpha,2021,"32,758kms",Petrol,Manual,₹8.58 Lakh,kolkata
+Toyota,Toyota EtiosG,2013,"41,804kms",Petrol,Manual,₹2.21 Lakh,kolkata
+Honda,Honda BrioS MT,2012,"59,999kms",Petrol,Manual,₹1.99 Lakh,kolkata
+Hyundai,Hyundai Grand i10Sportz,2016,"67,042kms",Petrol,Manual,₹2.65 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 VTVT AT SX Plus,2019,"59,870kms",Petrol,Automatic,₹6.71 Lakh,kolkata
+Honda,Honda CityZX MT,2020,"17,711kms",Petrol,Manual,₹9.98 Lakh,kolkata
+Hyundai,Hyundai VenueSX Opt Turbo DCT Special Edition,2022,"63,786kms",Petrol,Automatic,₹8.19 Lakh,kolkata
+Honda,Honda CityZX MT,2021,"1,07,974kms",Petrol,Manual,₹8.95 Lakh,kolkata
+Maruti,Maruti XL6Alpha,2021,"32,758kms",Petrol,Manual,₹8.58 Lakh,kolkata
+Maruti,Maruti Grand VitaraAlpha BSVI,2022,"62,308kms",Petrol,Manual,₹9.70 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 SX,2018,"69,140kms",Petrol,Manual,₹7.49 Lakh,kolkata
+Tata,Tata PunchAccomplished AMT,2023,"8,783kms",Petrol,Automatic,₹7.08 Lakh,kolkata
+MG,MG Hector PlusSharp Hybrid MT,2020,"91,408kms",Petrol,Manual,₹9.70 Lakh,kolkata
+Kia,Kia SeltosGTX,2020,"52,905kms",Petrol,Manual,₹8.20 Lakh,kolkata
+Maruti,Maruti Ciaz1.4 Alpha,2023,"36,462kms",Petrol,Manual,₹8.31 Lakh,kolkata
+Renault,Renault DusterRXZ,2021,"70,330kms",Petrol,Manual,₹6.75 Lakh,kolkata
+Maruti,Maruti XL6Alpha Plus,2022,"38,978kms",Petrol,Manual,₹9.54 Lakh,kolkata
+Tata,Tata NexonXZ Diesel,2021,"36,913kms",Diesel,Manual,₹6.24 Lakh,kolkata
+Maruti,Maruti Vitara BrezzaZXI Plus,2021,"62,466kms",Petrol,Manual,₹6.65 Lakh,kolkata
+Honda,Honda CityZX CVT 2 Airbag,2023,"50,961kms",Petrol,Automatic,₹9.70 Lakh,kolkata
+Kia,Kia SeltosHTX G,2020,"49,000kms",Petrol,Manual,₹7.75 Lakh,kolkata
+Maruti,Maruti XL6Alpha Plus,2022,"38,978kms",Petrol,Manual,₹9.54 Lakh,kolkata
+Tata,Tata NexonXZ Diesel,2021,"36,913kms",Diesel,Manual,₹6.24 Lakh,kolkata
+Maruti,Maruti Vitara BrezzaZXI Plus,2021,"62,466kms",Petrol,Manual,₹6.65 Lakh,kolkata
+Honda,Honda CityZX CVT 2 Airbag,2023,"50,961kms",Petrol,Automatic,₹9.70 Lakh,kolkata
+Kia,Kia SeltosHTX G,2020,"49,000kms",Petrol,Manual,₹7.75 Lakh,kolkata
+Toyota,Toyota Innova2.5 G (Diesel) 7 Seater BS IV,2015,"1,22,000kms",Diesel,Manual,₹7.25 Lakh,kolkata
+Volkswagen,Volkswagen PoloGT TSI,2014,"41,524kms",Petrol,Automatic,₹6.49 Lakh,kolkata
+Hyundai,Hyundai VernaCRDi 1.6 SX Option,2019,"71,000kms",Diesel,Manual,₹7.75 Lakh,kolkata
+Maruti,Maruti BalenoZeta,2023,"23,000kms",Petrol,Manual,₹6.50 Lakh,kolkata
+Kia,Kia SeltosHTX G,2021,"55,000kms",Petrol,Manual,₹8.25 Lakh,kolkata
+Mahindra,Mahindra XUV500W10 2WD,2017,"64,505kms",Diesel,Manual,₹7.50 Lakh,kolkata
+Honda,Honda CityZX CVT,2020,"38,000kms",Petrol,Automatic,₹8.60 Lakh,kolkata
+Skoda,Skoda Slavia1.0 TSI Ambition Plus,2023,"24,000kms",Petrol,Manual,₹9 Lakh,kolkata
+Hyundai,Hyundai AuraS AMT,2022,"13,533kms",Petrol,Automatic,₹6.55 Lakh,kolkata
+Mahindra,Mahindra XUV300W6 Sunroof NT BSVI,2023,"8,000kms",Petrol,Manual,₹8.50 Lakh,kolkata
+Kia,Kia SeltosHTK Plus G,2022,"15,000kms",Petrol,Manual,₹8.75 Lakh,kolkata
+Maruti,Maruti Grand VitaraZeta Plus Hybrid CVT,2025,"17,000kms",Petrol,Automatic,₹15.50 Lakh,kolkata
+Maruti,Maruti Grand VitaraZeta Plus Hybrid CVT BSVI,2025,"16,000kms",Petrol,Automatic,₹16.80 Lakh,kolkata
+Skoda,Skoda Kushaq1.5 TSI Style,2023,"15,000kms",Petrol,Manual,₹10.75 Lakh,kolkata
+Kia,Kia SeltosHTX,2023,"27,500kms",Petrol,Manual,₹10.75 Lakh,kolkata
+Kia,Kia SeltosHTK Plus G,2022,"15,000kms",Petrol,Manual,₹8.75 Lakh,kolkata
+Maruti,Maruti Grand VitaraZeta Plus Hybrid CVT,2025,"17,000kms",Petrol,Automatic,₹15.50 Lakh,kolkata
+Maruti,Maruti Grand VitaraZeta Plus Hybrid CVT BSVI,2025,"16,000kms",Petrol,Automatic,₹16.80 Lakh,kolkata
+Skoda,Skoda Kushaq1.5 TSI Style,2023,"15,000kms",Petrol,Manual,₹10.75 Lakh,kolkata
+Kia,Kia SeltosHTX,2023,"27,500kms",Petrol,Manual,₹10.75 Lakh,kolkata
+Honda,Honda CityV MT AVN,2016,"39,854kms",Petrol,Manual,₹2.70 Lakh,kolkata
+Jeep,Jeep Compass2.0 Longitude BSIV,2018,"39,388kms",Diesel,Manual,₹6.72 Lakh,kolkata
+Hyundai,Hyundai VenueSX Opt Turbo,2021,"29,000kms",Petrol,Manual,₹6.49 Lakh,kolkata
+Mahindra,Mahindra XUV500W11 Option,2021,"54,000kms",Diesel,Manual,₹8.35 Lakh,kolkata
+Mahindra,Mahindra Thar ROXXAX7L RWD Diesel,2024,"9,800kms",Diesel,Manual,₹18.15 Lakh,kolkata
+Hyundai,Hyundai AlcazarPrestige 7-Seater,2022,"29,000kms",Petrol,Manual,₹15.45 Lakh,kolkata
+Mahindra,Mahindra XUV700AX7 AWD Diesel AT BSVI,2022,"53,600kms",Diesel,Automatic,₹17.99 Lakh,kolkata
+Toyota,Toyota Innova Crysta2.8 GX AT BSIV,2019,"41,000kms",Diesel,Automatic,₹15.95 Lakh,kolkata
+MG,2024MG HectorSavvy Pro CVT  -2025,2023,"3,000kms",Petrol,Automatic,₹17.30 Lakh,kolkata
+Mahindra,Mahindra ScorpioS 11 7CC,2024,"13,100kms",Diesel,Manual,₹16.50 Lakh,kolkata
+Kia,Kia SyrosHTX Plus Opt Diesel AT,2025,"5,474kms",Diesel,Automatic,₹15.51 Lakh,kolkata
+Hyundai,Hyundai SantroMagna,2020,"1,13,846kms",Petrol,Manual,₹2.80 Lakh,kolkata
+Hyundai,Hyundai Grand i10CRDi Magna,2015,"61,000kms",Diesel,Manual,₹2.55 Lakh,kolkata
+,Aston Martin DB11V12,2017,"4,700kms",Petrol,Automatic,₹2.40 Crore,kolkata
+Skoda,Skoda SuperbSportline 1.8 TSI AT,2020,"23,096kms",Petrol,Automatic,₹15.99 Lakh,kolkata
+Kia,Kia SyrosHTX Plus Opt Diesel AT,2025,"5,474kms",Diesel,Automatic,₹15.51 Lakh,kolkata
+Hyundai,Hyundai SantroMagna,2020,"1,13,846kms",Petrol,Manual,₹2.80 Lakh,kolkata
+Hyundai,Hyundai Grand i10CRDi Magna,2015,"61,000kms",Diesel,Manual,₹2.55 Lakh,kolkata
+Skoda,Skoda SuperbSportline 1.8 TSI AT,2020,"23,096kms",Petrol,Automatic,₹15.99 Lakh,kolkata
+,Aston Martin DB11V12,2017,"4,700kms",Petrol,Automatic,₹2.40 Crore,kolkata
+Hyundai,Hyundai Creta1.6 CRDi AT SX Plus,2017,"39,000kms",Diesel,Automatic,₹6.25 Lakh,kolkata
+Maruti,Maruti BalenoAlpha Diesel,2017,"63,033kms",Diesel,Manual,₹4.49 Lakh,kolkata
+Mahindra,Mahindra BoleroB6 Opt BSVI,2021,"88,000kms",Diesel,Manual,₹6.25 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 SX Automatic,2019,"30,000kms",Petrol,Automatic,₹7.25 Lakh,kolkata
+Volkswagen,Volkswagen Polo1.2 MPI Comfortline,2016,"64,000kms",Petrol,Manual,₹2.95 Lakh,kolkata
+Kia,Kia CarensPrestige Plus DCT,2023,"12,078kms",Petrol,Automatic,₹14.44 Lakh,kolkata
+Hyundai,Hyundai TucsonSignature Diesel 4WD AT,2024,"9,800kms",Diesel,Automatic,₹27.50 Lakh,kolkata
+Mini Cooper,Mini Cooper SEElectric,2023,"11,900kms",Electric,Automatic,₹29.50 Lakh,kolkata
+Audi,Audi Q745 TDI Quattro Premium Plus,2018,"1,05,900kms",Diesel,Automatic,₹24 Lakh,kolkata
+Mahindra,Mahindra Thar ROXXAX7L 4WD Diesel,2025,"3,050kms",Diesel,Manual,₹21.75 Lakh,kolkata
+Jeep,Jeep Compass1.4 Limited Option,2018,"67,384kms",Petrol,Automatic,₹7.30 Lakh,kolkata
+Kia,Kia SeltosX-Line Diesel AT,2024,"13,800kms",Diesel,Automatic,₹16.25 Lakh,kolkata
+Maruti,Maruti Wagon RLXI BS IV,2015,"11,959kms",Petrol,Manual,₹2.31 Lakh,kolkata
+Hyundai,Hyundai CretaSX Diesel,2023,"71,651kms",Diesel,Manual,₹11.93 Lakh,kolkata
+Honda,Honda ElevateZX Non RF,2024,"13,666kms",Petrol,Manual,₹13.37 Lakh,kolkata
+Jeep,Jeep Compass1.4 Limited Option,2018,"67,384kms",Petrol,Automatic,₹7.30 Lakh,kolkata
+Kia,Kia SeltosX-Line Diesel AT,2024,"13,800kms",Diesel,Automatic,₹16.25 Lakh,kolkata
+Maruti,Maruti Wagon RLXI BS IV,2015,"11,959kms",Petrol,Manual,₹2.31 Lakh,kolkata
+Hyundai,Hyundai CretaSX Diesel,2023,"71,651kms",Diesel,Manual,₹11.93 Lakh,kolkata
+Honda,Honda ElevateZX Non RF,2024,"13,666kms",Petrol,Manual,₹13.37 Lakh,kolkata
+Volkswagen,Volkswagen VirtusTopline AT,2023,"10,486kms",Petrol,Automatic,₹13.27 Lakh,kolkata
+Honda,Honda ElevateZX Non RF,2023,"31,144kms",Petrol,Manual,₹11.94 Lakh,kolkata
+Maruti,Maruti Grand VitaraAlpha AT BSVI,2022,"58,453kms",Petrol,Automatic,₹11.65 Lakh,kolkata
+Skoda,Skoda Octavia1.8 TSI AT L K,2018,"63,109kms",Petrol,Automatic,₹13.50 Lakh,kolkata
+Jeep,Jeep Compass2.0 Limited Opt Diesel BSVI,2021,"28,500kms",Diesel,Manual,₹13.55 Lakh,kolkata
+Hyundai,Hyundai AlcazarSignature,2021,"31,000kms",Petrol,Manual,₹11.75 Lakh,kolkata
+Hyundai,Hyundai CretaS Plus Knight BSVI,2023,"42,000kms",Petrol,Manual,₹11.76 Lakh,kolkata
+Toyota,Toyota Innova Crysta2.4 VX MT 8S BSIV,2018,"1,68,000kms",Diesel,Manual,₹11.95 Lakh,kolkata
+Toyota,Toyota Innova Crysta2.4 VX MT 8S BSIV,2018,"1,54,000kms",Diesel,Manual,₹13.95 Lakh,kolkata
+Toyota,Toyota Innova Crysta2.4 G MT 8S BSIV,2018,"60,000kms",Diesel,Manual,₹13 Lakh,kolkata
+Toyota,Toyota Innova Crysta2.4 G MT BSIV,2017,"12,00,000kms",Diesel,Manual,₹10.99 Lakh,kolkata
+Kia,Kia SeltosHTX IVT G,2022,"44,000kms",Petrol,Automatic,₹10.75 Lakh,kolkata
+Kia,Kia CarensPremium Opt,2025,"11,000kms",Petrol,Manual,₹11.49 Lakh,kolkata
+Audi,Audi Q7Premium plus BSVI,2022,"23,800kms",Petrol,Automatic,₹56.50 Lakh,kolkata
+Maruti,Maruti CelerioVXI,2016,"40,892kms",Petrol,Manual,₹2.68 Lakh,kolkata
+Toyota,Toyota Innova Crysta2.4 G MT BSIV,2017,"12,00,000kms",Diesel,Manual,₹10.99 Lakh,kolkata
+Kia,Kia CarensPremium Opt,2025,"11,000kms",Petrol,Manual,₹11.49 Lakh,kolkata
+Kia,Kia SeltosHTX IVT G,2022,"44,000kms",Petrol,Automatic,₹10.75 Lakh,kolkata
+Audi,Audi Q7Premium plus BSVI,2022,"23,800kms",Petrol,Automatic,₹56.50 Lakh,kolkata
+Maruti,Maruti CelerioVXI,2016,"40,892kms",Petrol,Manual,₹2.68 Lakh,kolkata
+Ford,Ford Ecosport1.5 Ti VCT MT Trend BSIV,2016,"60,970kms",Petrol,Manual,₹3.05 Lakh,kolkata
+Renault,Renault KWIDRXL,2020,"22,154kms",Petrol,Manual,₹3.18 Lakh,kolkata
+Maruti,Maruti Alto 800VXI,2021,"13,050kms",Petrol,Manual,₹3.28 Lakh,kolkata
+Maruti,Maruti Alto 800VXI,2021,"46,019kms",Petrol,Manual,₹3.16 Lakh,kolkata
+Honda,Honda WR-Vi-VTEC S,2017,"55,352kms",Petrol,Manual,₹3.54 Lakh,kolkata
+Tata,Tata PunchCreative,2021,"59,294kms",Petrol,Manual,₹5.59 Lakh,kolkata
+Tata,Tata Nexon1.2 Revotron XZ Plus,2018,"96,812kms",Petrol,Manual,₹4.29 Lakh,kolkata
+Maruti,2022Maruti S-PressoVXI  -2022,2019,"35,814kms",Petrol,Manual,₹4.03 Lakh,kolkata
+Maruti,Maruti Wagon RVXI,2021,"18,008kms",Petrol,Manual,₹3.65 Lakh,kolkata
+Toyota,Toyota EtiosVX,2015,"64,016kms",Petrol,Manual,₹3.78 Lakh,kolkata
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2021,"31,658kms",Petrol,Manual,₹5.45 Lakh,kolkata
+Honda,Honda WR-Vi-VTEC S,2017,"39,962kms",Petrol,Manual,₹4.10 Lakh,kolkata
+Maruti,Maruti SwiftZXI,2021,"65,233kms",Petrol,Manual,₹5.29 Lakh,kolkata
+Honda,Honda Cityi VTEC VX,2016,"1,11,496kms",Petrol,Manual,₹3.45 Lakh,kolkata
+Honda,Honda WR-Vi-VTEC S,2018,"39,230kms",Petrol,Manual,₹3.23 Lakh,kolkata
+Maruti,Maruti SwiftVXI,2022,"15,803kms",Petrol,Manual,₹4.80 Lakh,kolkata
+Maruti,Maruti Alto 800VXI,2021,"13,050kms",Petrol,Manual,₹3.28 Lakh,kolkata
+Maruti,Maruti Alto 800VXI,2021,"46,019kms",Petrol,Manual,₹3.16 Lakh,kolkata
+Honda,Honda WR-Vi-VTEC S,2017,"55,352kms",Petrol,Manual,₹3.54 Lakh,kolkata
+Tata,Tata Nexon1.2 Revotron XZ Plus,2018,"96,812kms",Petrol,Manual,₹4.29 Lakh,kolkata
+Maruti,2022Maruti S-PressoVXI  -2022,2019,"35,814kms",Petrol,Manual,₹4.03 Lakh,kolkata
+Maruti,Maruti Wagon RVXI,2021,"18,008kms",Petrol,Manual,₹3.65 Lakh,kolkata
+Honda,Honda WR-Vi-VTEC S,2017,"39,962kms",Petrol,Manual,₹4.10 Lakh,kolkata
+Maruti,Maruti SwiftZXI,2021,"65,233kms",Petrol,Manual,₹5.29 Lakh,kolkata
+Skoda,Skoda Rapid1.5 TDI AT Style Plus,2018,"1,07,135kms",Diesel,Automatic,₹4.66 Lakh,kolkata
+Honda,Honda WR-Vi-VTEC S,2018,"39,230kms",Petrol,Manual,₹3.23 Lakh,kolkata
+Hyundai,Hyundai i201.2 Asta,2017,"59,734kms",Petrol,Manual,₹4.36 Lakh,kolkata
+Tata,Tata TigorXZ,2021,"30,597kms",Petrol,Manual,₹4.75 Lakh,kolkata
+Tata,Tata Tiago NRGXZ BSVI,2022,"28,771kms",Petrol,Manual,₹3.80 Lakh,kolkata
+Hyundai,Hyundai AuraS,2020,"47,742kms",Petrol,Manual,₹3.67 Lakh,kolkata
+Tata,Tata PunchCreative,2021,"59,294kms",Petrol,Manual,₹5.59 Lakh,kolkata
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2017,"55,000kms",Petrol,Manual,₹3.65 Lakh,kolkata
+Renault,Renault KWIDClimber 1.0 MT,2020,"46,000kms",Petrol,Manual,₹3.60 Lakh,kolkata
+Hyundai,Hyundai Grand i10Asta Option,2017,"64,000kms",Petrol,Manual,₹3.25 Lakh,kolkata
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2017,"64,000kms",Petrol,Manual,₹3.65 Lakh,kolkata
+Renault,Renault KWIDClimber 1.0 MT,2020,"46,000kms",Petrol,Manual,₹3.60 Lakh,kolkata
+Honda,Honda AmazeVX,2019,"73,978kms",Petrol,Manual,₹4.67 Lakh,kolkata
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2016,"53,282kms",Petrol,Manual,₹3.06 Lakh,kolkata
+Hyundai,Hyundai Grand i10Asta Option,2017,"64,000kms",Petrol,Manual,₹3.25 Lakh,kolkata
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2017,"64,000kms",Petrol,Manual,₹3.65 Lakh,kolkata
+Honda,Honda BrioVX AT,2015,"62,023kms",Petrol,Automatic,₹3.50 Lakh,kolkata
+Maruti,Maruti Vitara BrezzaVDi AMT,2018,"42,000kms",Diesel,Automatic,₹5.09 Lakh,kolkata
+Honda,Honda AmazeVX CVT Petrol,2020,"30,591kms",Petrol,Automatic,₹5.25 Lakh,kolkata
+Maruti,Maruti SwiftVXI,2020,"46,996kms",Petrol,Manual,₹4.75 Lakh,kolkata
+Hyundai,Hyundai Grand i10 NiosSportz,2020,"53,523kms",Petrol,Manual,₹4.25 Lakh,kolkata
+Hyundai,Hyundai Grand i10 NiosSportz,2022,"45,060kms",Petrol,Manual,₹5 Lakh,kolkata
+Maruti,Maruti Swift DzireVXI 1.2,2019,"45,781kms",Petrol,Manual,₹4.90 Lakh,kolkata
+Maruti,Maruti SwiftAMT ZXI,2020,"46,000kms",Petrol,Automatic,₹5.65 Lakh,kolkata
+Honda,Honda BR-Vi-VTEC VX MT,2018,"56,000kms",Petrol,Manual,₹5.20 Lakh,kolkata
+Mahindra,Mahindra XUV500W8 FWD,2014,"64,000kms",Diesel,Manual,₹3.95 Lakh,kolkata
+Tata,Tata AltrozXZ BSVI,2022,"46,000kms",Petrol,Manual,₹5.50 Lakh,kolkata
+Maruti,Maruti Ciaz1.4 Delta,2018,"38,351kms",Petrol,Manual,₹4.71 Lakh,kolkata
+Maruti,Maruti S CrossZeta DDiS 200 SH,2019,"65,000kms",Diesel,Manual,₹5.49 Lakh,kolkata
+Maruti,Maruti SwiftAMT ZXI,2019,"44,600kms",Petrol,Automatic,₹5.40 Lakh,kolkata
+Toyota,Toyota Etios1.5 GX,2017,"42,000kms",Petrol,Manual,₹3.65 Lakh,kolkata
+Tata,Tata AltrozXZ BSVI,2022,"46,000kms",Petrol,Manual,₹5.50 Lakh,kolkata
+Maruti,Maruti Ciaz1.4 Delta,2018,"38,351kms",Petrol,Manual,₹4.71 Lakh,kolkata
+Maruti,Maruti S CrossZeta DDiS 200 SH,2019,"65,000kms",Diesel,Manual,₹5.49 Lakh,kolkata
+Maruti,Maruti SwiftAMT ZXI,2019,"44,600kms",Petrol,Automatic,₹5.40 Lakh,kolkata
+Toyota,Toyota Etios1.5 GX,2017,"42,000kms",Petrol,Manual,₹3.65 Lakh,kolkata
+Hyundai,Hyundai Grand i10CRDi SportZ Edition,2015,"44,000kms",Diesel,Manual,₹3.20 Lakh,kolkata
+Hyundai,Hyundai SantroSportz AMT,2020,"59,000kms",Petrol,Automatic,₹3.85 Lakh,kolkata
+Toyota,Toyota Corolla AltisG MT,2016,"59,000kms",Petrol,Manual,₹5.25 Lakh,kolkata
+Maruti,Maruti CelerioVXI BSVI,2022,"29,000kms",Petrol,Manual,₹4.09 Lakh,kolkata
+Hyundai,Hyundai SantroSportz AMT BSIV,2019,"21,000kms",Petrol,Automatic,₹3.39 Lakh,kolkata
+Maruti,Maruti Swift DzireZXI Plus BS IV,2018,"38,000kms",Petrol,Manual,₹4.75 Lakh,kolkata
+Maruti,Maruti Wagon RAMT VXI,2018,"44,000kms",Petrol,Automatic,₹3.49 Lakh,kolkata
+Maruti,Maruti Wagon RAMT VXI,2018,"44,000kms",Petrol,Automatic,₹3.49 Lakh,kolkata
+Hyundai,Hyundai Grand i10Asta Option,2016,"49,000kms",Petrol,Manual,₹3.41 Lakh,kolkata
+Hyundai,Hyundai i10Sportz 1.1L,2017,"55,000kms",Petrol,Manual,₹3.25 Lakh,kolkata
+Ford,Ford Ecosport1.5 TDCi Trend BSIV,2015,"70,000kms",Diesel,Manual,₹3.15 Lakh,kolkata
+Hyundai,Hyundai VenueS BSIV,2020,"30,000kms",Petrol,Manual,₹5.25 Lakh,kolkata
+Renault,Renault DusterRXE Turbo,2021,"53,000kms",Petrol,Manual,₹4.96 Lakh,kolkata
+Hyundai,Hyundai Grand i10 NiosAMT Sportz,2019,"66,000kms",Petrol,Automatic,₹4.65 Lakh,kolkata
+Honda,Honda BR-Vi-VTEC S MT,2019,"15,302kms",Petrol,Manual,₹5.99 Lakh,kolkata
+Hyundai,Hyundai Grand i10CRDi SportZ Edition,2015,"44,000kms",Diesel,Manual,₹3.20 Lakh,kolkata
+Maruti,Maruti CelerioVXI BSVI,2022,"29,000kms",Petrol,Manual,₹4.09 Lakh,kolkata
+Hyundai,Hyundai SantroSportz AMT BSIV,2019,"21,000kms",Petrol,Automatic,₹3.39 Lakh,kolkata
+Hyundai,Hyundai SantroSportz AMT,2020,"59,000kms",Petrol,Automatic,₹3.85 Lakh,kolkata
+Toyota,Toyota Corolla AltisG MT,2016,"59,000kms",Petrol,Manual,₹5.25 Lakh,kolkata
+Hyundai,Hyundai Grand i10Asta Option,2016,"49,000kms",Petrol,Manual,₹3.41 Lakh,kolkata
+Honda,Honda WR-Vi-VTEC VX,2018,"43,123kms",Petrol,Manual,₹4.55 Lakh,kolkata
+Maruti,Maruti SwiftVXI,2016,"37,000kms",Petrol,Manual,₹2.95 Lakh,kolkata
+Honda,Honda AmazeS i-VTEC,2016,"38,000kms",Petrol,Manual,₹2.81 Lakh,kolkata
+Mahindra,Mahindra ScorpioVLX 4X4,2009,"99,000kms",Diesel,Manual,₹2.79 Lakh,kolkata
+Toyota,Toyota Corolla AltisG MT,2014,"57,000kms",Petrol,Manual,₹2.85 Lakh,kolkata
+Toyota,Toyota Corolla Altis1.8 GL,2014,"58,000kms",Petrol,Manual,₹2.85 Lakh,kolkata
+Maruti,Maruti SwiftVXI,2022,"21,813kms",Petrol,Manual,₹5.35 Lakh,kolkata
+Maruti,Maruti Alto 800VXI,2022,"2,179kms",Petrol,Manual,₹3.50 Lakh,kolkata
+Maruti,Maruti Alto 800VXI,2018,"75,188kms",Petrol,Manual,₹2.39 Lakh,kolkata
+Maruti,Maruti SwiftVXI,2014,"19,872kms",Petrol,Manual,₹2.15 Lakh,kolkata
+Maruti,Maruti CelerioVXI,2016,"75,280kms",Petrol,Manual,₹2.87 Lakh,kolkata
+Volkswagen,Volkswagen Ameo1.2 MPI Comfortline,2017,"68,886kms",Petrol,Manual,₹2.85 Lakh,kolkata
+Hyundai,Hyundai Verna1.4 VTVT,2015,"23,905kms",Petrol,Manual,₹2.65 Lakh,kolkata
+Volkswagen,Volkswagen PoloPetrol Highline 1.2L,2013,"32,266kms",Petrol,Manual,₹2.91 Lakh,kolkata
+Maruti,Maruti SwiftVXI,2014,"19,872kms",Petrol,Manual,₹2.15 Lakh,kolkata
+Maruti,Maruti CelerioVXI,2017,"51,831kms",Petrol,Manual,₹2.45 Lakh,kolkata
+Hyundai,Hyundai Verna1.6 SX VTVT,2012,"38,133kms",Petrol,Manual,₹2.30 Lakh,kolkata
+Maruti,Maruti Wagon RLXI BSVI,2017,"39,684kms",Petrol,Manual,₹2.07 Lakh,kolkata
+Tata,Tata Tiago NRGPetrol,2019,"54,032kms",Petrol,Manual,₹2.85 Lakh,kolkata
+Maruti,Maruti CelerioVXI,2016,"75,280kms",Petrol,Manual,₹2.87 Lakh,kolkata
+Maruti,Maruti Alto 800VXI,2018,"75,188kms",Petrol,Manual,₹2.39 Lakh,kolkata
+Maruti,Maruti CelerioVXI,2015,"34,911kms",Petrol,Manual,₹2.30 Lakh,kolkata
+Volkswagen,Volkswagen Ameo1.2 MPI Comfortline,2017,"68,886kms",Petrol,Manual,₹2.85 Lakh,kolkata
+Hyundai,Hyundai Verna1.4 VTVT,2015,"23,905kms",Petrol,Manual,₹2.65 Lakh,kolkata
+Volkswagen,Volkswagen PoloPetrol Highline 1.2L,2013,"32,266kms",Petrol,Manual,₹2.91 Lakh,kolkata
+Hyundai,Hyundai Grand i10Magna,2015,"66,000kms",Petrol,Manual,₹2.85 Lakh,kolkata
+Volkswagen,Volkswagen Polo1.5 TDI Comfortline,2015,"57,000kms",Diesel,Manual,₹2.90 Lakh,kolkata
+Nissan,Nissan SunnyDiesel XV,2014,"55,000kms",Diesel,Manual,₹2.59 Lakh,kolkata
+Hyundai,Hyundai Grand i10Sportz,2016,"51,165kms",Petrol,Manual,₹2.50 Lakh,kolkata
+Volkswagen,Volkswagen PoloDiesel Highline 1.2L,2012,"65,000kms",Diesel,Manual,₹2.65 Lakh,kolkata
+Hyundai,Hyundai Grand i10Sportz,2016,"48,000kms",Petrol,Manual,₹2.99 Lakh,kolkata
+Nissan,Nissan TerranoXL Plus 85 PS,2015,"79,000kms",Diesel,Manual,₹2.80 Lakh,kolkata
+Nissan,Nissan TerranoXE 85 PS,2015,"80,000kms",Diesel,Manual,₹2.95 Lakh,kolkata
+Volkswagen,Volkswagen VentoIPL II Petrol Highline,2013,"51,000kms",Petrol,Manual,₹2.62 Lakh,kolkata
+Volkswagen,Volkswagen PoloDiesel Highline 1.2L,2012,"65,000kms",Diesel,Manual,₹2.65 Lakh,kolkata
+Hyundai,Hyundai Grand i10Sportz,2016,"48,000kms",Petrol,Manual,₹2.99 Lakh,kolkata
+Nissan,Nissan TerranoXL Plus 85 PS,2015,"79,000kms",Diesel,Manual,₹2.80 Lakh,kolkata
+Nissan,Nissan TerranoXE 85 PS,2015,"80,000kms",Diesel,Manual,₹2.95 Lakh,kolkata
+Volkswagen,Volkswagen VentoIPL II Petrol Highline,2013,"51,000kms",Petrol,Manual,₹2.62 Lakh,kolkata
+Hyundai,Hyundai Grand i10Magna,2016,"43,000kms",Petrol,Manual,₹2.99 Lakh,kolkata
+Toyota,Toyota Innova2.5 G1 Diesel 8-seater,2007,"1,00,006kms",Diesel,Manual,₹2.50 Lakh,kolkata
+Toyota,Toyota EtiosV,2012,"27,000kms",Petrol,Manual,₹2.20 Lakh,kolkata
+Datsun,Datsun RediGO1.0 T Option,2017,"25,000kms",Petrol,Manual,₹2.11 Lakh,kolkata
+Hyundai,Hyundai i10Magna 1.1L,2017,"33,000kms",Petrol,Manual,₹2.95 Lakh,kolkata
+Toyota,Toyota EtiosGD,2012,"57,000kms",Diesel,Manual,₹2.95 Lakh,kolkata
+Toyota,Toyota EtiosGD,2012,"92,000kms",Diesel,Manual,₹2.85 Lakh,kolkata
+Maruti,Maruti SX4VXI,2011,"24,000kms",Petrol,Manual,₹1.85 Lakh,kolkata
+Honda,Honda Jazz1.2 SV i VTEC,2016,"46,000kms",Petrol,Manual,₹2.75 Lakh,kolkata
+Toyota,Toyota EtiosVD,2012,"52,000kms",Diesel,Manual,₹2.50 Lakh,kolkata
+Toyota,Toyota EtiosVX,2011,"13,000kms",Petrol,Manual,₹2.50 Lakh,kolkata
+Renault,Renault Duster85PS Diesel RxL,2016,"60,000kms",Diesel,Manual,₹3 Lakh,kolkata
+Renault,Renault KWID1.0 RXT Opt BSIV,2019,"22,000kms",Petrol,Manual,₹2.65 Lakh,kolkata
+Hyundai,Hyundai i10Sportz 1.1L,2015,"31,000kms",Petrol,Manual,₹2.55 Lakh,kolkata
+Volkswagen,Volkswagen VentoKonekt Petrol Comfortline,2013,"57,000kms",Petrol,Manual,₹2.35 Lakh,kolkata
+Toyota,Toyota EtiosV,2012,"27,000kms",Petrol,Manual,₹2.20 Lakh,kolkata
+Maruti,Maruti SX4VXI,2011,"24,000kms",Petrol,Manual,₹1.85 Lakh,kolkata
+Honda,Honda Jazz1.2 SV i VTEC,2016,"46,000kms",Petrol,Manual,₹2.75 Lakh,kolkata
+Maruti,Maruti Alto 800LXI,2020,"32,000kms",Petrol,Manual,₹2.85 Lakh,kolkata
+Hyundai,Hyundai i10Sportz 1.1L,2015,"31,000kms",Petrol,Manual,₹2.55 Lakh,kolkata
+Volkswagen,Volkswagen VentoKonekt Petrol Comfortline,2013,"57,000kms",Petrol,Manual,₹2.35 Lakh,kolkata
+Toyota,Toyota Innova Crysta2.4 G 7 STR,2022,"77,664kms",Diesel,Manual,₹16.50 Lakh,kolkata
+Maruti,Maruti S CrossDelta DDiS 200 SH,2018,"41,000kms",Diesel,Manual,₹5.35 Lakh,kolkata
+Maruti,Maruti SwiftVXI BSVI,2021,"7,000kms",Petrol,Manual,₹4.65 Lakh,kolkata
+Ford,Ford FiestaPetrol Style,2021,"15,099kms",Petrol,Manual,₹7.56 Lakh,kolkata
+Maruti,Maruti S CrossAlpha,2021,"1,17,150kms",Petrol,Manual,₹6.32 Lakh,kolkata
+MG,MG HectorSharp Diesel MT BSIV,2019,"86,762kms",Diesel,Manual,₹7.75 Lakh,kolkata
+Toyota,Toyota GlanzaV,2022,"22,249kms",Petrol,Manual,₹6.92 Lakh,kolkata
+Maruti,Maruti Ciaz1.4 AT Alpha,2019,"70,079kms",Petrol,Automatic,₹6.07 Lakh,kolkata
+Honda,Honda CityZX MT,2020,"54,692kms",Petrol,Manual,₹9.30 Lakh,kolkata
+Mahindra,Mahindra XUV300W6 AMT Diesel Sunroof BSVI,2022,"91,756kms",Diesel,Automatic,₹8.40 Lakh,kolkata
+Honda,Honda CityZX MT,2021,"53,903kms",Petrol,Manual,₹9.79 Lakh,kolkata
+Hyundai,Hyundai Verna1.6 SX VTVT AT,2019,"53,834kms",Petrol,Automatic,₹7.26 Lakh,kolkata
+Skoda,Skoda Slavia1.0 TSI Style BSVI,2022,"54,710kms",Petrol,Manual,₹8.75 Lakh,kolkata
+Maruti,Maruti Swift DzireZDI Plus,2019,"48,822kms",Diesel,Manual,₹6.55 Lakh,kolkata
+Honda,Honda CityZX MT,2020,"54,692kms",Petrol,Manual,₹9.30 Lakh,kolkata
+Mahindra,Mahindra XUV300W6 AMT Diesel Sunroof BSVI,2022,"91,756kms",Diesel,Automatic,₹8.40 Lakh,kolkata
+Hyundai,Hyundai Verna1.6 SX VTVT AT,2019,"53,834kms",Petrol,Automatic,₹7.26 Lakh,kolkata
+Skoda,Skoda Slavia1.0 TSI Style BSVI,2022,"54,710kms",Petrol,Manual,₹8.75 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 VTVT SX Plus,2018,"69,190kms",Petrol,Manual,₹7.50 Lakh,kolkata
+Maruti,Maruti Swift DzireZDI Plus,2019,"48,822kms",Diesel,Manual,₹6.55 Lakh,kolkata
+Maruti,Maruti Swift DzireZDI Plus,2019,"51,000kms",Diesel,Manual,₹6.45 Lakh,kolkata
+Mahindra,Mahindra XUV500AT W10 AWD,2016,"74,000kms",Diesel,Automatic,₹6.40 Lakh,kolkata
+Honda,Honda CR-V2.0L 2WD AT,2016,"42,000kms",Petrol,Automatic,₹6.40 Lakh,kolkata
+Hyundai,Hyundai VenueSX,2024,"16,100kms",Petrol,Manual,₹8.90 Lakh,kolkata
+Tata,Tata AltrozXZ Plus Dark Edition,2023,"15,800kms",Petrol,Manual,₹6.25 Lakh,kolkata
+Maruti,Maruti Swift DzireZXI Plus AT BSVI,2023,"35,000kms",Petrol,Automatic,₹6.75 Lakh,kolkata
+Audi,Audi Q32.0 TDI,2015,"52,900kms",Diesel,Automatic,₹9.50 Lakh,kolkata
+Audi,Audi Q52.0 TDI,2013,"61,400kms",Diesel,Automatic,₹8.99 Lakh,kolkata
+Hyundai,Hyundai Venue N LineN8 turbo DCT,2023,"21,700kms",Petrol,Automatic,₹9.99 Lakh,kolkata
+Hyundai,Hyundai Verna1.6 SX VTVT AT,2019,"40,312kms",Petrol,Automatic,₹7.35 Lakh,kolkata
+Kia,Kia SeltosHTK Plus iMT,2022,"32,615kms",Petrol,Manual,₹9.10 Lakh,kolkata
+Tata,Tata Tiago EVXZ Plus Tech LUX LR,2023,"30,000kms",Electric,Automatic,₹7.09 Lakh,kolkata
+Honda,Honda AmazeS i-VTEC,2016,"62,000kms",Petrol,Manual,₹2.65 Lakh,kolkata
+Hyundai,Hyundai i10Magna 1.1L,2015,"42,000kms",Petrol,Manual,₹2.35 Lakh,kolkata
+Hyundai,Hyundai Verna1.6 SX VTVT AT,2019,"40,312kms",Petrol,Automatic,₹7.35 Lakh,kolkata
+Kia,Kia SeltosHTK Plus iMT,2022,"32,615kms",Petrol,Manual,₹9.10 Lakh,kolkata
+Tata,Tata Tiago EVXZ Plus Tech LUX LR,2023,"30,000kms",Electric,Automatic,₹7.09 Lakh,kolkata
+Hyundai,Hyundai i10Magna 1.1L,2015,"42,000kms",Petrol,Manual,₹2.35 Lakh,kolkata
+Honda,Honda AmazeS i-VTEC,2016,"62,000kms",Petrol,Manual,₹2.65 Lakh,kolkata
+Mercedes-Benz,Mercedes-Benz E-ClassExclusive E 220d BSVI,2022,"17,200kms",Diesel,Automatic,₹46 Lakh,kolkata
+,Bentley Flying SpurV8,2016,"8,500kms",Petrol,Automatic,₹1.39 Crore,kolkata
+Mercedes-Benz,Mercedes-Benz S-ClassS 63 AMG Coupe,2016,"28,700kms",Petrol,Automatic,₹95 Lakh,kolkata
+Maruti,Maruti XL6Alpha,2021,"34,390kms",Petrol,Manual,₹8.50 Lakh,kolkata
+Maruti,Maruti ErtigaZDI Plus,2019,"48,153kms",Diesel,Manual,₹8.75 Lakh,kolkata
+Hyundai,Hyundai i20Sportz IVT DT,2021,"24,998kms",Petrol,Automatic,₹5.98 Lakh,kolkata
+Renault,Renault KigerRXL,2022,"30,000kms",Petrol,Manual,₹4.55 Lakh,kolkata
+Toyota,Toyota Innova Crysta2.4 G 7 STR,2021,"54,000kms",Diesel,Manual,₹16.25 Lakh,kolkata
+MG,MG HectorSharp Pro Diesel  -2025,2023,"25,000kms",Diesel,Manual,₹15.75 Lakh,kolkata
+Mahindra,Mahindra Scorpio NZ8,2024,"1,130kms",Petrol,Manual,₹18.50 Lakh,kolkata
+Maruti,Maruti Swift DzireVXI,2013,"72,507kms",Petrol,Manual,₹2.84 Lakh,kolkata
+Maruti,Maruti DzireZXI Plus,2020,"21,629kms",Petrol,Manual,₹5.96 Lakh,kolkata
+Maruti,Maruti DzireZXI Plus,2018,"58,168kms",Petrol,Manual,₹5.25 Lakh,kolkata
+Hyundai,Hyundai i20Asta Turbo DCT,2023,"22,000kms",Petrol,Automatic,₹8.50 Lakh,kolkata
+Hyundai,Hyundai CretaSX,2023,"47,000kms",Petrol,Manual,₹11.50 Lakh,kolkata
+Maruti,Maruti Swift DzireVXI,2013,"72,507kms",Petrol,Manual,₹2.84 Lakh,kolkata
+Maruti,Maruti DzireZXI Plus,2020,"21,629kms",Petrol,Manual,₹5.96 Lakh,kolkata
+Maruti,Maruti DzireZXI Plus,2018,"58,168kms",Petrol,Manual,₹5.25 Lakh,kolkata
+Hyundai,Hyundai i20Asta Turbo DCT,2023,"22,000kms",Petrol,Automatic,₹8.50 Lakh,kolkata
+Hyundai,Hyundai CretaSX,2023,"47,000kms",Petrol,Manual,₹11.50 Lakh,kolkata
+Maruti,Maruti BalenoAlpha,2024,"26,000kms",Petrol,Manual,₹6.99 Lakh,kolkata
+Maruti,Maruti BalenoAlpha,2020,"38,283kms",Petrol,Manual,₹5.65 Lakh,kolkata
+Maruti,Maruti BalenoAlpha,2024,"27,000kms",Petrol,Manual,₹6.99 Lakh,kolkata
+Maruti,Maruti ErtigaBSIV VXI,2017,"48,000kms",Petrol,Manual,₹5.75 Lakh,kolkata
+Toyota,Toyota GlanzaG,2019,"24,000kms",Petrol,Manual,₹5.25 Lakh,kolkata
+Maruti,Maruti Celerio XZXI BSIV,2018,"37,000kms",Petrol,Manual,₹3.35 Lakh,kolkata
+Hyundai,Hyundai i20 Active1.2 S,2017,"39,000kms",Petrol,Manual,₹4.25 Lakh,kolkata
+Maruti,Maruti Wagon RVXI BS IV,2016,"45,000kms",Petrol,Manual,₹2.75 Lakh,kolkata
+Maruti,Maruti ErtigaZXI Plus,2022,"50,812kms",Petrol,Manual,₹8.95 Lakh,kolkata
+Maruti,Maruti XL6Zeta,2020,"80,635kms",Petrol,Manual,₹7.25 Lakh,kolkata
+Honda,Honda Cityi VTEC V,2017,"63,000kms",Petrol,Manual,₹4.95 Lakh,kolkata
+Renault,Renault KWIDClimber 1.0 MT Opt BSIV,2019,"53,000kms",Petrol,Manual,₹3.40 Lakh,kolkata
+Maruti,Maruti BalenoZeta,2019,"30,000kms",Petrol,Manual,₹5 Lakh,kolkata
+Hyundai,Hyundai Grand i10Magna,2016,"40,000kms",Petrol,Manual,₹6 Lakh,kolkata
+Maruti,Maruti Alto K10VXI,2018,"50,000kms",Petrol,Manual,₹2.85 Lakh,kolkata
+Maruti,Maruti Wagon RVXI,2013,"62,591kms",Petrol,Manual,₹2.34 Lakh,kolkata
+Maruti,Maruti Baleno1.2 Zeta,2017,"66,316kms",Petrol,Manual,₹3.70 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 SX,2018,"98,265kms",Petrol,Manual,₹5.55 Lakh,kolkata
+Honda,Honda CityVX MT,2016,"25,619kms",Petrol,Manual,₹4.06 Lakh,kolkata
+Hyundai,Hyundai i20Asta Opt IVT,2023,"35,729kms",Petrol,Automatic,₹7.10 Lakh,kolkata
+Maruti,Maruti BalenoZeta,2021,"91,729kms",Petrol,Manual,₹4.40 Lakh,kolkata
+Renault,Renault KWID1.0 RXT Opt,2021,"55,720kms",Petrol,Manual,₹3.37 Lakh,kolkata
+Hyundai,Hyundai i20Asta,2023,"23,073kms",Petrol,Manual,₹6.65 Lakh,kolkata
+Hyundai,Hyundai i20Sportz 1.2,2018,"60,802kms",Petrol,Manual,₹4.27 Lakh,kolkata
+Hyundai,Hyundai i20Sportz 1.2,2016,"35,991kms",Petrol,Manual,₹3.20 Lakh,kolkata
+Maruti,Maruti BalenoZeta Diesel,2015,"91,367kms",Diesel,Manual,₹3.44 Lakh,kolkata
+Hyundai,Hyundai i20Asta 1.2,2017,"22,932kms",Petrol,Manual,₹3.85 Lakh,kolkata
+Maruti,Maruti Baleno1.2 Alpha,2019,"62,634kms",Petrol,Manual,₹4.25 Lakh,kolkata
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2022,"15,032kms",Petrol,Manual,₹5.24 Lakh,kolkata
+Hyundai,Hyundai Grand i10 NiosAsta,2022,"56,783kms",Petrol,Manual,₹4.76 Lakh,kolkata
+Maruti,Maruti ErtigaZXI Plus,2020,"74,793kms",Petrol,Manual,₹6.60 Lakh,kolkata
+Maruti,Maruti Alto K10VXI,2023,"50,709kms",Petrol,Manual,₹3.15 Lakh,kolkata
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2022,"34,857kms",Petrol,Manual,₹5.34 Lakh,kolkata
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2022,"34,482kms",Petrol,Manual,₹5.49 Lakh,kolkata
+Maruti,Maruti DzireZXI Plus,2020,"21,629kms",Petrol,Manual,₹5.96 Lakh,kolkata
+Toyota,Toyota GlanzaG,2021,"51,302kms",Petrol,Manual,₹5.63 Lakh,kolkata
+Maruti,Maruti DzireZXI Plus,2020,"21,629kms",Petrol,Manual,₹5.96 Lakh,kolkata
+Maruti,Maruti DzireZXI Plus,2018,"58,168kms",Petrol,Manual,₹5.25 Lakh,kolkata
+Maruti,Maruti Wagon RVXI,2013,"62,591kms",Petrol,Manual,₹2.34 Lakh,kolkata
+Mitsubishi,Mitsubishi CediaSports,2014,"63,000kms",Petrol,Manual,₹2.99 Lakh,kolkata
+Honda,Honda JazzZX,2021,"39,455kms",Petrol,Manual,₹5.50 Lakh,kolkata
+Honda,Honda CityVX MT,2016,"25,619kms",Petrol,Manual,₹4.06 Lakh,kolkata
+Ford,Ford Aspire1.2 Ti-VCT Titanium,2018,"5,155kms",Petrol,Manual,₹3.65 Lakh,kolkata
+Hyundai,Hyundai i20Asta Turbo DCT,2021,"42,693kms",Petrol,Automatic,₹7.33 Lakh,kolkata
+Honda,Honda AmazeS i-VTEC,2013,"56,438kms",Petrol,Manual,₹2.38 Lakh,kolkata
+Hyundai,Hyundai i20Asta Opt IVT,2023,"35,729kms",Petrol,Automatic,₹7.10 Lakh,kolkata
+Honda,Honda Jazz1.5 VX i DTEC,2017,"54,000kms",Diesel,Manual,₹3.40 Lakh,kolkata
+Toyota,Toyota GlanzaG,2019,"24,000kms",Petrol,Manual,₹5.25 Lakh,kolkata
+Maruti,Maruti Celerio XZXI BSIV,2018,"37,000kms",Petrol,Manual,₹3.35 Lakh,kolkata
+Hyundai,Hyundai i20 Active1.2 S,2017,"39,000kms",Petrol,Manual,₹4.25 Lakh,kolkata
+Maruti,Maruti Wagon RVXI BS IV,2016,"45,000kms",Petrol,Manual,₹2.75 Lakh,kolkata
+Maruti,Maruti ErtigaZXI Plus,2022,"50,812kms",Petrol,Manual,₹8.95 Lakh,kolkata
+Maruti,Maruti XL6Zeta,2020,"80,635kms",Petrol,Manual,₹7.25 Lakh,kolkata
+Honda,Honda Cityi VTEC V,2017,"63,000kms",Petrol,Manual,₹4.95 Lakh,kolkata
+Renault,Renault KWIDClimber 1.0 MT Opt BSIV,2019,"53,000kms",Petrol,Manual,₹3.40 Lakh,kolkata
+Honda,Honda AmazeS i-VTEC,2018,"45,000kms",Petrol,Manual,₹3.95 Lakh,kolkata
+Honda,Honda AmazeVX,2019,"43,000kms",Petrol,Manual,₹4.65 Lakh,kolkata
+Maruti,Maruti BalenoAlpha,2019,"45,000kms",Petrol,Manual,₹4.87 Lakh,kolkata
+Volkswagen,Volkswagen Polo1.2 MPI Comfortline,2015,"49,000kms",Petrol,Manual,₹3.43 Lakh,kolkata
+Mahindra,Mahindra KUV 100mFALCON G80 K4,2016,"16,000kms",Petrol,Manual,₹3.17 Lakh,kolkata
+Honda,Honda Jazz1.2 S i VTEC,2017,"54,000kms",Petrol,Manual,₹3.20 Lakh,kolkata
+Honda,Honda AmazeS Petrol BSIV,2019,"48,000kms",Petrol,Manual,₹3.99 Lakh,kolkata
+Honda,Honda Jazz1.5 VX i DTEC,2017,"54,000kms",Diesel,Manual,₹3.40 Lakh,kolkata
+Toyota,Toyota GlanzaG,2019,"24,000kms",Petrol,Manual,₹5.25 Lakh,kolkata
+Maruti,Maruti Celerio XZXI BSIV,2018,"37,000kms",Petrol,Manual,₹3.35 Lakh,kolkata
+Hyundai,Hyundai i20 Active1.2 S,2017,"39,000kms",Petrol,Manual,₹4.25 Lakh,kolkata
+Maruti,Maruti Wagon RVXI BS IV,2016,"45,000kms",Petrol,Manual,₹2.75 Lakh,kolkata
+Maruti,Maruti ErtigaZXI Plus,2022,"50,812kms",Petrol,Manual,₹8.95 Lakh,kolkata
+Maruti,Maruti XL6Zeta,2020,"80,635kms",Petrol,Manual,₹7.25 Lakh,kolkata
+Honda,Honda Cityi VTEC V,2017,"63,000kms",Petrol,Manual,₹4.95 Lakh,kolkata
+Renault,Renault KWIDClimber 1.0 MT Opt BSIV,2019,"53,000kms",Petrol,Manual,₹3.40 Lakh,kolkata
+Maruti,Maruti BalenoZeta,2019,"30,000kms",Petrol,Manual,₹5 Lakh,kolkata
+Hyundai,Hyundai Grand i10Magna,2016,"40,000kms",Petrol,Manual,₹6 Lakh,kolkata
+Maruti,Maruti Alto K10VXI,2018,"50,000kms",Petrol,Manual,₹2.85 Lakh,kolkata
+Mitsubishi,Mitsubishi CediaSports,2014,"63,000kms",Petrol,Manual,₹2.99 Lakh,kolkata
+Renault,Renault KWIDClimber 1.0 MT Opt BSIV,2019,"53,000kms",Petrol,Manual,₹3.40 Lakh,kolkata
+Maruti,Maruti BalenoZeta,2019,"30,000kms",Petrol,Manual,₹5 Lakh,kolkata
+Hyundai,Hyundai Grand i10Magna,2016,"40,000kms",Petrol,Manual,₹6 Lakh,kolkata
+Maruti,Maruti Alto K10VXI,2018,"50,000kms",Petrol,Manual,₹2.85 Lakh,kolkata
+Mitsubishi,Mitsubishi CediaSports,2014,"63,000kms",Petrol,Manual,₹2.99 Lakh,kolkata
+Honda,Honda JazzZX,2021,"39,455kms",Petrol,Manual,₹5.50 Lakh,kolkata
+Maruti,Maruti S-PressoVXI Plus  -2022,2019,"42,000kms",Petrol,Manual,₹3.50 Lakh,kolkata
+Maruti,Maruti Baleno1.2 Delta,2018,"58,000kms",Petrol,Manual,₹4.10 Lakh,kolkata
+Ford,Ford FigoPetrol Titanium,2015,"61,342kms",Petrol,Manual,₹2.75 Lakh,kolkata
+Honda,Honda Jazz1.5 SV i DTEC,2015,"68,000kms",Diesel,Manual,₹2.75 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 SX,2020,"48,000kms",Petrol,Manual,₹9.50 Lakh,kolkata
+Hyundai,Hyundai CretaSX BSVI,2020,"48,000kms",Petrol,Manual,₹9.50 Lakh,kolkata
+Maruti,Maruti BalenoAlpha,2020,"38,283kms",Petrol,Manual,₹5.65 Lakh,kolkata
+Maruti,Maruti BalenoAlpha,2024,"27,000kms",Petrol,Manual,₹6.99 Lakh,kolkata
+Honda,Honda Amaze 2nd GenVX BSVI,2022,"40,000kms",Petrol,Manual,₹5.49 Lakh,kolkata
+Hyundai,Hyundai i20Asta BSVI,2020,"53,138kms",Petrol,Manual,₹5.75 Lakh,kolkata
+Hyundai,Hyundai Grand i10 NiosAsta,2020,"34,007kms",Petrol,Manual,₹5.40 Lakh,kolkata
+Maruti,Maruti ErtigaBSIV VXI,2015,"64,000kms",Petrol,Manual,₹5.20 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 VTVT SX Plus,2017,"55,000kms",Petrol,Manual,₹5 Lakh,kolkata
+Maruti,Maruti SwiftVDI,2019,"84,422kms",Diesel,Manual,₹5.25 Lakh,kolkata
+Maruti,Maruti Baleno1.2 Alpha,2019,"62,634kms",Petrol,Manual,₹4.25 Lakh,kolkata
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2022,"15,032kms",Petrol,Manual,₹5.24 Lakh,kolkata
+Hyundai,Hyundai Grand i10 NiosAsta,2022,"56,783kms",Petrol,Manual,₹4.76 Lakh,kolkata
+Maruti,Maruti ErtigaZXI Plus,2020,"74,793kms",Petrol,Manual,₹6.60 Lakh,kolkata
+Maruti,Maruti Alto K10VXI,2023,"50,709kms",Petrol,Manual,₹3.15 Lakh,kolkata
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2022,"34,482kms",Petrol,Manual,₹5.49 Lakh,kolkata
+Volkswagen,Volkswagen Polo1.5 TDI Highline,2015,"97,227kms",Diesel,Manual,₹4.40 Lakh,kolkata
+Maruti,Maruti BalenoZeta Diesel,2021,"59,893kms",Diesel,Manual,₹6.01 Lakh,kolkata
+Maruti,Maruti BalenoDelta Diesel,2020,"54,094kms",Diesel,Manual,₹4.65 Lakh,kolkata
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2022,"18,924kms",Petrol,Manual,₹5.53 Lakh,kolkata
+Honda,Honda CityVX MT Diesel,2021,"58,019kms",Diesel,Manual,₹9.82 Lakh,kolkata
+Hyundai,Hyundai i201.4 Asta,2018,"89,338kms",Diesel,Manual,₹4.97 Lakh,kolkata
+Hyundai,Hyundai i20 Active1.2 S,2018,"43,067kms",Petrol,Manual,₹5.08 Lakh,kolkata
+Toyota,Toyota GlanzaG,2021,"51,302kms",Petrol,Manual,₹5.63 Lakh,kolkata
+Honda,Honda Amaze 2nd GenVX,2022,"55,808kms",Petrol,Manual,₹6.23 Lakh,kolkata
+Maruti,Maruti BalenoDelta Diesel,2016,"63,219kms",Diesel,Manual,₹3.42 Lakh,kolkata
+Maruti,Maruti DzireZXI Plus,2018,"53,530kms",Petrol,Manual,₹5.23 Lakh,kolkata
+Hyundai,Hyundai i201.2 Asta Option,2019,"20,273kms",Petrol,Manual,₹5.45 Lakh,kolkata
+Maruti,Maruti BalenoZeta Diesel,2017,"1,04,362kms",Diesel,Manual,₹4.01 Lakh,kolkata
+Maruti,Maruti Wagon RVXI 1.2,2016,"26,334kms",Petrol,Manual,₹3.42 Lakh,kolkata
+Volkswagen,Volkswagen Polo1.0 MPI Highline Plus,2018,"62,000kms",Petrol,Manual,₹4.35 Lakh,kolkata
+Toyota,Toyota Corolla AltisDiesel D4DJ,2011,"31,000kms",Diesel,Manual,₹3.65 Lakh,kolkata
+Maruti,Maruti BalenoZeta,2019,"51,000kms",Petrol,Manual,₹4.75 Lakh,kolkata
+Kia,Kia CarnivalPrestige,2020,"44,600kms",Diesel,Automatic,₹21 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 CRDi SX Plus,2015,"76,000kms",Diesel,Manual,₹4.99 Lakh,kolkata
+Honda,Honda WR-Vi-VTEC S,2019,"48,000kms",Petrol,Manual,₹5.48 Lakh,kolkata
+Kia,Kia SeltosGTX Plus DCT,2020,"48,809kms",Petrol,Automatic,₹9.75 Lakh,kolkata
+Hyundai,Hyundai CretaSX BSVI,2021,"46,000kms",Petrol,Manual,₹10.49 Lakh,kolkata
+Maruti,Maruti IgnisZeta BSVI,2022,"34,000kms",Petrol,Manual,₹4.69 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 SX Option,2019,"65,439kms",Petrol,Manual,₹7.50 Lakh,kolkata
+Honda,Honda New Accord2.4 M/T,2013,"65,000kms",Petrol,Manual,₹4.65 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 SX Automatic,2018,"96,000kms",Petrol,Automatic,₹5.25 Lakh,kolkata
+Maruti,Maruti BalenoDelta,2020,"65,154kms",Petrol,Manual,₹5.25 Lakh,kolkata
+Volkswagen,Volkswagen Polo1.0 MPI Highline Plus,2018,"64,511kms",Petrol,Manual,₹3.99 Lakh,kolkata
+Renault,Renault Duster110PS Diesel RxZ,2016,"65,000kms",Diesel,Manual,₹4.75 Lakh,kolkata
+Honda,Honda Jazz1.5 V i DTEC,2015,"57,000kms",Diesel,Manual,₹3.50 Lakh,kolkata
+Hyundai,Hyundai i20Asta Option 1.2,2015,"46,000kms",Petrol,Manual,₹3.65 Lakh,kolkata
+Hyundai,Hyundai i20Sportz Plus BSIV,2020,"32,000kms",Petrol,Manual,₹5.65 Lakh,kolkata
+Maruti,Maruti SwiftLXI BSIV,2019,"55,000kms",Petrol,Manual,₹4 Lakh,kolkata
+Maruti,Maruti Wagon RVXI Optional,2018,"42,000kms",Petrol,Manual,₹3.35 Lakh,kolkata
+Honda,Honda BR-Vi-VTEC VX MT,2018,"45,000kms",Petrol,Manual,₹5.65 Lakh,kolkata
+Honda,Honda New Accord2.4 M/T,2013,"65,000kms",Petrol,Manual,₹4.65 Lakh,kolkata
+Maruti,Maruti BalenoZeta,2019,"51,000kms",Petrol,Manual,₹4.75 Lakh,kolkata
+Kia,Kia CarnivalPrestige,2020,"44,600kms",Diesel,Automatic,₹21 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 SX Automatic,2018,"96,000kms",Petrol,Automatic,₹5.25 Lakh,kolkata
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2018,"18,736kms",Petrol,Manual,₹3.72 Lakh,kolkata
+Toyota,Toyota Corolla AltisGL MT,2016,"59,000kms",Petrol,Manual,₹5.25 Lakh,kolkata
+Mercedes-Benz,Mercedes-Benz GLC220d 4MATIC Sport,2018,"36,300kms",Diesel,Automatic,₹24 Lakh,kolkata
+Jaguar,Jaguar F-PacePrestige 2.0 AWD,2019,"40,700kms",Diesel,Automatic,₹24.50 Lakh,kolkata
+Honda,Honda City1.5 V MT Exclusive,2022,"9,865kms",Petrol,Manual,₹9.13 Lakh,kolkata
+Maruti,Maruti CiazAlpha,2025,"6,000kms",Petrol,Manual,₹8.50 Lakh,kolkata
+Tata,Tata PunchAccomplished Dazzle,2022,"39,560kms",Petrol,Manual,₹6.27 Lakh,kolkata
+Tata,Tata NexonXZ Plus HS,2023,"20,000kms",Petrol,Manual,₹8 Lakh,kolkata
+Land Rover,Land Rover DiscoverySE 2.0 SD4,2019,"36,000kms",Petrol,Automatic,₹39.95 Lakh,kolkata
+Volkswagen,Volkswagen Polo1.0 MPI Comfortline,2019,"24,848kms",Petrol,Manual,₹4.91 Lakh,kolkata
+MG,MG Windsor EVEssence,2025,"1,400kms",Electric,Automatic,₹14.95 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 VTVT Base,2016,"67,835kms",Petrol,Manual,₹4.40 Lakh,kolkata
+Hyundai,Hyundai AuraSX Plus AMT,2020,"31,275kms",Petrol,Automatic,₹5.75 Lakh,kolkata
+Tata,Tata NexonPure,2024,"16,000kms",Petrol,Manual,₹7.90 Lakh,kolkata
+Hyundai,Hyundai XcentPetrol,2016,"28,108kms",Petrol,Manual,₹3.34 Lakh,kolkata
+MG,MG Windsor EVEssence,2025,"1,400kms",Electric,Automatic,₹14.95 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 VTVT Base,2016,"67,835kms",Petrol,Manual,₹4.40 Lakh,kolkata
+Hyundai,Hyundai AuraSX Plus AMT,2020,"31,275kms",Petrol,Automatic,₹5.75 Lakh,kolkata
+Tata,Tata NexonPure,2024,"16,000kms",Petrol,Manual,₹7.90 Lakh,kolkata
+Hyundai,Hyundai XcentPetrol,2016,"28,108kms",Petrol,Manual,₹3.34 Lakh,kolkata
+Hyundai,Hyundai Grand i10 NiosSportz AMT,2020,"23,000kms",Petrol,Automatic,₹4.85 Lakh,kolkata
+Maruti,Maruti Swift DzireLXI,2016,"17,567kms",Petrol,Manual,₹3.07 Lakh,kolkata
+Maruti,Maruti CiazDelta BSVI,2022,"52,000kms",Petrol,Manual,₹5.50 Lakh,kolkata
+Mahindra,Mahindra Bolero NeoN4 BSVI,2021,"70,000kms",Diesel,Manual,₹5.99 Lakh,kolkata
+Maruti,Maruti Swift DzireZXI 1.2,2018,"39,000kms",Petrol,Manual,₹4.79 Lakh,kolkata
+Audi,Audi A42.0 TDI,2012,"44,000kms",Diesel,Automatic,₹7.49 Lakh,kolkata
+Honda,Honda CityZX MT,2022,"13,709kms",Petrol,Manual,₹10.73 Lakh,kolkata
+Volkswagen,Volkswagen VirtusTopline,2023,"19,010kms",Petrol,Manual,₹10.53 Lakh,kolkata
+Honda,Honda CityZX MT,2022,"21,528kms",Petrol,Manual,₹10.52 Lakh,kolkata
+Audi,Audi A335 TFSI Premium,2018,"41,000kms",Petrol,Automatic,₹14.50 Lakh,kolkata
+Skoda,Skoda SuperbStyle 2.0 TDI AT,2018,"67,231kms",Diesel,Automatic,₹14.25 Lakh,kolkata
+Hyundai,Hyundai AlcazarSignature,2021,"31,000kms",Petrol,Manual,₹11.35 Lakh,kolkata
+MG,MG ZS EVExclusive,2020,"34,000kms",Electric,Automatic,₹10.75 Lakh,kolkata
+Audi,Audi A62.0 TDI Premium Plus,2013,"34,085kms",Diesel,Automatic,₹10.90 Lakh,kolkata
+Kia,Kia SeltosHTX IVT G,2022,"44,346kms",Petrol,Automatic,₹10.49 Lakh,kolkata
+Skoda,Skoda SuperbStyle 2.0 TDI AT,2018,"67,231kms",Diesel,Automatic,₹14.25 Lakh,kolkata
+MG,MG ZS EVExclusive,2020,"34,000kms",Electric,Automatic,₹10.75 Lakh,kolkata
+Hyundai,Hyundai AlcazarSignature,2021,"31,000kms",Petrol,Manual,₹11.35 Lakh,kolkata
+Audi,Audi A62.0 TDI Premium Plus,2013,"34,085kms",Diesel,Automatic,₹10.90 Lakh,kolkata
+Mercedes-Benz,Mercedes-Benz B ClassB200 Sport CDI,2015,"16,187kms",Diesel,Automatic,₹12.90 Lakh,kolkata
+Audi,Audi Q52.0 TDI Premium Plus,2014,"34,000kms",Diesel,Automatic,₹10.75 Lakh,kolkata
+Kia,Kia SeltosHTX IVT G,2022,"44,346kms",Petrol,Automatic,₹10.49 Lakh,kolkata
+Tata,Tata NexonCreative Plus Dark DCA,2024,"5,000kms",Petrol,Automatic,₹10.60 Lakh,kolkata
+Tata,Tata NexonCreative Plus S Dark,2025,800kms,Petrol,Manual,₹10.80 Lakh,kolkata
+MG,MG Hector PlusSharp CVT,2022,"45,000kms",Petrol,Automatic,₹11.95 Lakh,kolkata
+Audi,Audi Q530 TDI quattro Premium,2016,"41,300kms",Diesel,Automatic,₹13.50 Lakh,kolkata
+Hyundai,Hyundai Grand i10Asta,2014,"1,05,349kms",Petrol,Manual,₹2.14 Lakh,kolkata
+Maruti,Maruti Swift DzireVXI,2016,"1,08,263kms",Petrol,Manual,₹2.45 Lakh,kolkata
+Toyota,Toyota EtiosG,2013,"61,980kms",Petrol,Manual,₹2.71 Lakh,kolkata
+Hyundai,Hyundai i10Magna 1.1,2016,"73,030kms",Petrol,Manual,₹2.63 Lakh,kolkata
+Nissan,Nissan Micra ActiveXV,2018,"63,439kms",Petrol,Manual,₹2.45 Lakh,kolkata
+Maruti,Maruti Alto 800VXI,2014,"30,857kms",Petrol,Manual,₹2.11 Lakh,kolkata
+Renault,Renault KWIDClimber 1.0 MT,2017,"40,142kms",Petrol,Manual,₹2.66 Lakh,kolkata
+Maruti,Maruti SwiftVXI,2017,"74,732kms",Petrol,Manual,₹2.95 Lakh,kolkata
+Maruti,Maruti CelerioZXI,2016,"92,461kms",Petrol,Manual,₹2.85 Lakh,kolkata
+Maruti,Maruti CelerioZXI,2016,"92,461kms",Petrol,Manual,₹2.85 Lakh,kolkata
+Nissan,Nissan Micra ActiveXV,2018,"63,439kms",Petrol,Manual,₹2.45 Lakh,kolkata
+Maruti,Maruti Alto 800LXi,2018,"58,287kms",Petrol,Manual,₹2.32 Lakh,kolkata
+Hyundai,Hyundai SantroSportz,2020,"1,20,427kms",Petrol,Manual,₹2.65 Lakh,kolkata
+Toyota,Toyota EtiosG,2013,"61,980kms",Petrol,Manual,₹2.71 Lakh,kolkata
+Hyundai,Hyundai i10Magna 1.1,2016,"73,030kms",Petrol,Manual,₹2.63 Lakh,kolkata
+Hyundai,Hyundai Grand i10Asta,2014,"1,05,349kms",Petrol,Manual,₹2.14 Lakh,kolkata
+Maruti,Maruti Swift DzireVXI,2016,"1,08,263kms",Petrol,Manual,₹2.45 Lakh,kolkata
+Hyundai,Hyundai i10Sportz 1.1L,2016,"62,882kms",Petrol,Manual,₹2.74 Lakh,kolkata
+Hyundai,Hyundai EONEra Plus Option,2016,"38,000kms",Petrol,Manual,₹2.15 Lakh,kolkata
+Maruti,Maruti Alto 800VXI BSVI,2019,"31,000kms",Petrol,Manual,₹2.75 Lakh,kolkata
+Honda,Honda CR-V2.4 AT,2009,"59,700kms",Petrol,Automatic,₹2.95 Lakh,kolkata
+Maruti,Maruti SwiftLXI,2012,"64,000kms",Petrol,Manual,₹2.45 Lakh,kolkata
+Maruti,Maruti Alto 800LXi,2011,"55,000kms",Petrol,Manual,₹1.25 Lakh,kolkata
+Maruti,Maruti Alto 800LXI,2014,"37,160kms",Petrol,Manual,₹2.15 Lakh,kolkata
+Hyundai,Hyundai i10Magna 1.1L,2013,"39,000kms",Petrol,Manual,₹1.95 Lakh,kolkata
+Maruti,2021Maruti S-PressoVXI  -2022,2019,"21,000kms",Petrol,Manual,₹2.99 Lakh,kolkata
+Ford,Ford FigoPetrol EXI,2012,"64,000kms",Petrol,Manual,₹1.75 Lakh,kolkata
+Mahindra,Mahindra KUV 100mFALCON G80 K4,2016,"17,195kms",Petrol,Manual,₹2.53 Lakh,kolkata
+Maruti,Maruti Wagon RVXI BS IV,2015,"45,000kms",Petrol,Manual,₹2.59 Lakh,kolkata
+Hyundai,Hyundai i10Sportz 1.2,2013,"16,859kms",Petrol,Manual,₹1.99 Lakh,kolkata
+Honda,Honda CityS,2012,"1,20,000kms",Petrol,Manual,₹1.99 Lakh,kolkata
+Ford,Ford FigoPetrol EXI,2012,"64,000kms",Petrol,Manual,₹1.75 Lakh,kolkata
+Renault,Renault KWID1.0 RXT,2018,"18,000kms",Petrol,Manual,₹2.20 Lakh,kolkata
+Hyundai,Hyundai i10Magna 1.1L,2013,"39,000kms",Petrol,Manual,₹1.95 Lakh,kolkata
+Maruti,2021Maruti S-PressoVXI  -2022,2019,"21,000kms",Petrol,Manual,₹2.99 Lakh,kolkata
+Mahindra,Mahindra KUV 100mFALCON G80 K4,2016,"17,195kms",Petrol,Manual,₹2.53 Lakh,kolkata
+Maruti,Maruti Wagon RVXI BS IV,2015,"45,000kms",Petrol,Manual,₹2.59 Lakh,kolkata
+Mercedes-Benz,Mercedes-Benz Maybach S-ClassS580 BSVI,2023,"6,000kms",Petrol,Automatic,₹1.84 Crore,kolkata
+Honda,Honda CivicZX BSIV,2019,"56,000kms",Petrol,Automatic,₹10.99 Lakh,kolkata
+Renault,Renault KWID1.0 RXT BSVI,2022,"25,914kms",Petrol,Manual,₹3.40 Lakh,kolkata
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2022,"15,364kms",Petrol,Manual,₹5.25 Lakh,kolkata
+Tata,Tata TiagoXZ Plus BSVI,2021,"35,941kms",Petrol,Manual,₹4.05 Lakh,kolkata
+Tata,Tata NexonXM BSVI,2022,"60,326kms",Petrol,Manual,₹5.20 Lakh,kolkata
+Tata,Tata NexonXZ Plus BSVI,2022,"87,846kms",Petrol,Manual,₹6 Lakh,kolkata
+Nissan,Nissan MagniteTurbo CVT XV BSVI,2021,"1,02,983kms",Petrol,Automatic,₹5.60 Lakh,kolkata
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2015,"43,261kms",Petrol,Manual,₹3.46 Lakh,kolkata
+Tata,Tata Nexon1.2 Revotron XM,2019,"31,721kms",Petrol,Manual,₹4.30 Lakh,kolkata
+Maruti,Maruti SwiftLXI,2018,"45,094kms",Petrol,Manual,₹3.20 Lakh,kolkata
+Tata,Tata NexonXE Diesel,2017,"83,540kms",Diesel,Manual,₹3.93 Lakh,kolkata
+Hyundai,Hyundai AuraS Diesel,2022,"18,403kms",Diesel,Manual,₹5.40 Lakh,kolkata
+Tata,Tata AltrozXZ,2021,"52,104kms",Petrol,Manual,₹5.27 Lakh,kolkata
+Maruti,Maruti S CrossZeta,2021,"91,949kms",Petrol,Manual,₹5.72 Lakh,kolkata
+Tata,Tata AltrozXT Turbo,2021,"45,363kms",Petrol,Manual,₹5.25 Lakh,kolkata
+Tata,Tata NexonXZ Plus BSVI,2022,"87,846kms",Petrol,Manual,₹6 Lakh,kolkata
+Tata,Tata Nexon1.2 Revotron XM,2019,"31,721kms",Petrol,Manual,₹4.30 Lakh,kolkata
+Maruti,Maruti SwiftLXI,2018,"45,094kms",Petrol,Manual,₹3.20 Lakh,kolkata
+Tata,Tata NexonXE Diesel,2017,"83,540kms",Diesel,Manual,₹3.93 Lakh,kolkata
+Maruti,Maruti SwiftZXI,2017,"68,489kms",Petrol,Manual,₹3.93 Lakh,kolkata
+Mahindra,Mahindra TUV 300T8,2016,"81,481kms",Diesel,Manual,₹3.70 Lakh,kolkata
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2022,"15,364kms",Petrol,Manual,₹5.25 Lakh,kolkata
+Tata,Tata TiagoXZ Plus BSVI,2021,"35,941kms",Petrol,Manual,₹4.05 Lakh,kolkata
+Renault,Renault Duster110PS Diesel RxZ AWD,2016,"55,000kms",Diesel,Manual,₹4.75 Lakh,kolkata
+Ford,Ford Ecosport1.5 Petrol Titanium BSIV,2017,"83,258kms",Petrol,Manual,₹4.36 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 VTVT SX Plus,2018,"61,461kms",Petrol,Manual,₹6 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 VTVT SX Plus,2015,"66,133kms",Petrol,Manual,₹5 Lakh,kolkata
+Renault,Renault KWID1.0 RXT BSVI,2022,"25,914kms",Petrol,Manual,₹3.40 Lakh,kolkata
+Maruti,Maruti SwiftLXI,2020,"45,000kms",Petrol,Manual,₹4.25 Lakh,kolkata
+Maruti,Maruti CiazSigma BSIV,2019,"60,000kms",Petrol,Manual,₹5.25 Lakh,kolkata
+Maruti,Maruti CiazAlpha BSIV,2017,"67,000kms",Petrol,Manual,₹3.80 Lakh,kolkata
+Ford,Ford Ecosport1.5 Petrol Titanium BSIV,2017,"83,258kms",Petrol,Manual,₹4.36 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 VTVT SX Plus,2018,"61,461kms",Petrol,Manual,₹6 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 VTVT SX Plus,2015,"66,133kms",Petrol,Manual,₹5 Lakh,kolkata
+Honda,Honda BR-Vi-VTEC E MT,2016,"18,000kms",Petrol,Manual,₹4.90 Lakh,kolkata
+Tata,Tata AltrozXE BSVI,2021,"21,000kms",Petrol,Manual,₹4.98 Lakh,kolkata
+Maruti,Maruti CiazSigma BSIV,2019,"60,000kms",Petrol,Manual,₹5.25 Lakh,kolkata
+Honda,Honda AmazeS Petrol BSIV,2017,"31,000kms",Petrol,Manual,₹3.25 Lakh,kolkata
+Hyundai,Hyundai ExterS,2024,"11,300kms",Petrol,Manual,₹6 Lakh,kolkata
+Hyundai,Hyundai Verna1.6 SX CRDi (O),2015,"85,000kms",Diesel,Manual,₹4.65 Lakh,kolkata
+Maruti,Maruti CiazAlpha BSIV,2017,"67,000kms",Petrol,Manual,₹3.80 Lakh,kolkata
+Maruti,Maruti Ciaz1.4 Alpha,2017,"93,000kms",Petrol,Manual,₹3.99 Lakh,kolkata
+Honda,Honda WR-Vi-VTEC VX,2019,"42,450kms",Petrol,Manual,₹4.99 Lakh,kolkata
+Renault,Renault TriberRXT BSVI,2022,"24,270kms",Petrol,Manual,₹4.90 Lakh,kolkata
+Maruti,Maruti ErtigaVXI,2014,"27,000kms",Petrol,Manual,₹4.50 Lakh,kolkata
+Skoda,Skoda Rapid1.6 MPI AT Style BSIV,2019,"28,143kms",Petrol,Automatic,₹6 Lakh,kolkata
+Ford,Ford Ecosport1.5 Diesel Titanium BSIV,2017,"56,000kms",Diesel,Manual,₹4.30 Lakh,kolkata
+Renault,Renault KWIDRXL BSIV,2020,"15,000kms",Petrol,Manual,₹3.50 Lakh,kolkata
+Renault,Renault KigerRXT,2021,"28,000kms",Petrol,Manual,₹4.90 Lakh,kolkata
+Toyota,Toyota YarisV CVT,2019,"36,000kms",Petrol,Automatic,₹5.99 Lakh,kolkata
+Mahindra,Mahindra XUV500W7,2020,"43,592kms",Diesel,Manual,₹7.80 Lakh,kolkata
+Skoda,Skoda Rapid1.6 MPI AT Style BSIV,2019,"28,143kms",Petrol,Automatic,₹6 Lakh,kolkata
+Renault,Renault KWIDRXL BSIV,2020,"15,000kms",Petrol,Manual,₹3.50 Lakh,kolkata
+Renault,Renault KigerRXT,2021,"28,000kms",Petrol,Manual,₹4.90 Lakh,kolkata
+Toyota,Toyota YarisV CVT,2019,"36,000kms",Petrol,Automatic,₹5.99 Lakh,kolkata
+Tata,Tata AltrozXZA Plus Dark Edition DCT BSVI,2022,"24,279kms",Petrol,Automatic,₹6.05 Lakh,kolkata
+Hyundai,Hyundai VenueSX Diesel,2023,"22,888kms",Diesel,Manual,₹9.51 Lakh,kolkata
+Mahindra,Mahindra XUV300W8 BSVI,2023,"22,230kms",Petrol,Manual,₹7 Lakh,kolkata
+Nissan,Nissan MagniteTurbo XV,2021,"63,772kms",Petrol,Manual,₹6.11 Lakh,kolkata
+Mahindra,Mahindra XUV500W7,2020,"43,592kms",Diesel,Manual,₹7.80 Lakh,kolkata
+Toyota,Toyota Corolla Altis1.8 J,2018,"45,000kms",Petrol,Manual,₹6.25 Lakh,kolkata
+Hyundai,Hyundai CretaSX BSVI,2020,"56,000kms",Petrol,Manual,₹9.45 Lakh,kolkata
+Maruti,Maruti BalenoZeta,2025,"2,926kms",Petrol,Manual,₹7.95 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 SX Automatic,2019,"46,725kms",Petrol,Automatic,₹9.55 Lakh,kolkata
+Maruti,Maruti ErtigaVXI,2021,"40,624kms",Petrol,Manual,₹8.25 Lakh,kolkata
+Volkswagen,Volkswagen Taigun1.0 TSI Comfortline BSVI,2023,"33,000kms",Petrol,Manual,₹8.49 Lakh,kolkata
+Hyundai,Hyundai VenueSX Diesel BSVI,2022,"26,000kms",Diesel,Manual,₹7.50 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 VTVT SX Plus,2019,"65,000kms",Petrol,Manual,₹6.50 Lakh,kolkata
+Hyundai,Hyundai VernaSX,2021,"29,000kms",Petrol,Manual,₹7.40 Lakh,kolkata
+Mahindra,Mahindra XUV300W6 AMT Sunroof BSVI,2023,"8,000kms",Petrol,Automatic,₹8.50 Lakh,kolkata
+Skoda,Skoda Kushaq1.5 TSI Style DSG DT BSVI,2023,"16,000kms",Petrol,Automatic,₹9.75 Lakh,kolkata
+Kia,Kia SeltosHTE,2023,"35,000kms",Petrol,Manual,₹7.99 Lakh,kolkata
+Hyundai,Hyundai CretaEX BSVI,2021,"35,000kms",Petrol,Manual,₹8.75 Lakh,kolkata
+Kia,Kia SonetGTX Plus Turbo DCT DT,2021,"35,300kms",Petrol,Automatic,₹7.90 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 VTVT SX Plus,2019,"65,000kms",Petrol,Manual,₹6.50 Lakh,kolkata
+Kia,Kia SonetHTX Diesel AT,2024,"26,000kms",Diesel,Automatic,₹8.80 Lakh,kolkata
+Hyundai,Hyundai VenueS Opt Plus,2025,"9,500kms",Petrol,Manual,₹8.70 Lakh,kolkata
+Volkswagen,Volkswagen Taigun1.0 TSI Comfortline BSVI,2023,"33,000kms",Petrol,Manual,₹8.49 Lakh,kolkata
+Hyundai,Hyundai VenueSX Diesel BSVI,2022,"26,000kms",Diesel,Manual,₹7.50 Lakh,kolkata
+Kia,Kia SeltosHTK G,2022,"29,000kms",Petrol,Manual,₹9.75 Lakh,kolkata
+Hyundai,Hyundai CretaSX BSVI,2020,"39,288kms",Petrol,Manual,₹8.75 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 SX Automatic,2018,"53,183kms",Petrol,Automatic,₹6.99 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 SX Automatic Diesel,2019,"42,000kms",Diesel,Automatic,₹8.39 Lakh,kolkata
+Audi,Audi A62.0 TDI Premium Plus,2013,"52,900kms",Diesel,Automatic,₹9 Lakh,kolkata
+Mahindra,Mahindra XUV300W6 AMT Sunroof BSVI,2023,"8,000kms",Petrol,Automatic,₹8.50 Lakh,kolkata
+Skoda,Skoda Kushaq1.5 TSI Style DSG DT BSVI,2023,"16,000kms",Petrol,Automatic,₹9.75 Lakh,kolkata
+Kia,Kia CarensPrestige Plus Diesel BSVI,2022,"30,000kms",Diesel,Manual,₹10.50 Lakh,kolkata
+Maruti,Maruti A-StarVxi,2009,"72,000kms",Petrol,Manual,₹1.49 Lakh,kolkata
+Mercedes-Benz,Mercedes-Benz C-ClassC 220 CDI Style,2017,"25,595kms",Diesel,Automatic,₹21.60 Lakh,kolkata
+Volvo,Volvo XC40T4 R-Design,2021,"24,121kms",Petrol,Automatic,₹27.50 Lakh,kolkata
+Mercedes-Benz,Mercedes-Benz GLE250d,2017,"47,500kms",Diesel,Automatic,₹23.75 Lakh,kolkata
+Kia,Kia CarensPrestige Plus Diesel BSVI,2022,"30,000kms",Diesel,Manual,₹10.50 Lakh,kolkata
+Maruti,Maruti A-StarVxi,2009,"72,000kms",Petrol,Manual,₹1.49 Lakh,kolkata
+Mercedes-Benz,Mercedes-Benz C-ClassC 220 CDI Style,2017,"25,595kms",Diesel,Automatic,₹21.60 Lakh,kolkata
+Mercedes-Benz,Mercedes-Benz GLE250d,2017,"47,500kms",Diesel,Automatic,₹23.75 Lakh,kolkata
+BYD,BYD Atto 3Electric,2023,"34,000kms",Electric,Automatic,₹22.95 Lakh,kolkata
+Volvo,Volvo XC40T4 R-Design,2021,"24,121kms",Petrol,Automatic,₹27.50 Lakh,kolkata
+Hyundai,Hyundai Verna1.4 VTVT,2016,"5,50,000kms",Petrol,Manual,₹3.49 Lakh,kolkata
+Hyundai,Hyundai TucsonSignature AT,2023,"24,814kms",Petrol,Automatic,₹19.58 Lakh,kolkata
+MG,MG Hector1.5 Turbo Savvy Pro CVT BSVI,2023,"47,383kms",Petrol,Automatic,₹15.19 Lakh,kolkata
+Audi,Audi A335 TDI Technology,2018,"33,000kms",Diesel,Automatic,₹16 Lakh,kolkata
+Mahindra,Mahindra Alturas G44X2 AT,2021,"50,000kms",Diesel,Automatic,₹17.50 Lakh,kolkata
+MG,MG Hector1.5 Turbo Sharp pro CVT BSVI,2023,"11,196kms",Petrol,Automatic,₹17.25 Lakh,kolkata
+MG,MG HectorSharp CVT,2023,"6,756kms",Petrol,Automatic,₹17.55 Lakh,kolkata
+Skoda,Skoda OctaviaStyle,2022,"25,500kms",Petrol,Automatic,₹18.50 Lakh,kolkata
+Mahindra,Mahindra XUV 3XOAX5 Diesel,2024,"10,500kms",Diesel,Manual,₹10.50 Lakh,kolkata
+Renault,Renault KWID1.0 RXT AMT Opt,2021,"19,683kms",Petrol,Automatic,₹3.54 Lakh,kolkata
+Maruti,Maruti BalenoZeta CVT,2021,"22,169kms",Petrol,Automatic,₹5.15 Lakh,kolkata
+Ford,Ford EcosportTitanium Diesel,2021,"65,000kms",Diesel,Manual,₹6.49 Lakh,kolkata
+Maruti,Maruti CiazZXi,2016,"58,765kms",Petrol,Manual,₹4.11 Lakh,kolkata
+Maruti,Maruti Alto 800LXi,2013,"77,564kms",Petrol,Manual,₹1.74 Lakh,kolkata
+Renault,Renault KWID1.0 RXT AMT Opt,2021,"19,683kms",Petrol,Automatic,₹3.54 Lakh,kolkata
+Maruti,Maruti BalenoZeta CVT,2021,"22,169kms",Petrol,Automatic,₹5.15 Lakh,kolkata
+Ford,Ford EcosportTitanium Diesel,2021,"65,000kms",Diesel,Manual,₹6.49 Lakh,kolkata
+Maruti,Maruti CiazZXi,2016,"58,765kms",Petrol,Manual,₹4.11 Lakh,kolkata
+Maruti,Maruti Alto 800LXi,2013,"77,564kms",Petrol,Manual,₹1.74 Lakh,kolkata
+Chevrolet,Chevrolet BeatLT,2011,"49,790kms",Petrol,Manual,₹1.25 Lakh,kolkata
+Hyundai,Hyundai EONEra Plus,2012,"36,202kms",Petrol,Manual,₹1.75 Lakh,kolkata
+Tata,Tata PunchAdventure,2025,"1,000kms",Petrol,Manual,₹6.75 Lakh,kolkata
+Porsche,Porsche 911Carrera T,2024,"2,100kms",Petrol,Automatic,₹2.11 Crore,kolkata
+Mercedes-Benz,Mercedes-Benz E-ClassExclusive E 220d,2021,"24,000kms",Diesel,Automatic,₹45.99 Lakh,kolkata
+Mercedes-Benz,Mercedes-Benz E-ClassExclusive E 200,2024,"10,300kms",Petrol,Automatic,₹72 Lakh,kolkata
+Tata,Tata SafariXZA Plus (O) 6 Str Dark Edition AT,2023,"37,000kms",Diesel,Automatic,₹15.99 Lakh,kolkata
+Maruti,Maruti SwiftLXI Option,2017,"54,036kms",Petrol,Manual,₹3.07 Lakh,kolkata
+Renault,Renault KWID1.0 RXT Opt,2021,"33,000kms",Petrol,Manual,₹3.20 Lakh,kolkata
+Tata,Tata Nexon1.2 Revotron XZ Plus,2018,"36,000kms",Petrol,Manual,₹4.89 Lakh,kolkata
+Honda,Honda BrioS MT,2013,"67,018kms",Petrol,Manual,₹1.53 Lakh,kolkata
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2017,"54,380kms",Petrol,Manual,₹2.68 Lakh,kolkata
+Maruti,Maruti SwiftVXI,2013,"74,540kms",Petrol,Manual,₹1.85 Lakh,kolkata
+Maruti,Maruti Wagon RLXI BS IV,2014,"68,771kms",Petrol,Manual,₹1.90 Lakh,kolkata
+Datsun,Datsun RediGOS,2017,"34,783kms",Petrol,Manual,₹2.05 Lakh,kolkata
+Maruti,Maruti Alto 800VXI,2020,"55,443kms",Petrol,Manual,₹2.94 Lakh,kolkata
+Hyundai,Hyundai Grand i10Sportz,2014,"87,701kms",Petrol,Manual,₹1.99 Lakh,kolkata
+Maruti,Maruti Wagon RLXI BS IV,2014,"68,771kms",Petrol,Manual,₹1.90 Lakh,kolkata
+Hyundai,Hyundai i10Magna 1.1,2016,"46,827kms",Petrol,Manual,₹2.47 Lakh,kolkata
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2017,"54,380kms",Petrol,Manual,₹2.68 Lakh,kolkata
+Datsun,Datsun RediGOS,2017,"34,783kms",Petrol,Manual,₹2.05 Lakh,kolkata
+Maruti,Maruti SwiftVXI,2013,"74,540kms",Petrol,Manual,₹1.85 Lakh,kolkata
+Honda,Honda BrioS MT,2013,"67,018kms",Petrol,Manual,₹1.53 Lakh,kolkata
+Maruti,2021Maruti S-PressoLXI  -2022,2019,"34,000kms",Petrol,Manual,₹2.85 Lakh,kolkata
+Hyundai,Hyundai EONSportz,2014,"35,000kms",Petrol,Manual,₹1.99 Lakh,kolkata
+Honda,Honda City1.5 E MT,2008,"68,000kms",Petrol,Manual,"₹99,000",kolkata
+Chevrolet,Chevrolet Spark1.0 LT,2011,"30,033kms",Petrol,Manual,₹1.10 Lakh,kolkata
+Renault,Renault KWID1.0 RXT,2016,"41,000kms",Petrol,Manual,₹1.95 Lakh,kolkata
+Hyundai,Hyundai i10Magna 1.2 iTech SE,2012,"23,000kms",Petrol,Manual,₹1.65 Lakh,kolkata
+Skoda,Skoda Rapid1.5 TDI Ambition,2015,"48,000kms",Diesel,Manual,₹2.91 Lakh,kolkata
+Hyundai,Hyundai EONMagna Plus,2018,"30,000kms",Petrol,Manual,₹2.15 Lakh,kolkata
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2020,"26,000kms",Petrol,Manual,₹4.75 Lakh,kolkata
+Mercedes-Benz,Mercedes-Benz E-ClassE 350 d BSIV,2018,"42,100kms",Diesel,Automatic,₹26 Lakh,kolkata
+Volvo,Volvo XC90D5 Inscription,2020,"1,29,000kms",Diesel,Automatic,₹29.95 Lakh,kolkata
+Tata,Tata Nexon1.2 Revotron XZA Plus,2018,"55,388kms",Petrol,Automatic,₹4.80 Lakh,kolkata
+Hyundai,Hyundai EONMagna Plus,2018,"30,000kms",Petrol,Manual,₹2.15 Lakh,kolkata
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2020,"26,000kms",Petrol,Manual,₹4.75 Lakh,kolkata
+Volvo,Volvo XC90D5 Inscription,2020,"1,29,000kms",Diesel,Automatic,₹29.95 Lakh,kolkata
+Mercedes-Benz,Mercedes-Benz E-ClassE 350 d BSIV,2018,"42,100kms",Diesel,Automatic,₹26 Lakh,kolkata
+Tata,Tata Nexon1.2 Revotron XZA Plus,2018,"55,388kms",Petrol,Automatic,₹4.80 Lakh,kolkata
+Maruti,Maruti Celerio XZXI,2020,"17,000kms",Petrol,Manual,₹3.81 Lakh,kolkata
+Honda,Honda WR-Vi-VTEC VX,2022,"17,357kms",Petrol,Manual,₹7.22 Lakh,kolkata
+Mahindra,Mahindra XUV500R W10 FWD,2018,"55,000kms",Diesel,Manual,₹7.25 Lakh,kolkata
+Hyundai,Hyundai ExterEX,2024,"7,483kms",Petrol,Manual,₹7.59 Lakh,kolkata
+Maruti,Maruti S CrossZeta AT,2021,"32,000kms",Petrol,Automatic,₹6.99 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 VTVT SX Plus,2019,"65,000kms",Petrol,Manual,₹6.75 Lakh,kolkata
+Mahindra,Mahindra XUV500R W10 FWD,2017,"64,505kms",Diesel,Manual,₹7.50 Lakh,kolkata
+Hyundai,Hyundai ExterSX Opt Connect AMT,2024,"5,182kms",Petrol,Automatic,₹7.59 Lakh,kolkata
+Hyundai,Hyundai VenueSX,2024,"21,841kms",Petrol,Manual,₹7.99 Lakh,kolkata
+Hyundai,Hyundai Elantra2.0 SX Option AT,2019,"44,000kms",Petrol,Automatic,₹9.99 Lakh,kolkata
+MG,MG Hector2.0 Sharp Pro Diesel BSVI,2022,"27,665kms",Diesel,Manual,₹14.90 Lakh,kolkata
+Hyundai,Hyundai AlcazarPlatinum 7-Seater,2021,"70,000kms",Petrol,Manual,₹12.35 Lakh,kolkata
+Hyundai,Hyundai AlcazarPlatinum 7-Seater,2021,"60,000kms",Petrol,Manual,₹12.50 Lakh,kolkata
+Hyundai,Hyundai VernaSX Opt Turbo,2024,"19,000kms",Petrol,Manual,₹11.95 Lakh,kolkata
+Mahindra,Mahindra ScorpioS11 BSIV,2018,"74,236kms",Diesel,Manual,₹10.45 Lakh,kolkata
+MG,MG Hector2.0 Sharp Pro Diesel BSVI,2022,"27,665kms",Diesel,Manual,₹14.90 Lakh,kolkata
+Hyundai,Hyundai AlcazarPlatinum 7-Seater,2021,"60,000kms",Petrol,Manual,₹12.50 Lakh,kolkata
+Tata,Tata SafariXZ Plus BSVI,2021,"53,000kms",Diesel,Manual,₹13.25 Lakh,kolkata
+Mahindra,Mahindra ScorpioS11 BSIV,2018,"74,236kms",Diesel,Manual,₹10.45 Lakh,kolkata
+Audi,Audi A435 TDI Technology,2018,"64,100kms",Diesel,Automatic,₹14.99 Lakh,kolkata
+Audi,Audi Q530 TDI quattro Technology,2016,"43,200kms",Diesel,Automatic,₹13.90 Lakh,kolkata
+Hyundai,Hyundai VernaSX Opt Turbo,2024,"19,000kms",Petrol,Manual,₹11.95 Lakh,kolkata
+Hyundai,Hyundai AlcazarPlatinum 7-Seater,2021,"70,000kms",Petrol,Manual,₹12.35 Lakh,kolkata
+Honda,Honda CivicVX,2019,"39,000kms",Petrol,Automatic,₹10.75 Lakh,kolkata
+Kia,Kia CarensLuxury Opt Diesel AT,2023,"52,056kms",Diesel,Automatic,₹13.49 Lakh,kolkata
+Audi,Audi Q330 TFSI Premium FWD,2017,"35,216kms",Petrol,Automatic,₹13.99 Lakh,kolkata
+Audi,Audi A335 TFSI Premium,2018,"40,000kms",Petrol,Automatic,₹13.99 Lakh,kolkata
+Mahindra,Mahindra ScorpioS 11,2023,"24,200kms",Diesel,Manual,₹14.49 Lakh,kolkata
+Skoda,Skoda SuperbStyle 2.0 TDI AT,2018,"67,231kms",Diesel,Automatic,₹14.25 Lakh,kolkata
+Skoda,Skoda Octavia1.8 TSI AT L K,2018,"62,968kms",Petrol,Automatic,₹13.50 Lakh,kolkata
+Audi,Audi A635 TDI,2016,"60,000kms",Diesel,Automatic,₹12.95 Lakh,kolkata
+Renault,Renault TriberRXL BSVI,2021,"10,808kms",Petrol,Manual,₹3.75 Lakh,kolkata
+Maruti,Maruti BalenoDelta Diesel,2022,"16,281kms",Diesel,Manual,₹5.71 Lakh,kolkata
+Maruti,Maruti BalenoZeta Diesel,2021,"19,873kms",Diesel,Manual,₹5.98 Lakh,kolkata
+Hyundai,Hyundai XcentPetrol,2017,"90,639kms",Petrol,Manual,₹3.11 Lakh,kolkata
+Audi,Audi A635 TDI,2016,"60,000kms",Diesel,Automatic,₹12.95 Lakh,kolkata
+Renault,Renault TriberRXL BSVI,2021,"10,808kms",Petrol,Manual,₹3.75 Lakh,kolkata
+Maruti,Maruti BalenoDelta Diesel,2022,"16,281kms",Diesel,Manual,₹5.71 Lakh,kolkata
+Maruti,Maruti BalenoZeta Diesel,2021,"19,873kms",Diesel,Manual,₹5.98 Lakh,kolkata
+Hyundai,Hyundai XcentPetrol,2017,"90,639kms",Petrol,Manual,₹3.11 Lakh,kolkata
+Maruti,Maruti CiazAlpha BSVI,2021,"78,666kms",Petrol,Manual,₹5.10 Lakh,kolkata
+Hyundai,Hyundai Grand i101.2 Kappa Sportz Option AT,2017,"77,839kms",Petrol,Automatic,₹3.20 Lakh,kolkata
+Hyundai,Hyundai SantroMagna AMT BSIV,2019,"16,359kms",Petrol,Automatic,₹3.42 Lakh,kolkata
+Kia,Kia SonetHTK Plus BSVI,2021,"24,583kms",Petrol,Manual,₹5.95 Lakh,kolkata
+Tata,Tata TiagoXZA AMT,2022,"48,837kms",Petrol,Automatic,₹5.18 Lakh,kolkata
+Renault,Renault KWIDCLIMBER BSVI,2022,"16,332kms",Petrol,Manual,₹3.45 Lakh,kolkata
+Hyundai,Hyundai i20Asta Turbo iMT,2020,"30,322kms",Petrol,Manual,₹5.78 Lakh,kolkata
+Tata,Tata AltrozXZ Plus,2022,"72,910kms",Petrol,Manual,₹5.65 Lakh,kolkata
+Toyota,Toyota EtiosGD SP,2013,"82,394kms",Diesel,Manual,₹3.19 Lakh,kolkata
+Maruti,Maruti Swift DzireVXI AT BSVI,2020,"91,004kms",Petrol,Automatic,₹4.10 Lakh,kolkata
+Maruti,Maruti Wagon RZXI AMT 1.2,2021,"11,098kms",Petrol,Automatic,₹3.90 Lakh,kolkata
+Hyundai,Hyundai i20Magna Plus,2020,"11,909kms",Petrol,Manual,₹5.10 Lakh,kolkata
+Renault,Renault TriberRXZ BSVI,2022,"18,634kms",Petrol,Manual,₹5 Lakh,kolkata
+Maruti,Maruti Alto K10VXI Plus AT,2023,"16,124kms",Petrol,Automatic,₹4.47 Lakh,kolkata
+Hyundai,Hyundai i20Sportz 1.2,2017,"36,566kms",Petrol,Manual,₹4 Lakh,kolkata
+Maruti,Maruti Wagon RZXI AMT 1.2,2021,"11,098kms",Petrol,Automatic,₹3.90 Lakh,kolkata
+Hyundai,Hyundai i20Magna Plus,2020,"11,909kms",Petrol,Manual,₹5.10 Lakh,kolkata
+Renault,Renault TriberRXZ BSVI,2022,"18,634kms",Petrol,Manual,₹5 Lakh,kolkata
+Maruti,Maruti Alto K10VXI Plus AT,2023,"16,124kms",Petrol,Automatic,₹4.47 Lakh,kolkata
+Hyundai,Hyundai i20Sportz 1.2,2017,"36,566kms",Petrol,Manual,₹4 Lakh,kolkata
+Honda,Honda Cityi VTEC SV,2017,"1,06,497kms",Petrol,Manual,₹3.99 Lakh,kolkata
+Hyundai,Hyundai AuraS AMT,2023,"30,000kms",Petrol,Automatic,₹4.95 Lakh,kolkata
+Maruti,Maruti Swift DzireVXI Optional,2016,"60,628kms",Petrol,Manual,₹3.99 Lakh,kolkata
+Mercedes-Benz,Mercedes-Benz B ClassB180 CDI,2013,"64,000kms",Diesel,Automatic,₹4.99 Lakh,kolkata
+Hyundai,Hyundai Elantra1.6 SX,2017,"62,000kms",Diesel,Manual,₹5.40 Lakh,kolkata
+Hyundai,Hyundai Verna1.6 CRDi AT SX,2015,"1,52,455kms",Diesel,Automatic,₹4.24 Lakh,kolkata
+MG,MG HectorSharp Pro Diesel,2023,"25,002kms",Diesel,Manual,₹15.99 Lakh,kolkata
+Honda,Honda AmazeV,2019,"51,239kms",Petrol,Manual,₹4.28 Lakh,kolkata
+Tata,Tata TiagoXZ Plus,2020,"22,898kms",Petrol,Manual,₹4.75 Lakh,kolkata
+Ford,Ford Ecosport1.5 Diesel Ambiente,2020,"73,440kms",Diesel,Manual,₹5 Lakh,kolkata
+Honda,Honda WR-VVX,2020,"28,000kms",Petrol,Manual,₹5.49 Lakh,kolkata
+Maruti,Maruti S-PressoVXi Plus BSVI,2022,"50,000kms",Petrol,Manual,₹3.49 Lakh,kolkata
+Maruti,Maruti Wagon RVXI Optional,2017,"40,000kms",Petrol,Manual,₹2.64 Lakh,kolkata
+BMW,BMW 3 Series320d Sport,2013,"48,000kms",Diesel,Automatic,₹6.90 Lakh,kolkata
+Hyundai,Hyundai VenueSX Turbo,2020,"30,000kms",Petrol,Manual,₹6.09 Lakh,kolkata
+Ford,Ford Ecosport1.5 Diesel Ambiente,2020,"73,440kms",Diesel,Manual,₹5 Lakh,kolkata
+Maruti,Maruti S-PressoVXi Plus BSVI,2022,"50,000kms",Petrol,Manual,₹3.49 Lakh,kolkata
+Maruti,Maruti Wagon RVXI Optional,2017,"40,000kms",Petrol,Manual,₹2.64 Lakh,kolkata
+BMW,BMW 3 Series320d Sport,2013,"48,000kms",Diesel,Automatic,₹6.90 Lakh,kolkata
+Hyundai,Hyundai VenueSX Turbo,2020,"30,000kms",Petrol,Manual,₹6.09 Lakh,kolkata
+Maruti,Maruti Wagon RVXI BS IV,2013,"18,175kms",Petrol,Manual,₹1.80 Lakh,kolkata
+Hyundai,Hyundai i10Magna 1.1L,2013,"31,075kms",Petrol,Manual,₹1.70 Lakh,kolkata
+Hyundai,Hyundai i10Magna 1.2,2012,"21,659kms",Petrol,Manual,₹2.07 Lakh,kolkata
+Chevrolet,Chevrolet Spark1.0,2013,"46,050kms",Petrol,Manual,"₹80,000",kolkata
+Hyundai,Hyundai EOND Lite Plus,2012,"40,000kms",Petrol,Manual,₹1.45 Lakh,kolkata
+Hyundai,Hyundai EONEra,2015,"31,486kms",Petrol,Manual,₹1.45 Lakh,kolkata
+BMW,BMW X1sDrive20i xLine,2021,"44,000kms",Petrol,Automatic,₹23.49 Lakh,kolkata
+Jaguar,Jaguar XF2.0 Diesel Portfolio,2018,"18,000kms",Diesel,Automatic,₹25 Lakh,kolkata
+Mahindra,Mahindra TharLX 4WD Hard Top BSVI,2022,"30,000kms",Petrol,Manual,₹10.99 Lakh,kolkata
+Maruti,Maruti Ignis1.2 Sigma BSIV,2022,"27,414kms",Petrol,Manual,₹4.19 Lakh,kolkata
+Maruti,Maruti ErtigaZXI,2017,"26,578kms",Petrol,Manual,₹6.55 Lakh,kolkata
+Mahindra,Mahindra TharLX 4WD Convert Top AT BSVI,2021,"51,580kms",Petrol,Automatic,₹8.43 Lakh,kolkata
+Maruti,Maruti ErtigaVDI,2019,"32,000kms",Diesel,Manual,₹9.75 Lakh,kolkata
+Honda,Honda CityZX CVT,2022,"32,143kms",Petrol,Automatic,₹8.75 Lakh,kolkata
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2021,"7,128kms",Petrol,Manual,₹4.95 Lakh,kolkata
+Mahindra,Mahindra TharLX 4WD Convert Top AT BSVI,2021,"51,580kms",Petrol,Automatic,₹8.43 Lakh,kolkata
+Maruti,Maruti ErtigaZXI,2017,"26,578kms",Petrol,Manual,₹6.55 Lakh,kolkata
+Maruti,Maruti ErtigaVDI,2019,"32,000kms",Diesel,Manual,₹9.75 Lakh,kolkata
+Honda,Honda CityZX CVT,2022,"32,143kms",Petrol,Automatic,₹8.75 Lakh,kolkata
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2021,"7,128kms",Petrol,Manual,₹4.95 Lakh,kolkata
+Hyundai,Hyundai SantroSportz AMT,2020,"58,000kms",Petrol,Automatic,₹3.85 Lakh,kolkata
+Maruti,Maruti S-PressoVXi Plus BSVI,2023,"27,000kms",Petrol,Manual,₹3.85 Lakh,kolkata
+Maruti,Maruti Alto 800VXI,2022,"14,883kms",Petrol,Manual,₹3.44 Lakh,kolkata
+Maruti,Maruti Alto K10VXI AMT,2016,"25,353kms",Petrol,Automatic,₹2.59 Lakh,kolkata
+Hyundai,Hyundai VernaSX,2025,"9,000kms",Petrol,Manual,₹11.25 Lakh,kolkata
+Maruti,Maruti Alto 800LXi,2014,"29,865kms",Petrol,Manual,₹1.91 Lakh,kolkata
+Tata,Tata TiagoXZA AMT,2021,"18,882kms",Petrol,Automatic,₹5.20 Lakh,kolkata
+Volkswagen,Volkswagen Vento1.5 Highline Plus AT 16 Alloy,2017,"77,331kms",Diesel,Automatic,₹4.43 Lakh,kolkata
+Maruti,Maruti DzireZXI Plus,2017,"53,253kms",Petrol,Manual,₹5.01 Lakh,kolkata
+Toyota,Toyota GlanzaV,2020,"48,657kms",Petrol,Manual,₹5.79 Lakh,kolkata
+Tata,Tata TigorXZ Plus,2023,"23,443kms",Petrol,Manual,₹5.89 Lakh,kolkata
+Maruti,Maruti Swift DzireAMT VXI,2017,"95,390kms",Petrol,Automatic,₹4 Lakh,kolkata
+Maruti,Maruti Swift DzireZXI AT BSVI,2021,"37,000kms",Petrol,Automatic,₹4.95 Lakh,kolkata
+Maruti,Maruti Wagon RVXI BS IV,2015,"59,000kms",Petrol,Manual,₹2.85 Lakh,kolkata
+Renault,Renault KWIDRXL BSIV,2020,"35,000kms",Petrol,Manual,₹2.85 Lakh,kolkata
+Tata,Tata TigorXZ Plus,2023,"23,443kms",Petrol,Manual,₹5.89 Lakh,kolkata
+Maruti,Maruti Swift DzireAMT VXI,2017,"95,390kms",Petrol,Automatic,₹4 Lakh,kolkata
+Maruti,Maruti Swift DzireZXI AT BSVI,2021,"37,000kms",Petrol,Automatic,₹4.95 Lakh,kolkata
+Maruti,Maruti Wagon RVXI BS IV,2015,"59,000kms",Petrol,Manual,₹2.85 Lakh,kolkata
+Renault,Renault KWIDRXL BSIV,2020,"35,000kms",Petrol,Manual,₹2.85 Lakh,kolkata
+Honda,Honda WR-Vi-VTEC S,2022,"25,785kms",Petrol,Manual,₹6.90 Lakh,kolkata
+Kia,Kia SonetHTX Diesel BSVI,2021,"35,000kms",Diesel,Manual,₹6.99 Lakh,kolkata
+Honda,Honda CityZX MT,2023,"8,664kms",Petrol,Manual,₹12.07 Lakh,kolkata
+Toyota,Toyota RumionG,2025,"3,500kms",Petrol,Manual,₹11.25 Lakh,kolkata
+Honda,Honda CityV MT Diesel,2016,"87,850kms",Diesel,Manual,₹3.89 Lakh,kolkata
+Maruti,Maruti SwiftVXI,2016,"95,146kms",Petrol,Manual,₹2.30 Lakh,kolkata
+Hyundai,Hyundai Verna1.4 CX VTVT,2014,"60,889kms",Petrol,Manual,₹2.38 Lakh,kolkata
+Renault,Renault KWID1.0 AMT RXT,2016,"23,438kms",Petrol,Automatic,₹1.85 Lakh,kolkata
+Toyota,Toyota EtiosG,2013,"63,910kms",Petrol,Manual,₹1.95 Lakh,kolkata
+Volkswagen,Volkswagen VentoPetrol Comfortline,2012,"43,158kms",Petrol,Manual,₹1.99 Lakh,kolkata
+Hyundai,Hyundai i10Sportz,2011,"59,000kms",Petrol,Manual,₹1.45 Lakh,kolkata
+Hyundai,Hyundai EONEra Plus,2015,"15,000kms",Petrol,Manual,₹1.95 Lakh,kolkata
+Honda,Honda Jazz1.2 V AT i VTEC,2016,"94,307kms",Petrol,Automatic,₹2.95 Lakh,kolkata
+Maruti,Maruti Alto 800VXI,2014,"41,854kms",Petrol,Manual,₹2.17 Lakh,kolkata
+Mahindra,Mahindra XUV300W8 Opt,2023,"16,701kms",Petrol,Manual,₹8.95 Lakh,kolkata
+Hyundai,Hyundai i10Sportz,2011,"59,000kms",Petrol,Manual,₹1.45 Lakh,kolkata
+Hyundai,Hyundai EONEra Plus,2015,"15,000kms",Petrol,Manual,₹1.95 Lakh,kolkata
+Honda,Honda Jazz1.2 V AT i VTEC,2016,"94,307kms",Petrol,Automatic,₹2.95 Lakh,kolkata
+Maruti,Maruti Alto 800VXI,2014,"41,854kms",Petrol,Manual,₹2.17 Lakh,kolkata
+Mahindra,Mahindra XUV300W8 Opt,2023,"16,701kms",Petrol,Manual,₹8.95 Lakh,kolkata
+Mercedes-Benz,Mercedes-Benz C-ClassC 220 CDI Elegance AT,2013,"40,238kms",Diesel,Automatic,₹9.65 Lakh,kolkata
+BMW,BMW 3 Series320d,2011,"40,000kms",Diesel,Automatic,₹7.50 Lakh,kolkata
+Porsche,Porsche 911Turbo S  -2025,2023,"8,200kms",Petrol,Automatic,₹3.25 Crore,kolkata
+Tata,Tata AltrozXZ Diesel BSVI,2022,"38,959kms",Diesel,Manual,₹5.70 Lakh,kolkata
+BMW,BMW X5xDrive 30d,2015,"64,500kms",Diesel,Automatic,₹17.75 Lakh,kolkata
+Honda,Honda Brio1.2 VX AT,2015,"78,000kms",Petrol,Automatic,₹2.50 Lakh,kolkata
+Honda,Honda BrioVX O AT,2015,"88,000kms",Petrol,Automatic,₹2.50 Lakh,kolkata
+Maruti,Maruti Wagon RAMT VXI,2017,"73,461kms",Petrol,Automatic,₹3 Lakh,kolkata
+Mercedes-Benz,Mercedes-Benz C-ClassC 220 CDI Style,2015,"87,700kms",Diesel,Automatic,₹13.49 Lakh,kolkata
+Mahindra,Mahindra TharLX Hard Top AT,2023,"14,000kms",Petrol,Automatic,₹11.25 Lakh,kolkata
+Maruti,Maruti Ciaz1.4 Alpha,2019,"61,096kms",Petrol,Manual,₹5.78 Lakh,kolkata
+Maruti,Maruti CiazAlpha BSVI,2020,"30,282kms",Petrol,Manual,₹5.99 Lakh,kolkata
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2015,"57,585kms",Petrol,Manual,₹2.80 Lakh,kolkata
+Maruti,Maruti Alto 800VXI,2015,"22,000kms",Petrol,Manual,₹1.95 Lakh,kolkata
+Hyundai,Hyundai i10Era,2014,"52,000kms",Petrol,Manual,₹1.85 Lakh,kolkata
+Maruti,Maruti Ciaz1.4 Alpha,2019,"61,096kms",Petrol,Manual,₹5.78 Lakh,kolkata
+Maruti,Maruti CiazAlpha BSVI,2020,"30,282kms",Petrol,Manual,₹5.99 Lakh,kolkata
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2015,"57,585kms",Petrol,Manual,₹2.80 Lakh,kolkata
+Hyundai,Hyundai i10Era,2014,"52,000kms",Petrol,Manual,₹1.85 Lakh,kolkata
+Toyota,Toyota EtiosV,2011,"64,000kms",Petrol,Manual,₹1.69 Lakh,kolkata
+Maruti,Maruti Alto 800VXI,2015,"22,000kms",Petrol,Manual,₹1.95 Lakh,kolkata
+,Force GurkhaXpedition,2019,"51,000kms",Diesel,Manual,₹7.67 Lakh,kolkata
+Maruti,Maruti SwiftVXI,2020,"11,986kms",Petrol,Manual,₹4.93 Lakh,kolkata
+Volvo,Volvo S60 Cross CountryD4 AWD BSIV,2017,"66,452kms",Diesel,Automatic,₹17.31 Lakh,kolkata
+Hyundai,Hyundai i10Magna 1.1,2016,"11,789kms",Petrol,Manual,₹2.55 Lakh,kolkata
+Volvo,Volvo S60 Cross CountryD4 AWD BSIV,2018,"33,389kms",Diesel,Automatic,₹13.99 Lakh,kolkata
+BMW,BMW X1sDrive20d Expedition,2017,"67,000kms",Diesel,Automatic,₹13.90 Lakh,kolkata
+BMW,BMW X1sDrive20d xLine,2017,"62,000kms",Diesel,Automatic,₹12.90 Lakh,kolkata
+Maruti,Maruti Wagon RLXI BSVI,2016,"26,175kms",Petrol,Manual,₹2.93 Lakh,kolkata
+Maruti,Maruti Alto K10VXI,2017,"26,111kms",Petrol,Manual,₹2.24 Lakh,kolkata
+Datsun,Datsun RediGOT Option,2021,"10,455kms",Petrol,Manual,₹2.45 Lakh,kolkata
+Toyota,Toyota EtiosV,2011,"45,127kms",Petrol,Manual,₹2.15 Lakh,kolkata
+Maruti,Maruti Alto 800LXI,2016,"26,516kms",Petrol,Manual,₹2.10 Lakh,kolkata
+Toyota,Toyota Etios LivaG,2011,"56,591kms",Petrol,Manual,₹2.25 Lakh,kolkata
+Hyundai,Hyundai i10Era,2012,"41,172kms",Petrol,Manual,₹2.10 Lakh,kolkata
+Datsun,Datsun RediGOT Option,2021,"10,455kms",Petrol,Manual,₹2.45 Lakh,kolkata
+Toyota,Toyota EtiosV,2011,"45,127kms",Petrol,Manual,₹2.15 Lakh,kolkata
+Maruti,Maruti Alto 800LXI,2016,"26,516kms",Petrol,Manual,₹2.10 Lakh,kolkata
+Toyota,Toyota Etios LivaG,2011,"56,591kms",Petrol,Manual,₹2.25 Lakh,kolkata
+Hyundai,Hyundai i10Era,2012,"41,172kms",Petrol,Manual,₹2.10 Lakh,kolkata
+Hyundai,Hyundai Grand i10Sportz,2016,"55,000kms",Petrol,Manual,₹2.25 Lakh,kolkata
+Maruti,Maruti Swift Dzire TourLDI,2012,"56,000kms",Diesel,Manual,₹1.99 Lakh,kolkata
+Maruti,2021Maruti S-PressoLXI  -2022,2019,"34,000kms",Petrol,Manual,₹2.95 Lakh,kolkata
+Maruti,Maruti Swift DzireVXi,2010,"64,000kms",Petrol,Manual,₹1.81 Lakh,kolkata
+Renault,Renault KWIDRXT AMT,2019,"25,000kms",Petrol,Automatic,₹2.80 Lakh,kolkata
+Chevrolet,Chevrolet BeatPS,2013,"27,000kms",Petrol,Manual,₹1.50 Lakh,kolkata
+Maruti,Maruti DzireZXI Plus AMT,2020,"44,490kms",Petrol,Automatic,₹5.90 Lakh,kolkata
+Hyundai,Hyundai AuraSX Plus AMT Diesel,2020,"15,379kms",Diesel,Automatic,₹5.70 Lakh,kolkata
+Volkswagen,Volkswagen Taigun1.0 Highline AT,2022,"39,670kms",Petrol,Automatic,₹9.04 Lakh,kolkata
+Maruti,Maruti XL6Alpha,2021,"27,942kms",Petrol,Manual,₹8.65 Lakh,kolkata
+Hyundai,Hyundai CretaS Diesel,2021,"84,931kms",Diesel,Manual,₹9.16 Lakh,kolkata
+Mahindra,Mahindra XUV300W8 Option Dual Tone Diesel BSIV,2021,"38,912kms",Diesel,Manual,₹7.77 Lakh,kolkata
+Hyundai,Hyundai AuraS AMT,2022,"13,533kms",Petrol,Automatic,₹6.55 Lakh,kolkata
+Kia,Kia SonetHTX Diesel BSVI,2021,"34,000kms",Diesel,Manual,₹7.45 Lakh,kolkata
+Hyundai,Hyundai VenueSX Turbo iMT,2021,"41,000kms",Petrol,Manual,₹6.25 Lakh,kolkata
+Hyundai,Hyundai CretaS Diesel,2021,"84,931kms",Diesel,Manual,₹9.16 Lakh,kolkata
+Mahindra,Mahindra XUV300W8 Option Dual Tone Diesel BSIV,2021,"38,912kms",Diesel,Manual,₹7.77 Lakh,kolkata
+Honda,Honda Cityi-VTEC CVT ZX,2018,"42,000kms",Petrol,Automatic,₹6.55 Lakh,kolkata
+Honda,Honda CityZX CVT,2018,"45,000kms",Petrol,Automatic,₹6.99 Lakh,kolkata
+Hyundai,Hyundai VernaCRDi 1.6 SX Option,2018,"1,09,191kms",Diesel,Manual,₹9.11 Lakh,kolkata
+Maruti,Maruti SwiftVXi Opt,2024,"12,000kms",Petrol,Manual,₹6.50 Lakh,kolkata
+Honda,Honda CityV CVT,2024,"11,000kms",Petrol,Automatic,₹9.25 Lakh,kolkata
+Jeep,Jeep Compass2.0 Sport,2018,"55,000kms",Diesel,Manual,₹6.95 Lakh,kolkata
+Kia,Kia SonetHTX Diesel BSVI,2021,"34,000kms",Diesel,Manual,₹7.45 Lakh,kolkata
+Honda,Honda Amaze 2nd GenVX CVT,2023,"28,000kms",Petrol,Automatic,₹6.75 Lakh,kolkata
+Hyundai,Hyundai VenueSX Turbo iMT,2021,"41,000kms",Petrol,Manual,₹6.25 Lakh,kolkata
+Maruti,Maruti ErtigaZXI,2020,"44,269kms",Petrol,Manual,₹7.95 Lakh,kolkata
+Hyundai,Hyundai AuraS AMT,2022,"13,533kms",Petrol,Automatic,₹6.55 Lakh,kolkata
+BMW,BMW 3 Series320d Prestige,2013,"40,000kms",Diesel,Automatic,₹6.90 Lakh,kolkata
+Hyundai,Hyundai i10Magna 1.2,2011,"78,222kms",Petrol,Manual,₹1.89 Lakh,kolkata
+Hyundai,Hyundai Grand i10Sportz,2014,"1,00,120kms",Petrol,Manual,₹1.75 Lakh,kolkata
+Tata,Tata Tiago1.2 Revotron XT,2018,"1,06,040kms",Petrol,Manual,₹2.86 Lakh,kolkata
+Maruti,Maruti Wagon RVXI BS IV,2011,"55,000kms",Petrol,Manual,₹1.40 Lakh,kolkata
+Kia,Kia SeltosHTX,2024,"30,000kms",Petrol,Manual,₹13.50 Lakh,kolkata
+Kia,Kia CarensLuxury Plus DCT,2023,"25,000kms",Petrol,Automatic,₹13.50 Lakh,kolkata
+Hyundai,Hyundai Grand i10Sportz,2014,"1,00,120kms",Petrol,Manual,₹1.75 Lakh,kolkata
+Tata,Tata Tiago1.2 Revotron XT,2018,"1,06,040kms",Petrol,Manual,₹2.86 Lakh,kolkata
+Maruti,Maruti Wagon RVXI BS IV,2011,"55,000kms",Petrol,Manual,₹1.40 Lakh,kolkata
+Kia,Kia SeltosHTX,2024,"30,000kms",Petrol,Manual,₹13.50 Lakh,kolkata
+Kia,Kia CarensLuxury Plus DCT,2023,"25,000kms",Petrol,Automatic,₹13.50 Lakh,kolkata
+Hyundai,Hyundai Grand i10 NiosSportz,2023,"29,661kms",Petrol,Manual,₹4.45 Lakh,kolkata
+Renault,Renault KWIDClimber 1.0 MT Opt,2022,"39,878kms",Petrol,Manual,₹3.87 Lakh,kolkata
+Maruti,Maruti SwiftLXI,2023,"9,933kms",Petrol,Manual,₹5.11 Lakh,kolkata
+Honda,Honda CityZX CVT,2017,"1,01,091kms",Petrol,Automatic,₹5.77 Lakh,kolkata
+Nissan,Nissan MagniteXV,2022,"80,643kms",Petrol,Manual,₹4.77 Lakh,kolkata
+Maruti,Maruti Wagon RVXI,2016,"46,270kms",Petrol,Manual,₹3.20 Lakh,kolkata
+Maruti,Maruti SwiftVXI,2015,"54,396kms",Petrol,Manual,₹3.10 Lakh,kolkata
+Maruti,Maruti SwiftVXi,2024,"12,000kms",Petrol,Manual,₹5.85 Lakh,kolkata
+Datsun,Datsun GO PlusT,2020,"42,021kms",Petrol,Manual,₹3.25 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 VTVT S,2016,"65,000kms",Petrol,Manual,₹4.50 Lakh,kolkata
+Honda,Honda Cityi-VTEC CVT ZX,2018,"45,000kms",Petrol,Automatic,₹6 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 VTVT S,2016,"57,000kms",Petrol,Manual,₹4.50 Lakh,kolkata
+Hyundai,Hyundai i20Petrol CVT Asta,2018,"55,000kms",Petrol,Automatic,₹4.85 Lakh,kolkata
+Hyundai,Hyundai Xcent1.2 CRDi SX,2018,"52,000kms",Diesel,Manual,₹3.65 Lakh,kolkata
+Honda,Honda Cityi VTEC V,2015,"70,000kms",Petrol,Manual,₹4.25 Lakh,kolkata
+Honda,Honda Cityi VTEC V,2015,"70,000kms",Petrol,Manual,₹4.25 Lakh,kolkata
+Hyundai,Hyundai Xcent1.2 CRDi SX,2018,"58,000kms",Diesel,Manual,₹3.75 Lakh,kolkata
+Maruti,Maruti Wagon RVXI,2016,"46,270kms",Petrol,Manual,₹3.20 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 VTVT S,2016,"65,000kms",Petrol,Manual,₹4.50 Lakh,kolkata
+Honda,Honda Cityi-VTEC CVT ZX,2018,"45,000kms",Petrol,Automatic,₹6 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 VTVT S,2016,"57,000kms",Petrol,Manual,₹4.50 Lakh,kolkata
+Hyundai,Hyundai i20Petrol CVT Asta,2018,"55,000kms",Petrol,Automatic,₹4.85 Lakh,kolkata
+Hyundai,Hyundai Xcent1.2 CRDi SX,2018,"52,000kms",Diesel,Manual,₹3.65 Lakh,kolkata
+Hyundai,Hyundai Xcent1.2 CRDi SX,2018,"66,000kms",Diesel,Manual,₹3.50 Lakh,kolkata
+Hyundai,Hyundai VernaCRDi 1.6 SX,2018,"56,000kms",Diesel,Manual,₹4.95 Lakh,kolkata
+Maruti,Maruti Vitara BrezzaVDi Option,2016,"66,000kms",Diesel,Manual,₹3.99 Lakh,kolkata
+Maruti,Maruti Vitara BrezzaVDi Option,2016,"90,000kms",Diesel,Manual,₹3.99 Lakh,kolkata
+Maruti,Maruti Baleno1.2 CVT Delta,2016,"60,141kms",Petrol,Automatic,₹4.25 Lakh,kolkata
+Skoda,Skoda SuperbElegance 1.8 TSI AT,2013,"22,000kms",Petrol,Automatic,₹3.99 Lakh,kolkata
+Honda,Honda Cityi VTEC SV,2015,"46,000kms",Petrol,Manual,₹3.65 Lakh,kolkata
+Renault,Renault KWIDClimber 1.0 AMT BSIV,2019,"36,136kms",Petrol,Automatic,₹3.25 Lakh,kolkata
+Kia,Kia SeltosHTX G,2020,"54,000kms",Petrol,Manual,₹8 Lakh,kolkata
+Maruti,Maruti Swift DzireVXI AT,2016,"88,858kms",Petrol,Automatic,₹2.85 Lakh,kolkata
+Renault,2017Renault KWID1.0 RXT Optional AT  -2019,2016,"76,720kms",Petrol,Automatic,₹2.37 Lakh,kolkata
+Honda,Honda CityV,2024,"17,000kms",Petrol,Manual,₹9.50 Lakh,kolkata
+Maruti,Maruti Baleno1.2 CVT Delta,2016,"60,141kms",Petrol,Automatic,₹4.25 Lakh,kolkata
+Kia,Kia SeltosHTX G,2020,"54,000kms",Petrol,Manual,₹8 Lakh,kolkata
+Maruti,Maruti Swift DzireVXI AT,2016,"88,858kms",Petrol,Automatic,₹2.85 Lakh,kolkata
+Renault,2017Renault KWID1.0 RXT Optional AT  -2019,2016,"76,720kms",Petrol,Automatic,₹2.37 Lakh,kolkata
+Honda,Honda CityV,2024,"17,000kms",Petrol,Manual,₹9.50 Lakh,kolkata
+Hyundai,Hyundai AlcazarSignature Dual Tone AT,2021,"52,604kms",Petrol,Automatic,₹12.62 Lakh,kolkata
+Volkswagen,Volkswagen Vento1.0 TSI Highline,2022,"28,462kms",Petrol,Manual,₹7.70 Lakh,kolkata
+Toyota,Toyota Fortuner4X2 Diesel AT,2023,"32,000kms",Diesel,Automatic,₹36 Lakh,kolkata
+Audi,Audi RS Q84.0 TFSI Quattro BSVI,2023,"6,500kms",Petrol,Automatic,₹1.65 Crore,kolkata
+Jaguar,Jaguar XF2.0 Diesel Portfolio,2018,"18,001kms",Diesel,Automatic,₹25 Lakh,kolkata
+Hyundai,Hyundai i20Asta Turbo DCT,2021,"49,172kms",Petrol,Automatic,₹7.38 Lakh,kolkata
+Maruti,Maruti ErtigaBSIV VXI,2017,"45,000kms",Petrol,Manual,₹6.25 Lakh,kolkata
+Tata,Tata NexonXZ Plus,2021,"24,729kms",Petrol,Manual,₹7.22 Lakh,kolkata
+Maruti,Maruti Alto 800VXI BSVI,2021,"52,097kms",Petrol,Manual,₹2.45 Lakh,kolkata
+Maruti,Maruti Swift1.2 VXI BSIV,2011,"85,595kms",Petrol,Manual,₹1.79 Lakh,kolkata
+Renault,2018Renault KWID1.0 RXT Optional AT  -2019,2016,"27,983kms",Petrol,Automatic,₹2.71 Lakh,kolkata
+Hyundai,Hyundai i10Magna,2011,"70,000kms",Petrol,Manual,₹1.45 Lakh,kolkata
+Maruti,Maruti Alto 800VXI,2021,"9,000kms",Petrol,Manual,₹2.85 Lakh,kolkata
+Hyundai,Hyundai i10Sportz,2012,"52,000kms",Petrol,Manual,₹1.75 Lakh,kolkata
+Hyundai,Hyundai i10Magna 1.1L,2011,"68,000kms",Petrol,Manual,₹1.25 Lakh,kolkata
+Hyundai,Hyundai Santro XingGL,2010,"34,000kms",Petrol,Manual,₹1.25 Lakh,kolkata
+Hyundai,Hyundai i10Era 1.1,2008,"72,000kms",Petrol,Manual,₹1.10 Lakh,kolkata
+Maruti,Maruti Alto 800VXI,2021,"9,000kms",Petrol,Manual,₹2.85 Lakh,kolkata
+Hyundai,Hyundai i10Sportz,2012,"52,000kms",Petrol,Manual,₹1.75 Lakh,kolkata
+Hyundai,Hyundai i10Magna 1.1L,2011,"68,000kms",Petrol,Manual,₹1.25 Lakh,kolkata
+Renault,2018Renault KWID1.0 RXT Optional AT  -2019,2016,"27,983kms",Petrol,Automatic,₹2.71 Lakh,kolkata
+Hyundai,Hyundai i10Magna,2011,"70,000kms",Petrol,Manual,₹1.45 Lakh,kolkata
+Maruti,Maruti Wagon RLXI Minor,2009,"40,000kms",Petrol,Manual,₹1.35 Lakh,kolkata
+Maruti,Maruti Zen EstiloLXI,2011,"35,000kms",Petrol,Manual,₹1.10 Lakh,kolkata
+Hyundai,Hyundai VernaSX Opt Diesel,2021,"61,597kms",Diesel,Manual,₹8.49 Lakh,kolkata
+Kia,Kia SonetHTX Plus Diesel BSVI,2021,"29,000kms",Diesel,Manual,₹7.99 Lakh,kolkata
+Honda,Honda CivicVX,2019,"54,000kms",Petrol,Automatic,₹9.50 Lakh,kolkata
+Renault,Renault KigerRXZ Turbo CVT,2024,"16,524kms",Petrol,Automatic,₹7.85 Lakh,kolkata
+Honda,Honda CivicVX,2019,"44,000kms",Petrol,Automatic,₹9.25 Lakh,kolkata
+Toyota,Toyota CamryHybrid,2015,"55,000kms",Petrol,Automatic,₹8.50 Lakh,kolkata
+Toyota,Toyota Camry2.5 Hybrid,2015,"59,000kms",Petrol,Automatic,₹8.90 Lakh,kolkata
+Hyundai,Hyundai VenueSX Opt Turbo iMT BSVI,2022,"35,000kms",Petrol,Manual,₹6.21 Lakh,kolkata
+Kia,Kia SeltosGTX Plus Diesel AT,2020,"55,000kms",Diesel,Automatic,₹9.90 Lakh,kolkata
+Kia,Kia SeltosHTK Plus G,2022,"19,000kms",Petrol,Manual,₹8.50 Lakh,kolkata
+MG,MG Windsor EVEssence,2024,"26,000kms",Electric,Automatic,₹14.50 Lakh,kolkata
+Hyundai,Hyundai VenueSX Opt Turbo iMT BSVI,2022,"35,000kms",Petrol,Manual,₹6.21 Lakh,kolkata
+Kia,Kia SonetHTX Plus Diesel BSVI,2021,"29,000kms",Diesel,Manual,₹7.99 Lakh,kolkata
+Honda,Honda CivicVX,2019,"54,000kms",Petrol,Automatic,₹9.50 Lakh,kolkata
+Renault,Renault KigerRXZ Turbo CVT,2024,"16,524kms",Petrol,Automatic,₹7.85 Lakh,kolkata
+MG,MG Windsor EVEssence,2024,"26,000kms",Electric,Automatic,₹14.50 Lakh,kolkata
+Kia,Kia SyrosHTX Plus Opt Diesel AT,2025,"5,474kms",Diesel,Automatic,₹15.51 Lakh,kolkata
+Hyundai,Hyundai CretaSX Diesel,2022,"76,876kms",Diesel,Manual,₹12.39 Lakh,kolkata
+Hyundai,Hyundai CretaEX Diesel,2022,"32,395kms",Diesel,Manual,₹10.80 Lakh,kolkata
+Skoda,Skoda SuperbStyle 2.0 TDI AT,2017,"72,409kms",Diesel,Automatic,₹11.50 Lakh,kolkata
+Kia,Kia CarensPrestige Plus Diesel,2024,"30,000kms",Diesel,Manual,₹10.99 Lakh,kolkata
+Kia,Kia CarensPrestige,2023,"30,000kms",Petrol,Manual,₹11.75 Lakh,kolkata
+Maruti,Maruti BrezzaZxi Plus AT BSVI,2023,"28,500kms",Petrol,Automatic,₹10.90 Lakh,kolkata
+Audi,Audi Q330 TDI,2017,"53,000kms",Diesel,Manual,₹14 Lakh,kolkata
+Audi,Audi A635 TDI Technology,2015,"88,000kms",Diesel,Automatic,₹10.50 Lakh,kolkata
+Hyundai,Hyundai CretaSX IVT BSVI,2022,"23,000kms",Petrol,Automatic,₹11.90 Lakh,kolkata
+Audi,Audi Q52.0 TDI Premium Plus,2014,"34,000kms",Diesel,Automatic,₹10.75 Lakh,kolkata
+Audi,Audi Q52.0 TDI Premium Plus,2014,"34,238kms",Diesel,Automatic,₹10.90 Lakh,kolkata
+BMW,BMW X1sDrive18i xLine BSVI,2023,"19,800kms",Petrol,Automatic,₹36.95 Lakh,kolkata
+Renault,Renault KWIDClimber 1.0 AMT Opt,2022,"32,948kms",Petrol,Automatic,₹4.24 Lakh,kolkata
+Honda,Honda Cityi VTEC VX Option,2016,"45,125kms",Petrol,Manual,₹4.50 Lakh,kolkata
+Kia,Kia CarensPrestige,2023,"30,000kms",Petrol,Manual,₹11.75 Lakh,kolkata
+Maruti,Maruti BrezzaZxi Plus AT BSVI,2023,"28,500kms",Petrol,Automatic,₹10.90 Lakh,kolkata
+BMW,BMW X1sDrive18i xLine BSVI,2023,"19,800kms",Petrol,Automatic,₹36.95 Lakh,kolkata
+Renault,Renault KWIDClimber 1.0 AMT Opt,2022,"32,948kms",Petrol,Automatic,₹4.24 Lakh,kolkata
+Honda,Honda Cityi VTEC CVT VX,2016,"42,000kms",Petrol,Automatic,₹4.75 Lakh,kolkata
+Honda,Honda Cityi VTEC CVT VX,2015,"40,000kms",Petrol,Automatic,₹4.50 Lakh,kolkata
+Honda,Honda Cityi VTEC VX Option,2016,"45,125kms",Petrol,Manual,₹4.50 Lakh,kolkata
+Mahindra,2024Mahindra Scorpio NZ8L Diesel 4x4 AT  -2025,2023,"7,980kms",Diesel,Automatic,₹21.55 Lakh,kolkata
+Audi,Audi Q745 TDI Quattro Premium Plus,2015,"70,300kms",Diesel,Automatic,₹28 Lakh,kolkata
+Audi,Audi Q2Technology,2022,"44,000kms",Petrol,Automatic,₹23.50 Lakh,kolkata
+Tata,Tata NexonCreative Plus,2024,"4,015kms",Petrol,Manual,₹9 Lakh,kolkata
+Volkswagen,Volkswagen VentoPetrol Trendline,2010,"49,000kms",Petrol,Manual,₹1.50 Lakh,kolkata
+Datsun,Datsun GO PlusT BSIV,2015,"37,079kms",Petrol,Manual,₹2.45 Lakh,kolkata
+Hyundai,Hyundai Verna1.6 EX VTVT,2013,"54,000kms",Petrol,Manual,₹1.99 Lakh,kolkata
+Maruti,Maruti Alto 800VXI BSVI,2021,"10,000kms",Petrol,Manual,₹2.75 Lakh,kolkata
+Hyundai,Hyundai i10Era 1.1 iTech SE,2011,"40,147kms",Petrol,Manual,₹1.75 Lakh,kolkata
+Maruti,2014Maruti Alto K10 -2014 VXI,2010,"45,000kms",Petrol,Manual,₹1.75 Lakh,kolkata
+Maruti,Maruti Alto K10VXI,2011,"16,859kms",Petrol,Manual,"₹70,000",kolkata
+Ford,Ford Figo1.2 Trend Plus MT,2015,"23,000kms",Petrol,Manual,₹2 Lakh,kolkata
+Maruti,Maruti FRONXZeta Turbo AT,2023,"6,644kms",Petrol,Automatic,₹9.92 Lakh,kolkata
+Hyundai,Hyundai i10Era 1.1 iTech SE,2011,"40,147kms",Petrol,Manual,₹1.75 Lakh,kolkata
+Maruti,2014Maruti Alto K10 -2014 VXI,2010,"45,000kms",Petrol,Manual,₹1.75 Lakh,kolkata
+Maruti,Maruti Alto K10VXI,2011,"16,859kms",Petrol,Manual,"₹70,000",kolkata
+Ford,Ford Figo1.2 Trend Plus MT,2015,"23,000kms",Petrol,Manual,₹2 Lakh,kolkata
+Maruti,Maruti FRONXZeta Turbo AT,2023,"6,644kms",Petrol,Automatic,₹9.92 Lakh,kolkata
+Hyundai,Hyundai VenueSX Opt Turbo,2023,"27,058kms",Petrol,Manual,₹8.81 Lakh,kolkata
+Kia,Kia SeltosHTK Plus iMT,2022,"20,815kms",Petrol,Manual,₹8.70 Lakh,kolkata
+Hyundai,Hyundai ExterSX Opt,2024,"7,800kms",Petrol,Manual,₹6.99 Lakh,kolkata
+Tata,Tata Tiago EVXZ Plus LR,2023,"14,000kms",Electric,Automatic,₹7 Lakh,kolkata
+Tata,Tata Nexon EVXZ Plus Lux,2020,"72,000kms",Electric,Automatic,₹7.50 Lakh,kolkata
+Volkswagen,Volkswagen Taigun1.0 TSI Comfortline BSVI,2022,"30,043kms",Petrol,Manual,₹9.90 Lakh,kolkata
+Maruti,Maruti BrezzaZxi,2023,"18,859kms",Petrol,Manual,₹9.75 Lakh,kolkata
+Tata,Tata Nexon EVXZ Plus,2021,"48,000kms",Electric,Automatic,₹7.50 Lakh,kolkata
+Mahindra,Mahindra Scorpio1.99 S10,2016,"58,558kms",Diesel,Manual,₹8.75 Lakh,kolkata
+Maruti,Maruti BrezzaZxi,2024,"10,000kms",Petrol,Manual,₹9.25 Lakh,kolkata
+Mahindra,Mahindra Bolero NeoN10 R BSVI,2022,"29,000kms",Diesel,Manual,₹9.45 Lakh,kolkata
+Kia,Kia SonetHTX Turbo iMT,2024,"22,000kms",Petrol,Manual,₹8.75 Lakh,kolkata
+MG,MG Comet EVPlay,2023,"6,000kms",Electric,Automatic,₹7 Lakh,kolkata
+Tata,Tata NexonXZA Plus (O) AMT Diesel,2020,"73,072kms",Diesel,Automatic,₹9.51 Lakh,kolkata
+Kia,Kia SeltosHTX Plus AT D,2021,"83,987kms",Diesel,Automatic,₹9.95 Lakh,kolkata
+Tata,Tata NexonXZA Plus (O) AMT Diesel,2020,"73,072kms",Diesel,Automatic,₹9.51 Lakh,kolkata
+Kia,Kia SeltosHTX Plus AT D,2021,"83,987kms",Diesel,Automatic,₹9.95 Lakh,kolkata
+Kia,Kia SonetGTX Plus Diesel AT,2022,"52,000kms",Diesel,Automatic,₹9.12 Lakh,kolkata
+Kia,Kia SeltosHTK Plus iMT,2022,"20,815kms",Petrol,Manual,₹8.70 Lakh,kolkata
+Maruti,Maruti FRONXZeta Turbo AT,2023,"6,644kms",Petrol,Automatic,₹9.92 Lakh,kolkata
+Hyundai,Hyundai VenueSX Opt Turbo,2023,"27,058kms",Petrol,Manual,₹8.81 Lakh,kolkata
+Skoda,Skoda Kushaq1.0 TSI Monte Carlo,2022,"26,650kms",Petrol,Manual,₹10.07 Lakh,kolkata
+Volvo,Volvo S60 Cross CountryD4 AWD,2018,"66,452kms",Diesel,Automatic,₹17.31 Lakh,kolkata
+Mahindra,Mahindra XUV700AX7L 7Str Diesel AT,2024,"13,100kms",Diesel,Automatic,₹22.55 Lakh,kolkata
+Kia,Kia SeltosHTX IVT,2024,"28,000kms",Petrol,Automatic,₹13.99 Lakh,kolkata
+MG,MG ZS EVExclusive,2020,"30,000kms",Electric,Automatic,₹10.95 Lakh,kolkata
+Hyundai,Hyundai CretaSX IVT BSVI,2022,"23,000kms",Petrol,Automatic,₹11.95 Lakh,kolkata
+Kia,Kia SeltosGTX Plus Turbo DCT,2024,"3,400kms",Petrol,Automatic,₹14.34 Lakh,kolkata
+Mahindra,Mahindra ScorpioS 11 BSVI,2023,"23,000kms",Diesel,Manual,₹14.75 Lakh,kolkata
+Kia,Kia SeltosHTK Plus IVT,2024,"11,000kms",Petrol,Automatic,₹13.50 Lakh,kolkata
+MG,MG Hector2.0 Sharp Pro Diesel BSVI,2022,"36,679kms",Diesel,Manual,₹13.82 Lakh,kolkata
+Volkswagen,Volkswagen VirtusTopline AT,2023,"23,327kms",Petrol,Automatic,₹12.51 Lakh,kolkata
+Maruti,Maruti CiazZeta BSIV,2018,"39,000kms",Petrol,Manual,₹5.38 Lakh,kolkata
+Renault,Renault KigerRXT Opt,2022,"27,000kms",Petrol,Manual,₹5.50 Lakh,kolkata
+Renault,Renault TriberRXL,2023,"23,000kms",Petrol,Manual,₹4.99 Lakh,kolkata
+Maruti,Maruti SwiftVDI,2013,"52,000kms",Diesel,Manual,₹2.45 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 CRDi AT SX Plus,2017,"39,000kms",Diesel,Automatic,₹6.25 Lakh,kolkata
+Kia,Kia CarnivalPrestige,2020,"44,600kms",Diesel,Automatic,₹21 Lakh,kolkata
+Maruti,Maruti Alto K10VXI,2018,"50,000kms",Petrol,Manual,₹2.85 Lakh,kolkata
+Lamborghini ,Lamborghini UrusV8,2020,"19,500kms",Petrol,Automatic,₹3.15 Crore,kolkata
+Mitsubishi,Mitsubishi CediaSports,2014,"63,000kms",Petrol,Manual,₹2.99 Lakh,kolkata
+Ford,Ford FigoPetrol Titanium,2015,"61,342kms",Petrol,Manual,₹2.75 Lakh,kolkata
+Honda,Honda Jazz1.5 SV i DTEC,2015,"68,000kms",Diesel,Manual,₹2.75 Lakh,kolkata
+Tata,Tata NexonXZ Plus BSVI,2023,"72,000kms",Petrol,Manual,₹7 Lakh,kolkata
+Honda,Honda CityS,2013,"40,000kms",Petrol,Manual,₹2.50 Lakh,kolkata
+Volkswagen,Volkswagen CrossPolo1.5 TDI,2014,"48,000kms",Diesel,Manual,₹2.61 Lakh,kolkata
+Maruti,Maruti Wagon RVXI,2013,"62,591kms",Petrol,Manual,₹2.34 Lakh,kolkata
+Hyundai,Hyundai CretaSX BSVI,2021,"30,000kms",Petrol,Manual,₹8.69 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 SX,2020,"48,000kms",Petrol,Manual,₹9.50 Lakh,kolkata
+Hyundai,Hyundai CretaSX BSVI,2020,"48,000kms",Petrol,Manual,₹9.50 Lakh,kolkata
+Hyundai,Hyundai Creta1.6 SX Option,2019,"65,439kms",Petrol,Manual,₹7.50 Lakh,kolkata
+Maruti,Maruti Wagon RAMT VXI,2017,"57,000kms",Petrol,Automatic,₹2.71 Lakh,kolkata
+Honda,Honda Cityi-VTEC VX,2018,"60,449kms",Petrol,Manual,₹6.25 Lakh,kolkata
+Honda,Honda CityVX MT,2021,"58,500kms",Petrol,Manual,₹6.99 Lakh,kolkata
+Honda,Honda CityZX MT,2021,"25,742kms",Petrol,Manual,₹7.95 Lakh,kolkata

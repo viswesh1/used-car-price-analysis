@@ -1,0 +1,1301 @@
+car_brand,car_name,year,km_driven,fuel,transmission,price,city
+Mercedes-Benz,Mercedes-Benz S-ClassS 350 d,2021,"34,000kms",Diesel,Automatic,₹99 Lakh,jaipur
+Tata,Tata BoltRevotron XMS,2015,"65,000kms",Petrol,Manual,₹2.70 Lakh,jaipur
+Maruti,Maruti Wagon RVXI BS IV,2014,"80,000kms",Petrol,Manual,₹2.75 Lakh,jaipur
+Ford,Ford EcosportTitanium,2020,"32,263kms",Petrol,Manual,₹6.62 Lakh,jaipur
+Mahindra,Mahindra Scorpio NZ8 Select,2024,"15,000kms",Petrol,Manual,₹17.50 Lakh,jaipur
+Maruti,Maruti CiazAlpha Diesel,2019,"64,448kms",Diesel,Manual,₹6.88 Lakh,jaipur
+Ford,Ford EcosportTitanium,2020,"55,096kms",Petrol,Manual,₹7.07 Lakh,jaipur
+Kia,Kia SeltosHTK G,2021,"29,800kms",Petrol,Manual,₹7.65 Lakh,jaipur
+Land Rover,Land Rover Discovery SportDynamic SE,2024,"17,000kms",Petrol,Automatic,₹59 Lakh,jaipur
+Tata,Tata NexonXZ Plus (O) Diesel,2022,"37,852kms",Diesel,Manual,₹8.30 Lakh,jaipur
+Tata,Tata NexonXM BSVI,2022,"70,000kms",Petrol,Manual,₹8 Lakh,jaipur
+Kia,Kia SonetHTX Diesel BSVI,2020,"56,000kms",Diesel,Manual,₹8.50 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz CLA200 CDI Style,2017,"48,000kms",Diesel,Automatic,₹21 Lakh,jaipur
+Tata,Tata HarrierXZ BSIV,2019,"78,000kms",Diesel,Manual,₹9.11 Lakh,jaipur
+Ford,Ford Ecosport1.5 Diesel Titanium BSIV,2019,"77,000kms",Diesel,Manual,₹6.50 Lakh,jaipur
+Toyota,Toyota Corolla AltisD-4D G,2016,"48,192kms",Diesel,Manual,₹8.90 Lakh,jaipur
+BMW,BMW X1sDrive20i xLine,2020,"58,000kms",Petrol,Automatic,₹27 Lakh,jaipur
+Toyota,Toyota Etios Cross1.2L G,2018,"63,842kms",Petrol,Manual,₹4.72 Lakh,jaipur
+Tata,Tata Tiago1.2 Revotron XZA,2018,"90,000kms",Petrol,Automatic,₹3.75 Lakh,jaipur
+Maruti,Maruti CelerioZXI BSVI,2022,"40,923kms",Petrol,Manual,₹4.90 Lakh,jaipur
+Tata,Tata CurvvAccomplished S DCA,2025,"7,300kms",Petrol,Automatic,₹15.90 Lakh,jaipur
+Hyundai,Hyundai i201.2 Spotz,2018,"79,000kms",Petrol,Manual,₹5.25 Lakh,jaipur
+Maruti,Maruti CelerioVXI AT,2014,"42,000kms",Petrol,Automatic,₹3.25 Lakh,jaipur
+Honda,Honda AmazeVX CVT Diesel BSIV,2018,"71,000kms",Diesel,Automatic,₹5.51 Lakh,jaipur
+Maruti,Maruti Wagon RDuo Lxi,2011,"1,50,000kms",LPG,Manual,₹2.50 Lakh,jaipur
+Maruti,Maruti Swift DzireVDI,2017,"77,000kms",Diesel,Manual,₹6 Lakh,jaipur
+Maruti,Maruti Baleno1.2 Delta,2016,"83,000kms",Petrol,Manual,₹4.50 Lakh,jaipur
+Maruti,Maruti CelerioZXI BSVI,2022,"40,923kms",Petrol,Manual,₹4.90 Lakh,jaipur
+Honda,Honda ElevateV CVT Non RF,2024,"10,000kms",Petrol,Automatic,₹12.51 Lakh,jaipur
+Kia,Kia CarnivalPrestige 6 STR,2021,"95,954kms",Diesel,Automatic,₹22.75 Lakh,jaipur
+Hyundai,Hyundai AlcazarSignature 6Str DCT,2023,"37,666kms",Petrol,Automatic,₹17.05 Lakh,jaipur
+Kia,Kia CarensLuxury Plus Diesel AT 6 STR BSVI,2022,"69,500kms",Diesel,Automatic,₹15.50 Lakh,jaipur
+Datsun,Datsun GO PlusT BSIV,2016,"44,000kms",Petrol,Manual,₹2.25 Lakh,jaipur
+Ford,Ford Endeavour2.2 Trend MT 4X2,2016,"1,70,565kms",Diesel,Manual,₹16 Lakh,jaipur
+Volkswagen,Volkswagen Taigun1.0 Topline,2021,"59,721kms",Petrol,Manual,₹10.03 Lakh,jaipur
+Honda,Honda CityV MT,2022,"19,988kms",Petrol,Manual,₹7.74 Lakh,jaipur
+Mahindra,Mahindra TharLX 4WD Hard Top BSVI,2022,"30,000kms",Petrol,Manual,₹14 Lakh,jaipur
+Kia,Kia SonetHTX Diesel iMT,2023,"44,541kms",Diesel,Automatic,₹10.03 Lakh,jaipur
+Kia,Kia SonetGTX Plus Turbo iMT BSVI,2022,"25,382kms",Petrol,Manual,₹10.75 Lakh,jaipur
+Ford,Ford EcosportTitanium,2018,"94,641kms",Petrol,Manual,₹6.54 Lakh,jaipur
+Maruti,Maruti SwiftZXi,2024,"40,000kms",Petrol,Manual,₹7.80 Lakh,jaipur
+Hyundai,Hyundai i20Asta Opt,2023,"33,303kms",Petrol,Manual,₹6.75 Lakh,jaipur
+Toyota,Toyota Camry2.5 Hybrid,2023,"18,000kms",Petrol,Automatic,₹40 Lakh,jaipur
+Maruti,Maruti BalenoZeta CVT,2021,"95,659kms",Petrol,Automatic,₹5.50 Lakh,jaipur
+Toyota,Toyota Fortuner3.0 Diesel,2010,"1,60,000kms",Diesel,Manual,₹9 Lakh,jaipur
+Tata,Tata Nexon1.2 Revotron XM,2019,"1,11,783kms",Petrol,Manual,₹4.16 Lakh,jaipur
+Honda,Honda Amaze 2nd GenS BSVI,2022,"26,343kms",Petrol,Manual,₹5.40 Lakh,jaipur
+Honda,Honda WR-Vi-DTEC S,2021,"56,345kms",Diesel,Manual,₹8.14 Lakh,jaipur
+Maruti,Maruti SwiftVDI,2012,"70,000kms",Diesel,Manual,₹3 Lakh,jaipur
+Kia,Kia CarnivalLimousine,2020,"54,973kms",Diesel,Automatic,₹26.90 Lakh,jaipur
+Tata,Tata TiagoXZ  -2022,2020,"42,000kms",Petrol,Manual,₹4.35 Lakh,jaipur
+Honda,Honda CityZX CVT,2020,"91,515kms",Petrol,Automatic,₹8 Lakh,jaipur
+Honda,Honda CityZX MT,2019,"70,000kms",Petrol,Manual,₹6.22 Lakh,jaipur
+Honda,Honda Cityi-VTEC VX,2019,"42,966kms",Petrol,Manual,₹6.15 Lakh,jaipur
+Kia,Kia SonetHTX Turbo iMT BSVI,2021,"66,722kms",Petrol,Manual,₹6.25 Lakh,jaipur
+Tata,Tata PunchCreative DT,2021,"23,944kms",Petrol,Manual,₹6.35 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz AMG C 63Coupe,2021,"23,000kms",Petrol,Automatic,₹36 Lakh,jaipur
+Maruti,Maruti SwiftZXI AMT,2022,"30,585kms",Petrol,Automatic,₹6.88 Lakh,jaipur
+Skoda,Skoda Slavia1.0 TSI Style BSVI,2022,"51,064kms",Petrol,Manual,₹8.55 Lakh,jaipur
+Skoda,Skoda Slavia1.0 TSI Active BSVI,2022,"75,166kms",Petrol,Manual,₹7.25 Lakh,jaipur
+Toyota,Toyota Land Cruiser PradoVX L,2014,"1,60,000kms",Diesel,Automatic,₹62 Lakh,jaipur
+Honda,Honda Cityi-VTEC VX,2019,"42,966kms",Petrol,Manual,₹6.15 Lakh,jaipur
+Hyundai,Hyundai VernaCRDi 1.6 EX,2017,"81,000kms",Diesel,Manual,₹7 Lakh,jaipur
+Hyundai,Hyundai i20Magna BSVI,2021,"66,000kms",Petrol,Manual,₹6.25 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz EQS580 4Matic,2024,"9,000kms",Electric,Automatic,₹1 Crore,jaipur
+Maruti,Maruti Vitara BrezzaZXI,2021,"79,000kms",Petrol,Manual,₹7.85 Lakh,jaipur
+Hyundai,Hyundai Verna1.6 CRDi SX,2016,"84,000kms",Diesel,Manual,₹6.25 Lakh,jaipur
+Kia,Kia SeltosHTK Plus G,2020,"1,00,000kms",Petrol,Manual,₹9.25 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz GLA220d 4MATIC,2025,"1,500kms",Diesel,Automatic,₹53 Lakh,jaipur
+Mahindra,Mahindra XUV500W6 1.99 mHawk,2018,"85,000kms",Diesel,Manual,₹6.45 Lakh,jaipur
+Tata,Tata NexonXZ Plus (O) Diesel,2022,"82,000kms",Diesel,Manual,₹8.50 Lakh,jaipur
+Maruti,Maruti Swift DzireAMT ZDI Plus,2017,"69,800kms",Diesel,Automatic,₹6.25 Lakh,jaipur
+BMW,BMW X1sDrive20d xLine,2021,"54,000kms",Diesel,Automatic,₹31 Lakh,jaipur
+MG,2024MG HectorSharp Pro CVT  -2025,2023,"24,425kms",Petrol,Automatic,₹15.90 Lakh,jaipur
+Honda,Honda Cityi-DTEC SV,2019,"46,741kms",Diesel,Manual,₹5.57 Lakh,jaipur
+Ford,Ford Ecosport1.5 Diesel Titanium BSIV,2018,"1,42,097kms",Diesel,Manual,₹5.15 Lakh,jaipur
+Tata,Tata AltrozXZ LUX CNG,2024,"27,000kms",CNG,Manual,₹7.50 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz C-ClassProgressive C 200,2020,"48,000kms",Petrol,Automatic,₹31 Lakh,jaipur
+Audi,Audi Q745 TDI Quattro Premium Plus,2017,"73,000kms",Diesel,Automatic,₹35 Lakh,jaipur
+Jeep,Jeep MeridianLimited Opt AT BSVI,2022,"61,000kms",Diesel,Automatic,₹23.50 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz GLC300,2025,"16,000kms",Petrol,Automatic,₹69 Lakh,jaipur
+Honda,Honda City1.5 V MT Exclusive,2020,"56,997kms",Petrol,Manual,₹7.90 Lakh,jaipur
+Mahindra,Mahindra MarazzoM8,2018,"94,000kms",Diesel,Manual,₹6.45 Lakh,jaipur
+Honda,Honda Cityi VTEC VX,2017,"46,585kms",Petrol,Manual,₹5.40 Lakh,jaipur
+Audi,Audi Q540 TDI Technology,2019,"78,000kms",Diesel,Automatic,₹26 Lakh,jaipur
+Audi,Audi Q2Premium Plus II,2022,"30,000kms",Petrol,Automatic,₹27 Lakh,jaipur
+Honda,Honda Cityi-VTEC V,2019,"34,159kms",Petrol,Manual,₹5.55 Lakh,jaipur
+Hyundai,Hyundai i20Sportz Turbo iMT,2020,"66,458kms",Petrol,Manual,₹5.15 Lakh,jaipur
+Maruti,Maruti CiazZDi Plus SHVS,2016,"70,000kms",Diesel,Manual,₹5.25 Lakh,jaipur
+Maruti,Maruti CelerioZXI Plus,2021,"52,331kms",Petrol,Manual,₹3.75 Lakh,jaipur
+Honda,Honda AmazeV,2019,"60,310kms",Petrol,Manual,₹5.04 Lakh,jaipur
+Maruti,Maruti CelerioZXI Optional AMT BSIV,2017,"91,381kms",Petrol,Automatic,₹3.15 Lakh,jaipur
+Land Rover,Land Rover Range Rover SportSE,2019,"96,871kms",Diesel,Automatic,₹59 Lakh,jaipur
+Maruti,Maruti SwiftLXi,2013,"84,161kms",Petrol,Manual,₹3.23 Lakh,jaipur
+Hyundai,Hyundai Xcent1.2 VTVT E Plus,2017,"1,01,762kms",Petrol,Manual,₹3.30 Lakh,jaipur
+Hyundai,Hyundai AuraSX,2022,"45,032kms",Petrol,Manual,₹5.55 Lakh,jaipur
+Mahindra,Mahindra XUV400 EVEL Fast Charger DT,2023,"52,675kms",Electric,Automatic,₹13.50 Lakh,jaipur
+Maruti,Maruti Baleno1.2 CVT Zeta,2017,"96,493kms",Petrol,Automatic,₹3.95 Lakh,jaipur
+Honda,Honda AmazeV CVT Diesel BSIV,2018,"66,454kms",Diesel,Automatic,₹5.30 Lakh,jaipur
+Tata,Tata Nexon1.2 Revotron XM,2018,"96,091kms",Petrol,Manual,₹4 Lakh,jaipur
+Land Rover,Land Rover Range Rover Evoque2.0 TD4 SE,2018,"78,000kms",Diesel,Automatic,₹27 Lakh,jaipur
+Honda,Honda AmazeV CVT Diesel BSIV,2018,"66,454kms",Diesel,Automatic,₹5.30 Lakh,jaipur
+Tata,Tata Nexon1.2 Revotron XM,2018,"96,091kms",Petrol,Manual,₹4 Lakh,jaipur
+Tata,Tata Tigor1.2 Revotron XT,2018,"79,067kms",Petrol,Manual,₹3.16 Lakh,jaipur
+Toyota,Toyota Innova Crysta2.4 G MT 8S BSIV,2017,"2,62,000kms",Diesel,Manual,₹10 Lakh,jaipur
+Maruti,Maruti CiazDelta BSIV,2018,"41,000kms",Petrol,Manual,₹5.25 Lakh,jaipur
+Hyundai,Hyundai i20Asta 1.2,2016,"54,000kms",Petrol,Manual,₹4.90 Lakh,jaipur
+Maruti,Maruti Swift DzireVXI 1.2,2019,"56,000kms",Petrol,Manual,₹5.70 Lakh,jaipur
+Mahindra,Mahindra XUV400 EVEC,2024,"50,000kms",Electric,Automatic,₹10.90 Lakh,jaipur
+Maruti,Maruti Swift DzireVDI,2015,"71,000kms",Diesel,Manual,₹5.25 Lakh,jaipur
+Honda,Honda AmazeS Petrol,2020,"46,000kms",Petrol,Manual,₹5.49 Lakh,jaipur
+Hyundai,Hyundai i201.2 Asta,2018,"64,000kms",Petrol,Manual,₹5.25 Lakh,jaipur
+Mahindra,Mahindra XUV400 EVEL Fast Charger,2023,"50,000kms",Electric,Automatic,₹14 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz E-ClassE250 CDI Elegance,2010,"67,000kms",Diesel,Automatic,₹5.99 Lakh,jaipur
+Honda,Honda Brio1.2 S MT,2016,"55,000kms",Petrol,Manual,₹3.21 Lakh,jaipur
+Hyundai,Hyundai i201.2 Asta,2018,"47,000kms",Petrol,Manual,₹5.25 Lakh,jaipur
+Skoda,Skoda Rapid1.6 TDI Elegance Plus,2013,"88,000kms",Diesel,Manual,₹4.50 Lakh,jaipur
+Hyundai,Hyundai i20Petrol Spotz,2019,"56,000kms",Petrol,Manual,₹5.65 Lakh,jaipur
+Maruti,Maruti SwiftVDI BSIV,2017,"90,000kms",Diesel,Manual,₹5.50 Lakh,jaipur
+Skoda,Skoda Rapid1.5 TDI Ambition BSIV,2017,"1,70,000kms",Diesel,Manual,₹6 Lakh,jaipur
+Maruti,Maruti ErtigaVDI,2015,"95,000kms",Diesel,Manual,₹5.25 Lakh,jaipur
+Hyundai,Hyundai i201.2 Asta,2018,"64,000kms",Petrol,Manual,₹5.25 Lakh,jaipur
+Hyundai,Hyundai i20Petrol Spotz,2019,"56,000kms",Petrol,Manual,₹5.65 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz E-ClassE250 CDI Elegance,2010,"67,000kms",Diesel,Automatic,₹5.99 Lakh,jaipur
+Hyundai,Hyundai i20Sportz Plus BSIV,2019,"1,00,000kms",Petrol,Manual,₹5.25 Lakh,jaipur
+Honda,Honda Brio1.2 S MT,2016,"55,000kms",Petrol,Manual,₹3.21 Lakh,jaipur
+Hyundai,Hyundai i201.2 Asta,2018,"47,000kms",Petrol,Manual,₹5.25 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz GLC200,2021,"90,000kms",Petrol,Automatic,₹37 Lakh,jaipur
+Volkswagen,Volkswagen VentoPetrol Highline,2011,"80,000kms",Petrol,Manual,₹1.80 Lakh,jaipur
+Nissan,Nissan MagniteXV,2023,"17,993kms",Petrol,Manual,₹6.21 Lakh,jaipur
+Tata,Tata SafariAccomplished Plus Dark 6S AT,2023,"39,933kms",Diesel,Automatic,₹17.95 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaZDi Plus,2019,"58,000kms",Diesel,Manual,₹7.90 Lakh,jaipur
+Maruti,Maruti SwiftVDI,2011,"90,000kms",Diesel,Manual,₹1.60 Lakh,jaipur
+Hyundai,Hyundai i10Sportz 1.1L,2015,"63,000kms",Petrol,Manual,₹2.75 Lakh,jaipur
+Kia,Kia SeltosGTX Plus S Diesel AT,2023,"59,095kms",Diesel,Automatic,₹15.75 Lakh,jaipur
+Mahindra,Mahindra XUV700AX7 Diesel AT BSVI,2022,"1,06,000kms",Diesel,Automatic,₹18.50 Lakh,jaipur
+Maruti,Maruti Alto K10VXI Plus,2023,"4,932kms",Petrol,Manual,₹3.95 Lakh,jaipur
+Honda,Honda Cityi VTEC CVT VX,2016,"45,716kms",Petrol,Automatic,₹4.94 Lakh,jaipur
+Tata,Tata Tiago1.2 Revotron XZ,2017,"65,432kms",Petrol,Manual,₹3.36 Lakh,jaipur
+Honda,Honda Cityi-VTEC CVT VX,2018,"41,960kms",Petrol,Automatic,₹5.80 Lakh,jaipur
+Mahindra,Mahindra XUV500W8 2WD,2012,"1,36,000kms",Diesel,Manual,₹3.62 Lakh,jaipur
+Tata,Tata AltrozXZ Plus Dark Edition Diesel BSVI,2022,"73,000kms",Diesel,Manual,₹6.50 Lakh,jaipur
+Maruti,Maruti BalenoAlpha CVT,2019,"39,000kms",Petrol,Automatic,₹6.25 Lakh,jaipur
+Maruti,Maruti SwiftVXI,2015,"73,731kms",Petrol,Manual,₹3.45 Lakh,jaipur
+Hyundai,Hyundai CretaSX (O) Diesel AT,2025,"13,000kms",Diesel,Automatic,₹19 Lakh,jaipur
+Honda,Honda AmazeVX Petrol,2022,"34,195kms",Petrol,Manual,₹6.20 Lakh,jaipur
+Maruti,Maruti SwiftLXI BSIV,2014,"44,634kms",Petrol,Manual,₹3.69 Lakh,jaipur
+Honda,Honda CityV MT,2016,"49,030kms",Petrol,Manual,₹5.40 Lakh,jaipur
+Maruti,Maruti SwiftVXI Optional,2016,"50,000kms",Petrol,Manual,₹4 Lakh,jaipur
+Ford,Ford FreestyleTitanium Petrol BSIV,2018,"1,28,009kms",Petrol,Manual,₹3.10 Lakh,jaipur
+Nissan,Nissan KicksXV Premium Option D Dual Tone,2019,"98,840kms",Diesel,Manual,₹4.80 Lakh,jaipur
+Volkswagen,Volkswagen VirtusGT Plus DSG ES,2022,"23,012kms",Petrol,Automatic,₹15.28 Lakh,jaipur
+Maruti,Maruti Alto 800VXI,2023,"52,000kms",Petrol,Manual,₹3.80 Lakh,jaipur
+Tata,Tata Tiago1.2 Revotron XZ,2017,"65,432kms",Petrol,Manual,₹3.36 Lakh,jaipur
+Honda,Honda Cityi-VTEC CVT VX,2018,"41,960kms",Petrol,Automatic,₹5.80 Lakh,jaipur
+Maruti,Maruti Ciaz1.4 AT Zeta,2019,"74,181kms",Petrol,Automatic,₹6.73 Lakh,jaipur
+Honda,Honda Cityi VTEC CVT VX,2017,"68,322kms",Petrol,Automatic,₹5.35 Lakh,jaipur
+Maruti,Maruti Wagon R StingrayVXI,2017,"69,000kms",Petrol,Manual,₹3.25 Lakh,jaipur
+Maruti,Maruti IgnisZeta BSVI,2022,"64,000kms",Petrol,Manual,₹5.49 Lakh,jaipur
+Volkswagen,Volkswagen VirtusHighline BSVI,2023,"33,792kms",Petrol,Manual,₹9.95 Lakh,jaipur
+Volkswagen,Volkswagen VirtusHighline BSVI,2023,"33,792kms",Petrol,Manual,₹9.95 Lakh,jaipur
+Maruti,Maruti Wagon R StingrayVXI,2017,"69,000kms",Petrol,Manual,₹3.25 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaZXI,2020,"71,046kms",Petrol,Manual,₹6.10 Lakh,jaipur
+Tata,Tata Nexon1.2 Revotron XM,2019,"51,195kms",Petrol,Manual,₹5.81 Lakh,jaipur
+Volkswagen,Volkswagen Vento1.5 TDI Comfortline,2015,"92,000kms",Diesel,Manual,₹4.50 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz E-ClassExclusive E 200 BSIV,2018,"78,000kms",Petrol,Automatic,₹35 Lakh,jaipur
+Tata,Tata Tiago1.2 Revotron XZ,2018,"55,418kms",Petrol,Manual,₹4.08 Lakh,jaipur
+Maruti,Maruti BalenoDelta Diesel,2019,"44,410kms",Diesel,Manual,₹5.29 Lakh,jaipur
+Hyundai,Hyundai SantroSportz,2021,"28,560kms",Petrol,Manual,₹3.90 Lakh,jaipur
+Honda,Honda Cityi VTEC V,2017,"87,000kms",Petrol,Manual,₹5.75 Lakh,jaipur
+Hyundai,Hyundai VenueSX BSVI,2022,"36,578kms",Petrol,Manual,₹7.63 Lakh,jaipur
+Maruti,Maruti SwiftVXI AMT,2023,"19,862kms",Petrol,Automatic,₹6.10 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaVDi,2020,"42,566kms",Diesel,Manual,₹6.95 Lakh,jaipur
+Toyota,Toyota Innova Crysta2.4 ZX 7 STR AT,2021,"1,15,102kms",Diesel,Automatic,₹21.50 Lakh,jaipur
+Maruti,Maruti Alto K10VXI,2018,"61,893kms",Petrol,Manual,₹2.67 Lakh,jaipur
+Maruti,Maruti Swift DzireVDi,2011,"83,000kms",Diesel,Manual,₹2.80 Lakh,jaipur
+Toyota,Toyota EtiosG,2012,"65,000kms",Petrol,Manual,₹2.75 Lakh,jaipur
+Maruti,Maruti RitzVXi,2014,"50,000kms",Petrol,Manual,₹3 Lakh,jaipur
+Tata,Tata ZestRevotron 1.2 XT,2014,"72,000kms",Petrol,Manual,₹2.81 Lakh,jaipur
+Maruti,Maruti Alto K10VXI,2016,"55,650kms",Petrol,Manual,₹3.18 Lakh,jaipur
+Maruti,Maruti Swift DzireVDi,2011,"83,000kms",Diesel,Manual,₹2.80 Lakh,jaipur
+Toyota,Toyota EtiosG,2012,"65,000kms",Petrol,Manual,₹2.75 Lakh,jaipur
+Maruti,Maruti RitzVXi,2014,"50,000kms",Petrol,Manual,₹3 Lakh,jaipur
+Tata,Tata ZestRevotron 1.2 XT,2014,"72,000kms",Petrol,Manual,₹2.81 Lakh,jaipur
+Maruti,Maruti Alto K10VXI,2016,"55,650kms",Petrol,Manual,₹3.18 Lakh,jaipur
+Honda,Honda Amaze 2nd GenS BSVI,2021,"53,671kms",Petrol,Manual,₹4.85 Lakh,jaipur
+Renault,Renault KWIDRXT,2015,"82,097kms",Petrol,Manual,₹2.36 Lakh,jaipur
+Audi,Audi Q740 TFSI Quattro,2020,"27,723kms",Petrol,Automatic,₹19.09 Lakh,jaipur
+Toyota,Toyota Innova Crysta2.4 VX MT 8S BSIV,2018,"41,250kms",Diesel,Manual,₹16 Lakh,jaipur
+Maruti,Maruti Wagon RVXI,2019,"57,000kms",Petrol,Manual,₹4.15 Lakh,jaipur
+Honda,Honda BrioS MT,2014,"74,491kms",Petrol,Manual,₹2.91 Lakh,jaipur
+Maruti,Maruti CelerioZXI,2017,"86,668kms",Petrol,Manual,₹3 Lakh,jaipur
+Jeep,Jeep Compass2.0 Limited,2018,"90,000kms",Diesel,Manual,₹7.90 Lakh,jaipur
+Mahindra,Mahindra Alturas G44X4 AT BSIV,2018,"83,585kms",Diesel,Automatic,₹18.85 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaLXI,2022,"56,114kms",Petrol,Manual,₹6.20 Lakh,jaipur
+Mahindra,Mahindra BoleroB6 BSVI,2020,"80,000kms",Diesel,Manual,₹7.65 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaLDi,2018,"88,000kms",Diesel,Manual,₹6.50 Lakh,jaipur
+Skoda,Skoda Kushaq1.0 TSI Active BSVI,2022,"38,436kms",Petrol,Manual,₹8.75 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaVDi,2018,"58,000kms",Diesel,Manual,₹7.50 Lakh,jaipur
+Hyundai,Hyundai Creta1.6 E Plus,2018,"1,42,000kms",Petrol,Manual,₹7.99 Lakh,jaipur
+Mahindra,Mahindra BoleroB6 BSVI,2020,"80,000kms",Diesel,Manual,₹7.65 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaLDi,2018,"88,000kms",Diesel,Manual,₹6.50 Lakh,jaipur
+Skoda,Skoda Kushaq1.0 TSI Active BSVI,2022,"38,436kms",Petrol,Manual,₹8.75 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaVDi,2018,"58,000kms",Diesel,Manual,₹7.50 Lakh,jaipur
+Hyundai,Hyundai Creta1.6 E Plus,2018,"1,42,000kms",Petrol,Manual,₹7.99 Lakh,jaipur
+Kia,Kia SeltosHTK G,2021,"90,000kms",Petrol,Manual,₹8.50 Lakh,jaipur
+Hyundai,Hyundai VenueS BSIV,2020,"24,000kms",Petrol,Manual,₹6.75 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaZDi,2018,"64,000kms",Diesel,Manual,₹7.50 Lakh,jaipur
+Jeep,Jeep Compass2.0 Night Eagle,2024,"17,000kms",Diesel,Manual,₹23.50 Lakh,jaipur
+Tata,Tata NexonXZ Plus P Diesel,2022,"59,306kms",Diesel,Manual,₹7.79 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaZDi,2017,"78,000kms",Diesel,Manual,₹6.25 Lakh,jaipur
+Kia,Kia SeltosHTX Plus Diesel,2021,"81,033kms",Diesel,Manual,₹12.50 Lakh,jaipur
+Skoda,Skoda Slavia1.0 TSI Ambition AT BSVI,2022,"52,763kms",Petrol,Automatic,₹9.20 Lakh,jaipur
+Renault,Renault DusterRXZ AWD,2015,"1,86,018kms",Diesel,Manual,₹2.75 Lakh,jaipur
+Honda,Honda BrioS MT,2015,"61,000kms",Petrol,Manual,₹3 Lakh,jaipur
+Maruti,Maruti XL6Alpha Plus AT,2022,"56,171kms",Petrol,Automatic,₹12.02 Lakh,jaipur
+Mahindra,Mahindra XUV400 EVEL Fast Charger DT,2023,"48,000kms",Electric,Automatic,₹11.25 Lakh,jaipur
+MG,MG HectorSmart DCT,2019,"45,000kms",Petrol,Automatic,₹10.75 Lakh,jaipur
+Kia,Kia SeltosHTX Diesel,2021,"82,000kms",Diesel,Manual,₹12.50 Lakh,jaipur
+Tata,Tata HarrierXZA Plus AT BSVI,2020,"1,36,000kms",Diesel,Automatic,₹12.25 Lakh,jaipur
+Maruti,Maruti XL6Alpha Plus AT,2022,"56,171kms",Petrol,Automatic,₹12.02 Lakh,jaipur
+Kia,Kia SeltosHTX Diesel,2021,"82,000kms",Diesel,Manual,₹12.50 Lakh,jaipur
+Tata,Tata HarrierXZA Plus AT BSVI,2020,"1,36,000kms",Diesel,Automatic,₹12.25 Lakh,jaipur
+MG,MG HectorSmart DCT,2019,"45,000kms",Petrol,Automatic,₹10.75 Lakh,jaipur
+Mahindra,Mahindra XUV400 EVEL Fast Charger DT,2023,"48,000kms",Electric,Automatic,₹11.25 Lakh,jaipur
+Hyundai,Hyundai Grand i10Asta,2016,"76,742kms",Petrol,Manual,₹3.75 Lakh,jaipur
+Honda,Honda Cityi VTEC VX,2017,"72,000kms",Petrol,Manual,₹5.25 Lakh,jaipur
+Hyundai,Hyundai Xcent1.2 VTVT S,2014,"66,340kms",Petrol,Manual,₹3.61 Lakh,jaipur
+Hyundai,Hyundai i20Asta 1.2,2017,"61,636kms",Petrol,Manual,₹4.45 Lakh,jaipur
+Maruti,Maruti ErtigaZDI,2015,"51,540kms",Diesel,Manual,₹5.92 Lakh,jaipur
+Hyundai,Hyundai i20Magna Plus BSIV,2019,"83,244kms",Petrol,Manual,₹4.10 Lakh,jaipur
+Skoda,Skoda Rapid1.5 TDI Ambition BSIV,2018,"92,251kms",Diesel,Manual,₹5.10 Lakh,jaipur
+Hyundai,Hyundai i201.2 Asta Option,2017,"93,604kms",Petrol,Manual,₹4.10 Lakh,jaipur
+Toyota,Toyota GlanzaV,2019,"53,194kms",Petrol,Manual,₹4.75 Lakh,jaipur
+Tata,Tata Tiago1.2 Revotron XZ,2018,"29,088kms",Petrol,Manual,₹4.22 Lakh,jaipur
+Maruti,Maruti SwiftLDI BSIV,2014,"77,000kms",Diesel,Manual,₹3.50 Lakh,jaipur
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2018,"40,000kms",Petrol,Manual,₹4.11 Lakh,jaipur
+Hyundai,Hyundai i20Magna 1.4 CRDi,2015,"73,000kms",Diesel,Manual,₹4.20 Lakh,jaipur
+Hyundai,Hyundai Grand i10Sportz,2016,"64,000kms",Petrol,Manual,₹3.75 Lakh,jaipur
+Volkswagen,Volkswagen Polo1.0 MPI Comfortline,2018,"71,000kms",Petrol,Manual,₹4.35 Lakh,jaipur
+Maruti,Maruti SwiftLDI BSIV,2014,"77,000kms",Diesel,Manual,₹3.50 Lakh,jaipur
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2018,"40,000kms",Petrol,Manual,₹4.11 Lakh,jaipur
+Volkswagen,Volkswagen Polo1.0 MPI Comfortline,2018,"71,000kms",Petrol,Manual,₹4.35 Lakh,jaipur
+Hyundai,Hyundai i20Magna 1.4 CRDi,2015,"73,000kms",Diesel,Manual,₹4.20 Lakh,jaipur
+Hyundai,Hyundai Grand i10Sportz,2016,"64,000kms",Petrol,Manual,₹3.75 Lakh,jaipur
+Honda,Honda WR-Vi-VTEC VX,2018,"69,000kms",Petrol,Manual,₹4.75 Lakh,jaipur
+Maruti,Maruti ErtigaVXI,2013,"65,000kms",Petrol,Manual,₹4.21 Lakh,jaipur
+Maruti,Maruti SwiftVXI,2019,"80,000kms",Petrol,Manual,₹5 Lakh,jaipur
+Maruti,Maruti Wagon RVXI,2022,"24,000kms",Petrol,Manual,₹4.95 Lakh,jaipur
+Maruti,Maruti IgnisZeta BSVI,2021,"48,171kms",Petrol,Manual,₹4.23 Lakh,jaipur
+Renault,Renault KWIDRXT Optional,2022,"26,415kms",Petrol,Manual,₹3.57 Lakh,jaipur
+Maruti,Maruti CiazVDi Plus,2014,"67,000kms",Diesel,Manual,₹4.50 Lakh,jaipur
+Maruti,Maruti Alto 800LXi,2015,"22,364kms",Petrol,Manual,₹2.68 Lakh,jaipur
+Jaguar,Jaguar XF2.2 Litre Executive,2015,"56,000kms",Diesel,Automatic,₹17 Lakh,jaipur
+Hyundai,Hyundai Grand i10Sportz,2014,"76,500kms",Petrol,Manual,₹2.80 Lakh,jaipur
+Hyundai,Hyundai Grand i10CRDi Asta,2013,"75,000kms",Diesel,Manual,₹2.90 Lakh,jaipur
+Mini Cooper,2014Mini Cooper Countryman  -2015D,2013,"78,000kms",Diesel,Automatic,₹16 Lakh,jaipur
+Maruti,Maruti Swift DzireVXI 1.2,2020,"1,27,250kms",Petrol,Manual,₹4.85 Lakh,jaipur
+Toyota,Toyota GlanzaG,2021,"25,656kms",Petrol,Manual,₹6.33 Lakh,jaipur
+Maruti,Maruti Alto 800VXI,2017,"51,980kms",Petrol,Manual,₹2.85 Lakh,jaipur
+Hyundai,Hyundai Grand i10CRDi Asta,2013,"75,000kms",Diesel,Manual,₹2.90 Lakh,jaipur
+Mini Cooper,2014Mini Cooper Countryman  -2015D,2013,"78,000kms",Diesel,Automatic,₹16 Lakh,jaipur
+Maruti,Maruti Swift DzireVXI 1.2,2020,"1,27,250kms",Petrol,Manual,₹4.85 Lakh,jaipur
+Toyota,Toyota GlanzaG,2021,"25,656kms",Petrol,Manual,₹6.33 Lakh,jaipur
+Maruti,Maruti Alto 800VXI,2017,"51,980kms",Petrol,Manual,₹2.85 Lakh,jaipur
+Maruti,Maruti Alto 800VXI,2017,"57,152kms",Petrol,Manual,₹2.71 Lakh,jaipur
+Maruti,Maruti Alto 800LXI,2016,"36,000kms",Petrol,Manual,₹2.70 Lakh,jaipur
+Honda,Honda Amaze 2nd GenS,2018,"68,103kms",Petrol,Manual,₹4.68 Lakh,jaipur
+Hyundai,Hyundai Creta1.4 CRDi S,2017,"70,000kms",Diesel,Manual,₹7.50 Lakh,jaipur
+Ford,Ford FigoTitanium AT 2019-2020,2018,"25,995kms",Petrol,Automatic,₹4.03 Lakh,jaipur
+MG,MG HectorSharp Diesel MT BSIV,2019,"56,612kms",Diesel,Manual,₹10 Lakh,jaipur
+Mahindra,Mahindra MarazzoM2 BSIV,2019,"69,853kms",Diesel,Manual,₹6.10 Lakh,jaipur
+Kia,Kia SeltosHTK Plus D,2019,"90,000kms",Diesel,Manual,₹8.90 Lakh,jaipur
+Volkswagen,Volkswagen Polo1.2 MPI Highline,2016,"89,000kms",Petrol,Manual,₹6.75 Lakh,jaipur
+Hyundai,Hyundai VernaS  -2025,2023,"24,896kms",Petrol,Manual,₹10.05 Lakh,jaipur
+Jeep,Jeep Compass2.0 Limited 4X4,2018,"69,000kms",Diesel,Manual,₹10.99 Lakh,jaipur
+Mahindra,Mahindra TharLX Hard Top,2023,"59,000kms",Petrol,Manual,₹12 Lakh,jaipur
+Toyota,Toyota HyryderS,2024,"16,000kms",Petrol,Manual,₹11.50 Lakh,jaipur
+Kia,Kia SeltosHTK Diesel,2023,"64,554kms",Diesel,Manual,₹11.50 Lakh,jaipur
+Hyundai,Hyundai Grand i10 NiosSportz,2021,"31,000kms",Petrol,Manual,₹4.75 Lakh,jaipur
+Toyota,Toyota HyryderS,2024,"16,000kms",Petrol,Manual,₹11.50 Lakh,jaipur
+Kia,Kia SeltosHTK Diesel,2023,"64,554kms",Diesel,Manual,₹11.50 Lakh,jaipur
+Jeep,Jeep Compass2.0 Limited 4X4,2018,"69,000kms",Diesel,Manual,₹10.99 Lakh,jaipur
+Mahindra,Mahindra TharLX Hard Top,2023,"59,000kms",Petrol,Manual,₹12 Lakh,jaipur
+Hyundai,Hyundai Grand i10 NiosSportz,2021,"31,000kms",Petrol,Manual,₹4.75 Lakh,jaipur
+Maruti,Maruti Alto 800LXi,2014,"22,583kms",Petrol,Manual,₹2.64 Lakh,jaipur
+Tata,Tata CurvvAccomplished Plus A Diesel,2024,"3,604kms",Diesel,Manual,₹15.75 Lakh,jaipur
+Hyundai,Hyundai i20 Active1.2 S,2015,"1,01,144kms",Petrol,Manual,₹3.34 Lakh,jaipur
+Honda,Honda Cityi-VTEC V,2018,"69,866kms",Petrol,Manual,₹5.82 Lakh,jaipur
+Skoda,Skoda Rapid1.5 TDI Ambition,2015,"85,000kms",Diesel,Manual,₹3.75 Lakh,jaipur
+Hyundai,Hyundai VenueSX Opt Diesel,2022,"86,537kms",Diesel,Manual,₹8.97 Lakh,jaipur
+Volkswagen,Volkswagen Vento1.5 TDI Highline AT,2016,"1,15,000kms",Diesel,Automatic,₹5.50 Lakh,jaipur
+Audi,Audi Q335 TDI Quattro Premium Plus,2018,"95,000kms",Diesel,Automatic,₹18 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaZXI Plus Dual Tone,2016,"1,08,695kms",Petrol,Manual,₹6.79 Lakh,jaipur
+Hyundai,Hyundai Grand i10Magna Petrol BSIV,2020,"13,254kms",Petrol,Manual,₹4.10 Lakh,jaipur
+Maruti,Maruti Alto 800VXI BSVI,2020,"51,000kms",Petrol,Manual,₹3.35 Lakh,jaipur
+Maruti,Maruti Alto 800VXI BSVI,2020,"51,000kms",Petrol,Manual,₹3.35 Lakh,jaipur
+Hyundai,Hyundai AlcazarSignature (O) AE 7Str Diesel AT,2022,"36,751kms",Diesel,Automatic,₹16.18 Lakh,jaipur
+Honda,Honda CitySV,2017,"79,988kms",Petrol,Manual,₹5.19 Lakh,jaipur
+Jaguar,Jaguar XEPortfolio,2016,"36,177kms",Petrol,Automatic,₹15.38 Lakh,jaipur
+Maruti,Maruti Alto 800VXI BSVI,2020,"51,000kms",Petrol,Manual,₹3.35 Lakh,jaipur
+Maruti,Maruti Alto 800VXI BSVI,2020,"51,000kms",Petrol,Manual,₹3.35 Lakh,jaipur
+Hyundai,Hyundai AlcazarSignature (O) AE 7Str Diesel AT,2022,"36,751kms",Diesel,Automatic,₹16.18 Lakh,jaipur
+Honda,Honda CitySV,2017,"79,988kms",Petrol,Manual,₹5.19 Lakh,jaipur
+Jaguar,Jaguar XEPortfolio,2016,"36,177kms",Petrol,Automatic,₹15.38 Lakh,jaipur
+Renault,Renault TriberRXZ BSVI,2022,"72,311kms",Petrol,Manual,₹4.25 Lakh,jaipur
+Mahindra,Mahindra TharLX Hard Top Diesel,2023,"54,000kms",Diesel,Manual,₹14.25 Lakh,jaipur
+Toyota,Toyota Fortuner4x4 MT,2012,"1,70,000kms",Diesel,Manual,₹10.50 Lakh,jaipur
+Maruti,Maruti Wagon RDuo Lxi,2012,"56,000kms",LPG,Manual,₹1.95 Lakh,jaipur
+Honda,Honda BR-Vi-VTEC VX MT,2018,"69,000kms",Petrol,Manual,₹4.75 Lakh,jaipur
+Maruti,Maruti Ignis1.2 AMT Zeta BSIV,2019,"84,136kms",Petrol,Automatic,₹4.10 Lakh,jaipur
+Hyundai,Hyundai VenueSX Plus Turbo DCT BSIV,2019,"78,033kms",Petrol,Automatic,₹6.10 Lakh,jaipur
+Mahindra,Mahindra Bolero NeoN10 Option BSVI,2022,"42,523kms",Diesel,Manual,₹8.62 Lakh,jaipur
+Maruti,2021Maruti S-PressoVXI  -2022,2019,"76,607kms",Petrol,Manual,₹3.13 Lakh,jaipur
+Mahindra,Mahindra TharLX 4WD Hard Top Diesel BSVI,2023,"60,000kms",Diesel,Manual,₹13.40 Lakh,jaipur
+Hyundai,Hyundai i20Asta 1.2,2017,"91,027kms",Petrol,Manual,₹4.10 Lakh,jaipur
+Toyota,Toyota Fortuner4x2 Manual,2013,"2,00,600kms",Diesel,Manual,₹10.80 Lakh,jaipur
+Audi,Audi A335 TDI Premium,2016,"73,000kms",Diesel,Automatic,₹11 Lakh,jaipur
+Hyundai,Hyundai VernaCRDi 1.6 SX Option,2018,"68,211kms",Diesel,Manual,₹7.74 Lakh,jaipur
+Honda,Honda City1.5 S MT,2010,"78,000kms",Petrol,Manual,₹1.75 Lakh,jaipur
+Hyundai,Hyundai i20Asta 1.2,2017,"91,027kms",Petrol,Manual,₹4.10 Lakh,jaipur
+Toyota,Toyota Fortuner4x2 Manual,2013,"2,00,600kms",Diesel,Manual,₹10.80 Lakh,jaipur
+Audi,Audi A335 TDI Premium,2016,"73,000kms",Diesel,Automatic,₹11 Lakh,jaipur
+Hyundai,Hyundai VernaCRDi 1.6 SX Option,2018,"68,211kms",Diesel,Manual,₹7.74 Lakh,jaipur
+Honda,Honda City1.5 S MT,2010,"78,000kms",Petrol,Manual,₹1.75 Lakh,jaipur
+Maruti,Maruti Wagon RVXI BS IV,2018,"97,429kms",Petrol,Manual,₹3.13 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaZXI AT,2022,"52,419kms",Petrol,Automatic,₹9.42 Lakh,jaipur
+MG,MG HectorSharp DCT,2019,"50,494kms",Petrol,Automatic,₹8.61 Lakh,jaipur
+Hyundai,Hyundai Creta1.6 CRDi AT SX Plus,2017,"92,000kms",Diesel,Automatic,₹7.20 Lakh,jaipur
+Hyundai,Hyundai Creta1.6 CRDi AT SX Plus,2016,"50,000kms",Diesel,Automatic,₹8.25 Lakh,jaipur
+Hyundai,Hyundai i20Sportz 1.2,2013,"91,706kms",Petrol,Manual,₹2.79 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz E-ClassE250 CDI Avantgarde,2015,"54,000kms",Diesel,Automatic,₹14 Lakh,jaipur
+Maruti,Maruti Swift DzireVDI,2018,"75,000kms",Diesel,Manual,₹5.95 Lakh,jaipur
+MG,MG HectorSharp DCT,2019,"52,000kms",Petrol,Automatic,₹11 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz GLA Class200 CDI SPORT,2014,"56,121kms",Diesel,Automatic,₹9.90 Lakh,jaipur
+Jeep,Jeep Compass1.4 Model S Opt AT,2021,"24,409kms",Petrol,Automatic,₹18.86 Lakh,jaipur
+Hyundai,Hyundai i10Era,2012,"67,000kms",Petrol,Manual,₹1.95 Lakh,jaipur
+Maruti,Maruti Grand VitaraAlpha BSVI,2022,"31,022kms",Petrol,Manual,₹12.80 Lakh,jaipur
+Maruti,Maruti XL6Alpha Plus,2022,"26,415kms",Petrol,Manual,₹11.05 Lakh,jaipur
+Tata,Tata CurvvCreative Diesel,2024,"6,454kms",Diesel,Manual,₹11.89 Lakh,jaipur
+Jeep,Jeep Compass1.4 Model S Opt AT,2021,"24,409kms",Petrol,Automatic,₹18.86 Lakh,jaipur
+Hyundai,Hyundai i10Era,2012,"67,000kms",Petrol,Manual,₹1.95 Lakh,jaipur
+Maruti,Maruti Grand VitaraAlpha BSVI,2022,"31,022kms",Petrol,Manual,₹12.80 Lakh,jaipur
+Maruti,Maruti XL6Alpha Plus,2022,"26,415kms",Petrol,Manual,₹11.05 Lakh,jaipur
+Tata,Tata CurvvCreative Diesel,2024,"6,454kms",Diesel,Manual,₹11.89 Lakh,jaipur
+Maruti,Maruti XL6Alpha Plus,2022,"27,642kms",Petrol,Manual,₹10.68 Lakh,jaipur
+Kia,Kia SonetGTX Plus Diesel AT BSVI,2020,"31,000kms",Diesel,Automatic,₹11.50 Lakh,jaipur
+Hyundai,Hyundai i20 N-LineN8 DCT,2024,"10,754kms",Petrol,Automatic,₹10.75 Lakh,jaipur
+Tata,Tata SafariXZA AT BSVI,2021,"82,000kms",Diesel,Automatic,₹12.99 Lakh,jaipur
+Volkswagen,Volkswagen Taigun1.0 TSI Highline AT BSVI,2022,"30,379kms",Petrol,Automatic,₹10.90 Lakh,jaipur
+Kia,Kia SeltosHTX IVT G,2022,"39,000kms",Petrol,Automatic,₹13.95 Lakh,jaipur
+Maruti,Maruti CiazDelta BSVI,2022,"69,755kms",Petrol,Manual,₹6.40 Lakh,jaipur
+Hyundai,Hyundai i10Era 1.1,2008,"82,391kms",Petrol,Manual,₹1.60 Lakh,jaipur
+Mahindra,Mahindra TharLX Hard Top Diesel,2023,"43,877kms",Diesel,Manual,₹13.29 Lakh,jaipur
+Jeep,Jeep MeridianLimited Opt AT BSVI,2022,"93,000kms",Diesel,Automatic,₹25 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz C-Class220,2016,"25,380kms",Diesel,Manual,₹23.50 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz C-ClassPrime C 220d,2019,"76,547kms",Diesel,Automatic,₹27.90 Lakh,jaipur
+Maruti,Maruti Wagon RVXI,2012,"48,861kms",Petrol,Manual,₹2.73 Lakh,jaipur
+Hyundai,Hyundai EONMagna Plus,2015,"68,938kms",Petrol,Manual,₹2.05 Lakh,jaipur
+Volkswagen,Volkswagen Ameo1.2 MPI Comfortline,2016,"79,717kms",Petrol,Manual,₹2.93 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz C-Class220,2016,"25,380kms",Diesel,Manual,₹23.50 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz C-ClassPrime C 220d,2019,"76,547kms",Diesel,Automatic,₹27.90 Lakh,jaipur
+Maruti,Maruti Wagon RVXI,2012,"48,861kms",Petrol,Manual,₹2.73 Lakh,jaipur
+Hyundai,Hyundai EONMagna Plus,2015,"68,938kms",Petrol,Manual,₹2.05 Lakh,jaipur
+Volkswagen,Volkswagen Ameo1.2 MPI Comfortline,2016,"79,717kms",Petrol,Manual,₹2.93 Lakh,jaipur
+Hyundai,Hyundai i10Magna 1.2,2012,"77,978kms",Petrol,Manual,₹2.59 Lakh,jaipur
+Maruti,Maruti Wagon RVXI BS IV,2014,"71,000kms",Petrol,Manual,₹2.55 Lakh,jaipur
+Maruti,2013Maruti Alto K10 -2014 VXI,2010,"2,15,000kms",Petrol,Manual,₹2.15 Lakh,jaipur
+Hyundai,Hyundai EONEra Plus,2015,"72,000kms",Petrol,Manual,₹2.25 Lakh,jaipur
+Maruti,Maruti RitzVDi,2012,"71,000kms",Diesel,Manual,₹2.60 Lakh,jaipur
+Volkswagen,Volkswagen VentoDiesel Comfortline,2013,"87,000kms",Diesel,Manual,₹2.55 Lakh,jaipur
+Ford,Ford Ecosport1.5 DV5 MT Titanium,2014,"68,000kms",Diesel,Manual,₹2.49 Lakh,jaipur
+Hyundai,Hyundai VenueSX Opt Turbo iMT BSVI,2020,"54,326kms",Petrol,Manual,₹6.92 Lakh,jaipur
+Kia,Kia SeltosHTX,2023,"26,171kms",Petrol,Manual,₹7.93 Lakh,jaipur
+Honda,Honda WR-Vi-VTEC VX,2021,"25,960kms",Petrol,Manual,₹8.08 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaZXI Plus Dual Tone,2022,"40,808kms",Petrol,Manual,₹9.90 Lakh,jaipur
+Renault,Renault KigerRXZ Turbo CVT,2023,"35,231kms",Petrol,Automatic,₹6.61 Lakh,jaipur
+Skoda,Skoda Rapid1.0 TSI Onyx,2020,"35,291kms",Petrol,Manual,₹7.61 Lakh,jaipur
+Hyundai,Hyundai VernaSX Opt Diesel,2021,"48,585kms",Diesel,Manual,₹9.52 Lakh,jaipur
+Renault,Renault DusterPetrol RXS CVT,2017,"73,246kms",Petrol,Automatic,₹6.12 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaZXI Plus Dual Tone,2022,"40,808kms",Petrol,Manual,₹9.90 Lakh,jaipur
+Renault,Renault KigerRXZ Turbo CVT,2023,"35,231kms",Petrol,Automatic,₹6.61 Lakh,jaipur
+Skoda,Skoda Rapid1.0 TSI Onyx,2020,"35,291kms",Petrol,Manual,₹7.61 Lakh,jaipur
+Hyundai,Hyundai VernaSX Opt Diesel,2021,"48,585kms",Diesel,Manual,₹9.52 Lakh,jaipur
+Renault,Renault DusterPetrol RXS CVT,2017,"73,246kms",Petrol,Automatic,₹6.12 Lakh,jaipur
+Hyundai,Hyundai VenueS  -2025,2023,"12,949kms",Petrol,Manual,₹7.50 Lakh,jaipur
+Hyundai,Hyundai Creta1.4 E Plus,2019,"89,000kms",Diesel,Manual,₹8 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaVDi,2018,"80,735kms",Diesel,Manual,₹6.75 Lakh,jaipur
+Maruti,Maruti Grand VitaraSigma BSVI,2022,"24,000kms",Petrol,Manual,₹9.99 Lakh,jaipur
+Hyundai,Hyundai VenueSX Turbo,2021,"81,000kms",Petrol,Manual,₹7.60 Lakh,jaipur
+Maruti,Maruti SwiftVXI BSVI,2022,"25,000kms",Petrol,Manual,₹6.15 Lakh,jaipur
+Hyundai,Hyundai VernaCRDi 1.6 SX Option,2018,"96,000kms",Diesel,Manual,₹7.95 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaZDi,2018,"88,000kms",Diesel,Manual,₹7 Lakh,jaipur
+Maruti,Maruti Swift DzireZXI AT BSVI,2021,"70,120kms",Petrol,Automatic,₹6.45 Lakh,jaipur
+Hyundai,Hyundai Creta1.6 SX,2018,"74,358kms",Petrol,Manual,₹7.21 Lakh,jaipur
+Honda,Honda WR-VVX,2022,"25,380kms",Petrol,Manual,₹8.70 Lakh,jaipur
+Hyundai,Hyundai CretaE Diesel BSVI,2021,"65,000kms",Diesel,Manual,₹9.80 Lakh,jaipur
+Hyundai,Hyundai i20Sportz 1.2,2017,"94,796kms",Petrol,Manual,₹4.49 Lakh,jaipur
+Honda,Honda CitySV MT,2016,"1,09,298kms",Petrol,Manual,₹4.52 Lakh,jaipur
+Honda,Honda CityVX MT,2015,"92,757kms",Petrol,Manual,₹5.65 Lakh,jaipur
+Hyundai,Hyundai Creta1.4 E Plus,2019,"89,000kms",Diesel,Manual,₹8 Lakh,jaipur
+Hyundai,Hyundai CretaE Diesel BSVI,2021,"65,000kms",Diesel,Manual,₹9.80 Lakh,jaipur
+Hyundai,Hyundai i20Sportz 1.2,2017,"94,796kms",Petrol,Manual,₹4.49 Lakh,jaipur
+Honda,Honda CitySV MT,2016,"1,09,298kms",Petrol,Manual,₹4.52 Lakh,jaipur
+Honda,Honda CityVX MT,2015,"92,757kms",Petrol,Manual,₹5.65 Lakh,jaipur
+Honda,Honda JazzV,2016,"1,08,206kms",Petrol,Manual,₹4.22 Lakh,jaipur
+Tata,Tata AltrozXZ,2020,"44,094kms",Petrol,Manual,₹5.40 Lakh,jaipur
+Hyundai,Hyundai i20Magna Plus,2020,"40,326kms",Petrol,Manual,₹5.47 Lakh,jaipur
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2015,"47,790kms",Petrol,Manual,₹3.83 Lakh,jaipur
+Honda,Honda Cityi DTec VX,2016,"98,000kms",Diesel,Manual,₹5.80 Lakh,jaipur
+Honda,Honda Cityi VTEC V,2015,"76,000kms",Petrol,Manual,₹5.11 Lakh,jaipur
+Maruti,Maruti SwiftVXI,2020,"57,000kms",Petrol,Manual,₹5.50 Lakh,jaipur
+Maruti,Maruti Swift DzireAMT VDI,2017,"1,03,000kms",Diesel,Automatic,₹4.99 Lakh,jaipur
+Ford,Ford Ecosport1.5 Petrol Titanium BSIV,2019,"83,000kms",Petrol,Manual,₹6 Lakh,jaipur
+Maruti,Maruti S CrossDelta DDiS 200 SH,2017,"87,000kms",Diesel,Manual,₹5.50 Lakh,jaipur
+Volkswagen,Volkswagen Vento1.5 TDI Highline AT,2016,"61,235kms",Diesel,Automatic,₹5.31 Lakh,jaipur
+Maruti,Maruti CelerioZXI Optional AMT BSIV,2019,"50,000kms",Petrol,Automatic,₹4.70 Lakh,jaipur
+Hyundai,Hyundai i20Sportz 1.2,2015,"64,000kms",Petrol,Manual,₹4.50 Lakh,jaipur
+Tata,Tata Tiago1.2 Revotron XZ,2019,"72,000kms",Petrol,Manual,₹4.25 Lakh,jaipur
+Maruti,Maruti Swift DzireVXI 1.2,2017,"70,000kms",Petrol,Manual,₹5.25 Lakh,jaipur
+Maruti,Maruti Swift DzireVXI 1.2,2017,"70,000kms",Petrol,Manual,₹5.25 Lakh,jaipur
+Hyundai,Hyundai Verna1.6 CRDi SX,2015,"87,000kms",Diesel,Manual,₹4.75 Lakh,jaipur
+Volkswagen,Volkswagen VentoDiesel Trendline,2013,"76,000kms",Diesel,Manual,₹3.25 Lakh,jaipur
+Maruti,Maruti Wagon R StingrayVXI,2017,"49,000kms",Petrol,Manual,₹3.10 Lakh,jaipur
+Maruti,Maruti Swift DzireAMT VDI,2017,"1,03,000kms",Diesel,Automatic,₹4.99 Lakh,jaipur
+Ford,Ford Ecosport1.5 Petrol Titanium BSIV,2019,"83,000kms",Petrol,Manual,₹6 Lakh,jaipur
+Maruti,Maruti Baleno1.2 Zeta,2017,"65,000kms",Petrol,Manual,₹5 Lakh,jaipur
+Maruti,Maruti CelerioZXI Optional AMT BSIV,2019,"50,000kms",Petrol,Automatic,₹4.70 Lakh,jaipur
+Hyundai,Hyundai i20Sportz 1.2,2015,"64,000kms",Petrol,Manual,₹4.50 Lakh,jaipur
+Maruti,Maruti CelerioZXI Plus,2022,"25,000kms",Petrol,Manual,₹4.55 Lakh,jaipur
+Hyundai,Hyundai i20Diesel Sportz,2018,"73,000kms",Diesel,Manual,₹5.50 Lakh,jaipur
+Mini Cooper,Mini Cooper SEElectric,2023,"2,800kms",Electric,Automatic,₹32 Lakh,jaipur
+Ford,Ford EndeavourTitanium Plus 4X4,2017,"75,000kms",Diesel,Automatic,₹24 Lakh,jaipur
+Jeep,Jeep Compass2.0 Limited Option 4X4,2020,"90,000kms",Diesel,Manual,₹17 Lakh,jaipur
+Mahindra,Mahindra XUV700AX7 Diesel Luxury Pack BSVI,2022,"47,000kms",Diesel,Manual,₹18 Lakh,jaipur
+Mahindra,Mahindra Scorpio NZ8L Diesel AT BSVI,2023,"34,000kms",Diesel,Automatic,₹19.50 Lakh,jaipur
+Mahindra,Mahindra Scorpio NZ8L Diesel 4x4 AT BSVI,2023,"34,082kms",Diesel,Automatic,₹19.90 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz GLCProgressive 300,2022,"39,046kms",Petrol,Automatic,₹44.37 Lakh,jaipur
+Volkswagen,Volkswagen VirtusHighline AT BSVI,2022,"70,372kms",Petrol,Automatic,₹10.25 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaZXI Plus,2023,"56,345kms",Petrol,Manual,₹10.05 Lakh,jaipur
+Mahindra,Mahindra Scorpio NZ8L Diesel 4x4 AT BSVI,2023,"34,082kms",Diesel,Automatic,₹19.90 Lakh,jaipur
+Mahindra,Mahindra Scorpio NZ8L Diesel AT BSVI,2023,"34,000kms",Diesel,Automatic,₹19.50 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz GLCProgressive 300,2022,"39,046kms",Petrol,Automatic,₹44.37 Lakh,jaipur
+Volkswagen,Volkswagen VirtusHighline AT BSVI,2022,"70,372kms",Petrol,Automatic,₹10.25 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaZXI Plus,2023,"56,345kms",Petrol,Manual,₹10.05 Lakh,jaipur
+Hyundai,Hyundai CretaSX Diesel,2022,"45,460kms",Diesel,Manual,₹11.67 Lakh,jaipur
+Volkswagen,Volkswagen VirtusHighline,2023,"30,056kms",Petrol,Manual,₹11.39 Lakh,jaipur
+Kia,Kia SeltosX-Line DCT,2023,"44,953kms",Petrol,Automatic,₹10.96 Lakh,jaipur
+Hyundai,Hyundai CretaS plus Knight Diesel,2023,"48,760kms",Diesel,Manual,₹11.69 Lakh,jaipur
+Hyundai,Hyundai CretaSX Diesel,2023,"71,254kms",Diesel,Manual,₹11.79 Lakh,jaipur
+Honda,Honda CityZX MT,2022,"45,888kms",Petrol,Manual,₹10.95 Lakh,jaipur
+Volkswagen,Volkswagen VirtusTopline AT,2023,"21,244kms",Petrol,Automatic,₹12.10 Lakh,jaipur
+Honda,Honda CityVX MT,2022,"21,829kms",Petrol,Manual,₹10.49 Lakh,jaipur
+Hyundai,Hyundai CretaS Diesel BSVI,2021,"1,05,000kms",Diesel,Manual,₹10.75 Lakh,jaipur
+Hyundai,Hyundai CretaE Diesel BSVI,2021,"1,13,000kms",Diesel,Manual,₹10.90 Lakh,jaipur
+Hyundai,Hyundai CretaSX IVT BSVI,2021,"51,974kms",Petrol,Automatic,₹12.25 Lakh,jaipur
+Kia,Kia SeltosHTX IVT G,2022,"39,367kms",Petrol,Automatic,₹14.90 Lakh,jaipur
+Honda,Honda CityZX CVT,2022,"23,057kms",Petrol,Automatic,₹10.90 Lakh,jaipur
+Hyundai,Hyundai CretaSX Diesel BSVI,2022,"60,000kms",Diesel,Manual,₹12.50 Lakh,jaipur
+Hyundai,Hyundai CretaSX Executive BSVI,2022,"30,000kms",Petrol,Manual,₹11.99 Lakh,jaipur
+Hyundai,Hyundai CretaSX Executive BSVI,2022,"30,000kms",Petrol,Manual,₹11.99 Lakh,jaipur
+Hyundai,Hyundai CretaSX Opt Diesel AT BSVI,2020,"59,743kms",Diesel,Automatic,₹13.90 Lakh,jaipur
+Hyundai,Hyundai CretaSX Opt Turbo BSVI,2020,"53,087kms",Petrol,Automatic,₹13.25 Lakh,jaipur
+Hyundai,Hyundai CretaSX IVT BSVI,2021,"51,974kms",Petrol,Automatic,₹12.25 Lakh,jaipur
+Kia,Kia SeltosHTX IVT G,2022,"39,367kms",Petrol,Automatic,₹14.90 Lakh,jaipur
+Hyundai,Hyundai CretaE Diesel BSVI,2021,"1,13,000kms",Diesel,Manual,₹10.90 Lakh,jaipur
+Honda,Honda CityZX CVT,2022,"23,057kms",Petrol,Automatic,₹10.90 Lakh,jaipur
+Mini Cooper,Mini Cooper SEElectric,2023,"9,800kms",Electric,Automatic,₹34 Lakh,jaipur
+Mahindra,Mahindra Scorpio NZ8L Diesel 4x4 AT BSVI,2022,"84,598kms",Diesel,Automatic,₹21.50 Lakh,jaipur
+Kia,Kia CarnivalLimousine,2020,"36,536kms",Diesel,Automatic,₹26.90 Lakh,jaipur
+Toyota,Toyota Fortuner4x2 Manual,2016,"99,000kms",Diesel,Manual,₹24.50 Lakh,jaipur
+Toyota,Toyota Fortuner2.8 2WD MT BSIV,2018,"1,25,000kms",Diesel,Manual,₹22 Lakh,jaipur
+Hyundai,Hyundai EONEra Plus,2018,"56,000kms",Petrol,Manual,₹2.85 Lakh,jaipur
+Maruti,Maruti SX4VXI,2009,"27,000kms",Petrol,Manual,₹3 Lakh,jaipur
+Honda,Honda BrioE MT,2014,"56,000kms",Petrol,Manual,₹2.51 Lakh,jaipur
+Hyundai,Hyundai i10Magna,2011,"71,000kms",Petrol,Manual,₹2.25 Lakh,jaipur
+Chevrolet,Chevrolet BeatDiesel LT,2016,"82,000kms",Diesel,Manual,₹2.40 Lakh,jaipur
+Volvo,Volvo S60D4 KINETIC,2014,"1,30,000kms",Diesel,Automatic,₹12 Lakh,jaipur
+Kia,Kia SeltosHTX,2020,"68,862kms",Petrol,Manual,₹8.09 Lakh,jaipur
+Skoda,Skoda Kushaq1.5 TSI Ambition,2023,"37,102kms",Petrol,Manual,₹9.76 Lakh,jaipur
+Hyundai,Hyundai EONEra Plus,2018,"56,000kms",Petrol,Manual,₹2.85 Lakh,jaipur
+Maruti,Maruti SX4VXI,2009,"27,000kms",Petrol,Manual,₹3 Lakh,jaipur
+Volvo,Volvo S60D4 KINETIC,2014,"1,30,000kms",Diesel,Automatic,₹12 Lakh,jaipur
+Kia,Kia SeltosHTX,2020,"68,862kms",Petrol,Manual,₹8.09 Lakh,jaipur
+Skoda,Skoda Kushaq1.5 TSI Ambition,2023,"37,102kms",Petrol,Manual,₹9.76 Lakh,jaipur
+Hyundai,Hyundai VenueSX Turbo iMT,2022,"10,814kms",Petrol,Manual,₹9.38 Lakh,jaipur
+Hyundai,Hyundai VenueS,2021,"67,082kms",Petrol,Manual,₹8.40 Lakh,jaipur
+Skoda,Skoda Kushaq1.5 TSI Ambition,2022,"27,701kms",Petrol,Manual,₹9.71 Lakh,jaipur
+Hyundai,Hyundai VenueSX,2023,"47,000kms",Petrol,Manual,₹9.50 Lakh,jaipur
+Maruti,Maruti SwiftAMT VXI,2021,"20,000kms",Petrol,Automatic,₹6.21 Lakh,jaipur
+Mahindra,Mahindra XUV500R W10 FWD,2017,"99,000kms",Diesel,Manual,₹8.60 Lakh,jaipur
+Hyundai,Hyundai Creta1.6 VTVT E Plus,2017,"77,400kms",Petrol,Manual,₹7.25 Lakh,jaipur
+Kia,Kia SeltosHTK G,2019,"60,685kms",Petrol,Manual,₹9.90 Lakh,jaipur
+Skoda,Skoda Rapid1.5 TDI Style BSIV,2018,"82,000kms",Diesel,Manual,₹6.40 Lakh,jaipur
+Hyundai,Hyundai Creta1.6 VTVT Base,2015,"81,000kms",Petrol,Manual,₹6.80 Lakh,jaipur
+Skoda,Skoda Kushaq1.0 TSI Active BSVI,2021,"57,809kms",Petrol,Manual,₹8.45 Lakh,jaipur
+Kia,Kia SeltosHTK Plus G,2019,"49,028kms",Petrol,Manual,₹9.25 Lakh,jaipur
+Tata,Tata HexaXTA,2017,"91,818kms",Diesel,Automatic,₹6.75 Lakh,jaipur
+Mahindra,Mahindra XUV500W7,2020,"70,000kms",Diesel,Manual,₹9.45 Lakh,jaipur
+Mahindra,Mahindra XUV500W9 BSIV,2019,"99,000kms",Diesel,Manual,₹8.75 Lakh,jaipur
+Skoda,Skoda Kushaq1.0 TSI Active BSVI,2021,"57,809kms",Petrol,Manual,₹8.45 Lakh,jaipur
+Kia,Kia SeltosHTK Plus G,2019,"49,028kms",Petrol,Manual,₹9.25 Lakh,jaipur
+Tata,Tata HexaXTA,2017,"91,818kms",Diesel,Automatic,₹6.75 Lakh,jaipur
+Mahindra,Mahindra XUV500W7,2020,"70,000kms",Diesel,Manual,₹9.45 Lakh,jaipur
+Mahindra,Mahindra XUV500W9 BSIV,2019,"99,000kms",Diesel,Manual,₹8.75 Lakh,jaipur
+Mahindra,Mahindra XUV500W11 FWD Diesel,2019,"99,999kms",Diesel,Manual,₹9.50 Lakh,jaipur
+Toyota,Toyota Camry2.5 Hybrid,2024,"15,320kms",Petrol,Automatic,₹41.90 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz C-ClassC 200,2025,101kms,Petrol,Automatic,₹65 Lakh,jaipur
+Mahindra,Mahindra Scorpio NZ8L AT,2022,"60,388kms",Petrol,Automatic,₹16.75 Lakh,jaipur
+Jaguar,Jaguar XEPure,2018,"61,153kms",Petrol,Automatic,₹18.83 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz M-ClassML 250 CDI,2015,"1,85,148kms",Diesel,Automatic,₹18.90 Lakh,jaipur
+Mahindra,Mahindra TharLX 4WD Hard Top Diesel AT BSVI,2022,"28,180kms",Diesel,Automatic,₹15.25 Lakh,jaipur
+Toyota,Toyota Innova Crysta2.4 VX MT 8S BSIV,2018,"84,000kms",Diesel,Manual,₹15.85 Lakh,jaipur
+Mahindra,Mahindra Scorpio NZ8L AT BSVI,2023,"70,000kms",Petrol,Automatic,₹20 Lakh,jaipur
+Mahindra,Mahindra Scorpio NZ8L Diesel 4x4 BSVI,2022,"62,000kms",Diesel,Manual,₹19.45 Lakh,jaipur
+Mahindra,Mahindra TharLX Convert Top Diesel,2024,"22,435kms",Diesel,Manual,₹15.50 Lakh,jaipur
+Mahindra,Mahindra TharLX 4WD Hard Top Diesel AT BSVI,2022,"28,000kms",Diesel,Automatic,₹15.25 Lakh,jaipur
+Mahindra,Mahindra TharLX 4WD Hard Top Diesel BSVI,2022,"7,200kms",Diesel,Manual,₹15.50 Lakh,jaipur
+Mahindra,Mahindra Scorpio NZ8L Diesel AT  -2025,2023,"38,000kms",Diesel,Automatic,₹17.51 Lakh,jaipur
+Nissan,Nissan MagniteXV,2023,"27,930kms",Petrol,Manual,₹4.80 Lakh,jaipur
+Mahindra,Mahindra Scorpio NZ8L Diesel 4x4 BSVI,2022,"62,000kms",Diesel,Manual,₹19.45 Lakh,jaipur
+Mahindra,Mahindra Scorpio NZ8L Diesel AT  -2025,2023,"38,000kms",Diesel,Automatic,₹17.51 Lakh,jaipur
+Mahindra,Mahindra TharLX 4WD Hard Top Diesel AT BSVI,2022,"28,000kms",Diesel,Automatic,₹15.25 Lakh,jaipur
+Mahindra,Mahindra TharLX 4WD Hard Top Diesel BSVI,2022,"7,200kms",Diesel,Manual,₹15.50 Lakh,jaipur
+Nissan,Nissan MagniteXV,2023,"27,930kms",Petrol,Manual,₹4.80 Lakh,jaipur
+Hyundai,Hyundai VenueS,2020,"1,03,236kms",Petrol,Manual,₹4.90 Lakh,jaipur
+Honda,Honda Cityi VTEC SV,2014,"34,314kms",Petrol,Manual,₹3.10 Lakh,jaipur
+Hyundai,Hyundai i20Sportz 1.2,2015,"50,935kms",Petrol,Manual,₹4.84 Lakh,jaipur
+Hyundai,Hyundai XcentPetrol,2017,"88,179kms",Petrol,Manual,₹3.95 Lakh,jaipur
+Ford,Ford Figo1.2P Titanium MT,2020,"35,156kms",Petrol,Manual,₹4.64 Lakh,jaipur
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2017,"80,359kms",Petrol,Manual,₹3.38 Lakh,jaipur
+Volkswagen,Volkswagen Vento1.5 Highline Plus AT 16 Alloy,2018,"1,31,512kms",Diesel,Automatic,₹4.95 Lakh,jaipur
+Maruti,Maruti CelerioZXI Plus BSVI,2021,"68,756kms",Petrol,Manual,₹4.05 Lakh,jaipur
+Maruti,Maruti Wagon RAMT VXI,2018,"48,105kms",Petrol,Automatic,₹3.20 Lakh,jaipur
+Hyundai,Hyundai i20Sportz Plus,2020,"38,720kms",Petrol,Manual,₹4.90 Lakh,jaipur
+Hyundai,Hyundai i201.2 Asta Option,2017,"87,263kms",Petrol,Manual,₹4.36 Lakh,jaipur
+Honda,Honda AmazeVX i-VTEC,2014,"82,476kms",Petrol,Manual,₹3.46 Lakh,jaipur
+Tata,Tata Tiago1.2 Revotron XT,2023,"33,654kms",Petrol,Manual,₹5.05 Lakh,jaipur
+Maruti,Maruti Baleno1.2 CVT Delta,2016,"53,335kms",Petrol,Automatic,₹3.42 Lakh,jaipur
+Maruti,Maruti Wagon RVXI 1.2,2017,"44,552kms",Petrol,Manual,₹3.75 Lakh,jaipur
+Volkswagen,Volkswagen Vento1.5 Highline Plus AT 16 Alloy,2018,"1,31,512kms",Diesel,Automatic,₹4.95 Lakh,jaipur
+Tata,Tata Tiago1.2 Revotron XT,2023,"33,654kms",Petrol,Manual,₹5.05 Lakh,jaipur
+Maruti,Maruti Baleno1.2 CVT Delta,2016,"53,335kms",Petrol,Automatic,₹3.42 Lakh,jaipur
+Maruti,Maruti Wagon RVXI 1.2,2017,"44,552kms",Petrol,Manual,₹3.75 Lakh,jaipur
+Maruti,Maruti Swift DzireZXi,2014,"59,428kms",Petrol,Manual,₹4.08 Lakh,jaipur
+Hyundai,Hyundai i20Sportz 1.2,2016,"92,445kms",Petrol,Manual,₹4.43 Lakh,jaipur
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2015,"82,488kms",Petrol,Manual,₹3.16 Lakh,jaipur
+Honda,Honda Amaze 2nd GenS,2016,"50,354kms",Petrol,Manual,₹3.94 Lakh,jaipur
+Maruti,Maruti Ignis1.2 Zeta BSIV,2018,"55,687kms",Petrol,Manual,₹3.75 Lakh,jaipur
+Ford,Ford FigoTitanium AT  -2020,2019,"29,834kms",Petrol,Automatic,₹4.64 Lakh,jaipur
+Toyota,Toyota Etios LivaV,2018,"1,02,412kms",Petrol,Manual,₹3.79 Lakh,jaipur
+Hyundai,Hyundai XcentPetrol,2018,"74,719kms",Petrol,Manual,₹4.79 Lakh,jaipur
+Volkswagen,Volkswagen Vento1.5 Highline Plus AT 16 Alloy,2017,"99,230kms",Diesel,Automatic,₹4.72 Lakh,jaipur
+Honda,Honda AmazeVX i-VTEC,2014,"82,476kms",Petrol,Manual,₹3.46 Lakh,jaipur
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2019,"26,066kms",Petrol,Manual,₹4.54 Lakh,jaipur
+Tata,Tata Tiago NRGXZ,2021,"33,097kms",Petrol,Manual,₹4.98 Lakh,jaipur
+Hyundai,Hyundai i20Sportz 1.4 CRDi,2017,"87,000kms",Diesel,Manual,₹5.25 Lakh,jaipur
+Hyundai,Hyundai i20Sportz 1.4 CRDi,2013,"85,192kms",Diesel,Manual,₹3.21 Lakh,jaipur
+Hyundai,Hyundai Xcent1.2 VTVT S,2018,"60,000kms",Petrol,Manual,₹4.50 Lakh,jaipur
+Hyundai,Hyundai Xcent1.2 CRDi S,2017,"80,000kms",Diesel,Manual,₹4.75 Lakh,jaipur
+Tata,Tata Tiago NRGXZ,2021,"33,097kms",Petrol,Manual,₹4.98 Lakh,jaipur
+Maruti,Maruti SwiftAMT ZXI,2018,"87,228kms",Petrol,Automatic,₹5.80 Lakh,jaipur
+Hyundai,Hyundai i20Sportz Option 1.2,2015,"72,000kms",Petrol,Manual,₹4.25 Lakh,jaipur
+Maruti,Maruti Baleno1.2 Delta,2017,"83,000kms",Petrol,Manual,₹4.20 Lakh,jaipur
+Volkswagen,Volkswagen Ameo1.2 MPI Comfortline,2016,"72,000kms",Petrol,Manual,₹4.35 Lakh,jaipur
+Hyundai,Hyundai Grand i10Sportz,2017,"76,000kms",Petrol,Manual,₹3.85 Lakh,jaipur
+Maruti,Maruti Swift DzireVDI,2014,"91,616kms",Diesel,Manual,₹4.50 Lakh,jaipur
+Hyundai,Hyundai i20Sportz 1.4 CRDi,2017,"87,000kms",Diesel,Manual,₹5.25 Lakh,jaipur
+Maruti,Maruti SwiftVXI,2015,"82,000kms",Petrol,Manual,₹4.35 Lakh,jaipur
+Renault,Renault Duster85PS Diesel RxL,2014,"65,000kms",Diesel,Manual,₹3.30 Lakh,jaipur
+Maruti,Maruti ErtigaZDI,2014,"75,000kms",Diesel,Manual,₹5.80 Lakh,jaipur
+Hyundai,Hyundai Xcent1.2 CRDi S,2017,"80,000kms",Diesel,Manual,₹4.75 Lakh,jaipur
+Honda,Honda Jazz1.5 E i DTEC,2016,"72,131kms",Diesel,Manual,₹4.11 Lakh,jaipur
+Datsun,Datsun GO PlusT BSIV,2018,"68,000kms",Petrol,Manual,₹3.40 Lakh,jaipur
+Maruti,Maruti Swift DzireVXI 1.2,2017,"66,000kms",Petrol,Manual,₹5.25 Lakh,jaipur
+Renault,Renault Duster85PS Diesel RxE,2015,"88,000kms",Diesel,Manual,₹3.50 Lakh,jaipur
+Honda,Honda AmazeS i-DTEC,2018,"60,000kms",Diesel,Manual,₹4.90 Lakh,jaipur
+Maruti,Maruti Swift DzireVDI,2015,"80,000kms",Diesel,Manual,₹4.50 Lakh,jaipur
+Hyundai,Hyundai Xcent1.2 Kappa S,2014,"56,000kms",Petrol,Manual,₹3.10 Lakh,jaipur
+Maruti,Maruti Swift DzireVXI 1.2,2018,"79,000kms",Petrol,Manual,₹5.25 Lakh,jaipur
+Datsun,Datsun GO PlusT BSIV,2018,"68,000kms",Petrol,Manual,₹3.40 Lakh,jaipur
+Maruti,Maruti Swift DzireVXI 1.2,2017,"66,000kms",Petrol,Manual,₹5.25 Lakh,jaipur
+Renault,Renault Duster85PS Diesel RxE,2015,"88,000kms",Diesel,Manual,₹3.50 Lakh,jaipur
+Honda,Honda AmazeS i-DTEC,2018,"60,000kms",Diesel,Manual,₹4.90 Lakh,jaipur
+Maruti,Maruti Swift DzireVDI,2015,"80,000kms",Diesel,Manual,₹4.50 Lakh,jaipur
+Hyundai,Hyundai Xcent1.2 Kappa S,2014,"56,000kms",Petrol,Manual,₹3.10 Lakh,jaipur
+Mahindra,Mahindra TUV 300T8,2016,"93,000kms",Diesel,Manual,₹4.75 Lakh,jaipur
+Hyundai,Hyundai i20Sportz 1.4 CRDi,2017,"87,000kms",Diesel,Manual,₹5.25 Lakh,jaipur
+Hyundai,Hyundai Xcent1.2 VTVT S,2018,"60,000kms",Petrol,Manual,₹4.50 Lakh,jaipur
+Hyundai,Hyundai i20Sportz 1.4 CRDi,2013,"85,192kms",Diesel,Manual,₹3.21 Lakh,jaipur
+Maruti,Maruti Wagon RZXI BSVI,2022,"1,04,000kms",Petrol,Manual,₹4.65 Lakh,jaipur
+Maruti,Maruti SwiftLXI,2019,"4,300kms",Petrol,Manual,₹5.25 Lakh,jaipur
+Mahindra,Mahindra XUV500R W10 FWD,2015,"62,000kms",Diesel,Manual,₹4.95 Lakh,jaipur
+Toyota,Toyota Fortuner2.8 4WD MT,2018,"62,000kms",Diesel,Manual,₹24 Lakh,jaipur
+Skoda,Skoda KodiaqL & K BSVI,2023,"36,000kms",Petrol,Automatic,₹30 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz C-ClassProgressive C 220d,2019,"45,000kms",Diesel,Automatic,₹25 Lakh,jaipur
+Toyota,Toyota Innova Crysta2.4 G 7 STR,2021,"1,09,000kms",Diesel,Manual,₹21.50 Lakh,jaipur
+Jaguar,Jaguar XF2.0 Diesel Prestige,2018,"51,000kms",Diesel,Automatic,₹29 Lakh,jaipur
+Toyota,Toyota Fortuner2.8 2WD AT BSIV,2017,"78,000kms",Diesel,Automatic,₹24.90 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz E-ClassExpression E 220 d BSIV,2019,"53,540kms",Diesel,Automatic,₹31 Lakh,jaipur
+Skoda,Skoda KodiaqL & K BSVI,2023,"36,000kms",Petrol,Automatic,₹30 Lakh,jaipur
+Toyota,Toyota Innova Crysta2.4 G 7 STR,2021,"1,09,000kms",Diesel,Manual,₹21.50 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz C-ClassProgressive C 220d,2019,"45,000kms",Diesel,Automatic,₹25 Lakh,jaipur
+Toyota,Toyota Fortuner2.8 2WD AT BSIV,2017,"78,000kms",Diesel,Automatic,₹24.90 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz E-ClassExpression E 220 d BSIV,2019,"53,540kms",Diesel,Automatic,₹31 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz GLC300,2025,101kms,Petrol,Automatic,₹75 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz E-ClassE 220d,2025,101kms,Diesel,Automatic,₹93 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz AMG GLC 434MATIC Coupe BSVI,2022,"25,000kms",Petrol,Automatic,₹81 Lakh,jaipur
+Hyundai,Hyundai VernaSX Opt AT Diesel,2021,"64,069kms",Diesel,Automatic,₹11.83 Lakh,jaipur
+Kia,Kia SeltosGTX Plus DCT,2020,"1,11,425kms",Petrol,Automatic,₹12.23 Lakh,jaipur
+Kia,Kia SeltosHTX IVT G,2021,"44,401kms",Petrol,Automatic,₹11.25 Lakh,jaipur
+Hyundai,Hyundai Creta1.6 EX Petrol,2022,"44,138kms",Petrol,Manual,₹14.66 Lakh,jaipur
+Skoda,Skoda Octavia2.0 TDI MT Style,2017,"96,976kms",Diesel,Manual,₹11.01 Lakh,jaipur
+Kia,Kia SeltosGTX Plus DCT,2021,"73,233kms",Petrol,Automatic,₹12.70 Lakh,jaipur
+Hyundai,Hyundai VenueS Diesel,2022,"78,300kms",Diesel,Manual,₹10.75 Lakh,jaipur
+Maruti,Maruti JimnyZeta,2023,"19,484kms",Petrol,Manual,₹10.90 Lakh,jaipur
+Kia,Kia SeltosHTX IVT G,2020,"32,197kms",Petrol,Automatic,₹12.90 Lakh,jaipur
+Hyundai,Hyundai VernaCRDi 1.6 AT SX,2019,"83,000kms",Diesel,Automatic,₹10.50 Lakh,jaipur
+Hyundai,Hyundai VernaSX Diesel,2021,"97,000kms",Diesel,Manual,₹11.50 Lakh,jaipur
+Skoda,Skoda Kushaq1.0L Sportline,2025,"8,352kms",Petrol,Manual,₹13.25 Lakh,jaipur
+Maruti,Maruti JimnyZeta,2023,"19,484kms",Petrol,Manual,₹10.90 Lakh,jaipur
+Kia,Kia SeltosHTX IVT G,2020,"32,197kms",Petrol,Automatic,₹12.90 Lakh,jaipur
+Hyundai,Hyundai VernaCRDi 1.6 AT SX,2019,"83,000kms",Diesel,Automatic,₹10.50 Lakh,jaipur
+Hyundai,Hyundai VernaSX Diesel,2021,"97,000kms",Diesel,Manual,₹11.50 Lakh,jaipur
+Skoda,Skoda Kushaq1.0L Sportline,2025,"8,352kms",Petrol,Manual,₹13.25 Lakh,jaipur
+Hyundai,Hyundai VernaSX Diesel,2022,"1,07,000kms",Diesel,Manual,₹11 Lakh,jaipur
+MG,MG HectorSharp DCT,2020,"65,000kms",Petrol,Automatic,₹12.50 Lakh,jaipur
+Hyundai,Hyundai CretaEX Diesel BSVI,2021,"48,000kms",Diesel,Manual,₹12.25 Lakh,jaipur
+Honda,Honda JazzV,2022,"16,905kms",Petrol,Manual,₹6.26 Lakh,jaipur
+Maruti,Maruti CelerioZXI AMT,2024,"12,681kms",Petrol,Automatic,₹5.54 Lakh,jaipur
+Kia,Kia SonetHTX Turbo iMT BSVI,2023,"19,847kms",Petrol,Manual,₹8.20 Lakh,jaipur
+Maruti,Maruti S CrossDelta DDiS 200 SH,2020,"11,656kms",Diesel,Manual,₹6.71 Lakh,jaipur
+Tata,Tata PunchAdventure BSVI,2023,"14,212kms",Petrol,Manual,₹6.14 Lakh,jaipur
+Tata,Tata NexonXM S Diesel,2022,"44,568kms",Diesel,Manual,₹7.16 Lakh,jaipur
+Honda,Honda Cityi-VTEC CVT V,2019,"54,188kms",Petrol,Automatic,₹5.52 Lakh,jaipur
+Ford,Ford EcosportSE Petrol,2019,"61,340kms",Petrol,Manual,₹6.37 Lakh,jaipur
+Honda,Honda JazzV,2018,"25,252kms",Petrol,Manual,₹5.25 Lakh,jaipur
+Honda,Honda CityZX CVT,2018,"47,199kms",Petrol,Automatic,₹7.82 Lakh,jaipur
+Hyundai,Hyundai i20Magna Plus,2019,"60,216kms",Petrol,Manual,₹5.39 Lakh,jaipur
+Honda,Honda CityZX CVT,2017,"69,060kms",Petrol,Automatic,₹6.95 Lakh,jaipur
+Ford,Ford EcosportSE Petrol,2019,"61,340kms",Petrol,Manual,₹6.37 Lakh,jaipur
+Honda,Honda JazzV,2018,"25,252kms",Petrol,Manual,₹5.25 Lakh,jaipur
+Honda,Honda CityZX CVT,2018,"47,199kms",Petrol,Automatic,₹7.82 Lakh,jaipur
+Hyundai,Hyundai i20Magna Plus,2019,"60,216kms",Petrol,Manual,₹5.39 Lakh,jaipur
+Honda,Honda CityZX CVT,2017,"69,060kms",Petrol,Automatic,₹6.95 Lakh,jaipur
+Tata,Tata NexonXZ Plus (O) Diesel,2022,"48,785kms",Diesel,Manual,₹7.16 Lakh,jaipur
+Maruti,Maruti Ciaz1.4 Alpha,2023,"25,261kms",Petrol,Manual,₹8.63 Lakh,jaipur
+Tata,Tata AltrozXZ Turbo,2021,"33,768kms",Petrol,Manual,₹6.29 Lakh,jaipur
+Honda,Honda CitySV MT,2016,"80,475kms",Petrol,Manual,₹5.08 Lakh,jaipur
+Tata,Tata AltrozXZ,2023,"38,767kms",Petrol,Manual,₹8.78 Lakh,jaipur
+Maruti,Maruti DzireZXI Plus,2018,"38,299kms",Petrol,Manual,₹6.46 Lakh,jaipur
+Honda,Honda CityVX MT,2014,"63,498kms",Petrol,Manual,₹5.31 Lakh,jaipur
+Honda,Honda CityV CVT,2019,"1,24,610kms",Petrol,Automatic,₹5.49 Lakh,jaipur
+Maruti,Maruti CelerioZXI,2024,"14,076kms",Petrol,Manual,₹5.68 Lakh,jaipur
+Honda,Honda CityZX CVT,2018,"46,723kms",Petrol,Automatic,₹7.70 Lakh,jaipur
+Maruti,Maruti CiazVXi Plus,2015,"1,18,000kms",Petrol,Manual,₹5.35 Lakh,jaipur
+Honda,Honda Cityi-VTEC CVT VX,2018,"41,106kms",Petrol,Automatic,₹7.25 Lakh,jaipur
+Maruti,Maruti Baleno1.2 CVT Alpha,2018,"39,400kms",Petrol,Automatic,₹6.45 Lakh,jaipur
+Hyundai,Hyundai i20 ActiveSX Dual Tone Petrol,2023,"25,954kms",Petrol,Manual,₹8.03 Lakh,jaipur
+Maruti,Maruti XL6Alpha AT,2021,"44,573kms",Petrol,Automatic,₹11.04 Lakh,jaipur
+Tata,Tata NexonXZ Plus DT HS,2022,"67,200kms",Petrol,Manual,₹8.10 Lakh,jaipur
+Maruti,Maruti Wagon RLXI,2012,"82,000kms",Petrol,Manual,₹2.25 Lakh,jaipur
+Honda,Honda CityV MT,2021,"44,883kms",Petrol,Manual,₹7.90 Lakh,jaipur
+Honda,Honda Cityi-VTEC SV,2019,"68,300kms",Petrol,Manual,₹6.35 Lakh,jaipur
+Maruti,Maruti Swift DzireVDI,2012,"83,000kms",Diesel,Manual,₹3.80 Lakh,jaipur
+Maruti,Maruti SwiftLXI Option,2015,"74,000kms",Petrol,Manual,₹4.50 Lakh,jaipur
+Mahindra,Mahindra XUV300W6 Diesel Sunroof BSVI,2022,"70,110kms",Diesel,Manual,₹8.90 Lakh,jaipur
+Tata,Tata NexonXM Diesel,2023,"57,800kms",Diesel,Manual,₹8.90 Lakh,jaipur
+Maruti,Maruti CiazZDi,2014,"96,000kms",Diesel,Manual,₹5.25 Lakh,jaipur
+Hyundai,Hyundai Verna1.6 CRDi SX,2017,"71,300kms",Diesel,Manual,₹7.50 Lakh,jaipur
+Tata,Tata TigorXZA Plus,2020,"79,141kms",Petrol,Automatic,₹5.50 Lakh,jaipur
+Hyundai,Hyundai i20Sportz,2023,"55,000kms",Petrol,Manual,₹6.50 Lakh,jaipur
+Tata,Tata PunchAdventure BSVI,2023,"14,212kms",Petrol,Manual,₹6.14 Lakh,jaipur
+Hyundai,Hyundai i20 ActiveSX Dual Tone Petrol,2023,"25,954kms",Petrol,Manual,₹8.03 Lakh,jaipur
+Maruti,Maruti XL6Alpha AT,2021,"44,573kms",Petrol,Automatic,₹11.04 Lakh,jaipur
+Maruti,Maruti Ciaz1.4 Alpha,2024,"15,336kms",Petrol,Manual,₹9.84 Lakh,jaipur
+Honda,Honda CityZX CVT,2018,"47,199kms",Petrol,Automatic,₹7.82 Lakh,jaipur
+Hyundai,Hyundai i20Magna Plus,2019,"60,216kms",Petrol,Manual,₹5.39 Lakh,jaipur
+Honda,Honda CityZX CVT,2017,"69,060kms",Petrol,Automatic,₹6.95 Lakh,jaipur
+Ford,Ford EcosportSE Petrol,2019,"61,340kms",Petrol,Manual,₹6.37 Lakh,jaipur
+Maruti,Maruti Swift DzireAMT VXI,2018,"62,000kms",Petrol,Automatic,₹5.85 Lakh,jaipur
+Maruti,Maruti Wagon RLXI,2012,"82,000kms",Petrol,Manual,₹2.25 Lakh,jaipur
+Honda,Honda CityV MT,2021,"44,883kms",Petrol,Manual,₹7.90 Lakh,jaipur
+Honda,Honda Cityi-VTEC SV,2019,"68,300kms",Petrol,Manual,₹6.35 Lakh,jaipur
+Maruti,Maruti Swift DzireVDI,2012,"83,000kms",Diesel,Manual,₹3.80 Lakh,jaipur
+Maruti,Maruti SwiftLXI Option,2015,"74,000kms",Petrol,Manual,₹4.50 Lakh,jaipur
+Tata,Tata Nexon1.2 Revotron XT Plus,2019,"71,000kms",Petrol,Manual,₹6.20 Lakh,jaipur
+Honda,Honda Amaze 2nd GenS,2022,"73,000kms",Petrol,Manual,₹6.25 Lakh,jaipur
+Honda,Honda Cityi-VTEC CVT ZX,2017,"58,427kms",Petrol,Automatic,₹7.25 Lakh,jaipur
+Maruti,Maruti DzireVXI,2019,"79,000kms",Petrol,Manual,₹5.25 Lakh,jaipur
+Maruti,Maruti SwiftVXI,2015,"47,000kms",Petrol,Manual,₹4.15 Lakh,jaipur
+Tata,Tata NexonXZ Plus DT HS,2022,"67,200kms",Petrol,Manual,₹8.10 Lakh,jaipur
+Maruti,Maruti XL6Zeta,2021,"69,000kms",Petrol,Manual,₹9.25 Lakh,jaipur
+Mahindra,Mahindra XUV300W6 Diesel,2023,"99,000kms",Diesel,Manual,₹8.75 Lakh,jaipur
+Tata,Tata TigorXZA Plus,2020,"79,141kms",Petrol,Automatic,₹5.50 Lakh,jaipur
+Hyundai,Hyundai i20Sportz,2023,"55,000kms",Petrol,Manual,₹6.50 Lakh,jaipur
+Honda,Honda City1.5 V MT,2010,"59,000kms",Petrol,Manual,₹2.40 Lakh,jaipur
+Maruti,Maruti Swift DzireAMT VXI,2019,"72,000kms",Petrol,Automatic,₹5.25 Lakh,jaipur
+Maruti,Maruti CiazAlpha 1.5,2019,"78,383kms",Diesel,Manual,₹6.45 Lakh,jaipur
+Tata,Tata NexonXE BSVI,2022,"1,04,000kms",Petrol,Manual,₹5.50 Lakh,jaipur
+Hyundai,Hyundai i20Sportz,2023,"55,000kms",Petrol,Manual,₹6.50 Lakh,jaipur
+Honda,Honda City1.5 V MT,2010,"59,000kms",Petrol,Manual,₹2.40 Lakh,jaipur
+Maruti,Maruti Swift DzireAMT VXI,2019,"72,000kms",Petrol,Automatic,₹5.25 Lakh,jaipur
+Maruti,Maruti CiazAlpha 1.5,2019,"78,383kms",Diesel,Manual,₹6.45 Lakh,jaipur
+Tata,Tata NexonXE BSVI,2022,"1,04,000kms",Petrol,Manual,₹5.50 Lakh,jaipur
+Hyundai,Hyundai CretaSX Diesel BSVI,2022,"83,000kms",Diesel,Manual,₹13.50 Lakh,jaipur
+BMW,BMW 3 Series320d Luxury Line,2022,"20,000kms",Diesel,Automatic,₹41 Lakh,jaipur
+BMW,BMW X5xDrive 30d Design Pure Experience 5 Seater,2016,"82,000kms",Diesel,Automatic,₹35 Lakh,jaipur
+Mahindra,Mahindra TharLX Hard Top Diesel RWD,2025,"7,900kms",Diesel,Manual,₹12.99 Lakh,jaipur
+Mahindra,2024Mahindra Scorpio NZ8L 6 Str Diesel  -2025,2023,"41,000kms",Diesel,Manual,₹21.25 Lakh,jaipur
+Toyota,Toyota Fortuner2.8 2WD AT BSIV,2017,"79,528kms",Diesel,Automatic,₹24.90 Lakh,jaipur
+Honda,Honda BrioV MT,2012,"31,480kms",Petrol,Manual,₹2.59 Lakh,jaipur
+Honda,Honda AmazeS i-Vtech,2014,"82,448kms",Petrol,Manual,₹2.40 Lakh,jaipur
+Maruti,Maruti Alto 800LXi,2015,"42,599kms",Petrol,Manual,₹2.25 Lakh,jaipur
+Maruti,Maruti Alto 800LXi,2013,"53,181kms",Petrol,Manual,₹2.22 Lakh,jaipur
+Hyundai,Hyundai i10Magna 1.1,2013,"58,128kms",Petrol,Manual,₹2.67 Lakh,jaipur
+Hyundai,Hyundai i10Sportz,2012,"82,000kms",Petrol,Manual,₹2.15 Lakh,jaipur
+Maruti,Maruti Alto 800LXI,2018,"58,000kms",Petrol,Manual,₹2.75 Lakh,jaipur
+Hyundai,Hyundai Grand i10CRDi Sportz,2013,"72,000kms",Diesel,Manual,₹2.25 Lakh,jaipur
+Hyundai,Hyundai Grand i10Magna,2015,"73,000kms",Petrol,Manual,₹2.99 Lakh,jaipur
+Hyundai,Hyundai i10Magna 1.1,2013,"58,128kms",Petrol,Manual,₹2.67 Lakh,jaipur
+Hyundai,Hyundai Grand i10Magna,2015,"73,000kms",Petrol,Manual,₹2.99 Lakh,jaipur
+Hyundai,Hyundai i10Sportz,2012,"82,000kms",Petrol,Manual,₹2.15 Lakh,jaipur
+Maruti,Maruti Alto 800LXI,2018,"58,000kms",Petrol,Manual,₹2.75 Lakh,jaipur
+Hyundai,Hyundai Grand i10CRDi Sportz,2013,"72,000kms",Diesel,Manual,₹2.25 Lakh,jaipur
+Audi,Audi A42.0 TDI Premium Plus,2015,"69,804kms",Diesel,Automatic,₹15.39 Lakh,jaipur
+Skoda,Skoda Octavia1.8 TSI AT Style,2021,"52,925kms",Petrol,Automatic,₹18.51 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz CLA200 CGI Sport,2016,"81,000kms",Petrol,Automatic,₹16.21 Lakh,jaipur
+Kia,Kia SeltosX-Line Diesel AT,2022,"58,093kms",Diesel,Automatic,₹15.90 Lakh,jaipur
+BMW,BMW X1sDrive20d Expedition,2019,"69,909kms",Diesel,Automatic,₹19 Lakh,jaipur
+Porsche,Porsche CayenneDiesel,2014,"1,29,494kms",Diesel,Automatic,₹20 Lakh,jaipur
+Tata,Tata HarrierXZA Plus AT BSVI,2022,"45,941kms",Diesel,Automatic,₹15.90 Lakh,jaipur
+Mahindra,Mahindra XUV700AX7L 7Str AT,2023,"83,000kms",Petrol,Automatic,₹19.25 Lakh,jaipur
+Hyundai,Hyundai VenueSX Diesel,2023,"27,357kms",Diesel,Manual,₹9.01 Lakh,jaipur
+Hyundai,Hyundai Verna1.6 SX VTVT AT,2019,"58,886kms",Petrol,Automatic,₹8.49 Lakh,jaipur
+Audi,Audi A42.0 TDI Multitronic,2013,"91,000kms",Diesel,Automatic,₹7.95 Lakh,jaipur
+BMW,BMW 3 Series320d Luxury Line,2014,"1,40,000kms",Diesel,Automatic,₹8 Lakh,jaipur
+Hyundai,Hyundai Creta1.6 CRDi AT SX Plus,2018,"87,000kms",Diesel,Automatic,₹9.50 Lakh,jaipur
+Tata,Tata Nexon1.2 Revotron XZA Plus,2018,"66,000kms",Petrol,Automatic,₹7.75 Lakh,jaipur
+Maruti,Maruti ErtigaVDI,2017,"73,000kms",Diesel,Manual,₹6.50 Lakh,jaipur
+Mahindra,Mahindra XUV300W8 Diesel BSIV,2020,"99,000kms",Diesel,Manual,₹8.15 Lakh,jaipur
+Hyundai,Hyundai AuraSX CNG,2024,"31,103kms",CNG,Manual,₹7.90 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaZDi Plus AMT,2019,"82,000kms",Diesel,Automatic,₹7.75 Lakh,jaipur
+Audi,Audi A42.0 TDI Multitronic,2013,"91,000kms",Diesel,Automatic,₹7.95 Lakh,jaipur
+BMW,BMW 3 Series320d Luxury Line,2014,"1,40,000kms",Diesel,Automatic,₹8 Lakh,jaipur
+Hyundai,Hyundai Creta1.6 CRDi AT SX Plus,2018,"87,000kms",Diesel,Automatic,₹9.50 Lakh,jaipur
+Maruti,Maruti ErtigaVDI,2017,"73,000kms",Diesel,Manual,₹6.50 Lakh,jaipur
+Tata,Tata Nexon1.2 Revotron XZA Plus,2018,"66,000kms",Petrol,Automatic,₹7.75 Lakh,jaipur
+Mahindra,Mahindra XUV700AX7 AT Luxury Pack BSVI,2021,"58,993kms",Petrol,Automatic,₹14.88 Lakh,jaipur
+Mahindra,Mahindra TharLX Hard Top AT,2021,"97,339kms",Petrol,Automatic,₹10.96 Lakh,jaipur
+Mahindra,Mahindra TharLX 4WD Hard Top AT BSVI,2022,"50,000kms",Petrol,Automatic,₹11 Lakh,jaipur
+Tata,Tata Nexon EVEmpowered Plus LR,2023,"43,837kms",Electric,Automatic,₹12.90 Lakh,jaipur
+Mahindra,Mahindra TharLX 4WD Hard Top Diesel AT BSVI,2021,"52,953kms",Diesel,Automatic,₹14.25 Lakh,jaipur
+Mahindra,Mahindra ScorpioS7 140 BSIV,2020,"81,628kms",Diesel,Manual,₹12.95 Lakh,jaipur
+Mahindra,Mahindra TharLX 4WD Hard Top Diesel BSVI,2021,"58,000kms",Diesel,Manual,₹11.75 Lakh,jaipur
+Toyota,Toyota Innova Crysta2.4 G MT 8S BSIV,2018,"1,13,000kms",Diesel,Manual,₹11.50 Lakh,jaipur
+Audi,Audi Q3Design Edition 35 TDI quattro,2018,"66,000kms",Diesel,Automatic,₹20.11 Lakh,jaipur
+Audi,Audi Q2Technology,2020,"21,000kms",Petrol,Automatic,₹25 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz GLS450d 4MATIC AMG Line,2025,"19,000kms",Diesel,Automatic,₹1.15 Crore,jaipur
+Hyundai,Hyundai Creta1.6 VTVT AT SX Plus,2016,"99,170kms",Petrol,Automatic,₹5.30 Lakh,jaipur
+Mahindra,Mahindra TharLX 4WD Hard Top Diesel BSVI,2021,"58,000kms",Diesel,Manual,₹11.75 Lakh,jaipur
+Audi,Audi Q2Technology,2020,"21,000kms",Petrol,Automatic,₹25 Lakh,jaipur
+Audi,Audi Q3Design Edition 35 TDI quattro,2018,"66,000kms",Diesel,Automatic,₹20.11 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz GLS450d 4MATIC AMG Line,2025,"19,000kms",Diesel,Automatic,₹1.15 Crore,jaipur
+Volkswagen,Volkswagen PoloGT TSI,2019,"1,03,074kms",Petrol,Automatic,₹5.18 Lakh,jaipur
+Honda,Honda WR-Vi-VTEC S,2017,"1,46,319kms",Petrol,Manual,₹3.65 Lakh,jaipur
+Hyundai,Hyundai Creta1.6 VTVT AT SX Plus,2016,"99,170kms",Petrol,Automatic,₹5.30 Lakh,jaipur
+Maruti,Maruti Wagon RVXI CNG,2021,"66,851kms",CNG,Manual,₹4.74 Lakh,jaipur
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2014,"54,234kms",Petrol,Manual,₹3.80 Lakh,jaipur
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2016,"92,883kms",Petrol,Manual,₹3.84 Lakh,jaipur
+Volkswagen,Volkswagen PoloPetrol Comfortline 1.2L,2016,"73,492kms",Petrol,Manual,₹3.84 Lakh,jaipur
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2015,"71,053kms",Petrol,Manual,₹3.69 Lakh,jaipur
+Renault,Renault KigerRXT,2022,"74,623kms",Petrol,Manual,₹4.85 Lakh,jaipur
+Maruti,Maruti Swift DzireAMT VDI,2017,"93,000kms",Diesel,Automatic,₹5.50 Lakh,jaipur
+Hyundai,Hyundai Grand i101.2 CRDi Sportz,2018,"77,000kms",Diesel,Manual,₹4 Lakh,jaipur
+Hyundai,Hyundai Grand i10Sportz,2016,"71,000kms",Petrol,Manual,₹3.90 Lakh,jaipur
+Maruti,Maruti Wagon RVXI Optional,2018,"68,000kms",Petrol,Manual,₹3.90 Lakh,jaipur
+Maruti,Maruti Swift DzireAMT ZDI,2016,"80,000kms",Diesel,Automatic,₹5.50 Lakh,jaipur
+Maruti,Maruti SwiftVDI BSIV,2018,"84,000kms",Diesel,Manual,₹5 Lakh,jaipur
+Maruti,Maruti Wagon RAMT VXI,2018,"61,000kms",Petrol,Automatic,₹4.11 Lakh,jaipur
+Honda,Honda WR-Vi-DTEC VX,2017,"78,050kms",Diesel,Manual,₹4.75 Lakh,jaipur
+Maruti,Maruti Wagon RVXI Optional,2018,"68,000kms",Petrol,Manual,₹3.90 Lakh,jaipur
+Maruti,Maruti Swift DzireAMT ZDI,2016,"80,000kms",Diesel,Automatic,₹5.50 Lakh,jaipur
+Toyota,Toyota Innova2.5 G (Diesel) 7 Seater,2013,"1,00,000kms",Diesel,Manual,₹6 Lakh,jaipur
+Maruti,Maruti Wagon RVXI,2019,"70,123kms",Petrol,Manual,₹3.90 Lakh,jaipur
+Maruti,Maruti CiazZDi,2015,"82,000kms",Diesel,Manual,₹5 Lakh,jaipur
+Maruti,Maruti SwiftVDI BSIV,2018,"84,000kms",Diesel,Manual,₹5 Lakh,jaipur
+Maruti,Maruti Wagon RAMT VXI,2018,"61,000kms",Petrol,Automatic,₹4.11 Lakh,jaipur
+Mahindra,Mahindra Ssangyong RextonRX7,2014,"1,35,000kms",Diesel,Automatic,₹4.50 Lakh,jaipur
+Honda,Honda WR-Vi-DTEC VX,2018,"72,000kms",Diesel,Manual,₹5 Lakh,jaipur
+Maruti,Maruti SwiftLXI Option,2016,"80,000kms",Petrol,Manual,₹3.95 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz E-Class280 CDI Elegance,2009,"95,000kms",Diesel,Automatic,₹5.45 Lakh,jaipur
+Maruti,Maruti Swift DzireAMT VDI,2017,"93,000kms",Diesel,Automatic,₹5.50 Lakh,jaipur
+Honda,Honda Cityi DTEC V,2014,"65,000kms",Diesel,Manual,₹5 Lakh,jaipur
+Hyundai,Hyundai AuraS CNG,2024,"47,928kms",CNG,Manual,₹5.90 Lakh,jaipur
+Mahindra,Mahindra ScorpioS 11 BSVI,2022,"91,000kms",Diesel,Manual,₹15.50 Lakh,jaipur
+Toyota,Toyota Innova Crysta2.8 GX AT BSIV,2017,"46,109kms",Diesel,Automatic,₹15.25 Lakh,jaipur
+BMW,BMW 5 Series520d Luxury Line,2020,"38,000kms",Diesel,Automatic,₹40 Lakh,jaipur
+Toyota,Toyota Fortuner2.8 2WD MT BSIV,2018,"81,000kms",Diesel,Manual,₹26.11 Lakh,jaipur
+Mahindra,Mahindra XEV 9ePack Three,2025,"11,000kms",Electric,Automatic,₹28 Lakh,jaipur
+Mahindra,Mahindra ScorpioS 11 BSVI,2022,"91,000kms",Diesel,Manual,₹15.50 Lakh,jaipur
+Toyota,Toyota Innova Crysta2.8 GX AT BSIV,2017,"46,109kms",Diesel,Automatic,₹15.25 Lakh,jaipur
+BMW,BMW 5 Series520d Luxury Line,2020,"38,000kms",Diesel,Automatic,₹40 Lakh,jaipur
+Toyota,Toyota Fortuner2.8 2WD MT BSIV,2018,"81,000kms",Diesel,Manual,₹26.11 Lakh,jaipur
+Mahindra,Mahindra XEV 9ePack Three,2025,"11,000kms",Electric,Automatic,₹28 Lakh,jaipur
+Maruti,Maruti Alto 800LXI,2018,"95,111kms",Petrol,Manual,₹2.45 Lakh,jaipur
+Maruti,Maruti Alto 800LXI,2017,"81,982kms",Petrol,Manual,₹2.30 Lakh,jaipur
+Maruti,Maruti FRONXAlpha Turbo AT,2023,"59,727kms",Petrol,Automatic,₹9.44 Lakh,jaipur
+Toyota,Toyota Urban cruiserHigh AT,2020,"34,000kms",Petrol,Automatic,₹7.99 Lakh,jaipur
+Kia,Kia SonetGTX Plus Diesel AT BSVI,2020,"80,382kms",Diesel,Automatic,₹8.99 Lakh,jaipur
+Hyundai,Hyundai Creta1.6 SX Automatic,2018,"89,000kms",Petrol,Automatic,₹7.75 Lakh,jaipur
+Audi,Audi A435 TDI Premium Plus,2015,"65,106kms",Diesel,Automatic,₹14.14 Lakh,jaipur
+Mahindra,Mahindra TharLX 4WD Convert Top Diesel BSVI,2021,"34,436kms",Diesel,Manual,₹11.45 Lakh,jaipur
+Mahindra,Mahindra TharLX 4WD Hard Top Diesel BSVI,2021,"37,850kms",Diesel,Manual,₹12.75 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz GLA Class200,2017,"50,000kms",Petrol,Automatic,₹15 Lakh,jaipur
+Jaguar,Jaguar XF2.2 Litre Luxury,2013,"76,830kms",Diesel,Automatic,₹11.90 Lakh,jaipur
+Jaguar,Jaguar XF2.2 Litre Luxury,2015,"96,585kms",Diesel,Automatic,₹14.50 Lakh,jaipur
+Mahindra,Mahindra ScorpioS11 BSIV,2018,"85,000kms",Diesel,Manual,₹14 Lakh,jaipur
+Mahindra,Mahindra ScorpioS11 BSIV,2017,"1,03,000kms",Diesel,Manual,₹12 Lakh,jaipur
+Mahindra,Mahindra TharLX 4WD Hard Top Diesel BSVI,2022,"27,000kms",Diesel,Manual,₹14.25 Lakh,jaipur
+Jaguar,Jaguar XF2.2 Litre Luxury,2013,"76,830kms",Diesel,Automatic,₹11.90 Lakh,jaipur
+Jaguar,Jaguar XF2.2 Litre Luxury,2015,"96,585kms",Diesel,Automatic,₹14.50 Lakh,jaipur
+Mahindra,Mahindra ScorpioS11 BSIV,2017,"1,03,000kms",Diesel,Manual,₹12 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz GLA Class200,2017,"50,000kms",Petrol,Automatic,₹15 Lakh,jaipur
+Mahindra,Mahindra TharLX 4WD Hard Top Diesel BSVI,2022,"27,000kms",Diesel,Manual,₹14.25 Lakh,jaipur
+Mahindra,Mahindra TharLX 4WD Hard Top Diesel AT BSVI,2022,"52,000kms",Diesel,Automatic,₹14.25 Lakh,jaipur
+Volkswagen,Volkswagen Polo1.5 TDI Highline,2014,"93,000kms",Diesel,Manual,₹3.40 Lakh,jaipur
+Hyundai,Hyundai AuraS Diesel,2020,"1,00,000kms",Diesel,Manual,₹4.75 Lakh,jaipur
+Tata,Tata Tigor EVXT,2022,"51,000kms",Electric,Automatic,₹5.50 Lakh,jaipur
+Volkswagen,Volkswagen Polo1.2 MPI Highline,2017,"72,000kms",Petrol,Manual,₹4.25 Lakh,jaipur
+Volkswagen,Volkswagen Polo1.5 TDI Comfortline,2015,"1,06,000kms",Diesel,Manual,₹2.55 Lakh,jaipur
+Chevrolet,Chevrolet BeatDiesel PS,2016,"56,000kms",Diesel,Manual,₹1.90 Lakh,jaipur
+,Fiat Punto1.2 Dynamic,2012,"55,000kms",Petrol,Manual,₹1.55 Lakh,jaipur
+BMW,BMW 3 SeriesGT 320d Luxury Line,2014,"79,128kms",Diesel,Automatic,₹11.50 Lakh,jaipur
+BMW,BMW 5 Series520d Sedan,2012,"1,18,000kms",Diesel,Automatic,₹11 Lakh,jaipur
+Land Rover,Land Rover Freelander 2TD4 SE,2012,"1,23,500kms",Diesel,Automatic,₹11.50 Lakh,jaipur
+Hyundai,Hyundai VenueSX Opt Turbo DCT Special Edition,2021,"37,050kms",Petrol,Automatic,₹9.18 Lakh,jaipur
+Audi,Audi Q32.0 TDI,2013,"73,497kms",Diesel,Automatic,₹9.90 Lakh,jaipur
+Mahindra,Mahindra XUV500AT W10 FWD,2018,"62,413kms",Diesel,Automatic,₹9 Lakh,jaipur
+Audi,Audi A62.0 TDI,2014,"52,613kms",Diesel,Automatic,₹9.75 Lakh,jaipur
+BMW,BMW 5 Series520d Sedan,2012,"1,18,000kms",Diesel,Automatic,₹11 Lakh,jaipur
+Hyundai,Hyundai VenueSX Opt Turbo DCT Special Edition,2021,"37,050kms",Petrol,Automatic,₹9.18 Lakh,jaipur
+BMW,BMW X1xDrive 20d xLine,2016,"61,121kms",Diesel,Automatic,₹20 Lakh,jaipur
+Audi,Audi A62.0 TDI,2014,"52,613kms",Diesel,Automatic,₹9.75 Lakh,jaipur
+Audi,Audi Q32.0 TDI,2013,"73,497kms",Diesel,Automatic,₹9.90 Lakh,jaipur
+Mahindra,Mahindra XUV500AT W10 FWD,2018,"62,413kms",Diesel,Automatic,₹9 Lakh,jaipur
+Audi,Audi Q335 TDI Dynamic Edition,2015,"1,10,000kms",Diesel,Automatic,₹9 Lakh,jaipur
+Maruti,Maruti Alto 800VXI,2016,"55,877kms",Petrol,Manual,₹1.99 Lakh,jaipur
+Hyundai,Hyundai i10Era,2011,"81,000kms",Petrol,Manual,₹1.95 Lakh,jaipur
+Hyundai,Hyundai Santro XingGLS AT,2007,"85,000kms",Petrol,Automatic,₹1.70 Lakh,jaipur
+Ford,Ford FigoPetrol EXI,2011,"84,000kms",Petrol,Manual,₹2 Lakh,jaipur
+Hyundai,Hyundai i10Magna,2012,"78,000kms",Petrol,Manual,₹1.85 Lakh,jaipur
+Tata,Tata HarrierXZA Plus (O) AT,2021,"94,435kms",Diesel,Automatic,₹14 Lakh,jaipur
+Toyota,Toyota Innova2.5 GX 8 STR,2012,"1,24,684kms",Diesel,Manual,₹4.95 Lakh,jaipur
+Volkswagen,Volkswagen Polo1.2 MPI Comfortline,2018,"60,123kms",Petrol,Manual,₹4.40 Lakh,jaipur
+Tata,Tata Tiago EVXT LR,2023,"56,000kms",Electric,Automatic,₹7 Lakh,jaipur
+Mahindra,Mahindra TharLX 4WD Convert Top Diesel AT BSVI,2021,"60,890kms",Diesel,Automatic,₹9.95 Lakh,jaipur
+Tata,Tata HarrierXZ BSIV,2019,"15,500kms",Diesel,Manual,₹14 Lakh,jaipur
+MG,MG HectorSharp CVT,2023,"27,000kms",Petrol,Automatic,₹16.50 Lakh,jaipur
+MG,2024MG Hector PlusSharp Pro CVT 7 Str  -2025,2023,"30,000kms",Petrol,Automatic,₹18 Lakh,jaipur
+Tata,Tata Tiago EVXT LR,2023,"56,000kms",Electric,Automatic,₹7 Lakh,jaipur
+Mahindra,Mahindra TharLX 4WD Convert Top Diesel AT BSVI,2021,"60,890kms",Diesel,Automatic,₹9.95 Lakh,jaipur
+Tata,Tata HarrierXZ BSIV,2019,"15,500kms",Diesel,Manual,₹14 Lakh,jaipur
+MG,MG HectorSharp CVT,2023,"27,000kms",Petrol,Automatic,₹16.50 Lakh,jaipur
+MG,2024MG Hector PlusSharp Pro CVT 7 Str  -2025,2023,"30,000kms",Petrol,Automatic,₹18 Lakh,jaipur
+Kia,Kia CarensPremium,2023,"10,000kms",Petrol,Manual,₹8.90 Lakh,jaipur
+Hyundai,Hyundai VenueS Plus,2025,"16,500kms",Petrol,Manual,₹10.05 Lakh,jaipur
+Maruti,Maruti Grand VitaraDelta AT,2025,"10,000kms",Petrol,Automatic,₹14.25 Lakh,jaipur
+Maruti,Maruti Wagon RVXI BS IV,2017,"98,000kms",Petrol,Manual,₹2.98 Lakh,jaipur
+Honda,Honda Amaze 2nd GenVX CVT,2023,"20,000kms",Petrol,Automatic,₹9 Lakh,jaipur
+Maruti,Maruti Wagon RVXI BS IV,2013,"1,03,000kms",Petrol,Manual,₹2.50 Lakh,jaipur
+Maruti,Maruti Alto 800LXI,2018,"70,000kms",Petrol,Manual,₹2.50 Lakh,jaipur
+Volkswagen,Volkswagen Taigun1.0 Topline AT,2023,"40,000kms",Petrol,Automatic,₹14 Lakh,jaipur
+Volkswagen,Volkswagen Taigun1.0 GT Line,2024,"19,700kms",Petrol,Manual,₹14.50 Lakh,jaipur
+Kia,Kia SeltosGTX Plus Diesel AT,2020,"1,00,000kms",Diesel,Automatic,₹13.72 Lakh,jaipur
+Maruti,Maruti Grand VitaraDelta,2025,"40,000kms",Petrol,Manual,₹13 Lakh,jaipur
+Toyota,Toyota Innova Crysta2.4 G MT BSIV,2018,"1,20,000kms",Diesel,Manual,₹15 Lakh,jaipur
+Skoda,Skoda Kushaq1.0 TSI Matte Edition,2024,"29,000kms",Petrol,Manual,₹13.50 Lakh,jaipur
+Hyundai,Hyundai VernaSX Diesel,2021,"1,20,000kms",Diesel,Manual,₹11 Lakh,jaipur
+Toyota,Toyota Fortuner4x4 AT,2016,"1,60,000kms",Diesel,Automatic,₹12.45 Lakh,jaipur
+Toyota,Toyota Innova Crysta2.4 G MT BSIV,2018,"1,20,000kms",Diesel,Manual,₹15 Lakh,jaipur
+Skoda,Skoda Kushaq1.0 TSI Matte Edition,2024,"29,000kms",Petrol,Manual,₹13.50 Lakh,jaipur
+Toyota,Toyota Fortuner4x4 AT,2016,"1,60,000kms",Diesel,Automatic,₹12.45 Lakh,jaipur
+Toyota,Toyota Innova Crysta2.8 ZX AT BSIV,2017,"1,50,000kms",Diesel,Automatic,₹15 Lakh,jaipur
+Kia,Kia SeltosHTK Diesel,2019,"44,000kms",Diesel,Manual,₹11 Lakh,jaipur
+Toyota,Toyota Innova Crysta2.4 VX MT 8S BSIV,2018,"1,20,000kms",Diesel,Manual,₹15 Lakh,jaipur
+Hyundai,Hyundai VernaSX Diesel,2021,"1,20,000kms",Diesel,Manual,₹11 Lakh,jaipur
+Mahindra,Mahindra TharLX 4WD Hard Top BSVI,2021,"20,000kms",Petrol,Manual,₹12.50 Lakh,jaipur
+Kia,Kia SeltosHTX Plus Diesel,2022,"86,000kms",Diesel,Manual,₹14.25 Lakh,jaipur
+Hyundai,Hyundai KonaPremium,2022,"2,30,000kms",Electric,Automatic,₹10.50 Lakh,jaipur
+Tata,Tata HarrierXZ BSVI,2022,"80,000kms",Diesel,Manual,₹13.50 Lakh,jaipur
+Maruti,Maruti Grand VitaraDelta,2025,"40,000kms",Petrol,Manual,₹13 Lakh,jaipur
+Kia,Kia SeltosHTK Plus G,2019,"65,000kms",Petrol,Manual,₹8.45 Lakh,jaipur
+Maruti,Maruti Alto 800VXI BSVI,2019,"1,60,000kms",Petrol,Manual,₹2.90 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaZDi Plus,2017,"1,60,000kms",Diesel,Manual,₹6 Lakh,jaipur
+Honda,Honda AmazeS i-DTEC,2017,"70,000kms",Diesel,Manual,₹3.85 Lakh,jaipur
+Maruti,Maruti Alto K10VXI,2015,"70,000kms",Petrol,Manual,₹2.30 Lakh,jaipur
+Maruti,Maruti Alto K10VXI,2016,"99,000kms",Petrol,Manual,₹2.74 Lakh,jaipur
+Maruti,Maruti SwiftLXi,2024,"20,000kms",Petrol,Manual,₹6 Lakh,jaipur
+Tata,Tata HarrierXZ Dark Edition BSIV,2019,"60,000kms",Diesel,Manual,₹9.50 Lakh,jaipur
+Honda,Honda AmazeS i-DTEC,2017,"70,000kms",Diesel,Manual,₹3.85 Lakh,jaipur
+Maruti,Maruti Alto K10VXI,2015,"70,000kms",Petrol,Manual,₹2.30 Lakh,jaipur
+Maruti,Maruti Alto K10VXI,2016,"99,000kms",Petrol,Manual,₹2.74 Lakh,jaipur
+Maruti,Maruti SwiftLXi,2024,"20,000kms",Petrol,Manual,₹6 Lakh,jaipur
+Tata,Tata HarrierXZ Dark Edition BSIV,2019,"60,000kms",Diesel,Manual,₹9.50 Lakh,jaipur
+Maruti,Maruti Alto 800LXI,2016,"60,000kms",Petrol,Manual,₹2.31 Lakh,jaipur
+Maruti,Maruti IgnisZeta BSVI,2022,"30,000kms",Petrol,Manual,₹4.80 Lakh,jaipur
+Hyundai,Hyundai AuraSX,2020,"60,000kms",Petrol,Manual,₹4.70 Lakh,jaipur
+Maruti,Maruti Swift DzireVDI,2012,"1,00,000kms",Diesel,Manual,₹3.20 Lakh,jaipur
+Ford,Ford Aspire1.5 TDCi Trend,2016,"1,50,000kms",Diesel,Manual,₹2.50 Lakh,jaipur
+Mercedes-Benz,Mercedes-Benz E-ClassE250 CDI Avantgarde,2011,"80,000kms",Diesel,Automatic,₹8 Lakh,jaipur
+Tata,Tata SafariAdventure Plus Dark,2025,"10,000kms",Diesel,Manual,₹23 Lakh,jaipur
+Maruti,2013Maruti Alto K10 -2014 VXI,2010,"1,00,000kms",Petrol,Manual,₹2.30 Lakh,jaipur
+Maruti,Maruti SwiftVXI,2011,"50,000kms",Petrol,Manual,₹2.95 Lakh,jaipur
+Maruti,Maruti Wagon RLXI BS IV,2014,"70,000kms",Petrol,Manual,₹2.60 Lakh,jaipur
+Hyundai,Hyundai i10Magna,2013,"90,000kms",Petrol,Manual,₹3 Lakh,jaipur
+Hyundai,Hyundai EONMagna Plus,2017,"50,000kms",Petrol,Manual,₹2.60 Lakh,jaipur
+Renault,Renault KWID1.0 RXT,2017,"70,000kms",Petrol,Manual,₹2.50 Lakh,jaipur
+Skoda,Skoda LauraRS,2011,"1,00,000kms",Petrol,Manual,₹2.50 Lakh,jaipur
+Hyundai,Hyundai i201.2 Sportz,2012,"1,00,000kms",Petrol,Manual,₹2.47 Lakh,jaipur
+Hyundai,Hyundai i10Magna,2013,"90,000kms",Petrol,Manual,₹3 Lakh,jaipur
+Hyundai,Hyundai EONMagna Plus,2017,"50,000kms",Petrol,Manual,₹2.60 Lakh,jaipur
+Renault,Renault KWID1.0 RXT,2017,"70,000kms",Petrol,Manual,₹2.50 Lakh,jaipur
+Skoda,Skoda LauraRS,2011,"1,00,000kms",Petrol,Manual,₹2.50 Lakh,jaipur
+Hyundai,Hyundai i201.2 Sportz,2012,"1,00,000kms",Petrol,Manual,₹2.47 Lakh,jaipur
+Ford,Ford FigoDiesel ZXI,2012,"1,50,000kms",Diesel,Manual,₹3 Lakh,jaipur
+Honda,Honda AmazeE i-Dtech,2013,"1,00,000kms",Diesel,Manual,₹2.50 Lakh,jaipur
+Hyundai,Hyundai i10Sportz,2013,"90,000kms",Petrol,Manual,₹3 Lakh,jaipur
+Renault,Renault Duster110PS Diesel RxL,2012,"90,000kms",Diesel,Manual,₹2.50 Lakh,jaipur
+Ford,Ford Aspire1.2 Ti-VCT Ambiente ABS,2018,"1,00,000kms",Petrol,Manual,₹3 Lakh,jaipur
+Hyundai,Hyundai EONEra,2012,"1,02,000kms",Petrol,Manual,₹1.75 Lakh,jaipur
+Maruti,Maruti Alto K10VXI,2014,"79,500kms",Petrol,Manual,₹2.30 Lakh,jaipur
+Maruti,Maruti Swift DzireVDi,2011,"1,20,000kms",Diesel,Manual,₹2.50 Lakh,jaipur
+Maruti,Maruti Alto 800LXI,2018,"87,000kms",Petrol,Manual,₹2.70 Lakh,jaipur
+Maruti,Maruti Alto 800LXI,2014,"80,000kms",Petrol,Manual,₹2.10 Lakh,jaipur
+Maruti,Maruti Alto K10VXI Optional,2017,"1,20,000kms",Petrol,Manual,₹2.75 Lakh,jaipur
+Renault,Renault Duster85PS Diesel RxE,2015,"1,96,000kms",Diesel,Manual,₹3 Lakh,jaipur
+Maruti,Maruti Alto 800LXI,2017,"95,000kms",Petrol,Manual,₹2.25 Lakh,jaipur
+Hyundai,Hyundai i201.2 Asta,2011,"37,000kms",Petrol,Manual,₹2.60 Lakh,jaipur
+Nissan,Nissan X-TrailLE,2011,"1,35,000kms",Diesel,Manual,₹2.50 Lakh,jaipur
+Maruti,Maruti Alto K10VXI Optional,2017,"1,20,000kms",Petrol,Manual,₹2.75 Lakh,jaipur
+Renault,Renault Duster85PS Diesel RxE,2015,"1,96,000kms",Diesel,Manual,₹3 Lakh,jaipur
+Maruti,Maruti Alto 800LXI,2017,"95,000kms",Petrol,Manual,₹2.25 Lakh,jaipur
+Hyundai,Hyundai i201.2 Asta,2011,"37,000kms",Petrol,Manual,₹2.60 Lakh,jaipur
+Nissan,Nissan X-TrailLE,2011,"1,35,000kms",Diesel,Manual,₹2.50 Lakh,jaipur
+Renault,Renault Duster85PS Diesel RxE,2015,"1,60,000kms",Diesel,Manual,₹2.35 Lakh,jaipur
+Maruti,Maruti SwiftVDI,2012,"1,05,000kms",Diesel,Manual,₹3 Lakh,jaipur
+Renault,Renault DusterRXZ AWD,2013,"1,50,000kms",Diesel,Manual,₹3 Lakh,jaipur
+Mahindra,Mahindra XUV500W8 2WD,2013,"1,60,000kms",Diesel,Manual,₹4 Lakh,jaipur
+Tata,Tata HarrierXZ BSIV,2019,"1,20,000kms",Diesel,Manual,₹8.50 Lakh,jaipur
+Honda,Honda AmazeVX Petrol,2020,"1,05,000kms",Petrol,Manual,₹4.50 Lakh,jaipur
+Maruti,Maruti Swift DzireVDI,2015,"1,60,000kms",Diesel,Manual,₹4 Lakh,jaipur
+Renault,Renault DusterSANDSTORM RXS 85 PS,2017,"55,000kms",Diesel,Manual,₹4 Lakh,jaipur
+Hyundai,Hyundai Verna1.4 CRDi,2013,"1,60,000kms",Diesel,Manual,₹4.12 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaZDi Plus,2018,"1,70,000kms",Diesel,Manual,₹6.50 Lakh,jaipur
+Kia,Kia SeltosHTX Diesel,2020,"80,000kms",Diesel,Manual,₹10 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaZDi Plus,2018,"80,000kms",Diesel,Manual,₹7.50 Lakh,jaipur
+Tata,Tata HarrierXM BSIV,2020,"78,000kms",Diesel,Manual,₹8.50 Lakh,jaipur
+Hyundai,Hyundai Creta1.4 CRDi S,2018,"1,00,000kms",Diesel,Manual,₹8 Lakh,jaipur
+Honda,Honda AmazeVX i-VTEC,2018,"10,000kms",Petrol,Manual,₹6.50 Lakh,jaipur
+Honda,Honda CityZX CVT,2020,"91,000kms",Petrol,Automatic,₹8.50 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaZDi Plus,2018,"80,000kms",Diesel,Manual,₹7.50 Lakh,jaipur
+Honda,Honda AmazeVX i-VTEC,2018,"10,000kms",Petrol,Manual,₹6.50 Lakh,jaipur
+Mahindra,Mahindra TUV 300mHAWK100 T8,2018,"73,000kms",Diesel,Manual,₹9 Lakh,jaipur
+Mahindra,Mahindra XUV500W11 FWD Diesel,2018,"1,00,000kms",Diesel,Manual,₹8.20 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaVDi,2020,"70,000kms",Diesel,Manual,₹7.50 Lakh,jaipur
+Hyundai,Hyundai Creta1.6 SX,2019,"1,00,000kms",Petrol,Manual,₹8.50 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaVXI,2020,"70,000kms",Petrol,Manual,₹7 Lakh,jaipur
+Honda,Honda AmazeVX,2025,"10,000kms",Petrol,Manual,₹8.89 Lakh,jaipur
+Jeep,Jeep Compass2.0 Limited 4X4,2017,"9,20,000kms",Diesel,Manual,₹9.80 Lakh,jaipur
+Maruti,Maruti XL6Zeta,2022,"60,000kms",Petrol,Manual,₹9 Lakh,jaipur
+MG,MG AstorSharp BSVI,2022,"50,000kms",Petrol,Manual,₹8.80 Lakh,jaipur
+Hyundai,Hyundai Creta1.4 CRDi S,2018,"1,00,000kms",Diesel,Manual,₹8 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaZDi Plus,2018,"1,70,000kms",Diesel,Manual,₹6.50 Lakh,jaipur
+Kia,Kia SeltosHTX Diesel,2020,"80,000kms",Diesel,Manual,₹10 Lakh,jaipur
+Hyundai,Hyundai ExterSX AMT,2023,"10,000kms",Petrol,Automatic,₹7.85 Lakh,jaipur
+Tata,Tata HarrierXM BSIV,2020,"78,000kms",Diesel,Manual,₹8.50 Lakh,jaipur
+Renault,Renault KigerRXZ AMT,2023,"33,000kms",Petrol,Automatic,₹7 Lakh,jaipur
+Maruti,Maruti BrezzaLxi,2025,"6,000kms",Petrol,Manual,₹9.50 Lakh,jaipur
+Kia,Kia SeltosHTX G,2021,"60,000kms",Petrol,Manual,₹9.50 Lakh,jaipur
+Jeep,Jeep Compass2.0 Limited 4X4,2017,"9,20,000kms",Diesel,Manual,₹9.80 Lakh,jaipur
+Mahindra,Mahindra XUV500W11 FWD Diesel,2018,"1,00,000kms",Diesel,Manual,₹8.20 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaVDi,2020,"70,000kms",Diesel,Manual,₹7.50 Lakh,jaipur
+Hyundai,Hyundai Creta1.6 SX,2019,"1,00,000kms",Petrol,Manual,₹8.50 Lakh,jaipur
+Kia,Kia SeltosHTX G,2021,"60,000kms",Petrol,Manual,₹9.50 Lakh,jaipur
+Maruti,Maruti BrezzaLxi,2025,"6,000kms",Petrol,Manual,₹9.50 Lakh,jaipur
+Maruti,Maruti IgnisDelta BSVI,2020,"50,000kms",Petrol,Manual,₹4.20 Lakh,jaipur
+Maruti,Maruti Swift DzireVDI,2015,"1,20,000kms",Diesel,Manual,₹3.85 Lakh,jaipur
+Volkswagen,Volkswagen Ameo1.5 TDI Highline Plus,2017,"1,60,000kms",Diesel,Manual,₹4 Lakh,jaipur
+Renault,Renault DusterRXZ AWD,2012,"1,50,000kms",Diesel,Manual,₹4.50 Lakh,jaipur
+Maruti,Maruti Swift DzireVXI 1.2,2020,"60,000kms",Petrol,Manual,₹4.70 Lakh,jaipur
+Maruti,Maruti Swift DzireVDI,2012,"70,000kms",Diesel,Manual,₹3.10 Lakh,jaipur
+Honda,Honda AmazeS Petrol BSIV,2019,"42,000kms",Petrol,Manual,₹4.60 Lakh,jaipur
+Maruti,Maruti Baleno1.2 Delta,2018,"50,000kms",Petrol,Manual,₹5 Lakh,jaipur
+Maruti,Maruti Swift DzireVDI,2012,"1,50,000kms",Diesel,Manual,₹3.50 Lakh,jaipur
+Mahindra,Mahindra XUV500W8 2WD,2013,"1,20,000kms",Diesel,Manual,₹4.25 Lakh,jaipur
+Hyundai,Hyundai Grand i10 NiosSportz,2021,"60,000kms",Petrol,Manual,₹5.20 Lakh,jaipur
+Tata,Tata AltrozXZ BSVI,2020,"80,000kms",Petrol,Manual,₹4.90 Lakh,jaipur
+Hyundai,Hyundai Verna1.6 CRDi S,2016,"1,30,000kms",Diesel,Manual,₹5 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaVXI,2020,"1,20,000kms",Petrol,Manual,₹5.90 Lakh,jaipur
+Mahindra,Mahindra XUV500W8 2WD,2013,"1,20,000kms",Diesel,Manual,₹4.25 Lakh,jaipur
+Hyundai,Hyundai Grand i10 NiosSportz,2021,"60,000kms",Petrol,Manual,₹5.20 Lakh,jaipur
+Tata,Tata AltrozXZ BSVI,2020,"80,000kms",Petrol,Manual,₹4.90 Lakh,jaipur
+Hyundai,Hyundai Verna1.6 CRDi S,2016,"1,30,000kms",Diesel,Manual,₹5 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaVXI,2020,"1,20,000kms",Petrol,Manual,₹5.90 Lakh,jaipur
+Mahindra,Mahindra TUV 300T4 Plus,2017,"40,000kms",Diesel,Manual,₹5.50 Lakh,jaipur
+Maruti,Maruti S CrossDDiS 200 Alpha,2015,"86,000kms",Diesel,Manual,₹4.05 Lakh,jaipur
+Nissan,Nissan KicksXV Premium D BSIV,2019,"60,000kms",Diesel,Manual,₹5 Lakh,jaipur
+Tata,Tata AltrozXZ BSVI,2020,"1,00,000kms",Petrol,Manual,₹4.75 Lakh,jaipur
+Toyota,Toyota EtiosGD,2015,"21,000kms",Diesel,Manual,₹5.40 Lakh,jaipur
+Maruti,Maruti Swift DzireVDI,2017,"1,50,000kms",Diesel,Manual,₹5 Lakh,jaipur
+Maruti,Maruti Swift DzireVDI,2014,"1,37,000kms",Diesel,Manual,₹4 Lakh,jaipur
+Ford,Ford Ecosport1.5 Petrol Titanium Plus AT BSIV,2017,"50,000kms",Petrol,Automatic,₹5.50 Lakh,jaipur
+Maruti,Maruti BalenoDelta,2021,"70,000kms",Petrol,Manual,₹5 Lakh,jaipur
+Ford,Ford Ecosport1.5 DV5 MT Titanium Optional,2013,"70,000kms",Diesel,Manual,₹3.51 Lakh,jaipur
+Maruti,Maruti CiazVDi Plus SHVS,2016,"90,000kms",Diesel,Manual,₹4.50 Lakh,jaipur
+Maruti,Maruti CelerioZXI Plus AMT BSVI,2022,"33,300kms",Petrol,Automatic,₹5 Lakh,jaipur
+Maruti,Maruti BalenoSigma,2020,"70,000kms",Petrol,Manual,₹4.50 Lakh,jaipur
+Maruti,2021Maruti S-PressoVXI  -2022,2019,"20,000kms",Petrol,Manual,₹4 Lakh,jaipur
+Tata,Tata Tiago NRGXZ BSVI,2021,"81,130kms",Petrol,Manual,₹3.97 Lakh,jaipur
+Ford,Ford Ecosport1.5 DV5 MT Titanium Optional,2013,"70,000kms",Diesel,Manual,₹3.51 Lakh,jaipur
+Maruti,Maruti CiazVDi Plus SHVS,2016,"90,000kms",Diesel,Manual,₹4.50 Lakh,jaipur
+Mahindra,Mahindra XUV500W6 2WD,2012,"1,51,557kms",Diesel,Manual,₹3.50 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaVDi Option,2018,"1,60,000kms",Diesel,Manual,₹6 Lakh,jaipur
+Maruti,Maruti Wagon RVXI,2020,"1,84,000kms",Petrol,Manual,₹3.90 Lakh,jaipur
+Ford,Ford Ecosport1.5 Petrol Titanium Plus AT BSIV,2017,"50,000kms",Petrol,Automatic,₹5.50 Lakh,jaipur
+Tata,Tata Tiago NRGXZ BSVI,2021,"81,130kms",Petrol,Manual,₹3.97 Lakh,jaipur
+Ford,Ford Ecosport1.5 DV5 MT Ambiente,2014,"40,000kms",Diesel,Manual,₹4 Lakh,jaipur
+Nissan,Nissan KicksXV Premium D BSIV,2019,"60,000kms",Diesel,Manual,₹5 Lakh,jaipur
+Hyundai,Hyundai Verna1.6 CRDi S,2016,"1,30,000kms",Diesel,Manual,₹5 Lakh,jaipur
+Renault,Renault DusterRXZ AWD,2012,"1,50,000kms",Diesel,Manual,₹4.50 Lakh,jaipur
+Maruti,Maruti Swift DzireVXI 1.2,2020,"60,000kms",Petrol,Manual,₹4.70 Lakh,jaipur
+Honda,Honda AmazeS Petrol BSIV,2019,"42,000kms",Petrol,Manual,₹4.60 Lakh,jaipur
+Toyota,Toyota EtiosGD,2015,"21,000kms",Diesel,Manual,₹5.40 Lakh,jaipur
+Volkswagen,Volkswagen Ameo1.5 TDI Highline Plus,2017,"1,60,000kms",Diesel,Manual,₹4 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaVXI,2020,"1,20,000kms",Petrol,Manual,₹5.90 Lakh,jaipur
+Mahindra,Mahindra TUV 300T4 Plus,2017,"40,000kms",Diesel,Manual,₹5.50 Lakh,jaipur
+Tata,Tata AltrozXZ BSVI,2020,"80,000kms",Petrol,Manual,₹4.90 Lakh,jaipur
+Maruti,Maruti Swift DzireVDI,2012,"70,000kms",Diesel,Manual,₹3.10 Lakh,jaipur
+Hyundai,Hyundai Verna1.6 SX,2013,"98,000kms",Diesel,Manual,₹4 Lakh,jaipur
+Mahindra,Mahindra XUV500W6 2WD,2012,"1,51,557kms",Diesel,Manual,₹3.50 Lakh,jaipur
+Honda,Honda AmazeS Petrol BSIV,2019,"90,000kms",Petrol,Manual,₹4.50 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaVDi Option,2018,"1,60,000kms",Diesel,Manual,₹6 Lakh,jaipur
+Maruti,Maruti Wagon RVXI,2020,"1,84,000kms",Petrol,Manual,₹3.90 Lakh,jaipur
+Maruti,Maruti Wagon RVXI,2021,"60,000kms",Petrol,Manual,₹4.30 Lakh,jaipur
+Maruti,Maruti CiazVDi,2015,"1,50,000kms",Diesel,Manual,₹3.50 Lakh,jaipur
+Hyundai,Hyundai i20Sportz Plus BSIV,2020,"90,000kms",Petrol,Manual,₹4.50 Lakh,jaipur
+Renault,Renault TriberRXT BSIV,2019,"60,000kms",Petrol,Manual,₹4 Lakh,jaipur
+Honda,Honda AmazeS i-VTEC,2018,"40,000kms",Petrol,Manual,₹4.50 Lakh,jaipur
+Mahindra,Mahindra XUV500W8 4WD,2012,"90,000kms",Diesel,Manual,₹4.40 Lakh,jaipur
+Hyundai,Hyundai Grand i10 NiosSportz,2023,"40,000kms",Petrol,Manual,₹5.55 Lakh,jaipur
+Hyundai,Hyundai Santa Fe2WD AT,2014,"1,60,000kms",Diesel,Automatic,₹4.90 Lakh,jaipur
+Tata,Tata Nexon1.2 Revotron XZA Plus,2019,"60,000kms",Petrol,Automatic,₹6 Lakh,jaipur
+Honda,Honda Cityi DTEC VX,2014,"80,000kms",Diesel,Manual,₹4.50 Lakh,jaipur
+Mahindra,Mahindra TUV 300T8,2017,"1,20,000kms",Diesel,Manual,₹4.90 Lakh,jaipur
+Maruti,Maruti Swift DzireVDI,2013,"1,65,000kms",Diesel,Manual,₹3.50 Lakh,jaipur
+Mahindra,Mahindra XUV500W6 2WD,2014,"1,50,000kms",Diesel,Manual,₹5 Lakh,jaipur
+Maruti,Maruti Wagon RAMT VXI,2016,"16,000kms",Petrol,Automatic,₹3.50 Lakh,jaipur
+Audi,Audi Q7Technology,2023,"29,000kms",Petrol,Automatic,₹69 Lakh,jaipur
+Maruti,Maruti Grand VitaraAlpha Plus Hybrid CVT,2025,"1,000kms",Petrol,Automatic,₹20.90 Lakh,jaipur
+Maruti,Maruti Swift DzireVDI,2013,"1,65,000kms",Diesel,Manual,₹3.50 Lakh,jaipur
+Mahindra,Mahindra XUV500W6 2WD,2014,"1,50,000kms",Diesel,Manual,₹5 Lakh,jaipur
+Maruti,Maruti Wagon RAMT VXI,2016,"16,000kms",Petrol,Automatic,₹3.50 Lakh,jaipur
+Audi,Audi Q7Technology,2023,"29,000kms",Petrol,Automatic,₹69 Lakh,jaipur
+Maruti,Maruti Grand VitaraAlpha Plus Hybrid CVT,2025,"1,000kms",Petrol,Automatic,₹20.90 Lakh,jaipur
+Mahindra,Mahindra XUV700AX7 Diesel BSVI,2023,"1,00,000kms",Diesel,Manual,₹17.25 Lakh,jaipur
+Jeep,Jeep Compass2.0 Night Eagle AT,2024,"18,000kms",Diesel,Automatic,₹23 Lakh,jaipur
+Tata,Tata HarrierXZA Plus AT,2023,"20,000kms",Diesel,Automatic,₹20 Lakh,jaipur
+Skoda,Skoda Kushaq1.0 TSI Matte Edition AT,2024,"10,000kms",Petrol,Automatic,₹15.50 Lakh,jaipur
+Tata,Tata Nexon EVEmpowered Plus LR,2024,"62,000kms",Electric,Automatic,₹17.14 Lakh,jaipur
+Mahindra,Mahindra Scorpio NZ8 Diesel AT BSVI,2023,"40,000kms",Diesel,Automatic,₹18 Lakh,jaipur
+Hyundai,Hyundai KonaPremium,2024,"70,000kms",Electric,Automatic,₹16 Lakh,jaipur
+Tata,Tata Nexon EVEmpowered Plus LR,2024,"76,000kms",Electric,Automatic,₹17 Lakh,jaipur
+Toyota,Toyota Fortuner4x4 MT,2016,"2,90,000kms",Diesel,Manual,₹12 Lakh,jaipur
+Toyota,Toyota Fortuner4x2 AT,2015,"1,90,000kms",Diesel,Automatic,₹10.50 Lakh,jaipur
+Skoda,Skoda Slavia1.5 TSI Anniversary Edition AT,2023,"22,643kms",Petrol,Automatic,₹14 Lakh,jaipur
+Kia,Kia SeltosHTX Diesel,2021,"1,00,000kms",Diesel,Manual,₹14 Lakh,jaipur
+MG,MG HectorSharp AT BSIV,2021,"40,000kms",Petrol,Automatic,₹14 Lakh,jaipur
+Hyundai,Hyundai KonaPremium,2021,"1,50,000kms",Electric,Automatic,₹11 Lakh,jaipur
+Toyota,Toyota Fortuner4x4 MT,2013,"90,000kms",Diesel,Manual,₹11 Lakh,jaipur
+Kia,Kia SeltosHTX Diesel,2021,"1,00,000kms",Diesel,Manual,₹14 Lakh,jaipur
+Toyota,Toyota Fortuner4x2 AT,2015,"1,90,000kms",Diesel,Automatic,₹10.50 Lakh,jaipur
+Mahindra,Mahindra TharLX Convert Top Diesel,2024,"56,000kms",Diesel,Manual,₹13.50 Lakh,jaipur
+Hyundai,Hyundai KonaPremium,2021,"1,50,000kms",Electric,Automatic,₹11 Lakh,jaipur
+Toyota,Toyota Fortuner4x4 MT,2013,"90,000kms",Diesel,Manual,₹11 Lakh,jaipur
+MG,MG HectorSharp AT BSIV,2021,"40,000kms",Petrol,Automatic,₹14 Lakh,jaipur
+Hyundai,Hyundai KonaPremium,2024,"71,000kms",Electric,Automatic,₹15 Lakh,jaipur
+Hyundai,Hyundai i20Asta 1.4 CRDi,2014,"60,000kms",Diesel,Manual,₹3.50 Lakh,jaipur
+Skoda,Skoda Rapid1.6 TDI Active,2013,"1,47,000kms",Diesel,Manual,₹2.50 Lakh,jaipur
+Hyundai,Hyundai EONMagna Optional,2014,"30,000kms",Petrol,Manual,₹1.80 Lakh,jaipur
+Maruti,Maruti SwiftVXI,2013,"30,000kms",Petrol,Manual,₹3.50 Lakh,jaipur
+Hyundai,Hyundai Verna1.6 SX,2011,"80,000kms",Diesel,Manual,₹3 Lakh,jaipur
+Tata,Tata PunchAdventure Rhythm CNG,2024,"20,000kms",CNG,Manual,₹7.50 Lakh,jaipur
+BMW,BMW X1sDrive20d Expedition,2020,"1,26,000kms",Diesel,Automatic,₹21 Lakh,jaipur
+Audi,Audi Q540 TDI Technology,2020,"1,02,000kms",Diesel,Automatic,₹21 Lakh,jaipur
+Maruti,Maruti Alto 800LXI,2015,"60,000kms",Petrol,Manual,₹2.10 Lakh,jaipur
+Chevrolet,Chevrolet CaptivaLT,2009,"1,20,000kms",Diesel,Manual,₹1.40 Lakh,jaipur
+Maruti,Maruti SwiftVDI,2011,"72,000kms",Diesel,Manual,₹3 Lakh,jaipur
+Maruti,Maruti Alto 800LXI,2014,"80,000kms",Petrol,Manual,₹1.75 Lakh,jaipur
+Maruti,Maruti CelerioZXI AT,2017,"1,07,000kms",Petrol,Automatic,₹2.55 Lakh,jaipur
+Honda,Honda BrioVX AT,2013,"70,000kms",Petrol,Automatic,₹2.95 Lakh,jaipur
+Honda,Honda AmazeEX i-Vtech,2014,"80,000kms",Petrol,Manual,₹2.50 Lakh,jaipur
+Honda,Honda BrioS Option MT,2013,"70,000kms",Petrol,Manual,₹2.75 Lakh,jaipur
+Skoda,Skoda LauraAmbiente 2.0 TDI CR MT,2013,"85,000kms",Diesel,Manual,₹2.50 Lakh,jaipur
+Toyota,Toyota EtiosVD,2012,"2,13,000kms",Diesel,Manual,₹2.50 Lakh,jaipur
+Maruti,Maruti Alto 800LXI,2015,"60,000kms",Petrol,Manual,₹2.10 Lakh,jaipur
+Chevrolet,Chevrolet CaptivaLT,2009,"1,20,000kms",Diesel,Manual,₹1.40 Lakh,jaipur
+Maruti,Maruti SwiftVDI,2011,"72,000kms",Diesel,Manual,₹3 Lakh,jaipur
+Maruti,Maruti Alto 800LXI,2014,"80,000kms",Petrol,Manual,₹1.75 Lakh,jaipur
+Maruti,Maruti CelerioZXI AT,2017,"1,07,000kms",Petrol,Automatic,₹2.55 Lakh,jaipur
+Maruti,Maruti SwiftVXI BSII,2009,"70,000kms",Petrol,Manual,₹1.25 Lakh,jaipur
+Honda,Honda BrioEX MT,2013,"34,000kms",Petrol,Manual,₹2.15 Lakh,jaipur
+Toyota,Toyota Innova2.5 G (Diesel) 7 Seater BS III,2006,"1,50,000kms",Diesel,Manual,₹2.20 Lakh,jaipur
+Honda,Honda CR-V2.0L 2WD AT,2004,"1,60,000kms",Petrol,Automatic,₹2.50 Lakh,jaipur
+Chevrolet,Chevrolet Spark1.0 PS,2011,"1,50,000kms",Petrol,Manual,"₹70,000",jaipur
+Maruti,Maruti Wagon RLXI BS IV,2010,"1,00,000kms",Petrol,Manual,₹1.50 Lakh,jaipur
+Toyota,Toyota EtiosVX,2011,"2,00,000kms",Petrol,Manual,₹1 Lakh,jaipur
+Hyundai,Hyundai i10Magna 1.2,2010,"1,50,000kms",Petrol,Manual,₹1.25 Lakh,jaipur
+Volkswagen,Volkswagen VentoDiesel Highline,2011,"1,50,000kms",Diesel,Manual,₹2 Lakh,jaipur
+Maruti,Maruti Alto 800LXi,2010,"1,00,000kms",Petrol,Manual,₹1.65 Lakh,jaipur
+Maruti,Maruti Wagon RLXI BS IV,2010,"1,00,000kms",Petrol,Manual,₹1.50 Lakh,jaipur
+Toyota,Toyota EtiosVX,2011,"2,00,000kms",Petrol,Manual,₹1 Lakh,jaipur
+Hyundai,Hyundai i10Magna 1.2,2010,"1,50,000kms",Petrol,Manual,₹1.25 Lakh,jaipur
+Volkswagen,Volkswagen VentoDiesel Highline,2011,"1,50,000kms",Diesel,Manual,₹2 Lakh,jaipur
+Maruti,Maruti Alto 800LXi,2010,"1,00,000kms",Petrol,Manual,₹1.65 Lakh,jaipur
+Maruti,Maruti Alto 800LXI,2017,"40,000kms",Petrol,Manual,₹3 Lakh,jaipur
+Maruti,Maruti Wagon RLXI,2006,"80,000kms",Petrol,Manual,"₹75,000",jaipur
+Toyota,Toyota Innova2.5 E,2009,"3,77,000kms",Diesel,Manual,₹1.50 Lakh,jaipur
+Maruti,Maruti Alto K10VXI,2015,"27,466kms",Petrol,Manual,₹2.70 Lakh,jaipur
+Maruti,Maruti Zen EstiloLXI BSIII,2008,"1,00,000kms",Petrol,Manual,"₹70,000",jaipur
+Chevrolet,Chevrolet Spark1.0 LT,2011,"70,000kms",Petrol,Manual,"₹73,000",jaipur
+Hyundai,Hyundai i10Magna 1.2,2009,"1,04,000kms",Petrol,Manual,₹1.50 Lakh,jaipur
+Hyundai,Hyundai i20Asta,2025,"20,000kms",Petrol,Manual,₹9 Lakh,jaipur
+Hyundai,2024Hyundai VenueS  -2025,2023,"20,000kms",Petrol,Manual,₹7.70 Lakh,jaipur
+Maruti,Maruti SwiftVXI BSVI,2021,"80,000kms",Petrol,Manual,₹5.10 Lakh,jaipur
+MG,MG Hector PlusSharp DCT,2020,"60,000kms",Petrol,Automatic,₹7 Lakh,jaipur
+Mahindra,Mahindra BoleroSLX,2018,"1,25,000kms",Diesel,Manual,₹6.10 Lakh,jaipur
+Maruti,Maruti JimnyAlpha,2023,"40,000kms",Petrol,Manual,₹9.95 Lakh,jaipur
+Toyota,Toyota Innova2.5 VX (Diesel) 7 Seater BS IV,2016,"70,000kms",Diesel,Manual,₹9 Lakh,jaipur
+Mahindra,Mahindra BoleroSpecial Edition,2018,"80,000kms",Diesel,Manual,₹6.50 Lakh,jaipur
+MG,MG Hector PlusSharp DCT,2020,"60,000kms",Petrol,Automatic,₹7 Lakh,jaipur
+Mahindra,Mahindra BoleroSpecial Edition,2018,"80,000kms",Diesel,Manual,₹6.50 Lakh,jaipur
+Hyundai,Hyundai AuraS CNG BSVI,2023,"60,000kms",CNG,Manual,₹7 Lakh,jaipur
+Mahindra,Mahindra BoleroSLX,2018,"1,25,000kms",Diesel,Manual,₹6.10 Lakh,jaipur
+Maruti,Maruti JimnyAlpha,2023,"40,000kms",Petrol,Manual,₹9.95 Lakh,jaipur
+Toyota,Toyota Innova2.5 VX (Diesel) 7 Seater BS IV,2016,"70,000kms",Diesel,Manual,₹9 Lakh,jaipur
+Mahindra,Mahindra Bolero NeoN4,2023,"30,000kms",Diesel,Manual,₹8 Lakh,jaipur
+Jeep,Jeep Compass1.4 Limited Option,2018,"80,000kms",Petrol,Automatic,₹8 Lakh,jaipur
+Mahindra,Mahindra Bolero NeoN10 R BSVI,2022,"1,00,000kms",Diesel,Manual,₹9 Lakh,jaipur
+Kia,Kia SonetHTK Plus BSVI,2020,"73,000kms",Petrol,Manual,₹6.30 Lakh,jaipur
+Maruti,Maruti Swift DzireVXI 1.2,2017,"50,000kms",Petrol,Manual,₹5.35 Lakh,jaipur
+Maruti,Maruti SwiftVXI,2020,"80,000kms",Petrol,Manual,₹4.80 Lakh,jaipur
+Renault,Renault KWID1.0 RXT Opt BSIV,2019,"70,000kms",Petrol,Manual,₹2.74 Lakh,jaipur
+Maruti,Maruti Grand VitaraDelta AT,2024,"14,000kms",Petrol,Automatic,₹12.50 Lakh,jaipur
+Land Rover,Land Rover Range Rover Evoque2.0 TD4 HSE,2019,"27,000kms",Diesel,Automatic,₹38 Lakh,jaipur
+Mahindra,Mahindra XUV700AX7 Diesel AT BSVI,2022,"1,20,000kms",Diesel,Automatic,₹18 Lakh,jaipur
+Kia,Kia SeltosGTX Plus Diesel AT,2023,"43,000kms",Diesel,Automatic,₹17 Lakh,jaipur
+Skoda,Skoda SuperbLK 2.0 TDI AT,2018,"1,60,000kms",Diesel,Automatic,₹18 Lakh,jaipur
+Porsche,Porsche CayenneTurbo,2011,"80,000kms",Petrol,Automatic,₹20 Lakh,jaipur
+Mahindra,Mahindra Scorpio NZ8L Diesel AT  -2025,2023,"80,000kms",Diesel,Automatic,₹19.51 Lakh,jaipur
+Mahindra,Mahindra XUV700AX7 Diesel AT BSVI,2022,"1,20,000kms",Diesel,Automatic,₹18 Lakh,jaipur
+Skoda,Skoda SuperbLK 2.0 TDI AT,2018,"1,60,000kms",Diesel,Automatic,₹18 Lakh,jaipur
+Porsche,Porsche CayenneTurbo,2011,"80,000kms",Petrol,Automatic,₹20 Lakh,jaipur
+Mahindra,Mahindra Scorpio NZ8L Diesel AT  -2025,2023,"80,000kms",Diesel,Automatic,₹19.51 Lakh,jaipur
+Kia,Kia SeltosGTX Plus Diesel AT,2023,"43,000kms",Diesel,Automatic,₹17 Lakh,jaipur
+Maruti,Maruti S CrossZeta DDiS 200 SH,2018,"1,60,000kms",Diesel,Manual,₹6 Lakh,jaipur
+Hyundai,Hyundai i20Petrol Asta Option,2019,"60,000kms",Petrol,Manual,₹5.50 Lakh,jaipur
+Honda,Honda AmazeS i-Vtech,2014,"1,20,000kms",Petrol,Manual,₹2.70 Lakh,jaipur
+Hyundai,Hyundai AlcazarPlatinum 7-Seater Diesel AT,2021,"90,000kms",Diesel,Automatic,₹12.50 Lakh,jaipur
+Maruti,Maruti Swift1.3 VXi,2006,"1,60,000kms",Petrol,Manual,"₹90,000",jaipur
+Maruti,Maruti SwiftZXI,2011,"1,08,000kms",Petrol,Manual,₹1.80 Lakh,jaipur
+Maruti,Maruti Baleno1.2 Delta,2016,"1,00,000kms",Petrol,Manual,₹3.70 Lakh,jaipur
+Maruti,Maruti SwiftZXI,2021,"80,000kms",Petrol,Manual,₹5.50 Lakh,jaipur
+Maruti,Maruti Swift Dzire TourLDI,2015,"1,00,000kms",Diesel,Manual,₹3.50 Lakh,jaipur
+Renault,Renault KWID1.0 RXT BSVI,2023,"26,000kms",Petrol,Manual,₹3.49 Lakh,jaipur
+Maruti,Maruti ErtigaVDI,2014,"1,20,000kms",Diesel,Manual,₹5.25 Lakh,jaipur
+Maruti,Maruti ErtigaSHVS LDI,2015,"4,46,000kms",Diesel,Manual,₹4 Lakh,jaipur
+Maruti,Maruti Baleno1.2 Delta,2017,"70,000kms",Petrol,Manual,₹5 Lakh,jaipur
+Hyundai,Hyundai Grand i10 NiosAMT Sportz,2020,"20,000kms",Petrol,Automatic,₹4.50 Lakh,jaipur
+Hyundai,Hyundai i20Asta 1.4 CRDi,2014,"1,60,000kms",Diesel,Manual,₹3.85 Lakh,jaipur
+Maruti,Maruti Swift VDI BSIV,2015,"1,20,000 kms",Diesel,Manual,₹3.85 Lakh,jaipur
+Mahindra,Mahindra TUV 300 mHAWK100 T8,2016,"1,20,000 kms",Diesel,Manual,₹4.20 Lakh,jaipur
+Maruti,Maruti Swift Dzire Tour LDI,2015,"1,60,000 kms",Diesel,Manual,₹3.15 Lakh,jaipur
+Ford,Ford Figo Titanium Diesel BSIV,2020,"87,000 kms",Diesel,Manual,₹4.25 Lakh,jaipur
+Tata,Tata Nexon 1.5 Revotorq XZA Plus DualTone,2018,"90,000 kms",Diesel,Automatic,₹5 Lakh,jaipur
+Hyundai,Hyundai Grand i10 Nios AMT Sportz,2020,"20,000 kms",Petrol,Automatic,₹4.50 Lakh,jaipur
+Hyundai,Hyundai i20 Asta 1.4 CRDi,2014,"1,60,000 kms",Diesel,Manual,₹3.85 Lakh,jaipur
+Renault,Renault KWID 1.0 RXT BSVI,2023,"26,000 kms",Petrol,Manual,₹3.49 Lakh,jaipur
+Maruti,Maruti Baleno 1.2 Delta,2017,"70,000 kms",Petrol,Manual,₹5 Lakh,jaipur
+Maruti,Maruti Ertiga VDI,2014,"1,20,000 kms",Diesel,Manual,₹5.25 Lakh,jaipur
+Maruti,Maruti Ertiga SHVS LDI,2015,"4,46,000 kms",Diesel,Manual,₹4 Lakh,jaipur
+Maruti,Maruti Ertiga VDI,2013,"1,60,000 kms",Diesel,Manual,₹3.94 Lakh,jaipur
+Maruti,Maruti Swift LDI BSIV,2014,"70,000 kms",Diesel,Manual,₹3.50 Lakh,jaipur
+Mahindra,Mahindra Bolero SLX 2WD BSIII,2014,"70,000 kms",Diesel,Manual,₹4.25 Lakh,jaipur
+Mahindra,Mahindra Bolero SLX 2WD BSIII,2012,"1,20,000 kms",Diesel,Manual,₹3.50 Lakh,jaipur
+Maruti,Maruti Ertiga BSIV VXI,2016,"1,50,000 kms",Petrol,Manual,₹4 Lakh,jaipur
+Hyundai,Hyundai Grand i10 Nios Sportz,2021,"30,000 kms",Petrol,Manual,₹4.80 Lakh,jaipur
+Datsun,Datsun GO T Option BSIV,2017,"1,20,000 kms",Petrol,Manual,₹1.35 Lakh,jaipur
+Hyundai,Hyundai i10 Sportz,2011,"1,30,000 kms",Petrol,Manual,₹1.50 Lakh,jaipur
+Chevrolet,Chevrolet Beat Diesel,2012,"65,000 kms",Diesel,Manual,₹1.10 Lakh,jaipur
+Maruti,Maruti ErtigaBSIV VXI,2016,"1,50,000kms",Petrol,Manual,₹4 Lakh,jaipur
+Hyundai,Hyundai Grand i10 NiosSportz,2021,"30,000kms",Petrol,Manual,₹4.80 Lakh,jaipur
+Datsun,Datsun GOT Option BSIV,2017,"1,20,000kms",Petrol,Manual,₹1.35 Lakh,jaipur
+Hyundai,Hyundai i10Sportz,2011,"1,30,000kms",Petrol,Manual,₹1.50 Lakh,jaipur
+Chevrolet,Chevrolet BeatDiesel,2012,"65,000kms",Diesel,Manual,₹1.10 Lakh,jaipur
+Hyundai,Hyundai VenueS,2021,"60,000kms",Petrol,Manual,₹6.50 Lakh,jaipur
+Maruti,Maruti CiazAlpha AT BSVI,2021,"60,000kms",Petrol,Automatic,₹6.20 Lakh,jaipur
+Honda,Honda Amaze 2nd GenVX BSVI,2022,"1,00,000kms",Petrol,Manual,₹6.50 Lakh,jaipur
+Skoda,Skoda Kushaq1.0 TSI Ambition,2023,"66,600kms",Petrol,Manual,₹9.01 Lakh,jaipur
+Hyundai,Hyundai Grand i10Magna,2017,"70,000kms",Petrol,Manual,₹4.15 Lakh,jaipur
+Toyota,Toyota Fortuner4x2 AT,2014,"64,000kms",Diesel,Automatic,₹25 Lakh,jaipur
+BMW,BMW 3 Series GTLuxury Line,2017,"78,000kms",Diesel,Automatic,₹25 Lakh,jaipur
+Honda,Honda City1.5 V MT,2011,"86,000kms",Petrol,Manual,₹2 Lakh,jaipur
+Hyundai,Hyundai Santro XingGLS,2008,"1,40,000kms",Petrol,Manual,"₹90,000",jaipur
+Honda,Honda AmazeS i-Vtech,2015,"67,000kms",Petrol,Manual,₹3.25 Lakh,jaipur
+Maruti,Maruti SwiftVXI,2023,"57,000kms",Petrol,Manual,₹6.25 Lakh,jaipur
+Maruti,Maruti SwiftRS VXI,2014,"50,000kms",Petrol,Manual,₹3.50 Lakh,jaipur
+Maruti,Maruti Ciaz1.3 S,2018,"90,000kms",Diesel,Manual,₹6 Lakh,jaipur
+Mahindra,Mahindra XUV700AX5 AT BSVI,2022,"40,000kms",Petrol,Automatic,₹13 Lakh,jaipur
+Mahindra,Mahindra ScorpioS11,2020,"1,37,000kms",Diesel,Manual,₹14.50 Lakh,jaipur
+Maruti,Maruti SwiftRS VXI,2014,"50,000kms",Petrol,Manual,₹3.50 Lakh,jaipur
+Maruti,Maruti Ciaz1.3 S,2018,"90,000kms",Diesel,Manual,₹6 Lakh,jaipur
+Maruti,Maruti SwiftVXI,2023,"57,000kms",Petrol,Manual,₹6.25 Lakh,jaipur
+Mahindra,Mahindra ScorpioS11,2020,"1,37,000kms",Diesel,Manual,₹14.50 Lakh,jaipur
+Mahindra,Mahindra XUV700AX5 AT BSVI,2022,"40,000kms",Petrol,Automatic,₹13 Lakh,jaipur
+Hyundai,Hyundai Grand i10Sportz,2016,"70,000kms",Petrol,Manual,₹3.35 Lakh,jaipur
+Maruti,Maruti CiazZXi,2014,"1,20,000kms",Petrol,Manual,₹4.80 Lakh,jaipur
+Maruti,Maruti XL6Alpha Plus,2023,"70,000kms",Petrol,Manual,₹11 Lakh,jaipur
+Mahindra,Mahindra XUV300W8 Diesel BSVI,2021,"60,000kms",Diesel,Manual,₹8.50 Lakh,jaipur
+Maruti,Maruti Ciaz1.4 Delta,2017,"1,02,000kms",Petrol,Manual,₹6.85 Lakh,jaipur
+Maruti,Maruti S CrossZeta DDiS 200 SH,2018,"90,000kms",Diesel,Manual,₹5.50 Lakh,jaipur
+Hyundai,Hyundai i20Sportz IVT DT,2020,"78,000kms",Petrol,Automatic,₹6 Lakh,jaipur
+Mahindra,Mahindra XUV300W4 BSVI,2022,"80,000kms",Petrol,Manual,₹7.50 Lakh,jaipur
+Maruti,Maruti Wagon RLXI BS IV,2013,"80,000kms",Petrol,Manual,₹2.65 Lakh,jaipur
+Maruti,Maruti Wagon RVXI Optional,2018,"24,000kms",Petrol,Manual,₹4 Lakh,jaipur
+Maruti,Maruti Baleno1.2 Delta,2016,"90,000kms",Petrol,Manual,₹4 Lakh,jaipur
+Maruti,Maruti Swift DzireVXI 1.2,2017,"30,000kms",Petrol,Manual,₹6.50 Lakh,jaipur
+Maruti,Maruti Baleno1.2 Delta,2018,"80,000kms",Petrol,Manual,₹4.21 Lakh,jaipur
+Hyundai,Hyundai Creta1.4 E Plus CRDi,2018,"70,000kms",Diesel,Manual,₹7.50 Lakh,jaipur
+Tata,Tata NexonXM BSVI,2022,"20,000kms",Petrol,Manual,₹8.50 Lakh,jaipur
+Maruti,Maruti Grand VitaraAlpha Plus Hybrid CVT BSVI,2023,"70,000kms",Petrol,Automatic,₹18 Lakh,jaipur
+Hyundai,Hyundai i10Magna 1.1L,2013,"60,000kms",Petrol,Manual,₹2.40 Lakh,jaipur
+Honda,Honda Cityi VTEC VX,2014,"40,000kms",Petrol,Manual,₹4.50 Lakh,jaipur
+Maruti,Maruti BrezzaVXi BSVI,2022,"30,000kms",Petrol,Manual,₹8 Lakh,jaipur
+Mahindra,Mahindra XUV300W6 BSIV,2019,"30,000kms",Petrol,Manual,₹8.20 Lakh,jaipur
+Tata,Tata HarrierPure (O),2024,"40,000kms",Diesel,Manual,₹16.50 Lakh,jaipur
+Maruti,Maruti S CrossZeta DDiS 200 SH,2018,"2,46,000kms",Diesel,Manual,₹6 Lakh,jaipur
+Maruti,Maruti Wagon RVXI Optional,2018,"24,000kms",Petrol,Manual,₹4 Lakh,jaipur
+Maruti,Maruti Baleno1.2 Delta,2016,"90,000kms",Petrol,Manual,₹4 Lakh,jaipur
+Maruti,Maruti Swift DzireVXI 1.2,2017,"30,000kms",Petrol,Manual,₹6.50 Lakh,jaipur
+Maruti,Maruti Baleno1.2 Delta,2018,"80,000kms",Petrol,Manual,₹4.21 Lakh,jaipur
+Hyundai,Hyundai Creta1.4 E Plus CRDi,2018,"70,000kms",Diesel,Manual,₹7.50 Lakh,jaipur
+Nissan,Nissan MagniteXL,2023,"20,000kms",Petrol,Manual,₹5.50 Lakh,jaipur
+Tata,Tata NexonXE BSVI,2021,"52,000kms",Petrol,Manual,₹6 Lakh,jaipur
+Ford,Ford EcosportSports,2021,"30,000kms",Petrol,Manual,₹7.25 Lakh,jaipur
+Kia,Kia SonetHTE,2023,"70,000kms",Petrol,Manual,₹7 Lakh,jaipur
+Maruti,Maruti SwiftVXI,2013,"60,000kms",Petrol,Manual,₹3.50 Lakh,jaipur
+Hyundai,Hyundai Verna1.6 SX,2012,"30,000kms",Diesel,Manual,₹4 Lakh,jaipur
+Maruti,Maruti Wagon RLXI BS IV,2013,"80,000kms",Petrol,Manual,₹2.65 Lakh,jaipur
+Tata,Tata NexonXM BSVI,2022,"20,000kms",Petrol,Manual,₹8.50 Lakh,jaipur
+Maruti,Maruti SwiftVXI,2013,"60,000kms",Petrol,Manual,₹3.50 Lakh,jaipur
+Mahindra,Mahindra XUV500W8 2WD,2015,"1,09,000kms",Diesel,Manual,₹5.50 Lakh,jaipur
+Maruti,Maruti Wagon RVXI Optional,2018,"93,000kms",Petrol,Manual,₹3.50 Lakh,jaipur
+Hyundai,Hyundai Creta1.6 CRDi SX,2015,"1,72,000kms",Diesel,Manual,₹6.15 Lakh,jaipur
+Maruti,Maruti S CrossZeta DDiS 200 SH,2018,"2,46,000kms",Diesel,Manual,₹6 Lakh,jaipur
+Maruti,Maruti CiazAlpha BSIV,2017,"82,000kms",Petrol,Manual,₹5.50 Lakh,jaipur
+Hyundai,Hyundai i20Magna 1.2,2015,"90,000kms",Petrol,Manual,₹4.25 Lakh,jaipur
+Maruti,Maruti S CrossZeta DDiS 200 SH,2018,"90,000kms",Diesel,Manual,₹5.50 Lakh,jaipur
+Hyundai,Hyundai i20Sportz IVT DT,2020,"78,000kms",Petrol,Automatic,₹6 Lakh,jaipur
+Mahindra,Mahindra XUV300W4 BSVI,2022,"80,000kms",Petrol,Manual,₹7.50 Lakh,jaipur
+Hyundai,Hyundai Grand i10Sportz,2016,"70,000kms",Petrol,Manual,₹3.35 Lakh,jaipur
+Maruti,Maruti CiazZXi,2014,"1,20,000kms",Petrol,Manual,₹4.80 Lakh,jaipur
+Maruti,Maruti SwiftVXI,2023,"33,500kms",Petrol,Manual,₹6.50 Lakh,jaipur
+Tata,Tata HarrierPure (O),2024,"40,000kms",Diesel,Manual,₹16.50 Lakh,jaipur
+Maruti,Maruti XL6Alpha Plus,2023,"70,000kms",Petrol,Manual,₹11 Lakh,jaipur
+Mahindra,Mahindra XUV300W8 Diesel BSVI,2021,"60,000kms",Diesel,Manual,₹8.50 Lakh,jaipur
+Citroen,Citroen C3Shine,2024,"30,000kms",Petrol,Manual,₹7.20 Lakh,jaipur
+Maruti,Maruti S CrossZeta,2022,"20,000kms",Petrol,Manual,₹9 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaVDi,2019,"1,32,000kms",Diesel,Manual,₹6 Lakh,jaipur
+Mahindra,Mahindra XUV300W6 BSIV,2019,"30,000kms",Petrol,Manual,₹8.20 Lakh,jaipur
+Honda,Honda Cityi VTEC VX,2017,"80,000kms",Petrol,Manual,₹7 Lakh,jaipur
+Hyundai,Hyundai i20Sportz BSVI,2020,"73,000kms",Petrol,Manual,₹6.50 Lakh,jaipur
+Hyundai,Hyundai Creta1.6 CRDi SX Option,2015,"1,60,000kms",Diesel,Manual,₹6.80 Lakh,jaipur
+Maruti,Maruti SwiftVXI,2023,"33,500kms",Petrol,Manual,₹6.50 Lakh,jaipur
+Citroen,Citroen C3Shine,2024,"30,000kms",Petrol,Manual,₹7.20 Lakh,jaipur
+Maruti,Maruti S CrossZeta,2022,"20,000kms",Petrol,Manual,₹9 Lakh,jaipur
+Maruti,Maruti Vitara BrezzaVDi,2019,"1,32,000kms",Diesel,Manual,₹6 Lakh,jaipur
+Maruti,Maruti Swift DzireVDI,2016,"1,10,000kms",Diesel,Manual,₹5.25 Lakh,jaipur
+Maruti,Maruti CelerioVXI,2015,"63,000kms",Petrol,Manual,₹2.50 Lakh,jaipur
+Maruti,Maruti Grand VitaraAlpha Plus Hybrid CVT BSVI,2022,"40,000kms",Petrol,Automatic,₹10.50 Lakh,jaipur
+Tata,Tata NexonXZ Plus S DT BSVI,2022,"70,000kms",Petrol,Manual,₹8 Lakh,jaipur
+Ford,Ford Aspire1.2 Ti-VCT Trend,2016,"40,000kms",Petrol,Manual,₹3.80 Lakh,jaipur
+Maruti,Maruti Baleno1.2 Delta,2018,"70,000kms",Petrol,Manual,₹4.80 Lakh,jaipur
+Maruti,Maruti BalenoZeta,2025,"20,000kms",Petrol,Manual,₹8.75 Lakh,jaipur
+Hyundai,Hyundai Verna1.6 CRDI,2015,"70,000kms",Diesel,Manual,₹5.85 Lakh,jaipur
+Tata,Tata NexonXM S BSVI,2022,"30,700kms",Petrol,Manual,₹6.50 Lakh,jaipur
+Toyota,Toyota Urban cruiserHigh,2022,"30,000kms",Petrol,Manual,₹8.50 Lakh,jaipur
+Maruti,Maruti S CrossZeta DDiS 200 SH,2018,"2,46,000kms",Diesel,Manual,₹6 Lakh,jaipur
+Tata,Tata NexonXE BSVI,2021,"52,000kms",Petrol,Manual,₹6 Lakh,jaipur
+Ford,Ford EcosportSports,2021,"30,000kms",Petrol,Manual,₹7.25 Lakh,jaipur

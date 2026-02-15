@@ -1,0 +1,1341 @@
+car_brand,car_name,year,km_driven,fuel,transmission,price,city
+Kia,Kia CarensLuxury Plus Diesel AT BSVI,2022,"31,000kms",Diesel,Automatic,₹15.50 Lakh,chennai
+Renault,Renault KigerRXT AMT Opt DT,2022,"29,013kms",Petrol,Automatic,₹6.21 Lakh,chennai
+Kia,Kia SeltosHTK Plus Diesel iMT,2023,"47,665kms",Diesel,Automatic,₹10.03 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz S-ClassS 350 d,2014,"74,000kms",Diesel,Automatic,₹36 Lakh,chennai
+Honda,Honda ElevateV Non RF,2023,"40,617kms",Petrol,Manual,₹10.25 Lakh,chennai
+Honda,Honda CityV MT,2022,"22,000kms",Petrol,Manual,₹10.50 Lakh,chennai
+Hyundai,Hyundai VenueS Plus,2021,"32,000kms",Petrol,Manual,₹6.90 Lakh,chennai
+Hyundai,Hyundai VenueSX Opt Turbo,2021,"29,000kms",Petrol,Manual,₹8 Lakh,chennai
+Land Rover,Land Rover Discovery SportTD4 HSE Luxury,2019,"92,000kms",Diesel,Automatic,₹33 Lakh,chennai
+Volvo,Volvo S90D4 Inscription BSIV,2017,"39,000kms",Diesel,Automatic,₹30 Lakh,chennai
+Volvo,Volvo S90D4 Inscription BSIV,2017,"26,000kms",Diesel,Automatic,₹29.50 Lakh,chennai
+Maruti,Maruti Grand VitaraAlpha Plus Hybrid CVT BSVI,2023,"6,052kms",Petrol,Automatic,₹15.89 Lakh,chennai
+Hyundai,Hyundai AlcazarSignature (O) 7-Seater AT,2022,"50,000kms",Petrol,Automatic,₹16.50 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz S-ClassS 350 CDIL,2012,"55,000kms",Diesel,Automatic,₹18 Lakh,chennai
+Maruti,Maruti Grand VitaraAlpha AT BSVI,2023,"43,500kms",Petrol,Automatic,₹15.90 Lakh,chennai
+Maruti,Maruti XL6Alpha Plus AT,2022,"39,392kms",Petrol,Automatic,₹12.22 Lakh,chennai
+BMW,BMW 5 Series525d Luxury Line,2014,"1,24,000kms",Diesel,Automatic,₹11.50 Lakh,chennai
+Honda,Honda CityZX MT,2021,"59,929kms",Petrol,Manual,₹11.39 Lakh,chennai
+MG,MG Hector1.5 Turbo Smart,2021,"22,365kms",Petrol,Manual,₹14.46 Lakh,chennai
+Honda,Honda CityVX MT,2022,"25,634kms",Petrol,Manual,₹11.23 Lakh,chennai
+BMW,BMW 5 Series530d M Sport,2017,"81,000kms",Diesel,Automatic,₹35 Lakh,chennai
+Honda,Honda CityVX MT,2022,"25,634kms",Petrol,Manual,₹11.23 Lakh,chennai
+Kia,Kia SeltosGTX Plus S Turbo DCT,2020,"97,748kms",Petrol,Automatic,₹11.25 Lakh,chennai
+MG,MG HectorSharp Diesel MT,2021,"49,000kms",Diesel,Manual,₹13.50 Lakh,chennai
+BMW,BMW 5 Series525d Luxury Line,2014,"1,24,000kms",Diesel,Automatic,₹11.50 Lakh,chennai
+Volkswagen,Volkswagen Taigun1.0 TSI Topline AT BSVI,2022,"71,000kms",Petrol,Automatic,₹12.88 Lakh,chennai
+Jeep,Jeep Compass1.4 Limited Option,2018,"90,000kms",Petrol,Automatic,₹12.50 Lakh,chennai
+Jeep,Jeep Compass1.4 Limited Option,2018,"90,000kms",Petrol,Automatic,₹12.50 Lakh,chennai
+MG,MG Windsor EVEssence,2025,"20,000kms",Electric,Automatic,₹14.78 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz E-Class220 CDI,2012,"60,000kms",Diesel,Automatic,₹12 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz E-ClassE250 CDI,2013,"1,14,000kms",Diesel,Automatic,₹14.50 Lakh,chennai
+Kia,Kia SeltosHTX G,2020,"89,000kms",Petrol,Manual,₹11.50 Lakh,chennai
+Kia,Kia SeltosHTX Plus Diesel,2022,"40,000kms",Diesel,Manual,₹13 Lakh,chennai
+MG,MG Hector PlusSharp CVT,2022,"39,000kms",Petrol,Automatic,₹14.50 Lakh,chennai
+MG,MG AstorSharp CVT BSVI,2023,"12,398kms",Petrol,Automatic,₹12.90 Lakh,chennai
+Skoda,Skoda Kushaq1.5 TSI Style DSG,2022,"32,000kms",Petrol,Automatic,₹11.95 Lakh,chennai
+Maruti,Maruti XL6Zeta AT,2023,"70,000kms",Petrol,Automatic,₹13 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz E-Class220 CDI,2012,"1,25,000kms",Diesel,Automatic,₹10.50 Lakh,chennai
+BMW,BMW 5 Series520d Sedan,2012,"84,000kms",Diesel,Automatic,₹12.50 Lakh,chennai
+Kia,Kia CarensLuxury Plus Diesel AT 6 STR BSVI,2022,"18,000kms",Diesel,Automatic,₹16.90 Lakh,chennai
+Maruti,Maruti XL6Zeta AT,2023,"70,000kms",Petrol,Automatic,₹13 Lakh,chennai
+Kia,Kia SeltosHTX,2022,"15,029kms",Petrol,Manual,₹13.02 Lakh,chennai
+Kia,Kia CarensLuxury Plus Diesel AT 6 STR BSVI,2022,"33,074kms",Diesel,Automatic,₹11.82 Lakh,chennai
+BMW,BMW X5xDrive 30d,2013,"1,05,000kms",Diesel,Automatic,₹12.50 Lakh,chennai
+BMW,BMW X1sDrive20i xLine,2022,"20,000kms",Petrol,Automatic,₹28.75 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLC220d 4MATIC Style,2019,"50,000kms",Diesel,Automatic,₹35 Lakh,chennai
+Mini Cooper,2015Mini Cooper Countryman  -2015D High,2013,"33,000kms",Diesel,Automatic,₹18.75 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz E-ClassExclusive E 220 d BSIV,2019,"1,00,000kms",Diesel,Automatic,₹32 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz M-ClassML 350 4Matic,2015,"70,000kms",Diesel,Automatic,₹28.50 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz E-ClassE350 CDI Avantgrade,2017,"50,000kms",Diesel,Automatic,₹38 Lakh,chennai
+Kia,Kia SeltosHTX,2022,"21,068kms",Petrol,Manual,₹12.86 Lakh,chennai
+Kia,Kia SeltosGTX Option,2022,"45,000kms",Petrol,Manual,₹13.75 Lakh,chennai
+Honda,Honda JazzV CVT,2018,"30,000kms",Petrol,Automatic,₹5.60 Lakh,chennai
+BMW,BMW X3xDrive 20d xLine,2019,"70,000kms",Diesel,Automatic,₹40 Lakh,chennai
+Skoda,Skoda Slavia1.0 TSI Ambition,2023,"34,000kms",Petrol,Manual,₹10.90 Lakh,chennai
+,Mini 3 DOORCooper S BSVI,2021,"17,000kms",Petrol,Automatic,₹36 Lakh,chennai
+Hyundai,Hyundai i201.2 Asta,2018,"41,538kms",Petrol,Manual,₹5.75 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz E-ClassExclusive E 220 d BSIV,2019,"1,12,000kms",Diesel,Automatic,₹32.90 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz S-ClassS 350d BSVI,2022,"45,000kms",Diesel,Automatic,₹1.05 Crore,chennai
+Mercedes-Benz,Mercedes-Benz S-ClassS 350 d,2018,"43,000kms",Diesel,Automatic,₹59 Lakh,chennai
+Mahindra,Mahindra BoleroB6 Opt,2023,"29,000kms",Diesel,Manual,₹9.25 Lakh,chennai
+Kia,Kia SonetHTX Turbo iMT BSVI,2020,"68,265kms",Petrol,Manual,₹6.07 Lakh,chennai
+Kia,Kia SonetHTX Turbo iMT BSVI,2020,"74,360kms",Petrol,Manual,₹6.30 Lakh,chennai
+Honda,Honda Amaze 2nd GenVX,2023,"40,416kms",Petrol,Manual,₹6.34 Lakh,chennai
+Skoda,Skoda Superb1.8 TSI MT,2013,"63,000kms",Petrol,Manual,₹3.46 Lakh,chennai
+Hyundai,Hyundai VenueSX Turbo,2021,"19,027kms",Petrol,Manual,₹6.76 Lakh,chennai
+Honda,Honda CityV MT,2019,"36,000kms",Petrol,Manual,₹7.70 Lakh,chennai
+Hyundai,Hyundai Creta1.6 VTVT SX Plus,2016,"1,20,000kms",Petrol,Manual,₹6.95 Lakh,chennai
+Hyundai,Hyundai Creta1.6 E Plus,2018,"86,000kms",Petrol,Manual,₹7 Lakh,chennai
+Maruti,Maruti SwiftVXI BSVI,2021,"41,000kms",Petrol,Manual,₹6.25 Lakh,chennai
+Hyundai,Hyundai Creta1.4 E Plus CRDi,2018,"61,000kms",Diesel,Manual,₹8.90 Lakh,chennai
+Ford,Ford Ecosport1.5 TDCi Titanium BSIV,2015,"60,371kms",Diesel,Manual,₹6.50 Lakh,chennai
+Ford,Ford Ecosport1.5 TDCi Titanium Plus BSIV,2016,"69,000kms",Diesel,Manual,₹6.25 Lakh,chennai
+Maruti,Maruti SwiftZXI BSVI,2022,"16,300kms",Petrol,Manual,₹7.25 Lakh,chennai
+Ford,Ford Ecosport1.5 Diesel Trend BSIV,2017,"69,329kms",Diesel,Manual,₹6.25 Lakh,chennai
+Hyundai,Hyundai Creta1.6 E,2018,"65,333kms",Petrol,Manual,₹6.80 Lakh,chennai
+Hyundai,Hyundai Creta1.6 SX,2018,"1,10,316kms",Petrol,Manual,₹6.07 Lakh,chennai
+Maruti,Maruti S CrossAlpha,2021,"90,927kms",Petrol,Manual,₹6.18 Lakh,chennai
+Hyundai,Hyundai Creta1.6 CRDi SX Option,2016,"85,000kms",Diesel,Manual,₹7.50 Lakh,chennai
+Honda,Honda Cityi VTEC VX,2017,"75,935kms",Petrol,Manual,₹6.80 Lakh,chennai
+Hyundai,Hyundai Creta1.6 E,2018,"65,333kms",Petrol,Manual,₹6.80 Lakh,chennai
+Hyundai,Hyundai Creta1.6 CRDi SX Option,2016,"85,000kms",Diesel,Manual,₹7.50 Lakh,chennai
+Honda,Honda Cityi VTEC VX,2017,"75,935kms",Petrol,Manual,₹6.80 Lakh,chennai
+Hyundai,Hyundai VenueS,2021,"48,000kms",Petrol,Manual,₹6.75 Lakh,chennai
+Audi,Audi A635 TDI,2017,"43,000kms",Diesel,Automatic,₹28 Lakh,chennai
+MG,MG AstorSharp CVT BSVI,2022,"25,000kms",Petrol,Automatic,₹13.65 Lakh,chennai
+Audi,Audi Q52.0 TDI,2012,"70,000kms",Diesel,Automatic,₹15 Lakh,chennai
+Hyundai,Hyundai Tucson2.0 Dual VTVT 2WD AT GLS,2018,"65,000kms",Petrol,Automatic,₹11.50 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz S-ClassS 350 d,2021,"39,000kms",Diesel,Automatic,₹1.08 Crore,chennai
+Maruti,Maruti BalenoZeta BSVI,2022,"30,402kms",Petrol,Manual,₹6.65 Lakh,chennai
+Hyundai,Hyundai i20Petrol CVT Asta,2018,"37,000kms",Petrol,Automatic,₹6.25 Lakh,chennai
+MG,MG HectorSharp DCT,2020,"78,178kms",Petrol,Automatic,₹10.81 Lakh,chennai
+Honda,Honda CityZX CVT,2022,"31,701kms",Petrol,Automatic,₹11.77 Lakh,chennai
+Audi,Audi Q335 TDI Quattro Premium,2014,"1,20,000kms",Diesel,Automatic,₹10.80 Lakh,chennai
+BMW,BMW 5 Series520d Sport Line,2018,"50,000kms",Diesel,Automatic,₹29.50 Lakh,chennai
+Hyundai,Hyundai VenueE Diesel BSIV,2019,"44,795kms",Diesel,Manual,₹6.25 Lakh,chennai
+BMW,BMW 3 Series GTLuxury Line,2019,"69,000kms",Diesel,Automatic,₹25 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz AMG A 354MATIC BSVI,2022,"13,100kms",Petrol,Automatic,₹47 Lakh,chennai
+Volkswagen,Volkswagen VirtusTopline,2023,"62,486kms",Petrol,Manual,₹12.21 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz C-ClassC 220 CDI Style,2017,"70,000kms",Diesel,Automatic,₹23 Lakh,chennai
+BMW,BMW 3 Series GTLuxury Line,2019,"69,000kms",Diesel,Automatic,₹25 Lakh,chennai
+Hyundai,Hyundai VenueE Diesel BSIV,2019,"44,795kms",Diesel,Manual,₹6.25 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz AMG A 354MATIC BSVI,2022,"13,100kms",Petrol,Automatic,₹47 Lakh,chennai
+Volkswagen,Volkswagen VirtusTopline,2023,"62,486kms",Petrol,Manual,₹12.21 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz C-ClassC 220 CDI Style,2017,"70,000kms",Diesel,Automatic,₹23 Lakh,chennai
+BMW,BMW 5 Series520d Luxury Line,2016,"47,000kms",Diesel,Automatic,₹23 Lakh,chennai
+Hyundai,Hyundai Creta1.6 SX,2019,"80,086kms",Petrol,Manual,₹10.73 Lakh,chennai
+MG,MG Hector PlusSharp CVT,2022,"61,851kms",Petrol,Automatic,₹13.65 Lakh,chennai
+Volkswagen,Volkswagen Taigun1.5 TSI GT Plus DSG,2021,"79,090kms",Petrol,Automatic,₹11.63 Lakh,chennai
+Honda,Honda CityV,2023,"37,937kms",Petrol,Manual,₹10.97 Lakh,chennai
+Maruti,Maruti XL6Alpha BSVI,2022,"36,000kms",Petrol,Manual,₹11.25 Lakh,chennai
+Hyundai,Hyundai Creta1.4 EX Diesel,2020,"60,000kms",Diesel,Manual,₹11.50 Lakh,chennai
+Hyundai,Hyundai CretaSX IVT BSVI,2021,"59,000kms",Petrol,Automatic,₹12.70 Lakh,chennai
+Volkswagen,Volkswagen Passat2.0 TDI AT Highline,2018,"1,41,000kms",Diesel,Automatic,₹13 Lakh,chennai
+Kia,Kia SonetGTX Plus Turbo iMT BSVI,2022,"35,000kms",Petrol,Manual,₹11.50 Lakh,chennai
+Hyundai,Hyundai CretaSX Opt IVT BSVI,2021,"17,000kms",Petrol,Automatic,₹14.50 Lakh,chennai
+Kia,Kia SonetHTX Turbo DCT BSVI,2023,"15,000kms",Petrol,Automatic,₹10.90 Lakh,chennai
+Volkswagen,Volkswagen Taigun1.0 TSI Topline AT BSVI,2022,"13,000kms",Petrol,Automatic,₹14.75 Lakh,chennai
+Maruti,Maruti XL6Alpha BSVI,2022,"25,000kms",Petrol,Manual,₹10.90 Lakh,chennai
+Skoda,Skoda Kushaq1.5 TSI Style DSG,2022,"40,724kms",Petrol,Automatic,₹13.75 Lakh,chennai
+Hyundai,Hyundai CretaSX Opt IVT BSVI,2021,"17,000kms",Petrol,Automatic,₹14.50 Lakh,chennai
+Kia,Kia SonetHTX Turbo DCT BSVI,2023,"15,000kms",Petrol,Automatic,₹10.90 Lakh,chennai
+Volkswagen,Volkswagen Taigun1.0 TSI Topline AT BSVI,2022,"13,000kms",Petrol,Automatic,₹14.75 Lakh,chennai
+Maruti,Maruti XL6Alpha BSVI,2022,"25,000kms",Petrol,Manual,₹10.90 Lakh,chennai
+Skoda,Skoda Kushaq1.5 TSI Style DSG,2022,"40,724kms",Petrol,Automatic,₹13.75 Lakh,chennai
+Audi,Audi Q335 TDI Quattro Premium,2014,"1,10,000kms",Diesel,Automatic,₹12.50 Lakh,chennai
+Volvo,Volvo XC90D5 AWD,2013,"2,00,000kms",Diesel,Manual,₹10.50 Lakh,chennai
+MG,MG HectorSharp DCT,2021,"36,000kms",Petrol,Automatic,₹13 Lakh,chennai
+Audi,Audi A635 TDI Premium,2015,"1,13,000kms",Diesel,Automatic,₹11.90 Lakh,chennai
+MG,MG AstorSavvy CVT BSVI,2022,"29,000kms",Petrol,Automatic,₹13 Lakh,chennai
+Hyundai,Hyundai CretaEX Diesel,2024,"24,000kms",Diesel,Manual,₹12.90 Lakh,chennai
+BMW,BMW X5xDrive 30d Expedition,2017,"60,000kms",Diesel,Automatic,₹38.90 Lakh,chennai
+BMW,BMW 7 Series740i M Sport,2023,"8,000kms",Petrol,Automatic,₹1.52 Crore,chennai
+Mercedes-Benz,Mercedes-Benz M-ClassML 350 CDI,2013,"1,27,000kms",Diesel,Automatic,₹15 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLA4MATIC,2017,"95,200kms",Petrol,Automatic,₹13.50 Lakh,chennai
+Audi,Audi Q52.0 TDI,2013,"85,000kms",Diesel,Automatic,₹13.50 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLA220d 4M BSVI,2022,"10,000kms",Diesel,Automatic,₹42 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLC Coupe300d 4MATIC BSVI,2021,"50,000kms",Diesel,Automatic,₹49.50 Lakh,chennai
+BMW,BMW X3xDrive 20d Luxury Line,2020,"71,000kms",Diesel,Automatic,₹37 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLS400d 4MATIC BSVI,2021,"1,06,000kms",Diesel,Automatic,₹75 Lakh,chennai
+Audi,Audi Q52.0 TDI,2013,"85,000kms",Diesel,Automatic,₹13.50 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLA220d 4M BSVI,2022,"10,000kms",Diesel,Automatic,₹42 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLC Coupe300d 4MATIC BSVI,2021,"50,000kms",Diesel,Automatic,₹49.50 Lakh,chennai
+BMW,BMW X3xDrive 20d Luxury Line,2020,"71,000kms",Diesel,Automatic,₹37 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLS400d 4MATIC BSVI,2021,"1,06,000kms",Diesel,Automatic,₹75 Lakh,chennai
+Volvo,Volvo S60D4 KINETIC,2017,"69,000kms",Diesel,Automatic,₹13.75 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLE300d 4Matic,2023,"17,000kms",Diesel,Automatic,₹78.50 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLE300d,2023,"16,000kms",Diesel,Automatic,₹83 Lakh,chennai
+Maruti,Maruti S CrossZeta,2021,"49,000kms",Petrol,Manual,₹7.95 Lakh,chennai
+Kia,Kia SonetGravity Diesel,2024,"19,000kms",Diesel,Manual,₹11.25 Lakh,chennai
+Honda,Honda ElevateZX Non RF,2023,"26,129kms",Petrol,Manual,₹16.02 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLA Class200,2014,"85,000kms",Petrol,Automatic,₹15.50 Lakh,chennai
+Volvo,Volvo XC90D5 AWD,2014,"95,000kms",Diesel,Manual,₹15.50 Lakh,chennai
+BMW,BMW X6xDrive30d,2011,"1,35,000kms",Diesel,Automatic,₹16 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz CLA200 CDI Sport,2017,"28,680kms",Diesel,Automatic,₹19 Lakh,chennai
+Jeep,Jeep Compass2.0 Limited Plus 4X4,2020,"50,000kms",Diesel,Manual,₹15.75 Lakh,chennai
+Audi,Audi Q32.0 TDI WCI,2013,"1,05,000kms",Diesel,Automatic,₹9.50 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz E-ClassE 220d,2024,"4,000kms",Diesel,Automatic,₹76 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz E-ClassExpression E 200,2022,"35,000kms",Petrol,Automatic,₹54.50 Lakh,chennai
+Kia,Kia CarensPrestige Plus DCT,2023,"4,955kms",Petrol,Automatic,₹12.41 Lakh,chennai
+Jeep,Jeep Compass2.0 Limited Plus 4X4,2020,"50,000kms",Diesel,Manual,₹15.75 Lakh,chennai
+Audi,Audi Q32.0 TDI WCI,2013,"1,05,000kms",Diesel,Automatic,₹9.50 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz E-ClassE 220d,2024,"4,000kms",Diesel,Automatic,₹76 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz E-ClassExpression E 200,2022,"35,000kms",Petrol,Automatic,₹54.50 Lakh,chennai
+Kia,Kia CarensPrestige Plus DCT,2023,"4,955kms",Petrol,Automatic,₹12.41 Lakh,chennai
+Ford,Ford Ecosport1.5 Petrol Titanium Plus AT BSIV,2020,"48,073kms",Petrol,Automatic,₹6.65 Lakh,chennai
+MG,MG GlosterSharp 6-Str,2021,"57,442kms",Diesel,Automatic,₹27 Lakh,chennai
+Jaguar,Jaguar XF2.0 Diesel Pure,2020,"60,000kms",Diesel,Automatic,₹30 Lakh,chennai
+Skoda,Skoda SuperbLaurin & klement BSVI,2021,"60,000kms",Petrol,Automatic,₹25.99 Lakh,chennai
+Volkswagen,Volkswagen Tiguan2.0 TDI Comfortline,2019,"79,000kms",Diesel,Automatic,₹21 Lakh,chennai
+Volvo,Volvo XC90D5 R-Design,2017,"1,25,000kms",Diesel,Automatic,₹30 Lakh,chennai
+Skoda,Skoda OctaviaRS,2018,"57,000kms",Petrol,Automatic,₹25 Lakh,chennai
+Audi,Audi A4Technology,2021,"34,000kms",Petrol,Automatic,₹30 Lakh,chennai
+Tata,Tata AltrozXE Plus,2023,"19,122kms",Petrol,Manual,₹6.50 Lakh,chennai
+Jaguar,Jaguar XF2.0 Diesel Prestige,2019,"1,45,100kms",Diesel,Automatic,₹14.50 Lakh,chennai
+Audi,Audi A435 TFSi Premium,2015,"78,000kms",Petrol,Automatic,₹10.90 Lakh,chennai
+Lexus,Lexus NX300h Exquisite,2021,"15,000kms",Petrol,Automatic,₹52.50 Lakh,chennai
+Jeep,Jeep Grand CherokeeSummit Petrol,2018,"84,000kms",Petrol,Automatic,₹33 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz E-ClassExpression E 220d,2022,"21,000kms",Diesel,Automatic,₹52 Lakh,chennai
+BMW,BMW 3 Series320d Luxury Line,2021,"52,000kms",Diesel,Automatic,₹35 Lakh,chennai
+Audi,Audi A435 TFSi Premium,2015,"78,000kms",Petrol,Automatic,₹10.90 Lakh,chennai
+Lexus,Lexus NX300h Exquisite,2021,"15,000kms",Petrol,Automatic,₹52.50 Lakh,chennai
+Jeep,Jeep Grand CherokeeSummit Petrol,2018,"84,000kms",Petrol,Automatic,₹33 Lakh,chennai
+Volvo,Volvo XC60D4 KINETIC,2020,"50,000kms",Diesel,Automatic,₹45 Lakh,chennai
+Volvo,Volvo XC90D5 Inscription,2019,"50,000kms",Diesel,Automatic,₹65 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz E-ClassExpression E 220d,2022,"21,000kms",Diesel,Automatic,₹52 Lakh,chennai
+BMW,BMW 3 Series320d Luxury Line,2021,"52,000kms",Diesel,Automatic,₹35 Lakh,chennai
+Toyota,Toyota Land Cruiser PradoVX L,2014,"2,09,000kms",Diesel,Automatic,₹34 Lakh,chennai
+Audi,Audi Q5Technology BSVI,2022,"30,000kms",Petrol,Automatic,₹39.50 Lakh,chennai
+Hyundai,Hyundai VenueS Opt  -2025,2023,"75,498kms",Petrol,Manual,₹7.53 Lakh,chennai
+BMW,BMW 7 Series730Ld M Sport Plus,2018,"64,000kms",Diesel,Automatic,₹52.50 Lakh,chennai
+BMW,BMW X3xDrive20d xLine,2024,"20,000kms",Diesel,Automatic,₹72 Lakh,chennai
+Honda,Honda Cityi VTEC V,2017,"36,457kms",Petrol,Manual,₹6.43 Lakh,chennai
+Honda,Honda Amaze 2nd GenVX Diesel,2019,"69,276kms",Diesel,Manual,₹6.14 Lakh,chennai
+Hyundai,Hyundai VenueSX Diesel,2021,"1,05,889kms",Diesel,Manual,₹6.94 Lakh,chennai
+Maruti,Maruti S CrossAlpha,2018,"1,05,950kms",Petrol,Manual,₹7.34 Lakh,chennai
+Maruti,Maruti BalenoZeta BSVI,2023,"19,032kms",Petrol,Manual,₹6.85 Lakh,chennai
+Hyundai,Hyundai VenueSX Turbo iMT,2021,"57,326kms",Petrol,Manual,₹6.67 Lakh,chennai
+Ford,Ford Ecosport1.5 Petrol Titanium,2021,"21,168kms",Petrol,Manual,₹7.40 Lakh,chennai
+Honda,Honda Cityi-VTEC VX,2018,"45,000kms",Petrol,Manual,₹7.75 Lakh,chennai
+Maruti,Maruti S CrossAlpha,2018,"1,05,950kms",Petrol,Manual,₹7.34 Lakh,chennai
+Ford,Ford Ecosport1.5 Petrol Titanium,2021,"21,168kms",Petrol,Manual,₹7.40 Lakh,chennai
+Honda,Honda Cityi VTEC V,2017,"36,457kms",Petrol,Manual,₹6.43 Lakh,chennai
+Hyundai,Hyundai VenueSX Turbo iMT,2021,"57,326kms",Petrol,Manual,₹6.67 Lakh,chennai
+Honda,Honda CityV MT,2021,"51,000kms",Petrol,Manual,₹9.25 Lakh,chennai
+Honda,Honda Cityi-VTEC VX,2018,"45,000kms",Petrol,Manual,₹7.75 Lakh,chennai
+Hyundai,Hyundai Grand i10 NiosSportz,2022,"21,000kms",Petrol,Manual,₹7 Lakh,chennai
+Hyundai,Hyundai Creta1.6 VTVT SX Plus,2018,"52,000kms",Petrol,Manual,₹8.25 Lakh,chennai
+Hyundai,Hyundai i20Sportz Plus BSIV,2019,"69,000kms",Petrol,Manual,₹6.45 Lakh,chennai
+Maruti,Maruti CiazAlpha Automatic BSIV,2017,"70,000kms",Petrol,Automatic,₹6.50 Lakh,chennai
+Jeep,Jeep Compass2.0 Longitude Option BSIV,2018,"95,000kms",Diesel,Manual,₹8.95 Lakh,chennai
+Hyundai,Hyundai Creta1.6 SX Automatic,2019,"36,000kms",Petrol,Automatic,₹9.95 Lakh,chennai
+Hyundai,Hyundai i20Sportz,2023,"27,000kms",Petrol,Manual,₹7.90 Lakh,chennai
+Honda,Honda Cityi VTEC V,2017,"72,000kms",Petrol,Manual,₹6.99 Lakh,chennai
+Hyundai,Hyundai VenueSX Diesel,2021,"40,284kms",Diesel,Manual,₹9.40 Lakh,chennai
+Hyundai,Hyundai Creta1.4 E Plus CRDi,2017,"72,127kms",Diesel,Manual,₹7.99 Lakh,chennai
+Hyundai,Hyundai i20Sportz BSVI,2021,"45,900kms",Petrol,Manual,₹6.60 Lakh,chennai
+Honda,Honda CityV MT,2020,"55,000kms",Petrol,Manual,₹8 Lakh,chennai
+Hyundai,Hyundai i20Sportz Plus BSIV,2019,"72,147kms",Petrol,Manual,₹6.50 Lakh,chennai
+Hyundai,Hyundai i20Sportz Opt DT,2023,"43,018kms",Petrol,Manual,₹6.90 Lakh,chennai
+Maruti,Maruti SwiftZXI,2023,"50,260kms",Petrol,Manual,₹6.20 Lakh,chennai
+Jeep,Jeep Compass2.0 Longitude Option BSIV,2018,"95,000kms",Diesel,Manual,₹8.95 Lakh,chennai
+Hyundai,Hyundai Creta1.6 SX Automatic,2019,"36,000kms",Petrol,Automatic,₹9.95 Lakh,chennai
+Hyundai,Hyundai i20Sportz Plus BSIV,2019,"69,000kms",Petrol,Manual,₹6.45 Lakh,chennai
+Hyundai,Hyundai i20Asta Opt BSVI,2022,"28,000kms",Petrol,Manual,₹8.20 Lakh,chennai
+Tata,Tata AltrozXZ BSVI,2021,"35,000kms",Petrol,Manual,₹6.80 Lakh,chennai
+Hyundai,Hyundai i20Sportz,2023,"27,000kms",Petrol,Manual,₹7.90 Lakh,chennai
+Hyundai,Hyundai VenueSX Diesel,2021,"40,284kms",Diesel,Manual,₹9.40 Lakh,chennai
+Maruti,Maruti SwiftZXi,2024,"17,900kms",Petrol,Manual,₹7.65 Lakh,chennai
+Hyundai,Hyundai VenueSX,2023,"19,000kms",Petrol,Manual,₹9.15 Lakh,chennai
+Kia,Kia SeltosHTK Plus D,2020,"1,29,000kms",Diesel,Manual,₹8.50 Lakh,chennai
+Hyundai,Hyundai VenueSX Diesel,2021,"1,05,889kms",Diesel,Manual,₹6.94 Lakh,chennai
+Maruti,Maruti S CrossAlpha,2018,"1,05,950kms",Petrol,Manual,₹7.34 Lakh,chennai
+Honda,Honda CityV MT,2021,"51,000kms",Petrol,Manual,₹9.25 Lakh,chennai
+Maruti,Maruti CiazAlpha Automatic BSIV,2017,"70,000kms",Petrol,Automatic,₹6.50 Lakh,chennai
+Volkswagen,Volkswagen Taigun1.0 TSI Topline BSVI,2022,"28,730kms",Petrol,Manual,₹9.25 Lakh,chennai
+Hyundai,Hyundai Creta1.6 CRDi SX Option,2015,"67,000kms",Diesel,Manual,₹7.50 Lakh,chennai
+Maruti,Maruti S CrossDDiS 200 Zeta,2016,"47,000kms",Diesel,Manual,₹6.55 Lakh,chennai
+Volkswagen,Volkswagen VirtusTopline AT,2023,"24,190kms",Petrol,Automatic,₹13.77 Lakh,chennai
+Honda,Honda CityVX MT,2022,"53,153kms",Petrol,Manual,₹10.50 Lakh,chennai
+Hyundai,Hyundai Creta1.6 CRDi SX Option,2015,"67,000kms",Diesel,Manual,₹7.50 Lakh,chennai
+Volkswagen,Volkswagen Taigun1.0 TSI Topline BSVI,2022,"28,730kms",Petrol,Manual,₹9.25 Lakh,chennai
+Maruti,Maruti S CrossDDiS 200 Zeta,2016,"47,000kms",Diesel,Manual,₹6.55 Lakh,chennai
+MG,MG HectorHybrid Sharp Dualtone,2021,"36,242kms",Petrol,Manual,₹12.74 Lakh,chennai
+Hyundai,Hyundai AlcazarSignature 6Str Diesel AT,2021,"1,04,313kms",Diesel,Automatic,₹13.64 Lakh,chennai
+Honda,Honda CityVX MT,2022,"53,153kms",Petrol,Manual,₹10.50 Lakh,chennai
+Volkswagen,Volkswagen VirtusTopline AT,2023,"24,190kms",Petrol,Automatic,₹13.77 Lakh,chennai
+Honda,Honda CityZX CVT,2020,"68,000kms",Petrol,Automatic,₹10.25 Lakh,chennai
+Honda,Honda CityZX MT,2021,"33,000kms",Petrol,Manual,₹10.25 Lakh,chennai
+MG,MG HectorSharp CVT,2021,"33,000kms",Petrol,Automatic,₹12.60 Lakh,chennai
+Tata,Tata HexaXTA,2018,"70,000kms",Diesel,Automatic,₹11.50 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz S-Class320 CDI,2013,"90,000kms",Diesel,Automatic,₹12.50 Lakh,chennai
+Volkswagen,Volkswagen Taigun1.0 TSI Topline BSVI,2022,"47,052kms",Petrol,Manual,₹11 Lakh,chennai
+Kia,Kia CarensLuxury Plus Turbo DCT  -2023,2022,"40,000kms",Petrol,Automatic,₹14.90 Lakh,chennai
+Audi,Audi Q32.0 TDI,2013,"50,000kms",Diesel,Automatic,₹13.50 Lakh,chennai
+Hyundai,Hyundai i20 N-LineN8,2023,"20,608kms",Petrol,Manual,₹10.75 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLA Class200 CDI,2014,"45,000kms",Diesel,Automatic,₹12.50 Lakh,chennai
+Hyundai,Hyundai VernaSX Opt Turbo,2024,"15,000kms",Petrol,Manual,₹14.50 Lakh,chennai
+Volvo,Volvo S60D5 Summum,2015,"97,000kms",Diesel,Automatic,₹12 Lakh,chennai
+Audi,Audi Q32.0 TDI Quattro Premium Plus,2014,"57,000kms",Diesel,Automatic,₹12.50 Lakh,chennai
+MG,MG HectorSharp CVT,2021,"33,000kms",Petrol,Automatic,₹12.60 Lakh,chennai
+Tata,Tata HexaXTA,2018,"70,000kms",Diesel,Automatic,₹11.50 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz S-Class320 CDI,2013,"90,000kms",Diesel,Automatic,₹12.50 Lakh,chennai
+Volvo,Volvo S60D5 Summum,2015,"97,000kms",Diesel,Automatic,₹12 Lakh,chennai
+Audi,Audi Q32.0 TDI Quattro Premium Plus,2014,"57,000kms",Diesel,Automatic,₹12.50 Lakh,chennai
+Land Rover,Land Rover Freelander 2TD4 HSE,2010,"47,500kms",Diesel,Automatic,₹11 Lakh,chennai
+Kia,Kia SeltosHTK Diesel,2021,"52,000kms",Diesel,Manual,₹10.75 Lakh,chennai
+Porsche,Porsche MacanStandard,2024,"8,500kms",Petrol,Automatic,₹85 Lakh,chennai
+BMW,BMW 3 Series330i M Sport,2019,"23,000kms",Petrol,Automatic,₹34.50 Lakh,chennai
+MG,MG AstorSharp EX BSVI,2022,"42,328kms",Petrol,Manual,₹9.77 Lakh,chennai
+Audi,Audi A62.0 TDI,2012,"55,000kms",Diesel,Automatic,₹8.75 Lakh,chennai
+Audi,Audi A335 TDI Attraction,2015,"1,28,000kms",Diesel,Automatic,₹9.90 Lakh,chennai
+Land Rover,Land Rover Range Rover Evoque2.0 TD4 HSE,2018,"50,000kms",Diesel,Automatic,₹37 Lakh,chennai
+Hyundai,Hyundai i20Sportz BSVI,2021,"25,000kms",Petrol,Manual,₹7.25 Lakh,chennai
+Hyundai,Hyundai VernaSX Opt,2023,"31,000kms",Petrol,Manual,₹14.50 Lakh,chennai
+Volvo,Volvo S60D4 KINETIC,2016,"1,00,000kms",Diesel,Automatic,₹10.90 Lakh,chennai
+Maruti,Maruti BalenoAlpha Diesel,2021,"12,417kms",Diesel,Manual,₹7.39 Lakh,chennai
+Kia,Kia SeltosGTX DCT,2021,"60,279kms",Petrol,Automatic,₹9.62 Lakh,chennai
+Skoda,Skoda Slavia1.5 TSI Ambition,2023,"52,161kms",Petrol,Manual,₹12.78 Lakh,chennai
+BMW,BMW X5xDrive 30d xLine,2021,"62,000kms",Diesel,Automatic,₹68 Lakh,chennai
+Hyundai,Hyundai VernaSX Opt,2023,"31,000kms",Petrol,Manual,₹14.50 Lakh,chennai
+Maruti,Maruti BalenoAlpha Diesel,2021,"12,417kms",Diesel,Manual,₹7.39 Lakh,chennai
+Kia,Kia SeltosGTX DCT,2021,"60,279kms",Petrol,Automatic,₹9.62 Lakh,chennai
+Skoda,Skoda Slavia1.5 TSI Ambition,2023,"52,161kms",Petrol,Manual,₹12.78 Lakh,chennai
+BMW,BMW X5xDrive 30d xLine,2021,"62,000kms",Diesel,Automatic,₹68 Lakh,chennai
+Hyundai,Hyundai i20Sportz BSVI,2021,"46,000kms",Petrol,Manual,₹7.50 Lakh,chennai
+Maruti,Maruti Swift Dzire Tour1.3 S Diesel,2019,"10,00,000kms",Diesel,Manual,₹6.25 Lakh,chennai
+Audi,Audi Q335 TDI Quattro Premium Plus,2019,"42,000kms",Diesel,Automatic,₹18 Lakh,chennai
+Audi,Audi A435 TDI Premium Sport,2014,"68,000kms",Diesel,Automatic,₹13.50 Lakh,chennai
+Maruti,Maruti XL6Alpha Plus AT Dual Tone,2023,"45,000kms",Petrol,Automatic,₹13.95 Lakh,chennai
+Audi,Audi A645 TFSI Premium Plus BSVI,2021,"45,000kms",Petrol,Automatic,₹38 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz C-ClassC 300,2024,"10,000kms",Petrol,Automatic,₹58 Lakh,chennai
+Audi,Audi A430 TFSI Premium Plus,2017,"89,188kms",Petrol,Automatic,₹18.43 Lakh,chennai
+Hyundai,Hyundai Creta1.6 SX Automatic,2019,"80,000kms",Petrol,Automatic,₹12.75 Lakh,chennai
+Audi,Audi A335 TDI Premium Plus,2017,"70,000kms",Diesel,Automatic,₹18 Lakh,chennai
+Honda,Honda CityVX Apex Edition CVT,2025,"15,000kms",Petrol,Automatic,₹16.50 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLA Class220 d 4MATIC,2017,"94,000kms",Diesel,Automatic,₹17 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz E-ClassE250 CDI,2014,"1,12,000kms",Diesel,Automatic,₹15 Lakh,chennai
+Volvo,Volvo XC90D5 Inscription BSIV,2016,"60,000kms",Diesel,Automatic,₹36.50 Lakh,chennai
+BMW,BMW 5 Series530Li,2024,"37,000kms",Petrol,Automatic,₹66 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLA Class220 d 4MATIC,2017,"94,000kms",Diesel,Automatic,₹17 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz E-ClassE250 CDI,2014,"1,12,000kms",Diesel,Automatic,₹15 Lakh,chennai
+Honda,Honda CityVX Apex Edition CVT,2025,"15,000kms",Petrol,Automatic,₹16.50 Lakh,chennai
+Volvo,Volvo XC90B6 Inscription 7STR,2022,"37,000kms",Petrol,Automatic,₹68 Lakh,chennai
+BMW,BMW 3 Series Long Wheelbase330Li M Sport,2025,"6,000kms",Petrol,Automatic,₹58.50 Lakh,chennai
+BMW,BMW 5 Series530Li,2024,"37,000kms",Petrol,Automatic,₹66 Lakh,chennai
+Toyota,Toyota VellfireExecutive Lounge BSVI,2021,"30,000kms",Petrol,Automatic,₹98.50 Lakh,chennai
+BMW,BMW 3 Series330i Sport,2020,"34,000kms",Petrol,Automatic,₹35 Lakh,chennai
+Volvo,Volvo XC90D5 Inscription BSIV,2016,"60,000kms",Diesel,Automatic,₹36.50 Lakh,chennai
+Volvo,Volvo XC90B6 Inscription 7STR,2022,"45,000kms",Petrol,Automatic,₹75 Lakh,chennai
+Honda,Honda AmazeV CVT Petrol BSIV,2019,"80,000kms",Petrol,Automatic,₹6.50 Lakh,chennai
+Jaguar,Jaguar XJ3.0L,2011,"29,000kms",Diesel,Automatic,₹23 Lakh,chennai
+Volkswagen,Volkswagen Tiguan Allspace4Motion,2020,"55,000kms",Petrol,Automatic,₹23.50 Lakh,chennai
+Skoda,Skoda OctaviaLaurin and Klement,2022,"30,000kms",Petrol,Automatic,₹24.50 Lakh,chennai
+Volkswagen,Volkswagen Tiguan Allspace4Motion,2019,"58,000kms",Petrol,Automatic,₹23.75 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLE250d,2016,"85,000kms",Diesel,Automatic,₹28.50 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz E-ClassExpression E 220 d BSIV,2018,"91,000kms",Diesel,Automatic,₹25 Lakh,chennai
+Skoda,Skoda OctaviaRS,2018,"57,000kms",Petrol,Automatic,₹25 Lakh,chennai
+Maruti,Maruti Grand VitaraAlpha Plus Hybrid CVT,2023,"39,008kms",Petrol,Automatic,₹17.06 Lakh,chennai
+Audi,Audi Q330 TFSI Premium FWD,2018,"80,460kms",Petrol,Automatic,₹16.58 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLE250d,2016,"85,000kms",Diesel,Automatic,₹28.50 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz E-ClassExpression E 220 d BSIV,2018,"91,000kms",Diesel,Automatic,₹25 Lakh,chennai
+Skoda,Skoda OctaviaRS,2018,"57,000kms",Petrol,Automatic,₹25 Lakh,chennai
+Maruti,Maruti Grand VitaraAlpha Plus Hybrid CVT,2023,"39,008kms",Petrol,Automatic,₹17.06 Lakh,chennai
+Audi,Audi Q330 TFSI Premium FWD,2018,"80,460kms",Petrol,Automatic,₹16.58 Lakh,chennai
+MG,MG HectorSharp Diesel Dualtone,2022,"36,143kms",Diesel,Manual,₹15.54 Lakh,chennai
+Jeep,Jeep Compass1.4 Limited Opt DCT BSVI,2021,"67,739kms",Petrol,Automatic,₹15.65 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz E-ClassE250 Edition E,2016,"60,000kms",Diesel,Automatic,₹20 Lakh,chennai
+Volkswagen,Volkswagen VirtusGT Plus DSG,2023,"17,000kms",Petrol,Automatic,₹16.50 Lakh,chennai
+Honda,Honda ElevateZX CVT Non RF,2024,"19,289kms",Petrol,Automatic,₹17.84 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLA Class200,2017,"53,913kms",Petrol,Automatic,₹17.25 Lakh,chennai
+BMW,BMW 3 Series320d Prestige,2014,"29,000kms",Diesel,Automatic,₹16.50 Lakh,chennai
+Jaguar,Jaguar XF2.2 Litre Luxury,2014,"61,000kms",Diesel,Automatic,₹16.50 Lakh,chennai
+Honda,Honda CityZX MT,2019,"65,000kms",Petrol,Manual,₹9.50 Lakh,chennai
+Volkswagen,Volkswagen VirtusTopline AT BSVI,2022,"12,000kms",Petrol,Automatic,₹13.50 Lakh,chennai
+Hyundai,Hyundai VernaSX IVT,2021,"49,000kms",Petrol,Automatic,₹10.95 Lakh,chennai
+Hyundai,Hyundai VernaSX Opt Turbo,2022,"31,000kms",Petrol,Automatic,₹11.75 Lakh,chennai
+Honda,Honda CityZX MT,2022,"56,997kms",Petrol,Manual,₹12.09 Lakh,chennai
+Kia,Kia SeltosHTK Plus D,2020,"52,000kms",Diesel,Manual,₹12 Lakh,chennai
+Hyundai,Hyundai Grand i10 NiosSportz,2023,"21,377kms",Petrol,Manual,₹6.41 Lakh,chennai
+Hyundai,Hyundai VernaSX IVT,2021,"49,000kms",Petrol,Automatic,₹10.95 Lakh,chennai
+Volkswagen,Volkswagen VirtusTopline AT BSVI,2022,"12,000kms",Petrol,Automatic,₹13.50 Lakh,chennai
+Hyundai,Hyundai VernaSX Opt Turbo,2022,"31,000kms",Petrol,Automatic,₹11.75 Lakh,chennai
+Kia,Kia SeltosHTK Plus D,2020,"52,000kms",Diesel,Manual,₹12 Lakh,chennai
+Hyundai,Hyundai Grand i10 NiosSportz,2023,"21,377kms",Petrol,Manual,₹6.41 Lakh,chennai
+Honda,Honda ElevateZX Non RF,2023,"32,000kms",Petrol,Manual,₹13.90 Lakh,chennai
+Hyundai,Hyundai i20Asta,2023,"34,232kms",Petrol,Manual,₹8.03 Lakh,chennai
+Maruti,Maruti BalenoZeta CVT,2021,"34,303kms",Petrol,Automatic,₹6.40 Lakh,chennai
+BMW,BMW X7xDrive30d DPE Signature,2019,"1,12,000kms",Diesel,Automatic,₹58 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLS350d 4MATIC,2019,"1,40,000kms",Diesel,Automatic,₹45 Lakh,chennai
+Volvo,Volvo XC90D5 Inscription BSIV,2016,"1,25,000kms",Diesel,Automatic,₹32 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz E-ClassExclusive E 200 BSVI,2022,"35,000kms",Petrol,Automatic,₹48 Lakh,chennai
+Audi,Audi Q745 TDI Quattro Technology,2019,"45,000kms",Diesel,Automatic,₹45 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz E-ClassExclusive E 220d BSVI,2022,"28,000kms",Diesel,Automatic,₹55 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz E-ClassExpression E 200 BSIV,2019,"55,000kms",Petrol,Automatic,₹36 Lakh,chennai
+Audi,Audi Q745 TDI Quattro Technology,2017,"60,000kms",Diesel,Automatic,₹35 Lakh,chennai
+Jaguar,Jaguar XE2.0L Diesel Portfolio,2019,"45,000kms",Diesel,Automatic,₹15.25 Lakh,chennai
+Honda,Honda AmazeS i-DTEC,2018,"65,604kms",Diesel,Manual,₹5.08 Lakh,chennai
+Honda,Honda Cityi-VTEC V,2018,"92,063kms",Petrol,Manual,₹5.48 Lakh,chennai
+Tata,Tata AltrozXT BSVI,2022,"31,146kms",Petrol,Manual,₹5.70 Lakh,chennai
+Audi,Audi Q745 TDI Quattro Technology,2017,"60,000kms",Diesel,Automatic,₹35 Lakh,chennai
+Jaguar,Jaguar XE2.0L Diesel Portfolio,2019,"45,000kms",Diesel,Automatic,₹15.25 Lakh,chennai
+Honda,Honda AmazeS i-DTEC,2018,"65,604kms",Diesel,Manual,₹5.08 Lakh,chennai
+Honda,Honda Cityi-VTEC V,2018,"92,063kms",Petrol,Manual,₹5.48 Lakh,chennai
+Tata,Tata AltrozXT BSVI,2022,"31,146kms",Petrol,Manual,₹5.70 Lakh,chennai
+Tata,Tata AltrozXT BSVI,2021,"61,416kms",Petrol,Manual,₹5.80 Lakh,chennai
+Honda,Honda AmazeVX CVT Petrol BSIV,2019,"69,546kms",Petrol,Automatic,₹5.40 Lakh,chennai
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2020,"56,045kms",Petrol,Manual,₹5.56 Lakh,chennai
+Maruti,Maruti BalenoZeta Diesel,2016,"77,361kms",Diesel,Manual,₹5.05 Lakh,chennai
+Hyundai,Hyundai i201.2 Asta Option,2016,"52,743kms",Petrol,Manual,₹5.12 Lakh,chennai
+Honda,Honda Cityi-VTEC V,2018,"81,066kms",Petrol,Manual,₹5.99 Lakh,chennai
+Honda,Honda AmazeSX i-VTEC,2016,"51,336kms",Petrol,Manual,₹4.30 Lakh,chennai
+Maruti,Maruti Baleno1.2 CVT Delta,2016,"25,000kms",Petrol,Automatic,₹5.35 Lakh,chennai
+Hyundai,Hyundai AuraSX,2021,"41,904kms",Petrol,Manual,₹5.80 Lakh,chennai
+Hyundai,Hyundai i20Sportz Plus Dual Tone,2020,"74,478kms",Petrol,Manual,₹5.60 Lakh,chennai
+Maruti,Maruti Baleno1.2 Sigma,2018,"28,000kms",Petrol,Manual,₹5.45 Lakh,chennai
+Hyundai,Hyundai Grand i10 NiosMagna,2022,"35,000kms",Petrol,Manual,₹5.45 Lakh,chennai
+Honda,Honda CitySV MT,2016,"71,604kms",Petrol,Manual,₹5.15 Lakh,chennai
+Honda,Honda AmazeVX i-VTEC,2018,"70,000kms",Petrol,Manual,₹5.45 Lakh,chennai
+Maruti,Maruti SwiftVXI,2019,"60,000kms",Petrol,Manual,₹5.50 Lakh,chennai
+Honda,Honda Cityi-VTEC V,2018,"81,066kms",Petrol,Manual,₹5.99 Lakh,chennai
+Maruti,Maruti BalenoDelta,2019,"44,000kms",Petrol,Manual,₹5.95 Lakh,chennai
+Hyundai,Hyundai i201.4 Sportz,2017,"79,000kms",Diesel,Manual,₹5.50 Lakh,chennai
+Hyundai,Hyundai Grand i10 NiosMagna,2022,"35,000kms",Petrol,Manual,₹5.45 Lakh,chennai
+Maruti,Maruti Baleno1.2 CVT Delta,2016,"25,000kms",Petrol,Automatic,₹5.35 Lakh,chennai
+Hyundai,Hyundai AuraSX,2021,"41,904kms",Petrol,Manual,₹5.80 Lakh,chennai
+Hyundai,Hyundai i20Sportz Plus Dual Tone,2020,"74,478kms",Petrol,Manual,₹5.60 Lakh,chennai
+Maruti,Maruti Baleno1.2 Sigma,2018,"28,000kms",Petrol,Manual,₹5.45 Lakh,chennai
+Maruti,Maruti Wagon RVXI,2023,"17,000kms",Petrol,Manual,₹5.65 Lakh,chennai
+Hyundai,Hyundai Grand i101.2 Kappa Sportz Option AT,2019,"50,311kms",Petrol,Automatic,₹5.10 Lakh,chennai
+Honda,Honda AmazeVX Petrol,2019,"75,332kms",Petrol,Manual,₹5.45 Lakh,chennai
+Maruti,Maruti Baleno1.2 CVT Zeta,2018,"61,208kms",Petrol,Automatic,₹5.89 Lakh,chennai
+Honda,Honda AmazeVX Opt Petrol BSIV,2019,"56,866kms",Petrol,Manual,₹5.25 Lakh,chennai
+Honda,Honda Cityi DTEC SV,2014,"66,640kms",Diesel,Manual,₹5.90 Lakh,chennai
+Toyota,Toyota VellfireExecutive Lounge BSVI,2022,"47,000kms",Petrol,Automatic,₹1.05 Crore,chennai
+Mercedes-Benz,Mercedes-Benz GL-Class350 CDI Luxury,2012,"1,00,000kms",Diesel,Automatic,₹16.25 Lakh,chennai
+Tata,Tata AltrozXZ Diesel,2021,"54,515kms",Diesel,Manual,₹6.89 Lakh,chennai
+Hyundai,Hyundai CretaS BSVI,2021,"75,777kms",Petrol,Manual,₹7.57 Lakh,chennai
+Maruti,Maruti BalenoAlpha,2021,"37,741kms",Petrol,Manual,₹6.68 Lakh,chennai
+Honda,Honda CityV MT,2021,"46,375kms",Petrol,Manual,₹8.75 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GL-Class350 CDI Luxury,2012,"1,00,000kms",Diesel,Automatic,₹16.25 Lakh,chennai
+Tata,Tata AltrozXZ Diesel,2021,"54,515kms",Diesel,Manual,₹6.89 Lakh,chennai
+Hyundai,Hyundai CretaS BSVI,2021,"75,777kms",Petrol,Manual,₹7.57 Lakh,chennai
+Maruti,Maruti BalenoAlpha,2021,"37,741kms",Petrol,Manual,₹6.68 Lakh,chennai
+Honda,Honda CityV MT,2021,"46,375kms",Petrol,Manual,₹8.75 Lakh,chennai
+Hyundai,Hyundai Creta1.6 VTVT SX Plus,2018,"34,000kms",Petrol,Manual,₹9.45 Lakh,chennai
+Hyundai,Hyundai i201.4 Magna Executive,2018,"71,000kms",Diesel,Manual,₹6.45 Lakh,chennai
+Hyundai,Hyundai i20Asta Option 1.2,2021,"43,429kms",Petrol,Manual,₹6.95 Lakh,chennai
+Tata,Tata TigorXZ Plus BSVI,2022,"24,000kms",Petrol,Manual,₹8.90 Lakh,chennai
+Hyundai,Hyundai Grand i10 NiosSportz BSVI,2023,"34,855kms",Petrol,Manual,₹6.40 Lakh,chennai
+Hyundai,Hyundai i20Asta BSVI,2022,"48,000kms",Petrol,Manual,₹7.75 Lakh,chennai
+Maruti,Maruti CiazAlpha BSVI,2020,"48,000kms",Petrol,Manual,₹9 Lakh,chennai
+Ford,Ford Ecosport1.5 Diesel Titanium Plus BSIV,2019,"81,000kms",Diesel,Manual,₹8.90 Lakh,chennai
+Kia,Kia SeltosHTK G,2022,"30,204kms",Petrol,Manual,₹9.80 Lakh,chennai
+Ford,Ford Ecosport1.0 Ecoboost Titanium Plus BSIV,2019,"28,266kms",Petrol,Manual,₹8.75 Lakh,chennai
+Hyundai,Hyundai Grand i10 NiosTurbo Sportz,2022,"31,000kms",Petrol,Manual,₹6.75 Lakh,chennai
+Hyundai,Hyundai i20Asta BSVI,2022,"19,500kms",Petrol,Manual,₹7.95 Lakh,chennai
+Hyundai,Hyundai Creta1.6 VTVT SX Plus,2017,"87,000kms",Petrol,Manual,₹8.25 Lakh,chennai
+Maruti,Maruti SwiftZXI Plus BSVI,2022,"28,000kms",Petrol,Manual,₹7.45 Lakh,chennai
+Honda,Honda CityV MT,2021,"48,900kms",Petrol,Manual,₹8.75 Lakh,chennai
+Hyundai,Hyundai i201.4 Magna Executive,2018,"71,000kms",Diesel,Manual,₹6.45 Lakh,chennai
+Honda,Honda WR-Vi-DTEC VX,2018,"75,855kms",Diesel,Manual,₹7.50 Lakh,chennai
+Maruti,Maruti Swift DzireZXI,2021,"37,948kms",Petrol,Manual,₹6.85 Lakh,chennai
+Hyundai,Hyundai Creta1.6 VTVT SX Plus,2017,"87,000kms",Petrol,Manual,₹8.25 Lakh,chennai
+Maruti,Maruti SwiftZXI Plus BSVI,2022,"28,000kms",Petrol,Manual,₹7.45 Lakh,chennai
+Hyundai,Hyundai i20Asta BSVI,2022,"19,500kms",Petrol,Manual,₹7.95 Lakh,chennai
+Honda,Honda CityV MT,2021,"48,900kms",Petrol,Manual,₹8.75 Lakh,chennai
+Skoda,Skoda OctaviaElegance 2.0 TDI AT,2014,"1,15,000kms",Diesel,Automatic,₹8.50 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz C-ClassC 220 CDI Avantgarde,2017,"70,000kms",Diesel,Automatic,₹21.90 Lakh,chennai
+Jaguar,Jaguar XESE,2020,"32,000kms",Petrol,Automatic,₹29 Lakh,chennai
+Land Rover,Land Rover Discovery SportSD4 HSE Luxury,2017,"78,000kms",Diesel,Automatic,₹22 Lakh,chennai
+Jeep,Jeep MeridianLimited Opt AT 4x4 BSVI,2022,"17,000kms",Diesel,Automatic,₹24.95 Lakh,chennai
+Hyundai,Hyundai TucsonPlatinum Diesel AT BSVI,2022,"42,000kms",Diesel,Automatic,₹24 Lakh,chennai
+BMW,BMW 5 Series520d Luxury Line,2016,"45,000kms",Diesel,Automatic,₹22.50 Lakh,chennai
+Audi,Audi Q74.2 TDI quattro,2013,"79,000kms",Diesel,Automatic,₹15.75 Lakh,chennai
+Skoda,Skoda SuperbL&K,2025,"95,000kms",Petrol,Automatic,₹12.25 Lakh,chennai
+Hyundai,Hyundai i20Petrol CVT Asta,2018,"63,188kms",Petrol,Automatic,₹6.01 Lakh,chennai
+Hyundai,Hyundai i20Asta Option CVT BSIV,2019,"33,108kms",Petrol,Automatic,₹6.37 Lakh,chennai
+Maruti,Maruti Baleno1.2 CVT Delta,2018,"29,000kms",Petrol,Automatic,₹6.50 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GL-Class350 CDI Luxury,2011,"99,000kms",Diesel,Automatic,₹12.50 Lakh,chennai
+Skoda,Skoda SuperbL&K,2025,"95,000kms",Petrol,Automatic,₹12.25 Lakh,chennai
+Hyundai,Hyundai i20Petrol CVT Asta,2018,"63,188kms",Petrol,Automatic,₹6.01 Lakh,chennai
+Hyundai,Hyundai i20Asta Option CVT BSIV,2019,"33,108kms",Petrol,Automatic,₹6.37 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GL-Class350 CDI Luxury,2011,"99,000kms",Diesel,Automatic,₹12.50 Lakh,chennai
+Maruti,Maruti Baleno1.2 CVT Delta,2018,"29,000kms",Petrol,Automatic,₹6.50 Lakh,chennai
+Kia,Kia SeltosHTX Plus AT D,2019,"80,000kms",Diesel,Automatic,₹12.50 Lakh,chennai
+Jeep,Jeep Compass1.4 Limited Option,2021,"33,848kms",Petrol,Automatic,₹15.40 Lakh,chennai
+Jeep,Jeep Compass2.0 Sport,2020,"62,000kms",Diesel,Manual,₹18.50 Lakh,chennai
+Skoda,Skoda Octavia1.8 TSI AT L K,2018,"22,000kms",Petrol,Automatic,₹19.90 Lakh,chennai
+Tata,Tata SafariXZ,2023,"25,000kms",Diesel,Manual,₹18.50 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLA ClassFacelift,2016,"80,000kms",Diesel,Automatic,₹15.50 Lakh,chennai
+Skoda,Skoda Octavia2.0 TDI AT L K,2018,"55,000kms",Diesel,Automatic,₹19.50 Lakh,chennai
+Hyundai,Hyundai Alcazar1.5 Signature (O) 7-Seater Diesel AT,2021,"47,000kms",Diesel,Automatic,₹15.25 Lakh,chennai
+Hyundai,Hyundai AlcazarSignature (O) 7-Seater Diesel AT,2023,"51,000kms",Diesel,Automatic,₹17.50 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GL-Class350 CDI Luxury,2012,"90,000kms",Diesel,Automatic,₹18 Lakh,chennai
+Kia,Kia SeltosHTX Diesel AT,2023,"39,000kms",Diesel,Automatic,₹16.50 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GL-Class350 CDI Luxury,2012,"90,000kms",Diesel,Automatic,₹16 Lakh,chennai
+Hyundai,Hyundai Creta1.6 SX Automatic,2018,"83,121kms",Petrol,Automatic,₹7.07 Lakh,chennai
+Kia,Kia SonetGTX Plus Turbo DCT BSVI,2020,"40,000kms",Petrol,Automatic,₹8.90 Lakh,chennai
+Hyundai,Hyundai Creta1.6 CRDi SX Option,2016,"58,000kms",Diesel,Manual,₹7.50 Lakh,chennai
+Kia,Kia SeltosHTX Diesel AT,2023,"39,000kms",Diesel,Automatic,₹16.50 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GL-Class350 CDI Luxury,2012,"90,000kms",Diesel,Automatic,₹16 Lakh,chennai
+Hyundai,Hyundai Creta1.6 SX Automatic,2018,"83,121kms",Petrol,Automatic,₹7.07 Lakh,chennai
+Kia,Kia SonetGTX Plus Turbo DCT BSVI,2020,"40,000kms",Petrol,Automatic,₹8.90 Lakh,chennai
+Hyundai,Hyundai Creta1.6 CRDi SX Option,2016,"58,000kms",Diesel,Manual,₹7.50 Lakh,chennai
+Volvo,Volvo XC90D5 R-Design,2018,"33,000kms",Diesel,Automatic,₹65 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz E-ClassExpression E 220d,2018,"55,000kms",Diesel,Automatic,₹37 Lakh,chennai
+Jaguar,Jaguar XJ3.0L Premium Luxury,2019,"44,000kms",Diesel,Automatic,₹55 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLS400d 4MATIC,2023,"29,000kms",Diesel,Automatic,₹99 Lakh,chennai
+Tata,Tata TigorXZ Plus CNG BSVI,2022,"12,133kms",CNG,Manual,₹6.15 Lakh,chennai
+Tata,Tata NexonXM BSVI,2022,"45,000kms",Petrol,Manual,₹6.85 Lakh,chennai
+Honda,Honda JazzV CVT,2021,"47,361kms",Petrol,Automatic,₹6.50 Lakh,chennai
+Hyundai,Hyundai Creta1.6 SX Option Executive,2019,"35,320kms",Petrol,Manual,₹8.68 Lakh,chennai
+Kia,Kia SeltosHTX G,2020,"11,669kms",Petrol,Manual,₹9.03 Lakh,chennai
+Toyota,Toyota Urban cruiserHigh,2021,"41,100kms",Petrol,Manual,₹8.25 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLA Class200,2017,"36,000kms",Petrol,Automatic,₹19.90 Lakh,chennai
+Maruti,Maruti Vitara BrezzaZDi Plus,2016,"86,103kms",Diesel,Manual,₹6.20 Lakh,chennai
+Mahindra,Mahindra XUV700AX7 AT BSVI,2023,"22,784kms",Petrol,Automatic,₹19.90 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLA Class200,2017,"53,913kms",Petrol,Automatic,₹17 Lakh,chennai
+Hyundai,Hyundai AuraSX Plus AMT Diesel,2024,"8,810kms",Diesel,Automatic,₹7.93 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLA Class200,2017,"36,000kms",Petrol,Automatic,₹19.90 Lakh,chennai
+Maruti,Maruti Vitara BrezzaZDi Plus,2016,"86,103kms",Diesel,Manual,₹6.20 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLA Class200,2017,"53,913kms",Petrol,Automatic,₹17 Lakh,chennai
+Mahindra,Mahindra XUV700AX7 AT BSVI,2023,"22,784kms",Petrol,Automatic,₹19.90 Lakh,chennai
+Hyundai,Hyundai AuraSX Plus AMT Diesel,2024,"8,810kms",Diesel,Automatic,₹7.93 Lakh,chennai
+Hyundai,Hyundai CretaE Diesel,2023,"85,000kms",Diesel,Manual,₹11.75 Lakh,chennai
+Volvo,Volvo XC40D4 R-Design,2018,"1,02,000kms",Diesel,Automatic,₹25 Lakh,chennai
+Hyundai,Hyundai Grand i10 NiosTurbo Sportz,2022,"56,362kms",Petrol,Manual,₹5.88 Lakh,chennai
+Hyundai,Hyundai Grand i101.2 Kappa Sportz Option,2018,"37,985kms",Petrol,Manual,₹4.02 Lakh,chennai
+Maruti,Maruti BalenoZeta,2020,"59,901kms",Petrol,Manual,₹5.79 Lakh,chennai
+Toyota,Toyota Innova Crysta2.4 ZX 7 STR,2021,"85,000kms",Diesel,Manual,₹21.50 Lakh,chennai
+Renault,Renault TriberRXZ BSVI,2021,"33,000kms",Petrol,Manual,₹5.65 Lakh,chennai
+Honda,Honda AmazeE i-Vtech,2014,"40,000kms",Petrol,Manual,₹4.25 Lakh,chennai
+Honda,Honda AmazeSX i VTEC,2017,"38,000kms",Petrol,Manual,₹4.25 Lakh,chennai
+Hyundai,Hyundai Verna1.6 SX,2015,"70,000kms",Diesel,Manual,₹6 Lakh,chennai
+Maruti,Maruti SwiftVXI,2018,"83,840kms",Petrol,Manual,₹4.95 Lakh,chennai
+Jeep,Jeep Compass1.4 Limited,2018,"70,000kms",Petrol,Automatic,₹8.50 Lakh,chennai
+Ford,Ford Ecosport1.5 Ti VCT AT Titanium BSIV,2015,"78,000kms",Petrol,Automatic,₹5.75 Lakh,chennai
+Hyundai,Hyundai Grand i10 NiosSportz,2019,"59,000kms",Petrol,Manual,₹5.40 Lakh,chennai
+BMW,BMW X1xDrive 20d xLine,2016,"1,16,000kms",Diesel,Automatic,₹15.50 Lakh,chennai
+Maruti,Maruti SwiftVXI,2018,"83,840kms",Petrol,Manual,₹4.95 Lakh,chennai
+Jeep,Jeep Compass1.4 Limited,2018,"70,000kms",Petrol,Automatic,₹8.50 Lakh,chennai
+Ford,Ford Ecosport1.5 Ti VCT AT Titanium BSIV,2015,"78,000kms",Petrol,Automatic,₹5.75 Lakh,chennai
+BMW,BMW X1xDrive 20d xLine,2016,"1,16,000kms",Diesel,Automatic,₹15.50 Lakh,chennai
+Hyundai,Hyundai Grand i10 NiosSportz,2019,"59,000kms",Petrol,Manual,₹5.40 Lakh,chennai
+BMW,BMW 7 Series730Ld DPE Signature,2017,"47,000kms",Diesel,Automatic,₹49 Lakh,chennai
+BMW,BMW X3xDrive20d xLine,2017,"53,000kms",Diesel,Automatic,₹33 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz C-ClassC 300,2024,"10,000kms",Petrol,Automatic,₹57.75 Lakh,chennai
+Toyota,Toyota Innova Crysta2.4 Zx 7Str,2025,"7,000kms",Diesel,Manual,₹33 Lakh,chennai
+Maruti,Maruti Swift DzireAMT ZDI,2016,"1,25,455kms",Diesel,Automatic,₹5.16 Lakh,chennai
+Maruti,Maruti SwiftVDI,2017,"87,522kms",Diesel,Manual,₹5.59 Lakh,chennai
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2019,"33,147kms",Petrol,Manual,₹5.17 Lakh,chennai
+Hyundai,Hyundai XcentPetrol,2019,"35,918kms",Petrol,Manual,₹5.37 Lakh,chennai
+Maruti,Maruti BalenoZeta Diesel,2018,"72,127kms",Diesel,Manual,₹5.22 Lakh,chennai
+Honda,Honda AmazeS Diesel BSIV,2019,"70,075kms",Diesel,Manual,₹5.63 Lakh,chennai
+Hyundai,Hyundai i20Magna Plus BSIV,2019,"48,000kms",Petrol,Manual,₹5.50 Lakh,chennai
+Maruti,Maruti CiazZeta,2018,"45,967kms",Petrol,Manual,₹5.95 Lakh,chennai
+Hyundai,Hyundai Grand i10Sportz,2016,"42,552kms",Petrol,Manual,₹4.65 Lakh,chennai
+Hyundai,Hyundai i20Asta 1.2,2016,"51,000kms",Petrol,Manual,₹5.50 Lakh,chennai
+Hyundai,Hyundai Grand i101.2 CRDi Magna,2018,"61,000kms",Diesel,Manual,₹4.85 Lakh,chennai
+Hyundai,Hyundai i20Magna Plus BSIV,2019,"48,000kms",Petrol,Manual,₹5.50 Lakh,chennai
+Maruti,Maruti CiazZeta,2018,"45,967kms",Petrol,Manual,₹5.95 Lakh,chennai
+Hyundai,Hyundai Grand i10Sportz,2016,"42,552kms",Petrol,Manual,₹4.65 Lakh,chennai
+Hyundai,Hyundai i20Asta 1.2,2016,"51,000kms",Petrol,Manual,₹5.50 Lakh,chennai
+Hyundai,Hyundai Grand i101.2 CRDi Magna,2018,"61,000kms",Diesel,Manual,₹4.85 Lakh,chennai
+Maruti,Maruti Baleno1.2 CVT Delta,2015,"70,276kms",Petrol,Automatic,₹5.50 Lakh,chennai
+Maruti,Maruti SwiftAMT VXI,2019,"77,844kms",Petrol,Automatic,₹5.80 Lakh,chennai
+Hyundai,Hyundai VernaSX CRDi AT,2014,"88,000kms",Diesel,Automatic,₹5.40 Lakh,chennai
+Maruti,Maruti SwiftVVT VXI,2014,"70,000kms",Petrol,Manual,₹4.10 Lakh,chennai
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2017,"46,307kms",Petrol,Manual,₹4.40 Lakh,chennai
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2017,"71,162kms",Petrol,Manual,₹4.30 Lakh,chennai
+Hyundai,Hyundai i201.2 Spotz,2017,"5,40,000kms",Petrol,Manual,₹5.80 Lakh,chennai
+Honda,Honda Jazz1.2 V AT i VTEC,2017,"36,000kms",Petrol,Automatic,₹6 Lakh,chennai
+Hyundai,Hyundai Grand i10 NiosSportz,2021,"52,700kms",Petrol,Manual,₹5.60 Lakh,chennai
+Maruti,Maruti SwiftVXI,2018,"75,400kms",Petrol,Manual,₹5.10 Lakh,chennai
+Maruti,Maruti BalenoDelta,2018,"40,913kms",Petrol,Manual,₹5.30 Lakh,chennai
+Volkswagen,Volkswagen Vento1.5 TDI Comfortline,2015,"88,000kms",Diesel,Manual,₹5.25 Lakh,chennai
+Maruti,Maruti Swift DzireAMT VDI,2017,"57,000kms",Diesel,Automatic,₹5.90 Lakh,chennai
+Honda,Honda WR-Vi-VTEC VX,2017,"80,529kms",Petrol,Manual,₹5.15 Lakh,chennai
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2017,"74,000kms",Petrol,Manual,₹4.50 Lakh,chennai
+Maruti,Maruti BalenoDelta,2018,"40,913kms",Petrol,Manual,₹5.30 Lakh,chennai
+Hyundai,Hyundai Grand i10 NiosSportz,2021,"52,700kms",Petrol,Manual,₹5.60 Lakh,chennai
+Maruti,Maruti SwiftVXI,2018,"75,400kms",Petrol,Manual,₹5.10 Lakh,chennai
+Hyundai,Hyundai Grand i101.2 CRDi Magna,2018,"61,000kms",Diesel,Manual,₹4.85 Lakh,chennai
+Maruti,Maruti CiazZeta,2018,"45,967kms",Petrol,Manual,₹5.95 Lakh,chennai
+Hyundai,Hyundai Grand i10Sportz,2016,"42,552kms",Petrol,Manual,₹4.65 Lakh,chennai
+Hyundai,Hyundai i20Asta 1.2,2016,"51,000kms",Petrol,Manual,₹5.50 Lakh,chennai
+Maruti,Maruti SwiftVDI Deca,2016,"44,000kms",Diesel,Manual,₹5.75 Lakh,chennai
+Maruti,Maruti Swift DzireAMT VDI,2018,"98,687kms",Diesel,Automatic,₹5.50 Lakh,chennai
+Maruti,Maruti Wagon RVXI,2022,"15,000kms",Petrol,Manual,₹5.25 Lakh,chennai
+Honda,Honda AmazeSX i DTEC,2016,"82,190kms",Diesel,Manual,₹4.70 Lakh,chennai
+Maruti,Maruti SwiftRS VDI,2014,"89,206kms",Diesel,Manual,₹4.75 Lakh,chennai
+Hyundai,Hyundai Grand i10Asta Option,2016,"51,022kms",Petrol,Manual,₹5 Lakh,chennai
+Maruti,Maruti S-PressoLXi BSVI,2022,"29,550kms",Petrol,Manual,₹4.50 Lakh,chennai
+Volkswagen,Volkswagen Vento1.2 TSI Highline AT,2015,"61,000kms",Petrol,Automatic,₹5.25 Lakh,chennai
+Hyundai,Hyundai i20 Active1.2,2016,"30,519kms",Petrol,Manual,₹5 Lakh,chennai
+Ford,Ford Ecosport1.5 Diesel Trend Plus BSIV,2019,"1,25,000kms",Diesel,Manual,₹6 Lakh,chennai
+Hyundai,Hyundai Grand i10AT Sportz,2020,"56,363kms",Petrol,Automatic,₹5.25 Lakh,chennai
+Maruti,Maruti SwiftLXI,2020,"40,252kms",Petrol,Manual,₹5.70 Lakh,chennai
+Hyundai,Hyundai i20Magna Plus BSIV,2019,"69,000kms",Petrol,Manual,₹5.65 Lakh,chennai
+Hyundai,Hyundai i20 Active1.2,2016,"30,519kms",Petrol,Manual,₹5 Lakh,chennai
+Ford,Ford Ecosport1.5 Diesel Trend Plus BSIV,2019,"1,25,000kms",Diesel,Manual,₹6 Lakh,chennai
+Hyundai,Hyundai Grand i10AT Sportz,2020,"56,363kms",Petrol,Automatic,₹5.25 Lakh,chennai
+Maruti,Maruti SwiftLXI,2020,"40,252kms",Petrol,Manual,₹5.70 Lakh,chennai
+Hyundai,Hyundai i20Magna Plus BSIV,2019,"69,000kms",Petrol,Manual,₹5.65 Lakh,chennai
+Honda,Honda City1.5 V MT Exclusive,2014,"92,491kms",Petrol,Manual,₹4.55 Lakh,chennai
+Tata,Tata Nexon1.2 Revotron XM,2019,"36,732kms",Petrol,Manual,₹5.95 Lakh,chennai
+Hyundai,Hyundai Xcent1.2 Kappa SX,2015,"68,000kms",Petrol,Manual,₹4.25 Lakh,chennai
+Skoda,Skoda Rapid1.5 TDI Style Plus,2017,"83,592kms",Diesel,Manual,₹4.95 Lakh,chennai
+Hyundai,Hyundai i20Sportz Plus CVT BSIV,2019,"36,343kms",Petrol,Automatic,₹6.75 Lakh,chennai
+Hyundai,Hyundai i20Sportz Diesel,2021,"76,744kms",Diesel,Manual,₹8.25 Lakh,chennai
+Hyundai,Hyundai Grand i10 NiosSportz AMT,2023,"50,579kms",Petrol,Automatic,₹6.95 Lakh,chennai
+Maruti,Maruti Vitara BrezzaLXI,2021,"29,000kms",Petrol,Manual,₹7.90 Lakh,chennai
+Honda,Honda CityVX MT,2020,"43,913kms",Petrol,Manual,₹8.75 Lakh,chennai
+Maruti,Maruti Swift DzireZXI BSVI,2021,"55,000kms",Petrol,Manual,₹6.90 Lakh,chennai
+Volkswagen,Volkswagen Taigun1.0 TSI Highline BSVI,2022,"28,700kms",Petrol,Manual,₹9.25 Lakh,chennai
+Hyundai,Hyundai i20Asta,2023,"20,700kms",Petrol,Manual,₹8.25 Lakh,chennai
+Hyundai,Hyundai i20Asta Opt Turbo DCT BSVI,2020,"44,695kms",Petrol,Automatic,₹6.50 Lakh,chennai
+Maruti,Maruti CiazAlpha Automatic BSIV,2019,"85,000kms",Petrol,Automatic,₹7.30 Lakh,chennai
+Honda,Honda Amaze 2nd GenVX CVT,2023,"27,513kms",Petrol,Automatic,₹9.84 Lakh,chennai
+Volkswagen,Volkswagen Taigun1.0 TSI Highline BSVI,2022,"28,700kms",Petrol,Manual,₹9.25 Lakh,chennai
+Maruti,Maruti Swift DzireZXI BSVI,2021,"55,000kms",Petrol,Manual,₹6.90 Lakh,chennai
+Honda,Honda Amaze 2nd GenVX CVT,2023,"27,513kms",Petrol,Automatic,₹9.84 Lakh,chennai
+Hyundai,Hyundai i20Asta,2023,"20,700kms",Petrol,Manual,₹8.25 Lakh,chennai
+Hyundai,Hyundai i20Asta Opt Turbo DCT BSVI,2020,"44,695kms",Petrol,Automatic,₹6.50 Lakh,chennai
+Maruti,Maruti CiazAlpha Automatic BSIV,2019,"85,000kms",Petrol,Automatic,₹7.30 Lakh,chennai
+Maruti,Maruti XL6Zeta,2020,"34,000kms",Petrol,Manual,₹9.95 Lakh,chennai
+Maruti,Maruti Swift DzireAMT VDI,2017,"82,000kms",Diesel,Automatic,₹6.75 Lakh,chennai
+Hyundai,Hyundai Grand i10 NiosAMT Sportz,2023,"15,000kms",Petrol,Automatic,₹7.50 Lakh,chennai
+Tata,Tata NexonXM BSVI,2021,"48,804kms",Petrol,Manual,₹6.05 Lakh,chennai
+Maruti,Maruti CiazAlpha Automatic BSIV,2019,"48,000kms",Petrol,Automatic,₹7.65 Lakh,chennai
+BMW,BMW 7 Series730Ld,2013,"65,441kms",Diesel,Automatic,₹20.70 Lakh,chennai
+Land Rover,Land Rover Range Rover Evoque2.0 TD4 SE,2017,"88,000kms",Diesel,Automatic,₹29.90 Lakh,chennai
+BMW,BMW X1sDrive20d Expedition,2019,"48,000kms",Diesel,Automatic,₹22.90 Lakh,chennai
+Toyota,Toyota Innova Crysta2.8 GX AT BSIV,2019,"86,000kms",Diesel,Automatic,₹21 Lakh,chennai
+Hyundai,Hyundai Alcazar1.5 Signature (O) 7-Seater Diesel AT,2023,"35,000kms",Diesel,Automatic,₹17.50 Lakh,chennai
+Ford,Ford Endeavour2.2 Titanium AT 4X2,2016,"75,000kms",Diesel,Automatic,₹18.50 Lakh,chennai
+BMW,BMW X1sDrive20i xLine,2019,"53,000kms",Petrol,Automatic,₹17.75 Lakh,chennai
+Mahindra,Mahindra TharLX 4WD Hard Top Diesel AT BSVI,2023,"70,000kms",Diesel,Automatic,₹15.50 Lakh,chennai
+Hyundai,Hyundai XcentPetrol,2014,"1,02,460kms",Petrol,Manual,₹3.49 Lakh,chennai
+Hyundai,Hyundai Alcazar1.5 Signature (O) 7-Seater Diesel AT,2023,"35,000kms",Diesel,Automatic,₹17.50 Lakh,chennai
+Ford,Ford Endeavour2.2 Titanium AT 4X2,2016,"75,000kms",Diesel,Automatic,₹18.50 Lakh,chennai
+Mahindra,Mahindra TharLX 4WD Hard Top Diesel AT BSVI,2023,"70,000kms",Diesel,Automatic,₹15.50 Lakh,chennai
+BMW,BMW X1sDrive20i xLine,2019,"53,000kms",Petrol,Automatic,₹17.75 Lakh,chennai
+Hyundai,Hyundai XcentPetrol,2014,"1,02,460kms",Petrol,Manual,₹3.49 Lakh,chennai
+Hyundai,Hyundai i201.2 Magna Executive,2018,"46,843kms",Petrol,Manual,₹4.59 Lakh,chennai
+Audi,Audi A4Premium BSVI,2023,"18,000kms",Petrol,Automatic,₹31.50 Lakh,chennai
+BMW,BMW X3xDrive20d M Sport,2023,"59,000kms",Diesel,Automatic,₹55 Lakh,chennai
+Ford,Ford Ecosport1.5 DV5 MT Titanium,2015,"1,46,550kms",Diesel,Manual,₹4.75 Lakh,chennai
+Honda,Honda AmazeVX CVT i-VTEC,2016,"45,000kms",Petrol,Automatic,₹4.75 Lakh,chennai
+Honda,Honda Cityi VTEC CVT SV,2014,"80,201kms",Petrol,Automatic,₹4.95 Lakh,chennai
+Hyundai,Hyundai i20 Active1.2 SX,2017,"77,809kms",Petrol,Manual,₹4.82 Lakh,chennai
+Maruti,Maruti Swift DzireVXI,2016,"37,575kms",Petrol,Manual,₹4.79 Lakh,chennai
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2019,"27,628kms",Petrol,Manual,₹4.40 Lakh,chennai
+Maruti,Maruti SwiftVXI,2018,"75,660kms",Petrol,Manual,₹4.54 Lakh,chennai
+Maruti,Maruti SwiftVXI AMT,2020,"37,234kms",Petrol,Automatic,₹5.20 Lakh,chennai
+Maruti,Maruti SwiftVDI,2012,"37,421kms",Diesel,Manual,₹3.95 Lakh,chennai
+Hyundai,Hyundai Grand i10 NiosAMT Sportz,2019,"30,558kms",Petrol,Automatic,₹5.30 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLA Class220 d 4MATIC,2017,"93,000kms",Diesel,Automatic,₹17 Lakh,chennai
+Maruti,Maruti Swift DzireAMT ZXI,2018,"54,399kms",Petrol,Automatic,₹5.55 Lakh,chennai
+Maruti,Maruti SwiftVXI,2018,"75,660kms",Petrol,Manual,₹4.54 Lakh,chennai
+Maruti,Maruti SwiftVDI,2012,"37,421kms",Diesel,Manual,₹3.95 Lakh,chennai
+Hyundai,Hyundai Grand i10 NiosAMT Sportz,2019,"30,558kms",Petrol,Automatic,₹5.30 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLA Class220 d 4MATIC,2017,"93,000kms",Diesel,Automatic,₹17 Lakh,chennai
+Maruti,Maruti Swift DzireAMT ZXI,2018,"54,399kms",Petrol,Automatic,₹5.55 Lakh,chennai
+Maruti,Maruti Vitara BrezzaVDi Option,2017,"1,17,000kms",Diesel,Manual,₹5.75 Lakh,chennai
+Maruti,Maruti SwiftVXI,2011,"1,10,000kms",Petrol,Manual,₹3.25 Lakh,chennai
+Maruti,Maruti Baleno1.2 Sigma,2016,"33,915kms",Petrol,Manual,₹4.70 Lakh,chennai
+Maruti,Maruti Baleno1.2 Zeta,2016,"1,04,538kms",Petrol,Manual,₹4.29 Lakh,chennai
+Maruti,Maruti Ciaz1.4 Sigma,2018,"53,000kms",Petrol,Manual,₹5.90 Lakh,chennai
+Toyota,Toyota EtiosGD,2015,"2,30,000kms",Diesel,Manual,₹5.75 Lakh,chennai
+Kia,Kia SonetGTX Plus Diesel BSVI,2021,"53,000kms",Diesel,Manual,₹13 Lakh,chennai
+Ford,Ford AspireTitanium BSIV,2018,"21,000kms",Petrol,Manual,₹4.80 Lakh,chennai
+Tata,Tata Tiago1.2 Revotron XZ,2018,"45,000kms",Petrol,Manual,₹4.50 Lakh,chennai
+Renault,Renault TriberRXZ,2021,"40,007kms",Petrol,Manual,₹5.45 Lakh,chennai
+Toyota,Toyota Innova HycrossZX(O) Hybrid,2025,"5,000kms",Petrol,Automatic,₹38.50 Lakh,chennai
+Hyundai,Hyundai Xcent1.2 Kappa Base,2014,"44,080kms",Petrol,Manual,₹3.30 Lakh,chennai
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2019,"27,503kms",Petrol,Manual,₹4.63 Lakh,chennai
+Maruti,Maruti BalenoDelta,2021,"27,795kms",Petrol,Manual,₹5.99 Lakh,chennai
+Hyundai,Hyundai Grand i10 NiosMagna,2021,"51,000kms",Petrol,Manual,₹5.95 Lakh,chennai
+Toyota,Toyota Innova HycrossZX(O) Hybrid,2025,"5,000kms",Petrol,Automatic,₹38.50 Lakh,chennai
+Hyundai,Hyundai Xcent1.2 Kappa Base,2014,"44,080kms",Petrol,Manual,₹3.30 Lakh,chennai
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2019,"27,503kms",Petrol,Manual,₹4.63 Lakh,chennai
+Maruti,Maruti BalenoDelta,2021,"27,795kms",Petrol,Manual,₹5.99 Lakh,chennai
+Hyundai,Hyundai Grand i10 NiosMagna,2021,"51,000kms",Petrol,Manual,₹5.95 Lakh,chennai
+Maruti,Maruti CiazAT ZXi,2016,"74,000kms",Petrol,Automatic,₹6 Lakh,chennai
+Tata,Tata Nexon1.5 Revotorq XZA Plus,2019,"1,43,731kms",Diesel,Automatic,₹5.25 Lakh,chennai
+Maruti,Maruti Swift DzireLXI Optional-O,2016,"68,000kms",Petrol,Manual,₹4.80 Lakh,chennai
+Toyota,Toyota Innova Crysta2.4 G 7 STR,2021,"43,000kms",Diesel,Manual,₹23 Lakh,chennai
+Maruti,Maruti Baleno1.2 CVT Zeta,2017,"85,800kms",Petrol,Automatic,₹5.05 Lakh,chennai
+Maruti,Maruti SwiftVXI,2016,"57,190kms",Petrol,Manual,₹4.02 Lakh,chennai
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2016,"43,355kms",Petrol,Manual,₹3.29 Lakh,chennai
+Honda,Honda CitySV MT,2014,"1,06,894kms",Petrol,Manual,₹4.37 Lakh,chennai
+Renault,Renault DusterPetrol RxL,2017,"42,528kms",Petrol,Manual,₹5.26 Lakh,chennai
+Hyundai,Hyundai XcentPetrol,2015,"66,846kms",Petrol,Manual,₹4.08 Lakh,chennai
+Tata,Tata NexonXM BSVI,2021,"28,791kms",Petrol,Manual,₹5.66 Lakh,chennai
+Hyundai,Hyundai Grand i10 NiosTurbo Sportz,2022,"32,832kms",Petrol,Manual,₹5.14 Lakh,chennai
+Honda,Honda Cityi VTEC VX,2015,"1,04,537kms",Petrol,Manual,₹4.47 Lakh,chennai
+Hyundai,Hyundai Grand i10 NiosSportz CRDi,2022,"1,01,696kms",Diesel,Manual,₹5.57 Lakh,chennai
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2019,"82,304kms",Petrol,Manual,₹4.80 Lakh,chennai
+Hyundai,Hyundai XcentPetrol,2015,"66,846kms",Petrol,Manual,₹4.08 Lakh,chennai
+Maruti,Maruti SwiftVXI,2016,"57,190kms",Petrol,Manual,₹4.02 Lakh,chennai
+Hyundai,Hyundai Grand i10 NiosSportz CRDi,2022,"1,01,696kms",Diesel,Manual,₹5.57 Lakh,chennai
+Honda,Honda Cityi VTEC VX,2015,"1,04,537kms",Petrol,Manual,₹4.47 Lakh,chennai
+Hyundai,Hyundai i20 Active1.2 S,2017,"60,535kms",Petrol,Manual,₹4.09 Lakh,chennai
+Ford,Ford Ecosport1.5 Petrol Titanium BSIV,2020,"59,560kms",Petrol,Manual,₹5.93 Lakh,chennai
+Renault,Renault TriberRXE BSVI,2020,"43,359kms",Petrol,Manual,₹5.25 Lakh,chennai
+Hyundai,Hyundai i201.2 Era,2017,"52,000kms",Petrol,Manual,₹5.10 Lakh,chennai
+Tata,Tata ZestQuadrajet 1.3 XMA,2015,"52,000kms",Diesel,Automatic,₹4.50 Lakh,chennai
+Maruti,Maruti Wagon RVXI Optional,2018,"69,487kms",Petrol,Manual,₹3.99 Lakh,chennai
+Maruti,Maruti S-PressoVXI Plus  -2022,2019,"42,000kms",Petrol,Manual,₹3.95 Lakh,chennai
+Hyundai,Hyundai Grand i10Sportz,2013,"92,000kms",Petrol,Manual,₹3.75 Lakh,chennai
+Hyundai,Hyundai Xcent1.1 CRDi SX,2014,"95,642kms",Diesel,Manual,₹3.40 Lakh,chennai
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2019,"82,304kms",Petrol,Manual,₹4.80 Lakh,chennai
+Hyundai,Hyundai Xcent1.2 Kappa AT SX Option,2015,"92,000kms",Petrol,Automatic,₹3.55 Lakh,chennai
+Ford,Ford Ecosport1.0 Ecoboost Titanium Plus BSIV,2017,"83,000kms",Petrol,Manual,₹5.50 Lakh,chennai
+Maruti,Maruti Wagon RVXI,2014,"91,015kms",Petrol,Manual,₹3.10 Lakh,chennai
+Maruti,Maruti Baleno1.2 Alpha,2017,"46,000kms",Petrol,Manual,₹5.95 Lakh,chennai
+Honda,Honda BrioS MT,2012,"48,000kms",Petrol,Manual,₹3.65 Lakh,chennai
+Maruti,Maruti Swift DzireVXi AT,2017,"59,487kms",Petrol,Automatic,₹5.50 Lakh,chennai
+Ford,Ford Ecosport1.0 Ecoboost Titanium Plus BSIV,2017,"83,000kms",Petrol,Manual,₹5.50 Lakh,chennai
+Maruti,Maruti Wagon RVXI,2014,"91,015kms",Petrol,Manual,₹3.10 Lakh,chennai
+Maruti,Maruti Baleno1.2 Alpha,2017,"46,000kms",Petrol,Manual,₹5.95 Lakh,chennai
+Honda,Honda BrioS MT,2012,"48,000kms",Petrol,Manual,₹3.65 Lakh,chennai
+Maruti,Maruti Swift DzireVXi AT,2017,"59,487kms",Petrol,Automatic,₹5.50 Lakh,chennai
+Renault,Renault Duster110PS Diesel RxZ,2014,"71,050kms",Diesel,Manual,₹4.25 Lakh,chennai
+Hyundai,Hyundai Verna1.6 VTVT S Option,2015,"38,135kms",Petrol,Manual,₹5.60 Lakh,chennai
+Honda,Honda BrioS MT,2013,"49,000kms",Petrol,Manual,₹3.40 Lakh,chennai
+Hyundai,Hyundai Xcent1.2 Kappa AT SX Option,2015,"35,370kms",Petrol,Automatic,₹4.50 Lakh,chennai
+Skoda,Skoda OctaviaElegance 2.0 TDI AT,2014,"1,02,000kms",Diesel,Automatic,₹5.95 Lakh,chennai
+Maruti,Maruti CelerioVXI,2015,"37,400kms",Petrol,Manual,₹3.30 Lakh,chennai
+Maruti,Maruti Wagon RZXI 1.2,2021,"4,965kms",Petrol,Manual,₹5.85 Lakh,chennai
+Ford,Ford Figo1.5D Titanium MT,2018,"49,897kms",Diesel,Manual,₹4.80 Lakh,chennai
+Honda,Honda AmazeS i-Vtech,2015,"41,000kms",Petrol,Manual,₹3.25 Lakh,chennai
+Honda,Honda AmazeEX i-Dtech,2014,"72,000kms",Diesel,Manual,₹3.80 Lakh,chennai
+Maruti,Maruti SwiftVDI,2013,"1,02,000kms",Diesel,Manual,₹3.65 Lakh,chennai
+Honda,Honda AmazeS Petrol,2015,"50,252kms",Petrol,Manual,₹3.95 Lakh,chennai
+Honda,Honda City1.5 V MT Exclusive,2013,"1,11,126kms",Petrol,Manual,₹3.45 Lakh,chennai
+Maruti,Maruti S CrossDDiS 200 Sigma,2021,"85,598kms",Diesel,Manual,₹5.95 Lakh,chennai
+Renault,Renault KWID1.0 RXT BSIV,2019,"53,661kms",Petrol,Manual,₹4.90 Lakh,chennai
+Honda,Honda AmazeS Petrol,2017,"76,191kms",Petrol,Manual,₹4.15 Lakh,chennai
+Maruti,Maruti SwiftVDI,2013,"1,02,000kms",Diesel,Manual,₹3.65 Lakh,chennai
+Maruti,Maruti Swift DzireVXI,2013,"27,104kms",Petrol,Manual,₹3.60 Lakh,chennai
+Honda,Honda AmazeEX i-Dtech,2014,"72,000kms",Diesel,Manual,₹3.80 Lakh,chennai
+Maruti,Maruti SwiftVXI Optional,2017,"71,819kms",Petrol,Manual,₹4.75 Lakh,chennai
+Honda,Honda AmazeS AT i-Vtech,2015,"65,645kms",Petrol,Automatic,₹4.50 Lakh,chennai
+Honda,Honda AmazeS Petrol,2015,"50,252kms",Petrol,Manual,₹3.95 Lakh,chennai
+Honda,Honda City1.5 V MT Exclusive,2013,"1,11,126kms",Petrol,Manual,₹3.45 Lakh,chennai
+Maruti,Maruti S CrossDDiS 200 Sigma,2021,"85,598kms",Diesel,Manual,₹5.95 Lakh,chennai
+Ford,Ford Figo1.5D Titanium MT,2018,"49,897kms",Diesel,Manual,₹4.80 Lakh,chennai
+Honda,Honda AmazeS i-Vtech,2015,"41,000kms",Petrol,Manual,₹3.25 Lakh,chennai
+Maruti,Maruti CelerioZXI,2016,"59,000kms",Petrol,Manual,₹3.50 Lakh,chennai
+Hyundai,Hyundai Grand i10Magna,2015,"65,000kms",Petrol,Manual,₹4 Lakh,chennai
+Tata,Tata PunchAccomplished BSVI,2022,"33,523kms",Petrol,Manual,₹5.99 Lakh,chennai
+Renault,Renault KWID1.0 RXT Opt BSIV,2019,"44,972kms",Petrol,Manual,₹3.25 Lakh,chennai
+Mini Cooper,Mini Cooper SEElectric,2022,"9,000kms",Electric,Automatic,₹38 Lakh,chennai
+Maruti,Maruti SwiftAMT ZDI,2018,"1,11,240kms",Diesel,Automatic,₹4.87 Lakh,chennai
+Hyundai,Hyundai Grand i10Asta,2014,"49,549kms",Petrol,Manual,₹3.21 Lakh,chennai
+Maruti,2022Maruti S-PressoVXI Plus  -2022,2019,"35,637kms",Petrol,Manual,₹3.69 Lakh,chennai
+Hyundai,Hyundai Xcent1.2 Kappa S Celebration Edition,2016,"72,959kms",Petrol,Manual,₹3.39 Lakh,chennai
+Mini Cooper,Mini Cooper SEElectric,2022,"9,000kms",Electric,Automatic,₹38 Lakh,chennai
+Hyundai,Hyundai Xcent1.2 Kappa S Celebration Edition,2016,"72,959kms",Petrol,Manual,₹3.39 Lakh,chennai
+Maruti,Maruti SwiftAMT ZDI,2018,"1,11,240kms",Diesel,Automatic,₹4.87 Lakh,chennai
+Hyundai,Hyundai Grand i10Asta,2014,"49,549kms",Petrol,Manual,₹3.21 Lakh,chennai
+Maruti,2022Maruti S-PressoVXI Plus  -2022,2019,"35,637kms",Petrol,Manual,₹3.69 Lakh,chennai
+Tata,Tata Tiago1.2 Revotron XM,2017,"67,127kms",Petrol,Manual,₹3.55 Lakh,chennai
+Maruti,Maruti Swift DzireZXI AT BSVI,2022,"49,916kms",Petrol,Automatic,₹6.27 Lakh,chennai
+Kia,Kia SeltosGTX Plus Diesel AT,2021,"99,890kms",Diesel,Automatic,₹9.76 Lakh,chennai
+Tata,Tata TiagoXZ CNG,2022,"24,547kms",CNG,Manual,₹6.42 Lakh,chennai
+Hyundai,Hyundai VernaS Plus,2022,"43,645kms",Petrol,Manual,₹8.75 Lakh,chennai
+Hyundai,Hyundai Creta1.6 CRDi AT SX Plus,2015,"2,10,000kms",Diesel,Automatic,₹6.75 Lakh,chennai
+Hyundai,Hyundai VernaVTVT 1.4 EX,2018,"97,559kms",Petrol,Manual,₹6.65 Lakh,chennai
+Audi,Audi A42.0 TFSI,2010,"81,790kms",Petrol,Automatic,₹6.75 Lakh,chennai
+Renault,Renault TriberRXZ,2023,"46,849kms",Petrol,Manual,₹6.50 Lakh,chennai
+Volkswagen,Volkswagen Vento1.2 TSI Highline Plus AT,2019,"1,35,000kms",Petrol,Automatic,₹6.25 Lakh,chennai
+Volkswagen,Volkswagen T-RocTSI,2021,"1,11,866kms",Petrol,Automatic,₹15.39 Lakh,chennai
+Toyota,Toyota Innova Crysta2.4 ZX MT BSIV,2017,"1,25,000kms",Diesel,Manual,₹18.25 Lakh,chennai
+Toyota,Toyota Innova Crysta2.4 G MT BSIV,2016,"1,25,000kms",Diesel,Manual,₹16 Lakh,chennai
+Toyota,Toyota Innova2.5 VX (Diesel) 7 Seater BS IV,2016,"1,25,000kms",Diesel,Manual,₹16.75 Lakh,chennai
+Toyota,Toyota Innova Crysta2.4 G MT BSIV,2017,"1,20,000kms",Diesel,Manual,₹16 Lakh,chennai
+Volkswagen,Volkswagen T-RocTSI,2021,"1,11,866kms",Petrol,Automatic,₹15.39 Lakh,chennai
+Toyota,Toyota Innova Crysta2.4 ZX MT BSIV,2017,"1,25,000kms",Diesel,Manual,₹18.25 Lakh,chennai
+Toyota,Toyota Innova Crysta2.4 G MT BSIV,2016,"1,25,000kms",Diesel,Manual,₹16 Lakh,chennai
+Toyota,Toyota Innova2.5 VX (Diesel) 7 Seater BS IV,2016,"1,25,000kms",Diesel,Manual,₹16.75 Lakh,chennai
+Toyota,Toyota Innova Crysta2.4 G MT BSIV,2017,"1,20,000kms",Diesel,Manual,₹16 Lakh,chennai
+Toyota,Toyota Innova Crysta2.4 VX MT 8S BSIV,2016,"1,45,000kms",Diesel,Manual,₹17.50 Lakh,chennai
+Audi,Audi A335 TDI Premium,2015,"50,000kms",Diesel,Automatic,₹17 Lakh,chennai
+Maruti,2021Maruti S-PressoVXI  -2022,2019,"1,39,679kms",Petrol,Manual,₹3.38 Lakh,chennai
+Hyundai,Hyundai SantroSportz BSIV,2019,"25,626kms",Petrol,Manual,₹4.15 Lakh,chennai
+Skoda,Skoda Rapid1.6 MPI Elegance,2012,"69,000kms",Petrol,Manual,₹3.25 Lakh,chennai
+Honda,Honda BrioS MT,2016,"66,098kms",Petrol,Manual,₹3.74 Lakh,chennai
+Datsun,Datsun RediGO1.0 S,2020,"31,737kms",Petrol,Manual,₹3.42 Lakh,chennai
+Maruti,Maruti Alto K10VXI,2023,"27,232kms",Petrol,Manual,₹3.96 Lakh,chennai
+Renault,Renault KWID1.0 RXL BSVI,2021,"25,164kms",Petrol,Manual,₹3.60 Lakh,chennai
+Hyundai,Hyundai i201.4 CRDi Asta,2012,"65,000kms",Diesel,Manual,₹3.30 Lakh,chennai
+Maruti,Maruti CelerioZXI Optional AMT BSIV,2018,"47,333kms",Petrol,Automatic,₹4.15 Lakh,chennai
+Mahindra,Mahindra XUV500AT W10 FWD,2016,"59,000kms",Diesel,Automatic,₹10.75 Lakh,chennai
+Mahindra,Mahindra TharLX 4WD Hard Top Diesel AT BSVI,2022,"45,000kms",Diesel,Automatic,₹13.50 Lakh,chennai
+Mahindra,Mahindra XUV500W9 AT,2021,"40,000kms",Diesel,Automatic,₹13.50 Lakh,chennai
+Honda,Honda AmazeS i-Vtech,2015,"82,922kms",Petrol,Manual,₹3.45 Lakh,chennai
+Renault,Renault KWID1.0 RXL BSVI,2021,"25,164kms",Petrol,Manual,₹3.60 Lakh,chennai
+Mahindra,Mahindra XUV500AT W10 FWD,2016,"59,000kms",Diesel,Automatic,₹10.75 Lakh,chennai
+Mahindra,Mahindra TharLX 4WD Hard Top Diesel AT BSVI,2022,"45,000kms",Diesel,Automatic,₹13.50 Lakh,chennai
+Mahindra,Mahindra XUV500W9 AT,2021,"40,000kms",Diesel,Automatic,₹13.50 Lakh,chennai
+Honda,Honda AmazeS i-Vtech,2015,"82,922kms",Petrol,Manual,₹3.45 Lakh,chennai
+Maruti,Maruti SwiftVXI,2016,"92,171kms",Petrol,Manual,₹4.47 Lakh,chennai
+Maruti,2021Maruti S-PressoVXI Plus  -2022,2019,"42,936kms",Petrol,Manual,₹3.67 Lakh,chennai
+Hyundai,Hyundai i20Sportz 1.2,2016,"1,15,037kms",Petrol,Manual,₹4.18 Lakh,chennai
+Hyundai,Hyundai i10Magna 1.1,2015,"19,649kms",Petrol,Manual,₹3.56 Lakh,chennai
+Maruti,Maruti CelerioVXI,2016,"31,000kms",Petrol,Manual,₹3.85 Lakh,chennai
+Land Rover,Land Rover DiscoveryHSE 3.0 TD6,2018,"50,000kms",Diesel,Automatic,₹35 Lakh,chennai
+BMW,BMW X1sDrive18d M Sport BSVI,2023,"10,000kms",Diesel,Automatic,₹46 Lakh,chennai
+Toyota,Toyota Innova Crysta2.4 ZX 7 STR AT,2021,"65,000kms",Diesel,Automatic,₹24.90 Lakh,chennai
+Toyota,Toyota Fortuner2.8 2WD MT BSIV,2018,"1,20,000kms",Diesel,Manual,₹27 Lakh,chennai
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2017,"79,381kms",Petrol,Manual,₹3.55 Lakh,chennai
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2019,"43,697kms",Petrol,Manual,₹4.44 Lakh,chennai
+Honda,Honda Jazz1.2 E i VTEC,2015,"80,000kms",Petrol,Manual,₹3.90 Lakh,chennai
+Maruti,Maruti IgnisZeta BSVI,2021,"1,12,107kms",Petrol,Manual,₹4.15 Lakh,chennai
+Maruti,Maruti CelerioZXI AT,2016,"50,000kms",Petrol,Automatic,₹4.15 Lakh,chennai
+Maruti,Maruti CelerioVXI AMT,2015,"91,909kms",Petrol,Automatic,₹3.16 Lakh,chennai
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2019,"43,697kms",Petrol,Manual,₹4.44 Lakh,chennai
+Honda,Honda Jazz1.2 E i VTEC,2015,"80,000kms",Petrol,Manual,₹3.90 Lakh,chennai
+Maruti,Maruti IgnisZeta BSVI,2021,"1,12,107kms",Petrol,Manual,₹4.15 Lakh,chennai
+Maruti,Maruti CelerioZXI AT,2016,"50,000kms",Petrol,Automatic,₹4.15 Lakh,chennai
+Honda,Honda Jazz1.2 V AT i VTEC,2016,"42,478kms",Petrol,Automatic,₹4.40 Lakh,chennai
+Maruti,Maruti CelerioVXI AMT,2015,"91,909kms",Petrol,Automatic,₹3.16 Lakh,chennai
+Maruti,Maruti Wagon RAMT VXI Option,2016,"65,000kms",Petrol,Automatic,₹4.35 Lakh,chennai
+Maruti,Maruti CelerioVXI AT,2016,"59,258kms",Petrol,Automatic,₹3.65 Lakh,chennai
+Renault,Renault KWIDClimber 1.0 MT,2017,"57,421kms",Petrol,Manual,₹3.31 Lakh,chennai
+Hyundai,Hyundai i20Asta 1.2,2017,"49,960kms",Petrol,Manual,₹4.68 Lakh,chennai
+Maruti,Maruti SwiftZXI,2015,"1,37,079kms",Petrol,Manual,₹4.47 Lakh,chennai
+Hyundai,Hyundai Grand i10Magna,2016,"70,797kms",Petrol,Manual,₹3.45 Lakh,chennai
+Hyundai,Hyundai i20Petrol CVT Magna Executive,2018,"45,795kms",Petrol,Automatic,₹4.78 Lakh,chennai
+Maruti,Maruti CelerioZXI,2016,"1,39,143kms",Petrol,Manual,₹3.43 Lakh,chennai
+Ford,Ford Ecosport1.5 Petrol Titanium Plus AT BSIV,2018,"1,01,670kms",Petrol,Automatic,₹5.26 Lakh,chennai
+Ford,Ford Ecosport1.5 TDCi Titanium BSIV,2017,"39,957kms",Diesel,Manual,₹5.40 Lakh,chennai
+Honda,Honda WR-Vi-DTEC VX,2018,"1,11,028kms",Diesel,Manual,₹4.79 Lakh,chennai
+Ford,Ford Ecosport1.5 TDCi Titanium BSIV,2014,"1,22,750kms",Diesel,Manual,₹4.18 Lakh,chennai
+Ford,Ford Aspire1.2 Ti-VCT Titanium Plus,2021,"60,283kms",Petrol,Manual,₹4.84 Lakh,chennai
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2018,"1,15,563kms",Petrol,Manual,₹3.23 Lakh,chennai
+Hyundai,Hyundai i201.2 Magna Executive,2018,"1,23,137kms",Petrol,Manual,₹3.66 Lakh,chennai
+Skoda,Skoda Rapid1.5 TDI Ambition BSIV,2018,"75,807kms",Diesel,Manual,₹5.97 Lakh,chennai
+Maruti,Maruti Swift DzireAMT ZXI Plus,2017,"57,776kms",Petrol,Automatic,₹4.97 Lakh,chennai
+Maruti,Maruti SwiftZXI,2017,"57,423kms",Petrol,Manual,₹4.52 Lakh,chennai
+Hyundai,Hyundai Xcent1.2 Kappa SX Option AT,2015,"74,980kms",Petrol,Automatic,₹3.59 Lakh,chennai
+Hyundai,Hyundai XcentPetrol,2017,"95,994kms",Petrol,Manual,₹3.66 Lakh,chennai
+Renault,Renault KWIDClimber 1.0 MT,2017,"57,421kms",Petrol,Manual,₹3.31 Lakh,chennai
+Hyundai,Hyundai i20Asta 1.2,2017,"49,960kms",Petrol,Manual,₹4.68 Lakh,chennai
+Hyundai,Hyundai Grand i10Magna,2016,"70,797kms",Petrol,Manual,₹3.45 Lakh,chennai
+Hyundai,Hyundai i20Petrol CVT Magna Executive,2018,"45,795kms",Petrol,Automatic,₹4.78 Lakh,chennai
+Maruti,Maruti SwiftZXI,2015,"1,37,079kms",Petrol,Manual,₹4.47 Lakh,chennai
+Maruti,Maruti CelerioZXI,2016,"1,39,143kms",Petrol,Manual,₹3.43 Lakh,chennai
+Ford,Ford Ecosport1.5 TDCi Titanium BSIV,2017,"39,957kms",Diesel,Manual,₹5.40 Lakh,chennai
+Honda,Honda WR-Vi-DTEC VX,2018,"1,11,028kms",Diesel,Manual,₹4.79 Lakh,chennai
+Ford,Ford Ecosport1.5 TDCi Titanium BSIV,2014,"1,22,750kms",Diesel,Manual,₹4.18 Lakh,chennai
+Hyundai,Hyundai i10Asta AT,2016,"62,000kms",Petrol,Automatic,₹4.25 Lakh,chennai
+Maruti,Maruti Baleno1.2 Alpha,2017,"71,000kms",Petrol,Manual,₹5.75 Lakh,chennai
+Renault,Renault KWID1.0 RXT Opt,2020,"40,027kms",Petrol,Manual,₹4.25 Lakh,chennai
+Tata,Tata TiagoXZ,2019,"48,000kms",Petrol,Manual,₹4.60 Lakh,chennai
+Ford,Ford Figo1.5D Titanium MT,2015,"88,507kms",Diesel,Manual,₹4.10 Lakh,chennai
+Hyundai,Hyundai i10Asta AT,2016,"62,000kms",Petrol,Automatic,₹4.25 Lakh,chennai
+Maruti,Maruti Baleno1.2 Alpha,2017,"71,000kms",Petrol,Manual,₹5.75 Lakh,chennai
+Maruti,Maruti Ignis1.2 Zeta BSIV,2017,"26,000kms",Petrol,Manual,₹5.10 Lakh,chennai
+Ford,Ford Figo1.5D Titanium MT,2015,"88,507kms",Diesel,Manual,₹4.10 Lakh,chennai
+Tata,Tata TiagoXZ,2019,"48,000kms",Petrol,Manual,₹4.60 Lakh,chennai
+Renault,Renault KWID1.0 RXT Opt,2020,"40,027kms",Petrol,Manual,₹4.25 Lakh,chennai
+Honda,Honda BrioEX MT,2013,"73,759kms",Petrol,Manual,₹3.40 Lakh,chennai
+Maruti,Maruti CelerioVXi AMT,2015,"37,937kms",Petrol,Automatic,₹3.15 Lakh,chennai
+Maruti,Maruti Wagon RVXI Plus,2018,"45,000kms",Petrol,Manual,₹3.95 Lakh,chennai
+Honda,Honda BrioS MT,2012,"45,000kms",Petrol,Manual,₹3.75 Lakh,chennai
+Hyundai,Hyundai i20Magna 1.2,2017,"92,535kms",Petrol,Manual,₹3.75 Lakh,chennai
+Hyundai,Hyundai Grand i10Sportz,2015,"59,000kms",Petrol,Manual,₹3.85 Lakh,chennai
+Skoda,Skoda Laura1.9 TDI AT Elegance,2010,"78,000kms",Diesel,Automatic,₹3.50 Lakh,chennai
+Maruti,Maruti Wagon RVXI BS IV,2016,"59,636kms",Petrol,Manual,₹3.70 Lakh,chennai
+Hyundai,Hyundai i20Sportz 1.2,2013,"61,421kms",Petrol,Manual,₹3.70 Lakh,chennai
+Hyundai,Hyundai Grand i10Asta,2015,"72,581kms",Petrol,Manual,₹3.75 Lakh,chennai
+Toyota,Toyota Corolla AltisVL AT,2014,"69,230kms",Petrol,Automatic,₹5.90 Lakh,chennai
+Maruti,Maruti CelerioVXI AMT,2017,"35,864kms",Petrol,Automatic,₹4.13 Lakh,chennai
+Hyundai,Hyundai SantroSportz AMT BSIV,2019,"48,812kms",Petrol,Automatic,₹3.40 Lakh,chennai
+Toyota,Toyota Innova Crysta2.4 VX MT 8S BSIV,2018,"1,20,000kms",Diesel,Manual,₹18.95 Lakh,chennai
+Ford,Ford Aspire1.2 Ti-VCT Titanium Plus,2021,"60,283kms",Petrol,Manual,₹4.84 Lakh,chennai
+Maruti,Maruti SwiftZXI,2015,"1,37,079kms",Petrol,Manual,₹4.47 Lakh,chennai
+Hyundai,Hyundai SantroSportz AMT BSIV,2019,"48,812kms",Petrol,Automatic,₹3.40 Lakh,chennai
+Maruti,Maruti CelerioVXI AMT,2017,"35,864kms",Petrol,Automatic,₹4.13 Lakh,chennai
+Toyota,Toyota Innova Crysta2.4 VX MT 8S BSIV,2018,"1,20,000kms",Diesel,Manual,₹18.95 Lakh,chennai
+Mahindra,Mahindra TharLX 4WD Convert Top Diesel AT BSVI,2021,"57,000kms",Diesel,Automatic,₹13 Lakh,chennai
+Maruti,Maruti SwiftLXI Optional-O,2015,"87,471kms",Petrol,Manual,₹3.37 Lakh,chennai
+Ford,Ford Ecosport1.5 Ti VCT MT Ambiente BSIV,2017,"38,082kms",Petrol,Manual,₹4.47 Lakh,chennai
+Tata,Tata SafariXZ Plus Dark Edition BSVI,2022,"46,235kms",Diesel,Manual,₹16.42 Lakh,chennai
+Volkswagen,Volkswagen T-RocTSI,2021,"48,000kms",Petrol,Automatic,₹18 Lakh,chennai
+Toyota,Toyota Innova Crysta2.8 ZX AT BSIV,2016,"1,76,000kms",Diesel,Automatic,₹16.90 Lakh,chennai
+Mini Cooper,Mini CooperS,2014,"33,000kms",Petrol,Automatic,₹18 Lakh,chennai
+Volkswagen,Volkswagen T-RocTSI,2021,"37,000kms",Petrol,Automatic,₹18.75 Lakh,chennai
+Volkswagen,Volkswagen VirtusHighline AT BSVI,2022,"26,757kms",Petrol,Automatic,₹9.52 Lakh,chennai
+Maruti,Maruti BalenoAlpha AMT BSVI,2022,"39,528kms",Petrol,Automatic,₹7.30 Lakh,chennai
+Toyota,Toyota Corolla AltisPetrol LE,2018,"75,369kms",Petrol,Manual,₹8.98 Lakh,chennai
+Toyota,Toyota GlanzaG,2020,"51,265kms",Petrol,Manual,₹6.05 Lakh,chennai
+Mahindra,Mahindra XUV300W6 Sunroof BSVI,2022,"49,000kms",Petrol,Manual,₹8.99 Lakh,chennai
+Hyundai,Hyundai VenueSX Plus Turbo DCT BSIV,2019,"71,061kms",Petrol,Automatic,₹6.29 Lakh,chennai
+Honda,Honda AmazeS AT i-Vtech,2016,"86,111kms",Petrol,Automatic,₹4.06 Lakh,chennai
+Toyota,Toyota Corolla AltisPetrol LE,2018,"75,369kms",Petrol,Manual,₹8.98 Lakh,chennai
+Maruti,Maruti BalenoAlpha AMT BSVI,2022,"39,528kms",Petrol,Automatic,₹7.30 Lakh,chennai
+Mahindra,Mahindra XUV300W6 Sunroof BSVI,2022,"49,000kms",Petrol,Manual,₹8.99 Lakh,chennai
+Toyota,Toyota GlanzaG,2020,"51,265kms",Petrol,Manual,₹6.05 Lakh,chennai
+Honda,Honda AmazeS AT i-Vtech,2016,"86,111kms",Petrol,Automatic,₹4.06 Lakh,chennai
+Hyundai,Hyundai Grand i10Magna AT,2016,"1,44,697kms",Petrol,Automatic,₹3.30 Lakh,chennai
+Toyota,Toyota Innova Crysta2.8 GX AT 8S BSIV,2019,"68,000kms",Diesel,Automatic,₹18.50 Lakh,chennai
+Hyundai,Hyundai SantroSportz AMT BSIV,2019,"71,718kms",Petrol,Automatic,₹3.99 Lakh,chennai
+Maruti,Maruti Wagon RZXI 1.2,2020,"45,744kms",Petrol,Manual,₹4.67 Lakh,chennai
+Maruti,Maruti CelerioVXI AMT,2017,"98,200kms",Petrol,Automatic,₹3.72 Lakh,chennai
+Volkswagen,Volkswagen Polo1.2 MPI Comfortline,2015,"78,852kms",Petrol,Manual,₹4.60 Lakh,chennai
+Volkswagen,Volkswagen Ameo1.2 MPI Highline,2016,"24,916kms",Petrol,Manual,₹4.70 Lakh,chennai
+Ford,Ford Ecosport1.5 TDCi Titanium BSIV,2017,"1,45,392kms",Diesel,Manual,₹4.61 Lakh,chennai
+Hyundai,Hyundai VenueSX Diesel,2022,"60,924kms",Diesel,Manual,₹9.14 Lakh,chennai
+Maruti,Maruti CelerioZXI Optional AMT BSIV,2017,"49,319kms",Petrol,Automatic,₹3.93 Lakh,chennai
+Honda,Honda Jazz1.2 V AT i VTEC,2016,"48,081kms",Petrol,Automatic,₹4.30 Lakh,chennai
+Volkswagen,Volkswagen Ameo1.2 MPI Comfortline,2016,"53,000kms",Petrol,Manual,₹4.75 Lakh,chennai
+Maruti,Maruti ErtigaZXI Plus AT,2024,"20,000kms",Petrol,Automatic,₹13.50 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz C-ClassC 250 CDI Avantgarde,2012,"1,17,000kms",Diesel,Automatic,₹9.25 Lakh,chennai
+Maruti,Maruti BalenoZeta AMT,2016,"61,159kms",Petrol,Automatic,₹4.53 Lakh,chennai
+Honda,Honda Jazz1.2 V AT i VTEC,2016,"48,081kms",Petrol,Automatic,₹4.30 Lakh,chennai
+Volkswagen,Volkswagen Ameo1.2 MPI Comfortline,2016,"53,000kms",Petrol,Manual,₹4.75 Lakh,chennai
+Maruti,Maruti ErtigaZXI Plus AT,2024,"20,000kms",Petrol,Automatic,₹13.50 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz C-ClassC 250 CDI Avantgarde,2012,"1,17,000kms",Diesel,Automatic,₹9.25 Lakh,chennai
+Ford,Ford Ecosport1.5 DV5 MT Ambiente,2014,"1,17,219kms",Diesel,Manual,₹3.42 Lakh,chennai
+Maruti,Maruti Baleno1.2 Zeta,2018,"84,237kms",Petrol,Manual,₹4.99 Lakh,chennai
+Renault,Renault KWID1.0 RXT AMT,2017,"43,255kms",Petrol,Automatic,₹3.31 Lakh,chennai
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2015,"1,10,531kms",Petrol,Manual,₹3.51 Lakh,chennai
+Toyota,Toyota YarisJ,2019,"1,27,430kms",Petrol,Manual,₹4.41 Lakh,chennai
+Maruti,Maruti CiazVXi Plus,2016,"35,074kms",Petrol,Manual,₹5 Lakh,chennai
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2014,"55,360kms",Petrol,Manual,₹3.65 Lakh,chennai
+Hyundai,Hyundai i10Magna 1.1,2015,"1,35,744kms",Petrol,Manual,₹3.10 Lakh,chennai
+Hyundai,Hyundai SantroSportz BSIV,2018,"44,753kms",Petrol,Manual,₹3.41 Lakh,chennai
+Maruti,Maruti CelerioVXI AT,2015,"56,000kms",Petrol,Automatic,₹3.20 Lakh,chennai
+Hyundai,Hyundai Grand i101.2 Kappa Sportz Option AT,2017,"85,000kms",Petrol,Automatic,₹4.80 Lakh,chennai
+Hyundai,Hyundai Grand i10Magna AT,2017,"48,215kms",Petrol,Automatic,₹5 Lakh,chennai
+Hyundai,Hyundai Verna1.6 SX VTVT,2013,"1,02,343kms",Petrol,Manual,₹3.55 Lakh,chennai
+Maruti,Maruti Wagon RAMT VXI,2016,"49,901kms",Petrol,Automatic,₹4.25 Lakh,chennai
+Skoda,Skoda Rapid1.6 MPI Elegance,2012,"64,000kms",Petrol,Manual,₹3.49 Lakh,chennai
+Maruti,Maruti Wagon RAMT VXI Option,2018,"44,114kms",Petrol,Automatic,₹4.40 Lakh,chennai
+Hyundai,Hyundai SantroSportz,2020,"48,012kms",Petrol,Manual,₹3.65 Lakh,chennai
+Honda,Honda Cityi VTEC CVT VX,2014,"59,486kms",Petrol,Automatic,₹4.49 Lakh,chennai
+Renault,Renault KWID1.0 RXT AMT,2017,"43,255kms",Petrol,Automatic,₹3.31 Lakh,chennai
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2015,"1,10,531kms",Petrol,Manual,₹3.51 Lakh,chennai
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2014,"55,360kms",Petrol,Manual,₹3.65 Lakh,chennai
+Hyundai,Hyundai i10Magna 1.1,2015,"1,35,744kms",Petrol,Manual,₹3.10 Lakh,chennai
+Maruti,Maruti BalenoZeta AMT,2016,"61,159kms",Petrol,Automatic,₹4.53 Lakh,chennai
+Ford,Ford Ecosport1.5 DV5 MT Ambiente,2014,"1,17,219kms",Diesel,Manual,₹3.42 Lakh,chennai
+Maruti,Maruti Baleno1.2 Zeta,2018,"84,237kms",Petrol,Manual,₹4.99 Lakh,chennai
+Maruti,Maruti CelerioVXI AT,2015,"56,000kms",Petrol,Automatic,₹3.20 Lakh,chennai
+Hyundai,Hyundai Grand i101.2 Kappa Sportz Option AT,2017,"85,000kms",Petrol,Automatic,₹4.80 Lakh,chennai
+Skoda,Skoda Rapid1.6 MPI Elegance,2012,"64,000kms",Petrol,Manual,₹3.49 Lakh,chennai
+Maruti,Maruti Wagon RAMT VXI Option,2018,"44,114kms",Petrol,Automatic,₹4.40 Lakh,chennai
+Maruti,Maruti Wagon RAMT VXI Option,2019,"1,06,000kms",Petrol,Automatic,₹4.90 Lakh,chennai
+Maruti,Maruti Wagon RAMT VXI,2016,"49,901kms",Petrol,Automatic,₹4.25 Lakh,chennai
+Maruti,Maruti CelerioZXI AMT BSIV,2018,"53,000kms",Petrol,Automatic,₹4.70 Lakh,chennai
+Hyundai,Hyundai Verna1.6 SX VTVT,2013,"1,02,343kms",Petrol,Manual,₹3.55 Lakh,chennai
+Maruti,Maruti Ignis1.2 AMT Delta BSIV,2017,"45,460kms",Petrol,Automatic,₹4.70 Lakh,chennai
+Hyundai,Hyundai Grand i10Magna AT,2017,"48,215kms",Petrol,Automatic,₹5 Lakh,chennai
+Hyundai,Hyundai Grand i101.2 Kappa Sportz Option AT,2017,"59,000kms",Petrol,Automatic,₹4.65 Lakh,chennai
+Volkswagen,Volkswagen Ameo1.5 TDI Highline Plus AT,2019,"1,11,009kms",Diesel,Automatic,₹4.69 Lakh,chennai
+Honda,Honda Jazz1.2 S AT i VTEC,2016,"63,777kms",Petrol,Automatic,₹4.14 Lakh,chennai
+Honda,Honda Cityi VTEC CVT VX,2014,"59,486kms",Petrol,Automatic,₹4.49 Lakh,chennai
+Maruti,Maruti Wagon RAMT VXI Option,2019,"1,06,000kms",Petrol,Automatic,₹4.90 Lakh,chennai
+Hyundai,Hyundai Grand i101.2 Kappa Sportz Option AT,2017,"59,000kms",Petrol,Automatic,₹4.65 Lakh,chennai
+Toyota,Toyota Innova2.5 G (Diesel) 7 Seater BS IV,2016,"1,07,056kms",Diesel,Manual,₹15.50 Lakh,chennai
+Toyota,Toyota Innova Crysta2.8 ZX AT BSIV,2016,"1,05,000kms",Diesel,Automatic,₹16.90 Lakh,chennai
+Honda,Honda AmazeV CVT,2024,"14,537kms",Petrol,Automatic,₹8.52 Lakh,chennai
+Volkswagen,Volkswagen Vento1.0 TSI Highline Plus AT,2021,"40,129kms",Petrol,Automatic,₹8.71 Lakh,chennai
+Hyundai,Hyundai VenueSX Plus Turbo DCT,2021,"65,000kms",Petrol,Automatic,₹8.75 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz B ClassB180 CDI,2014,"1,10,000kms",Diesel,Automatic,₹9 Lakh,chennai
+Toyota,Toyota Fortuner2.8 4WD AT BSIV,2018,"72,000kms",Diesel,Automatic,₹29.50 Lakh,chennai
+Honda,Honda Jazz1.2 V AT i VTEC,2017,"57,503kms",Petrol,Automatic,₹4.60 Lakh,chennai
+Mahindra,Mahindra Bolero NeoN10 R BSVI,2022,"13,000kms",Diesel,Manual,₹8.90 Lakh,chennai
+Hyundai,Hyundai i20Asta 1.2,2015,"52,439kms",Petrol,Manual,₹4.71 Lakh,chennai
+Hyundai,Hyundai i20Magna 1.2,2016,"1,46,409kms",Petrol,Manual,₹3.49 Lakh,chennai
+Maruti,Maruti Wagon RVXI BS IV,2017,"35,930kms",Petrol,Manual,₹3.45 Lakh,chennai
+Honda,Honda AmazeS i-Vtech,2015,"67,991kms",Petrol,Manual,₹3.52 Lakh,chennai
+Hyundai,Hyundai i20Sportz 1.2,2016,"99,774kms",Petrol,Manual,₹3.52 Lakh,chennai
+Tata,Tata Tiago1.2 Revotron XT,2018,"66,197kms",Petrol,Manual,₹3.44 Lakh,chennai
+Hyundai,Hyundai i20Magna 1.2,2016,"1,46,409kms",Petrol,Manual,₹3.49 Lakh,chennai
+Maruti,Maruti Wagon RVXI BS IV,2017,"35,930kms",Petrol,Manual,₹3.45 Lakh,chennai
+Honda,Honda AmazeS i-Vtech,2015,"67,991kms",Petrol,Manual,₹3.52 Lakh,chennai
+Hyundai,Hyundai i20Sportz 1.2,2016,"99,774kms",Petrol,Manual,₹3.52 Lakh,chennai
+Tata,Tata Tiago1.2 Revotron XT,2018,"66,197kms",Petrol,Manual,₹3.44 Lakh,chennai
+Skoda,Skoda Rapid1.6 MPI Style BSIV,2017,"1,26,243kms",Petrol,Manual,₹4 Lakh,chennai
+Skoda,Skoda Rapid1.5 TDI AT Style Plus,2016,"1,08,000kms",Diesel,Automatic,₹4.65 Lakh,chennai
+Maruti,Maruti Wagon RVXI,2015,"67,119kms",Petrol,Manual,₹3.29 Lakh,chennai
+Ford,Ford Ecosport1.5 Ti VCT AT Titanium,2016,"1,43,477kms",Petrol,Automatic,₹4.34 Lakh,chennai
+Hyundai,Hyundai i10Magna 1.1,2015,"78,277kms",Petrol,Manual,₹3.15 Lakh,chennai
+Tata,Tata Tiago1.2 Revotron XT,2018,"43,222kms",Petrol,Manual,₹3.70 Lakh,chennai
+Honda,Honda AmazeS CVT i-VTEC,2017,"69,570kms",Petrol,Automatic,₹4.10 Lakh,chennai
+Honda,Honda Cityi VTEC CVT VX,2014,"46,662kms",Petrol,Automatic,₹4.14 Lakh,chennai
+Skoda,Skoda Kushaq1.5 TSI Style DSG,2021,"8,000kms",Petrol,Automatic,₹12.90 Lakh,chennai
+Toyota,Toyota Fortuner2.8 4WD AT BSIV,2017,"55,000kms",Diesel,Automatic,₹28.90 Lakh,chennai
+Nissan,Nissan MagniteTurbo CVT XV BSVI,2022,"41,962kms",Petrol,Automatic,₹6.40 Lakh,chennai
+Hyundai,Hyundai Grand i10 NiosAMT Sportz,2022,"4,494kms",Petrol,Automatic,₹6.08 Lakh,chennai
+Hyundai,Hyundai Creta1.6 VTVT AT SX Plus,2018,"1,12,618kms",Petrol,Automatic,₹7.40 Lakh,chennai
+Volkswagen,Volkswagen Jetta2.0L TDI Highline AT,2016,"90,000kms",Diesel,Automatic,₹9.45 Lakh,chennai
+Maruti,Maruti Vitara BrezzaVDi Option,2017,"56,100kms",Diesel,Manual,₹7.50 Lakh,chennai
+Nissan,Nissan MagniteTurbo CVT XV BSVI,2022,"41,962kms",Petrol,Automatic,₹6.40 Lakh,chennai
+Hyundai,Hyundai Grand i10 NiosAMT Sportz,2022,"4,494kms",Petrol,Automatic,₹6.08 Lakh,chennai
+Maruti,Maruti Vitara BrezzaVDi Option,2016,"78,727kms",Diesel,Manual,₹6.75 Lakh,chennai
+Volkswagen,Volkswagen Jetta2.0L TDI Highline AT,2016,"90,000kms",Diesel,Automatic,₹9.45 Lakh,chennai
+Maruti,Maruti Vitara BrezzaVDi Option,2017,"56,100kms",Diesel,Manual,₹7.50 Lakh,chennai
+Hyundai,Hyundai Creta1.6 VTVT AT SX Plus,2018,"1,12,618kms",Petrol,Automatic,₹7.40 Lakh,chennai
+Audi,Audi Q335 TDI Quattro Premium Plus,2016,"1,45,000kms",Diesel,Automatic,₹10 Lakh,chennai
+Tata,Tata Nexon1.2 Revotron XMA,2018,"48,000kms",Petrol,Automatic,₹6.25 Lakh,chennai
+Mahindra,Mahindra TUV 300mHAWK100 T8,2016,"35,000kms",Diesel,Manual,₹6.55 Lakh,chennai
+Hyundai,Hyundai SantroSportz AMT,2021,"71,159kms",Petrol,Automatic,₹4.35 Lakh,chennai
+Honda,Honda Jazz1.2 S AT i VTEC,2015,"92,650kms",Petrol,Automatic,₹3.34 Lakh,chennai
+Hyundai,Hyundai Grand i101.2 Kappa Sportz Option AT,2017,"80,082kms",Petrol,Automatic,₹3.36 Lakh,chennai
+Hyundai,Hyundai Grand i10Asta Option AT,2016,"87,759kms",Petrol,Automatic,₹3.53 Lakh,chennai
+Maruti,Maruti Swift DzireAMT VXI,2018,"52,869kms",Petrol,Automatic,₹4.64 Lakh,chennai
+Tata,Tata Tiago1.2 Revotron XT,2018,"1,03,888kms",Petrol,Manual,₹3.01 Lakh,chennai
+Tata,Tata Tiago1.2 Revotron XZ,2018,"48,517kms",Petrol,Manual,₹3.55 Lakh,chennai
+Tata,Tata TiagoXM,2019,"83,231kms",Petrol,Manual,₹3.01 Lakh,chennai
+Toyota,Toyota EtiosGD,2013,"1,47,000kms",Diesel,Manual,₹3.90 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz C-Class250 CDI Classic,2010,"60,000kms",Diesel,Automatic,₹6 Lakh,chennai
+Volkswagen,Volkswagen PoloPetrol Comfortline 1.2L,2012,"74,351kms",Petrol,Manual,₹3.20 Lakh,chennai
+Toyota,Toyota EtiosGD,2013,"1,47,000kms",Diesel,Manual,₹3.90 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz C-Class220 CDI AT,2011,"95,000kms",Diesel,Automatic,₹6 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz C-Class250 CDI Classic,2010,"60,000kms",Diesel,Automatic,₹6 Lakh,chennai
+Maruti,Maruti Swift DzireAMT VXI,2018,"52,869kms",Petrol,Automatic,₹4.64 Lakh,chennai
+Honda,Honda Jazz1.2 S AT i VTEC,2015,"92,650kms",Petrol,Automatic,₹3.34 Lakh,chennai
+Volkswagen,Volkswagen PoloPetrol Comfortline 1.2L,2012,"74,351kms",Petrol,Manual,₹3.20 Lakh,chennai
+BMW,BMW 3 Series320d Edition Sport,2017,"75,164kms",Diesel,Automatic,₹19.19 Lakh,chennai
+Kia,Kia CarensLuxury Plus Diesel AT,2023,"25,000kms",Diesel,Automatic,₹17.25 Lakh,chennai
+Nissan,Nissan MagniteTurbo CVT XV BSVI,2022,"20,147kms",Petrol,Automatic,₹6.37 Lakh,chennai
+Volkswagen,Volkswagen Ameo1.2 MPI Trendline,2017,"80,212kms",Petrol,Manual,₹3.98 Lakh,chennai
+Hyundai,Hyundai SantroSportz AMT,2021,"75,804kms",Petrol,Automatic,₹4.46 Lakh,chennai
+Maruti,Maruti Vitara BrezzaZDi Plus,2018,"51,000kms",Diesel,Manual,₹8.45 Lakh,chennai
+Toyota,Toyota YarisG CVT BSIV,2018,"55,000kms",Petrol,Automatic,₹6.75 Lakh,chennai
+Hyundai,Hyundai SantroSportz AMT BSIV,2019,"55,958kms",Petrol,Automatic,₹3.55 Lakh,chennai
+Hyundai,Hyundai Grand i10AT Asta,2016,"62,887kms",Petrol,Automatic,₹3.68 Lakh,chennai
+Hyundai,Hyundai SantroSportz AMT BSIV,2019,"37,027kms",Petrol,Automatic,₹3.87 Lakh,chennai
+Mahindra,Mahindra TharLX Hard Top AT,2024,"17,160kms",Petrol,Automatic,₹14.90 Lakh,chennai
+Tata,Tata NexonXZA Plus HS AMT,2022,"17,364kms",Petrol,Automatic,₹7.35 Lakh,chennai
+Honda,Honda AmazeVX CVT Petrol,2024,"19,160kms",Petrol,Automatic,₹7.95 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz E-ClassE250 CDI,2013,"50,000kms",Diesel,Automatic,₹9.50 Lakh,chennai
+Hyundai,Hyundai SantroSportz AMT BSIV,2019,"55,958kms",Petrol,Automatic,₹3.55 Lakh,chennai
+Mahindra,Mahindra TharLX Hard Top AT,2024,"17,160kms",Petrol,Automatic,₹14.90 Lakh,chennai
+Tata,Tata NexonXZA Plus HS AMT,2022,"17,364kms",Petrol,Automatic,₹7.35 Lakh,chennai
+Maruti,Maruti Vitara BrezzaZDi AMT,2019,"90,000kms",Diesel,Automatic,₹8.50 Lakh,chennai
+Honda,Honda AmazeVX CVT Petrol,2024,"19,160kms",Petrol,Automatic,₹7.95 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz E-ClassE250 CDI,2013,"50,000kms",Diesel,Automatic,₹9.50 Lakh,chennai
+Volkswagen,Volkswagen Polo1.2 MPI Comfortline,2016,"73,493kms",Petrol,Manual,₹3.15 Lakh,chennai
+Tata,Tata Tiago1.2 Revotron XZA,2018,"62,913kms",Petrol,Automatic,₹3.88 Lakh,chennai
+Volkswagen,Volkswagen Vento1.5 TDI Highline,2015,"1,04,054kms",Diesel,Manual,₹3.75 Lakh,chennai
+Volkswagen,Volkswagen PoloDiesel Comfortline 1.2L,2011,"93,000kms",Diesel,Manual,₹3.25 Lakh,chennai
+Maruti,Maruti Grand VitaraSigma BSVI,2023,"25,000kms",Petrol,Manual,₹9.90 Lakh,chennai
+Tata,Tata NexonXMA AMT S BSVI,2022,"64,000kms",Petrol,Automatic,₹9.25 Lakh,chennai
+Toyota,Toyota YarisJ CVT,2019,"21,000kms",Petrol,Automatic,₹6.95 Lakh,chennai
+Volvo,Volvo XC90D5 AT AWD,2012,"1,50,000kms",Diesel,Automatic,₹7.50 Lakh,chennai
+Maruti,Maruti ErtigaZDI Plus,2015,"1,72,896kms",Diesel,Manual,₹6.50 Lakh,chennai
+Tata,Tata Tiago NRGXZA AMT BSVI,2022,"39,806kms",Petrol,Automatic,₹4.86 Lakh,chennai
+Skoda,Skoda Rapid1.0 TSI Ambition AT,2020,"93,148kms",Petrol,Automatic,₹5.24 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz E-Class200 Kompressor Classic,2007,"1,11,006kms",Petrol,Automatic,₹5 Lakh,chennai
+Maruti,Maruti Vitara BrezzaZXI Plus AT,2021,"1,13,104kms",Petrol,Automatic,₹8.52 Lakh,chennai
+Mahindra,Mahindra XUV500W6 2WD,2017,"68,210kms",Diesel,Manual,₹9.50 Lakh,chennai
+Skoda,Skoda Rapid1.0 TSI Ambition AT,2020,"93,148kms",Petrol,Automatic,₹5.24 Lakh,chennai
+Tata,Tata Tiago NRGXZA AMT BSVI,2022,"39,806kms",Petrol,Automatic,₹4.86 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz E-Class200 Kompressor Classic,2007,"1,11,006kms",Petrol,Automatic,₹5 Lakh,chennai
+Mahindra,Mahindra XUV500W6 2WD,2017,"68,210kms",Diesel,Manual,₹9.50 Lakh,chennai
+Maruti,Maruti Vitara BrezzaZXI Plus AT,2021,"1,13,104kms",Petrol,Automatic,₹8.52 Lakh,chennai
+Toyota,Toyota Fortuner4X4 Diesel AT BSVI,2021,"17,000kms",Diesel,Automatic,₹40 Lakh,chennai
+Toyota,Toyota GlanzaV CVT,2020,"59,309kms",Petrol,Automatic,₹6.09 Lakh,chennai
+Skoda,Skoda Rapid1.5 TDI AT Style BSIV,2017,"40,000kms",Diesel,Automatic,₹8.60 Lakh,chennai
+Toyota,Toyota Innova2.5 VX 7 STR,2012,"2,49,000kms",Diesel,Manual,₹9.25 Lakh,chennai
+Toyota,Toyota Innova2.5 VX (Diesel) 7 Seater,2013,"2,41,000kms",Diesel,Manual,₹9.50 Lakh,chennai
+Tata,Tata Tiago1.2 Revotron XZA,2018,"39,282kms",Petrol,Automatic,₹3.95 Lakh,chennai
+Toyota,Toyota Innova2.5 V Diesel 7-seater,2009,"2,48,694kms",Diesel,Manual,₹7 Lakh,chennai
+Skoda,Skoda Fabia1.2 MPI Ambiente Petrol,2011,"1,04,000kms",Petrol,Manual,₹3.25 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz M-ClassML 320 CDI,2009,"1,33,900kms",Diesel,Automatic,₹9.75 Lakh,chennai
+BMW,BMW 5 Series525d Sedan,2011,"1,35,000kms",Diesel,Automatic,₹10 Lakh,chennai
+Volkswagen,Volkswagen Polo1.0 TSI Highline Plus AT,2020,"1,18,306kms",Petrol,Automatic,₹5.82 Lakh,chennai
+Maruti,Maruti ErtigaBSIV ZXI,2016,"52,000kms",Petrol,Manual,₹7.45 Lakh,chennai
+Mahindra,Mahindra MarazzoM8 8Str,2018,"90,000kms",Diesel,Manual,₹9.50 Lakh,chennai
+Mitsubishi,Mitsubishi PajeroSport 4X4,2014,"1,82,000kms",Diesel,Manual,₹9.55 Lakh,chennai
+Honda,Honda CityVX MT,2021,"75,651kms",Petrol,Manual,₹10.12 Lakh,chennai
+Volkswagen,Volkswagen Polo1.0 TSI Highline Plus AT,2020,"1,18,306kms",Petrol,Automatic,₹5.82 Lakh,chennai
+Maruti,Maruti ErtigaBSIV ZXI,2016,"52,000kms",Petrol,Manual,₹7.45 Lakh,chennai
+Mahindra,Mahindra MarazzoM8 8Str,2018,"90,000kms",Diesel,Manual,₹9.50 Lakh,chennai
+Mitsubishi,Mitsubishi PajeroSport 4X4,2014,"1,82,000kms",Diesel,Manual,₹9.55 Lakh,chennai
+Honda,Honda CityVX MT,2021,"75,651kms",Petrol,Manual,₹10.12 Lakh,chennai
+Maruti,Maruti ErtigaVXI,2021,"46,633kms",Petrol,Manual,₹9 Lakh,chennai
+Maruti,Maruti ErtigaSHVS VDI,2016,"47,000kms",Diesel,Manual,₹8.45 Lakh,chennai
+Maruti,Maruti ErtigaZXI Plus,2019,"39,000kms",Petrol,Manual,₹8.95 Lakh,chennai
+Mahindra,Mahindra XUV300W6 Diesel,2023,"35,000kms",Diesel,Manual,₹10.75 Lakh,chennai
+Maruti,Maruti SwiftVVT VXI,2014,"1,02,046kms",Petrol,Manual,₹4.10 Lakh,chennai
+Ford,Ford Ecosport1.5 DV5 MT Ambiente,2014,"74,000kms",Diesel,Manual,₹5 Lakh,chennai
+Toyota,Toyota Fortuner3.0 Diesel,2010,"1,60,000kms",Diesel,Manual,₹10 Lakh,chennai
+Honda,Honda Cityi-VTEC ZX,2022,"12,373kms",Petrol,Manual,₹11 Lakh,chennai
+Tata,Tata AltrozXZ BSVI,2022,"21,862kms",Petrol,Manual,₹7.95 Lakh,chennai
+Maruti,Maruti SwiftZXI BSIV,2018,"60,000kms",Petrol,Manual,₹7.50 Lakh,chennai
+Honda,Honda AmazeS Petrol,2019,"44,712kms",Petrol,Manual,₹5.65 Lakh,chennai
+Hyundai,Hyundai Grand i10 NiosMagna,2022,"15,000kms",Petrol,Manual,₹5.95 Lakh,chennai
+Maruti,Maruti Vitara BrezzaVDi,2018,"96,000kms",Diesel,Manual,₹6.60 Lakh,chennai
+Audi,Audi A635 TDI,2018,"40,000kms",Diesel,Automatic,₹28 Lakh,chennai
+Land Rover,Land Rover Range Rover Evoque2.0L Dynamic,2011,"1,00,000kms",Petrol,Automatic,₹16.75 Lakh,chennai
+Honda,Honda AmazeS Petrol,2019,"44,712kms",Petrol,Manual,₹5.65 Lakh,chennai
+Hyundai,Hyundai Grand i10 NiosMagna,2022,"15,000kms",Petrol,Manual,₹5.95 Lakh,chennai
+Maruti,Maruti Vitara BrezzaVDi,2018,"96,000kms",Diesel,Manual,₹6.60 Lakh,chennai
+Audi,Audi A635 TDI,2018,"40,000kms",Diesel,Automatic,₹28 Lakh,chennai
+Land Rover,Land Rover Range Rover Evoque2.0L Dynamic,2011,"1,00,000kms",Petrol,Automatic,₹16.75 Lakh,chennai
+Volkswagen,Volkswagen Tiguan2.0 TSI Elegance BSVI,2022,"30,000kms",Petrol,Automatic,₹23 Lakh,chennai
+Maruti,Maruti BalenoZeta,2020,"20,027kms",Petrol,Manual,₹8.50 Lakh,chennai
+Audi,Audi Q5Technology,2024,"12,000kms",Petrol,Automatic,₹59.50 Lakh,chennai
+Hyundai,Hyundai i20Sportz Petrol,2015,"72,860kms",Petrol,Manual,₹3.28 Lakh,chennai
+Honda,Honda Jazz1.2 SV i VTEC,2016,"93,449kms",Petrol,Manual,₹5.20 Lakh,chennai
+Maruti,Maruti Alto K10VXI,2016,"70,000kms",Petrol,Manual,₹3.10 Lakh,chennai
+BMW,BMW X3xDrive 20d Expedition,2018,"42,000kms",Diesel,Automatic,₹25.90 Lakh,chennai
+Hyundai,Hyundai CretaSX Opt Turbo DCT,2020,"77,897kms",Petrol,Automatic,₹11.44 Lakh,chennai
+Honda,Honda AmazeS Petrol,2020,"46,477kms",Petrol,Manual,₹6.40 Lakh,chennai
+Honda,Honda Cityi-VTEC V,2018,"46,619kms",Petrol,Manual,₹7.20 Lakh,chennai
+Hyundai,Hyundai VenueSX Turbo,2022,"33,551kms",Petrol,Manual,₹6.75 Lakh,chennai
+MG,MG GlosterSavvy 4x4 6Str,2022,"43,500kms",Diesel,Automatic,₹25 Lakh,chennai
+Hyundai,Hyundai i201.2 Magna Executive,2018,"1,15,598kms",Petrol,Manual,₹3.07 Lakh,chennai
+Renault,Renault Lodgy85PS RxE,2017,"35,000kms",Diesel,Manual,₹6 Lakh,chennai
+Hyundai,Hyundai VernaSX Turbo,2023,"22,531kms",Petrol,Manual,₹14.34 Lakh,chennai
+Honda,Honda AmazeS Petrol,2020,"46,477kms",Petrol,Manual,₹6.40 Lakh,chennai
+MG,MG GlosterSavvy 4x4 6Str,2022,"43,500kms",Diesel,Automatic,₹25 Lakh,chennai
+Hyundai,Hyundai i201.2 Magna Executive,2018,"1,15,598kms",Petrol,Manual,₹3.07 Lakh,chennai
+Renault,Renault Lodgy85PS RxE,2017,"35,000kms",Diesel,Manual,₹6 Lakh,chennai
+Hyundai,Hyundai VernaSX Turbo,2023,"22,531kms",Petrol,Manual,₹14.34 Lakh,chennai
+Hyundai,Hyundai Creta1.6 VTVT E,2016,"24,596kms",Petrol,Manual,₹6.40 Lakh,chennai
+Honda,Honda AmazeS Diesel,2022,"92,162kms",Diesel,Manual,₹7.50 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLS400d 4MATIC,2022,"38,000kms",Diesel,Automatic,₹1.08 Crore,chennai
+Maruti,Maruti Wagon RVXI,2014,"50,184kms",Petrol,Manual,₹3.25 Lakh,chennai
+Hyundai,Hyundai i20Asta 1.4 CRDi,2013,"1,66,000kms",Diesel,Manual,₹3.20 Lakh,chennai
+Honda,Honda CitySV MT,2015,"1,08,818kms",Petrol,Manual,₹5.30 Lakh,chennai
+Honda,Honda AmazeSX i VTEC,2014,"60,983kms",Petrol,Manual,₹4.25 Lakh,chennai
+Tata,Tata Nexon1.5 Revotorq XZ Plus Dual Tone,2023,"37,439kms",Diesel,Manual,₹11.71 Lakh,chennai
+Kia,Kia SeltosGTX Plus Turbo DCT,2023,"60,706kms",Petrol,Automatic,₹16.90 Lakh,chennai
+Mitsubishi,Mitsubishi Pajero2.8 SFX,2009,"1,88,000kms",Diesel,Manual,₹14 Lakh,chennai
+MG,MG GlosterSharp 7-Str,2022,"38,000kms",Diesel,Automatic,₹27.75 Lakh,chennai
+Tata,Tata AltrozXZ Plus,2023,"30,321kms",Petrol,Manual,₹8.49 Lakh,chennai
+Honda,Honda CityV MT,2021,"40,000kms",Petrol,Manual,₹8.50 Lakh,chennai
+Hyundai,Hyundai Creta1.6 E Plus,2019,"72,339kms",Petrol,Manual,₹7.90 Lakh,chennai
+Maruti,Maruti SwiftZXi Plus,2025,"9,000kms",Petrol,Manual,₹8 Lakh,chennai
+MG,MG GlosterSharp 7-Str,2022,"38,000kms",Diesel,Automatic,₹27.75 Lakh,chennai
+Tata,Tata AltrozXZ Plus,2023,"30,321kms",Petrol,Manual,₹8.49 Lakh,chennai
+Honda,Honda CityV MT,2021,"40,000kms",Petrol,Manual,₹8.50 Lakh,chennai
+Hyundai,Hyundai Creta1.6 E Plus,2019,"72,339kms",Petrol,Manual,₹7.90 Lakh,chennai
+Maruti,Maruti SwiftZXi Plus,2025,"9,000kms",Petrol,Manual,₹8 Lakh,chennai
+Hyundai,Hyundai CretaSX Diesel,2022,"49,521kms",Diesel,Manual,₹14.18 Lakh,chennai
+Hyundai,Hyundai XcentPetrol,2015,"1,02,659kms",Petrol,Manual,₹4.27 Lakh,chennai
+Hyundai,Hyundai XcentPetrol,2018,"1,25,099kms",Petrol,Manual,₹4.43 Lakh,chennai
+Maruti,Maruti Wagon RVXI,2015,"33,599kms",Petrol,Manual,₹3.33 Lakh,chennai
+Maruti,Maruti SwiftZXI,2012,"68,000kms",Petrol,Manual,₹3.45 Lakh,chennai
+Hyundai,Hyundai Creta1.6 CRDi SX Plus,2015,"1,21,000kms",Diesel,Manual,₹5.35 Lakh,chennai
+Mini Cooper,Mini Cooper Countryman  -2021Cooper S JCW Inspired,2018,"35,000kms",Petrol,Automatic,₹30 Lakh,chennai
+Tata,Tata AltrozXZ Diesel,2022,"22,828kms",Diesel,Manual,₹7.75 Lakh,chennai
+BMW,BMW 3 Series320d Luxury Line,2020,"60,000kms",Diesel,Automatic,₹27.50 Lakh,chennai
+Toyota,Toyota Innova Crysta2.4 G 7 STR,2021,"64,000kms",Diesel,Manual,₹21.50 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLS400d 4MATIC,2023,"25,000kms",Diesel,Automatic,₹1.17 Crore,chennai
+Ford,Ford Ecosport1.5 TDCi Titanium BSIV,2021,"69,995kms",Diesel,Manual,₹8.20 Lakh,chennai
+Hyundai,Hyundai Creta1.6 SX,2018,"58,000kms",Petrol,Manual,₹7.95 Lakh,chennai
+Hyundai,Hyundai VenueSX Turbo iMT,2021,"49,073kms",Petrol,Manual,₹7.71 Lakh,chennai
+Maruti,Maruti CelerioZXI BSVI,2022,"15,000kms",Petrol,Manual,₹5.25 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLS400d 4MATIC,2023,"25,000kms",Diesel,Automatic,₹1.17 Crore,chennai
+Hyundai,Hyundai VenueSX Turbo iMT,2021,"49,073kms",Petrol,Manual,₹7.71 Lakh,chennai
+Hyundai,Hyundai Creta1.6 SX,2018,"58,000kms",Petrol,Manual,₹7.95 Lakh,chennai
+Ford,Ford Ecosport1.5 TDCi Titanium BSIV,2021,"69,995kms",Diesel,Manual,₹8.20 Lakh,chennai
+Maruti,Maruti Wagon RVXI,2012,"74,346kms",Petrol,Manual,₹3.10 Lakh,chennai
+Maruti,Maruti CelerioZXI BSVI,2022,"15,000kms",Petrol,Manual,₹5.25 Lakh,chennai
+Ford,Ford Ecosport1.5 DV5 MT Titanium,2013,"1,06,458kms",Diesel,Manual,₹3.50 Lakh,chennai
+Hyundai,Hyundai i201.4 CRDi Anniversary Edition,2015,"1,35,000kms",Diesel,Manual,₹5 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz CLA200 Sport Edition,2018,"51,480kms",Petrol,Automatic,₹19.44 Lakh,chennai
+BMW,BMW 5 Series520d Sedan,2012,"85,000kms",Diesel,Automatic,₹13.90 Lakh,chennai
+Toyota,Toyota Innova Crysta2.4 G 7 STR,2022,"41,400kms",Diesel,Manual,₹23.45 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLE350d,2016,"90,000kms",Diesel,Automatic,₹29.50 Lakh,chennai
+Maruti,Maruti Wagon RLXI BSVI,2014,"47,389kms",Petrol,Manual,₹3.12 Lakh,chennai
+Maruti,Maruti SwiftZDi,2013,"95,535kms",Diesel,Manual,₹4.55 Lakh,chennai
+Hyundai,Hyundai VernaVTVT 1.6 SX,2017,"86,000kms",Petrol,Manual,₹6 Lakh,chennai
+,Fiat Punto1.3 Active,2014,"65,000kms",Diesel,Manual,₹3.85 Lakh,chennai
+Maruti,Maruti CiazPetrol,2020,"1,12,914kms",Diesel,Manual,₹7.51 Lakh,chennai
+Volkswagen,Volkswagen Ameo1.5 TDI Comfortline,2016,"63,162kms",Diesel,Manual,₹6.05 Lakh,chennai
+Ford,Ford EcosportSports Diesel,2020,"60,000kms",Diesel,Manual,₹9.25 Lakh,chennai
+Skoda,Skoda Slavia1.0 TSI Style AT BSVI,2022,"20,612kms",Petrol,Automatic,₹11.84 Lakh,chennai
+Hyundai,Hyundai VernaVTVT 1.6 SX,2017,"86,000kms",Petrol,Manual,₹6 Lakh,chennai
+Maruti,Maruti CiazPetrol,2020,"1,12,914kms",Diesel,Manual,₹7.51 Lakh,chennai
+Ford,Ford EcosportSports Diesel,2020,"60,000kms",Diesel,Manual,₹9.25 Lakh,chennai
+Volkswagen,Volkswagen Ameo1.5 TDI Comfortline,2016,"63,162kms",Diesel,Manual,₹6.05 Lakh,chennai
+Skoda,Skoda Slavia1.0 TSI Style AT BSVI,2022,"20,612kms",Petrol,Automatic,₹11.84 Lakh,chennai
+Skoda,Skoda Kushaq1.5 TSI Style DSG,2022,"24,000kms",Petrol,Automatic,₹12.90 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz CLA200 CGI Sport,2015,"42,500kms",Petrol,Automatic,₹13.90 Lakh,chennai
+Hyundai,Hyundai Verna1.6 SX VTVT,2012,"80,000kms",Petrol,Manual,₹3.99 Lakh,chennai
+Hyundai,Hyundai Verna1.4 VTVT,2017,"92,242kms",Petrol,Manual,₹5.70 Lakh,chennai
+Tata,Tata SafariXZA AT BSVI,2022,"50,000kms",Diesel,Automatic,₹15.99 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLA Class220 D 4MATIC Activity Edition,2016,"95,385kms",Diesel,Automatic,₹15.25 Lakh,chennai
+Jeep,Jeep Compass2.0 Limited Plus 4X4 AT,2020,"45,000kms",Diesel,Automatic,₹18.90 Lakh,chennai
+Kia,Kia SonetGTX Plus Turbo iMT,2022,"34,129kms",Petrol,Automatic,₹8.36 Lakh,chennai
+Nissan,Nissan MagniteTurbo XV Premium,2021,"26,771kms",Petrol,Manual,₹7.23 Lakh,chennai
+Honda,Honda City1.5 V MT Exclusive,2016,"50,276kms",Petrol,Manual,₹6.90 Lakh,chennai
+Hyundai,Hyundai Verna1.6 VTVT SX,2016,"1,00,693kms",Petrol,Manual,₹5.59 Lakh,chennai
+Tata,Tata NexonXZ Diesel,2020,"94,220kms",Diesel,Manual,₹5.90 Lakh,chennai
+Hyundai,Hyundai Xcent1.1 CRDi Base,2014,"53,000kms",Diesel,Manual,₹4 Lakh,chennai
+Honda,Honda BR-Vi-VTEC V MT,2016,"97,000kms",Petrol,Manual,₹6 Lakh,chennai
+BMW,BMW X5xDrive30d xLine,2021,"62,000kms",Diesel,Automatic,₹64.50 Lakh,chennai
+Hyundai,Hyundai Verna1.6 VTVT SX,2016,"1,00,693kms",Petrol,Manual,₹5.59 Lakh,chennai
+Tata,Tata NexonXZ Diesel,2020,"94,220kms",Diesel,Manual,₹5.90 Lakh,chennai
+Hyundai,Hyundai Xcent1.1 CRDi Base,2014,"53,000kms",Diesel,Manual,₹4 Lakh,chennai
+Honda,Honda BR-Vi-VTEC V MT,2016,"97,000kms",Petrol,Manual,₹6 Lakh,chennai
+BMW,BMW X5xDrive30d xLine,2021,"62,000kms",Diesel,Automatic,₹64.50 Lakh,chennai
+BMW,BMW 5 Series520d Luxury Line,2017,"50,060kms",Diesel,Automatic,₹37 Lakh,chennai
+Hyundai,Hyundai Creta1.6 VTVT SX Plus,2018,"65,158kms",Petrol,Manual,₹11.50 Lakh,chennai
+Mahindra,Mahindra TUV 300T10,2018,"71,000kms",Diesel,Manual,₹6.80 Lakh,chennai
+Jeep,Jeep Compass2.0 Limited,2018,"87,000kms",Diesel,Manual,₹8 Lakh,chennai
+Renault,Renault TriberRXZ BSIV,2022,"50,192kms",Petrol,Manual,₹6.50 Lakh,chennai
+Lexus,Lexus NX300h Exquisite,2020,"15,000kms",Petrol,Automatic,₹52 Lakh,chennai
+Jeep,Jeep Compass2.0 Sport,2017,"71,250kms",Diesel,Manual,₹12 Lakh,chennai
+Hyundai,Hyundai Verna1.6 SX,2012,"1,00,000kms",Diesel,Manual,₹3.45 Lakh,chennai
+Toyota,Toyota EtiosG,2018,"59,849kms",Petrol,Manual,₹5.45 Lakh,chennai
+Maruti,Maruti SX4VDI,2011,"80,000kms",Diesel,Manual,₹3.75 Lakh,chennai
+Hyundai,Hyundai Verna1.6 CRDi S,2016,"84,000kms",Diesel,Manual,₹6.20 Lakh,chennai
+Mahindra,Mahindra TUV 300T10,2018,"76,000kms",Diesel,Manual,₹7 Lakh,chennai
+Hyundai,Hyundai CretaSX Opt Turbo DCT,2022,"12,587kms",Petrol,Automatic,₹16.03 Lakh,chennai
+Kia,Kia SeltosGTX Plus Turbo DCT,2023,"13,755kms",Petrol,Automatic,₹17.99 Lakh,chennai
+Jeep,Jeep Compass2.0 Sport Diesel BSVI,2021,"59,000kms",Diesel,Manual,₹15.75 Lakh,chennai
+Hyundai,Hyundai Verna1.6 CRDi S,2016,"84,000kms",Diesel,Manual,₹6.20 Lakh,chennai
+Mahindra,Mahindra TUV 300T10,2018,"76,000kms",Diesel,Manual,₹7 Lakh,chennai
+Hyundai,Hyundai CretaSX Opt Turbo DCT,2022,"12,587kms",Petrol,Automatic,₹16.03 Lakh,chennai
+Kia,Kia SeltosGTX Plus Turbo DCT,2023,"13,755kms",Petrol,Automatic,₹17.99 Lakh,chennai
+Jeep,Jeep Compass2.0 Sport Diesel BSVI,2021,"59,000kms",Diesel,Manual,₹15.75 Lakh,chennai
+Mahindra,Mahindra KUV 100 NXTD75 K8,2017,"44,886kms",Diesel,Manual,₹4.25 Lakh,chennai
+Maruti,Maruti CelerioZXI AMT Optional,2018,"55,979kms",Petrol,Automatic,₹4.30 Lakh,chennai
+Maruti,Maruti Wagon RAMT VXI Option,2017,"54,000kms",Petrol,Automatic,₹4.35 Lakh,chennai
+Honda,Honda AmazeV CVT Petrol BSIV,2019,"75,000kms",Petrol,Automatic,₹5.99 Lakh,chennai
+Honda,Honda AmazeE i-Dtech,2014,"1,28,000kms",Diesel,Manual,₹3.24 Lakh,chennai
+Datsun,Datsun RediGO1.0 T Option,2017,"80,000kms",Petrol,Manual,₹2.80 Lakh,chennai
+Skoda,Skoda KodiaqSportline BSVI,2022,"19,000kms",Petrol,Automatic,₹35 Lakh,chennai
+Jeep,Jeep Compass2.0 Limited,2018,"59,000kms",Diesel,Manual,₹14 Lakh,chennai
+Maruti,Maruti BrezzaZxi,2023,"25,378kms",Petrol,Manual,₹9.93 Lakh,chennai
+Honda,Honda CityV CVT,2020,"50,155kms",Petrol,Automatic,₹9.75 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GL-Class350 CDI Blue Efficiency,2014,"1,10,000kms",Diesel,Automatic,₹31 Lakh,chennai
+Hyundai,Hyundai Getz1.1 GVS,2007,"90,000kms",Petrol,Manual,₹2.25 Lakh,chennai
+Jeep,Jeep Compass2.0 Longitude Option BSIV,2018,"67,300kms",Diesel,Manual,₹13 Lakh,chennai
+Mahindra,Mahindra Scorpio NZ8L 6 Str Diesel AT 2023-2025,2022,"71,583kms",Diesel,Automatic,₹17.10 Lakh,chennai
+Toyota,Toyota Etios LivaGD,2012,"47,000kms",Diesel,Manual,₹4.20 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GL-Class350 CDI Blue Efficiency,2014,"1,10,000kms",Diesel,Automatic,₹31 Lakh,chennai
+Hyundai,Hyundai Getz1.1 GVS,2007,"90,000kms",Petrol,Manual,₹2.25 Lakh,chennai
+Jeep,Jeep Compass2.0 Longitude Option BSIV,2018,"67,300kms",Diesel,Manual,₹13 Lakh,chennai
+Mahindra,Mahindra Scorpio NZ8L 6 Str Diesel AT 2023-2025,2022,"71,583kms",Diesel,Automatic,₹17.10 Lakh,chennai
+Toyota,Toyota Etios LivaGD,2012,"47,000kms",Diesel,Manual,₹4.20 Lakh,chennai
+Tata,Tata ZestQuadrajet 1.3 XMS,2014,"85,000kms",Diesel,Manual,₹3.50 Lakh,chennai
+Volvo,Volvo XC60B5 Ultimate,2023,"5,000kms",Petrol,Automatic,₹65 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz GLC200,2020,"71,000kms",Petrol,Automatic,₹29.90 Lakh,chennai
+Maruti,Maruti CiazZeta AT BSVI,2022,"14,000kms",Petrol,Automatic,₹8.60 Lakh,chennai
+Skoda,Skoda Rapid1.6 MPI Style BSIV,2017,"34,000kms",Petrol,Manual,₹6.45 Lakh,chennai
+Maruti,Maruti RitzVXI,2009,"76,656kms",Petrol,Manual,₹2.30 Lakh,chennai
+Volkswagen,Volkswagen Taigun1.5 GT Plus Sports DSG,2025,"11,000kms",Petrol,Automatic,₹18.50 Lakh,chennai
+Jeep,Jeep Compass1.4 Limited Plus BSIV,2019,"26,005kms",Petrol,Automatic,₹18 Lakh,chennai
+Jeep,Jeep CompassModel S DCT BSVI,2022,"19,000kms",Petrol,Automatic,₹19 Lakh,chennai
+Mahindra,Mahindra XUV300W8 BSVI,2016,"1,28,398kms",Petrol,Manual,₹4.05 Lakh,chennai
+Mahindra,Mahindra XUV500W11 FWD Diesel,2018,"92,000kms",Diesel,Manual,₹11.90 Lakh,chennai
+MG,MG AstorSuper CVT BSVI,2023,"14,000kms",Petrol,Automatic,₹11.95 Lakh,chennai
+Audi,Audi A62.0 TDI,2009,"92,100kms",Diesel,Automatic,₹12 Lakh,chennai
+Honda,Honda BrioV MT,2013,"78,079kms",Petrol,Manual,₹2.94 Lakh,chennai
+Toyota,Toyota Fortuner2.8 2WD AT,2020,"1,05,000kms",Diesel,Automatic,₹30 Lakh,chennai
+Mahindra,Mahindra XUV500W11 FWD Diesel,2018,"92,000kms",Diesel,Manual,₹11.90 Lakh,chennai
+Audi,Audi A62.0 TDI,2009,"92,100kms",Diesel,Automatic,₹12 Lakh,chennai
+MG,MG AstorSuper CVT BSVI,2023,"14,000kms",Petrol,Automatic,₹11.95 Lakh,chennai
+Honda,Honda BrioV MT,2013,"78,079kms",Petrol,Manual,₹2.94 Lakh,chennai
+Toyota,Toyota Fortuner2.8 2WD AT,2020,"1,05,000kms",Diesel,Automatic,₹30 Lakh,chennai
+Hyundai,Hyundai VenueSX Plus Turbo DCT,2020,"21,600kms",Petrol,Automatic,₹9.45 Lakh,chennai
+Mahindra,Mahindra XUV500AT W10 1.99 mHawk,2018,"1,00,421kms",Diesel,Automatic,₹10.84 Lakh,chennai
+Mahindra,Mahindra TharLX Hard Top,2023,"27,000kms",Petrol,Manual,₹14.70 Lakh,chennai
+Kia,Kia CarensPrestige BSVI,2023,"19,000kms",Petrol,Manual,₹11.25 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz S-Class320 CDI,2009,"56,000kms",Diesel,Automatic,₹11 Lakh,chennai
+Hyundai,Hyundai i10Magna 1.1L,2013,"89,000kms",Petrol,Manual,₹2.60 Lakh,chennai
+Honda,Honda New Accord2.4 AT,2009,"74,000kms",Petrol,Automatic,₹4.25 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz E-ClassE 220d,2024,"4,000kms",Diesel,Automatic,₹77.50 Lakh,chennai
+Hyundai,Hyundai i10Magna,2011,"21,827kms",Petrol,Manual,₹2.50 Lakh,chennai
+Kia,Kia CarensPrestige BSVI,2023,"14,000kms",Petrol,Manual,₹11.40 Lakh,chennai
+Hyundai,Hyundai CretaSX Opt Knight Diesel AT,2023,"19,947kms",Diesel,Automatic,₹19.51 Lakh,chennai
+Tata,Tata TiagoXZ Plus CNG BSVI,2022,"15,000kms",CNG,Manual,₹6.50 Lakh,chennai
+Hyundai,Hyundai EONEra Plus,2016,"56,320kms",Petrol,Manual,₹2.85 Lakh,chennai
+Renault,Renault KWID1.0 AMT RXT,2017,"25,431kms",Petrol,Automatic,₹3.50 Lakh,chennai
+Honda,Honda Cityi DTec SV,2014,"95,173kms",Diesel,Manual,₹4.90 Lakh,chennai
+Hyundai,Hyundai CretaSX Opt Knight Diesel AT,2023,"19,947kms",Diesel,Automatic,₹19.51 Lakh,chennai
+Tata,Tata TiagoXZ Plus CNG BSVI,2022,"15,000kms",CNG,Manual,₹6.50 Lakh,chennai
+Renault,Renault KWID1.0 AMT RXT,2017,"25,431kms",Petrol,Automatic,₹3.50 Lakh,chennai
+Honda,Honda Cityi DTec SV,2014,"95,173kms",Diesel,Manual,₹4.90 Lakh,chennai
+Toyota,Toyota Innova2.5 G (Diesel) 7 Seater BS III,2011,"1,20,000kms",Diesel,Manual,₹5.65 Lakh,chennai
+Maruti,Maruti Alto K10VXI Optional,2016,"37,000kms",Petrol,Manual,₹3 Lakh,chennai
+Hyundai,Hyundai EONEra Plus,2016,"56,320kms",Petrol,Manual,₹2.85 Lakh,chennai
+Mahindra,Mahindra XUV700AX7 6Str AT,2024,"2,000kms",Petrol,Automatic,₹23 Lakh,chennai
+Maruti,Maruti Alto 800VXI BSVI,2013,"54,503kms",Petrol,Manual,₹2.10 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz E-ClassE250 CDI Avantgrade,2014,"72,000kms",Diesel,Automatic,₹15.30 Lakh,chennai
+Toyota,Toyota Urban cruiserPremium,2022,"48,037kms",Petrol,Manual,₹9.25 Lakh,chennai
+Mahindra,Mahindra XUV500W6 2WD,2017,"64,000kms",Diesel,Manual,₹8.75 Lakh,chennai
+Mahindra,Mahindra XUV500W8 FWD,2012,"98,000kms",Diesel,Manual,₹6.75 Lakh,chennai
+BMW,BMW 3 Series330i M Sport,2022,"90,000kms",Petrol,Automatic,₹32 Lakh,chennai
+Honda,Honda AmazeS CVT Petrol BSIV,2019,"32,541kms",Petrol,Automatic,₹5.99 Lakh,chennai
+Audi,Audi A435 TDI Premium,2015,"1,35,863kms",Diesel,Automatic,₹16.50 Lakh,chennai
+Ford,Ford FigoDiesel EXI,2013,"1,13,001kms",Diesel,Manual,₹2.40 Lakh,chennai
+Maruti,Maruti Alto 800VXI BSVI,2019,"91,037kms",Petrol,Manual,₹2.95 Lakh,chennai
+Kia,Kia SonetHTX Turbo DCT,2023,"11,111kms",Petrol,Automatic,₹9.60 Lakh,chennai
+Skoda,Skoda Rapid1.5 TDI AT Ambition BSIV,2019,"62,000kms",Diesel,Automatic,₹8.45 Lakh,chennai
+Audi,Audi A435 TDI Premium,2015,"1,35,863kms",Diesel,Automatic,₹16.50 Lakh,chennai
+Maruti,Maruti Alto 800VXI BSVI,2019,"91,037kms",Petrol,Manual,₹2.95 Lakh,chennai
+Ford,Ford FigoDiesel EXI,2013,"1,13,001kms",Diesel,Manual,₹2.40 Lakh,chennai
+Kia,Kia SonetHTX Turbo DCT,2023,"11,111kms",Petrol,Automatic,₹9.60 Lakh,chennai
+Skoda,Skoda Rapid1.5 TDI AT Ambition BSIV,2019,"62,000kms",Diesel,Automatic,₹8.45 Lakh,chennai
+Volkswagen,Volkswagen Ameo1.5 TDI Highline AT,2016,"1,24,051kms",Diesel,Automatic,₹4 Lakh,chennai
+,Fiat Linea1.3 Emotion,2012,"68,000kms",Diesel,Manual,₹2.70 Lakh,chennai
+Maruti,Maruti Alto 800LXI,2014,"43,217kms",Petrol,Manual,₹2.05 Lakh,chennai
+Toyota,Toyota VellfireExecutive Lounge BSVI,2021,"35,000kms",Petrol,Automatic,₹1.09 Crore,chennai
+Tata,Tata TigorXZA Plus DT AMT,2022,"18,795kms",Petrol,Automatic,₹7.60 Lakh,chennai
+Tata,Tata NexonXMA S AMT Diesel,2021,"74,000kms",Diesel,Automatic,₹8.50 Lakh,chennai
+,Fiat Linea1.3 Active,2013,"86,000kms",Diesel,Manual,₹2.25 Lakh,chennai
+Maruti,Maruti Swift DzireAMT ZDI,2016,"99,873kms",Diesel,Automatic,₹5.39 Lakh,chennai
+Maruti,Maruti Alto 800VXI,2020,"20,224kms",Petrol,Manual,₹3.46 Lakh,chennai
+Ford,Ford Fiesta Classic1.4 Duratorq Titanium,2014,"1,16,000kms",Diesel,Manual,₹2.10 Lakh,chennai
+Chevrolet,Chevrolet BeatDiesel LS,2016,"1,34,000kms",Diesel,Manual,₹2.15 Lakh,chennai
+Maruti,Maruti Swift DzireZXi,2010,"1,28,000kms",Petrol,Manual,₹2.30 Lakh,chennai
+Renault,Renault KigerRXZ Turbo CVT,2021,"83,360kms",Petrol,Automatic,₹6.25 Lakh,chennai
+Hyundai,Hyundai i10Sportz AT,2013,"86,000kms",Petrol,Automatic,₹2.75 Lakh,chennai
+Hyundai,Hyundai i201.4 Asta (AT),2011,"69,035kms",Petrol,Automatic,₹2.85 Lakh,chennai
+Chevrolet,Chevrolet BeatDiesel LS,2016,"1,34,000kms",Diesel,Manual,₹2.15 Lakh,chennai
+Maruti,Maruti Swift DzireZXi,2010,"1,28,000kms",Petrol,Manual,₹2.30 Lakh,chennai
+Renault,Renault KigerRXZ Turbo CVT,2021,"83,360kms",Petrol,Automatic,₹6.25 Lakh,chennai
+Hyundai,Hyundai i10Sportz AT,2013,"86,000kms",Petrol,Automatic,₹2.75 Lakh,chennai
+Hyundai,Hyundai i201.4 Asta (AT),2011,"69,035kms",Petrol,Automatic,₹2.85 Lakh,chennai
+Volkswagen,Volkswagen PoloPetrol Trendline 1.2L,2013,"79,582kms",Petrol,Manual,₹2.80 Lakh,chennai
+Land Rover,2023Land Rover Range Rover3.0 l Diesel LWB SV  -2024,2022,"28,000kms",Diesel,Automatic,₹3.50 Crore,chennai
+Toyota,Toyota Urban cruiserPremium AT,2021,"32,578kms",Petrol,Automatic,₹7.60 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz E-Class220 CDI,2009,"1,58,000kms",Diesel,Automatic,₹7 Lakh,chennai
+Tata,Tata TiagoXZA Plus AMT BSVI,2022,"20,882kms",Petrol,Automatic,₹5.95 Lakh,chennai
+Nissan,Nissan MagniteTurbo CVT XV Premium Opt BSVI,2021,"27,728kms",Petrol,Automatic,₹6.42 Lakh,chennai
+Audi,Audi Q74.2 TDI quattro,2010,"1,35,000kms",Diesel,Automatic,₹8.90 Lakh,chennai
+Mahindra,Mahindra BoleroB4 BSVI,2022,"30,000kms",Diesel,Manual,₹8.60 Lakh,chennai
+Jeep,Jeep Compass2.0 Sport,2017,"65,000kms",Diesel,Manual,₹9.90 Lakh,chennai
+Volkswagen,Volkswagen Polo1.0 MPI Trendline,2019,"71,195kms",Petrol,Manual,₹4.85 Lakh,chennai
+Renault,Renault TriberRXL BSIV,2020,"62,000kms",Petrol,Manual,₹5 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz CLA200 CDI Sport,2014,"74,000kms",Diesel,Automatic,₹20 Lakh,chennai
+Audi,Audi A62.0 TDI,2013,"88,000kms",Diesel,Automatic,₹7.50 Lakh,chennai
+Tata,Tata NexonXZA Plus (O) AMT,2022,"18,000kms",Petrol,Automatic,₹8.75 Lakh,chennai
+Hyundai,Hyundai CretaEX,2021,"24,000kms",Petrol,Manual,₹9.90 Lakh,chennai
+Renault,Renault TriberRXL BSIV,2020,"62,000kms",Petrol,Manual,₹5 Lakh,chennai
+Mercedes-Benz,Mercedes-Benz CLA200 CDI Sport,2014,"74,000kms",Diesel,Automatic,₹20 Lakh,chennai
+Hyundai,Hyundai CretaEX,2021,"24,000kms",Petrol,Manual,₹9.90 Lakh,chennai
+Tata,Tata NexonXZA Plus (O) AMT,2022,"18,000kms",Petrol,Automatic,₹8.75 Lakh,chennai
+Audi,Audi A62.0 TDI,2013,"88,000kms",Diesel,Automatic,₹7.50 Lakh,chennai
+BMW,BMW 3 Series320d,2010,"1,14,000kms",Diesel,Automatic,₹5.80 Lakh,chennai
+Tata,Tata TigorXZA Plus Leatherette Pack AMT,2023,"22,082kms",Petrol,Automatic,₹6.99 Lakh,chennai
+Mahindra,Mahindra XUV500W9,2020,"75,000kms",Diesel,Manual,₹11 Lakh,chennai
+Hyundai,Hyundai i20Asta,2009,"85,000kms",Petrol,Manual,₹2.50 Lakh,chennai
+Hyundai,Hyundai EONMagna Plus,2015,"68,000kms",Petrol,Manual,₹2.65 Lakh,chennai
+Mini Cooper,Mini Cooper SEElectric,2023,"13,250kms",Electric,Automatic,₹24.90 Lakh,chennai
+Audi,Audi Q335 TDI Quattro Technology,2016,"55,000kms",Diesel,Automatic,₹17.75 Lakh,chennai
+Volkswagen,Volkswagen PoloDiesel Comfortline 1.2L,2014,"94,000kms",Diesel,Manual,₹3.45 Lakh,chennai
+Renault,Renault KWIDRXT,2015,"48,214kms",Petrol,Manual,₹2.54 Lakh,chennai
+Maruti,Maruti RitzVXi,2014,"1,09,542kms",Petrol,Manual,₹2.55 Lakh,chennai
+Volkswagen,Volkswagen Vento1.2 TSI Highline AT,2016,"65,000kms",Petrol,Automatic,₹5.50 Lakh,chennai
+Hyundai,Hyundai i10Magna,2012,"60,000kms",Petrol,Manual,₹2.90 Lakh,chennai
+Renault,Renault KWIDRXL,2016,"62,000kms",Petrol,Manual,₹2.60 Lakh,chennai
+Maruti,Maruti RitzVDi,2010,"46,032kms",Diesel,Manual,₹2.10 Lakh,chennai
+Maruti,Maruti SwiftVXI,2011,"1,08,366kms",Petrol,Manual,₹2.90 Lakh,chennai
+Maruti,Maruti RitzVXi,2014,"1,09,542kms",Petrol,Manual,₹2.55 Lakh,chennai
+Maruti,Maruti RitzVDi,2010,"46,032kms",Diesel,Manual,₹2.10 Lakh,chennai
+Maruti,Maruti SwiftVXI,2011,"1,08,366kms",Petrol,Manual,₹2.90 Lakh,chennai
+Hyundai,Hyundai i10Magna,2012,"60,000kms",Petrol,Manual,₹2.90 Lakh,chennai
+Renault,Renault KWIDRXL,2016,"62,000kms",Petrol,Manual,₹2.60 Lakh,chennai
+,Fiat Punto Pure1.3L Advanced Multi-Jet,2015,"1,86,757kms",Diesel,Manual,₹2.55 Lakh,chennai
+Hyundai,Hyundai i10Sportz 1.1L,2011,"82,000kms",Petrol,Manual,₹2.50 Lakh,chennai
+Hyundai,Hyundai Verna1.6 SX CRDi (O),2011,"90,000kms",Diesel,Manual,₹2.95 Lakh,chennai
+Maruti,Maruti Alto K10VXI AMT,2016,"56,381kms",Petrol,Automatic,₹2.35 Lakh,chennai
+Renault,Renault KWIDRXL,2016,"45,093kms",Petrol,Manual,₹2.40 Lakh,chennai
+Tata,Tata Nexon EVXZ Plus,2022,"81,377kms",Electric,Automatic,₹12.20 Lakh,chennai
+Maruti,Maruti Alto 800LXI,2013,"52,475kms",Petrol,Manual,₹2.10 Lakh,chennai
+,Fiat Grande PuntoEVO 1.3 Emotion,2015,"1,14,961kms",Diesel,Manual,₹2.45 Lakh,chennai
+Hyundai,Hyundai i20Asta 1.2,2013,"1,03,608kms",Petrol,Manual,₹2.82 Lakh,chennai
+Maruti,Maruti Alto 800VXI,2013,"54,674kms",Petrol,Manual,₹2.10 Lakh,chennai
+Nissan,Nissan MicraXV CVT,2014,"75,000kms",Petrol,Automatic,₹2.85 Lakh,chennai
+Hyundai,Hyundai VenueSX Plus Turbo DCT,2020,"41,000kms",Petrol,Automatic,₹9 Lakh,chennai
+Hyundai,Hyundai i10Sportz Option,2012,"72,000kms",Petrol,Manual,₹2.80 Lakh,chennai
+Hyundai,Hyundai i10Magna 1.1L,2016,"57,449kms",Petrol,Manual,₹2.70 Lakh,chennai
+Toyota,Toyota Innova Crysta2.4 GX 8 STR AT,2021,"1,10,000kms",Diesel,Automatic,₹20.70 Lakh,chennai

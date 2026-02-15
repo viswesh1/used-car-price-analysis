@@ -1,0 +1,2401 @@
+car_brand,car_name,year,km_driven,fuel,transmission,price,city
+Skoda,Skoda Slavia1.0 TSI Style AT BSVI,2023,"13,200kms",Petrol,Automatic,₹13.95 Lakh,pune
+Jeep,Jeep Compass2.0 Limited 4X4 Opt Diesel AT BSVI,2021,"72,000kms",Diesel,Automatic,₹22 Lakh,pune
+Volkswagen,Volkswagen VentoPetrol Highline,2011,"88,000kms",Petrol,Manual,₹2.49 Lakh,pune
+Honda,Honda AmazeS i-VTEC,2014,"1,41,486kms",Petrol,Manual,₹2.95 Lakh,pune
+MG,MG ZS EVExclusive,2022,"19,800kms",Electric,Automatic,₹18 Lakh,pune
+Maruti,Maruti Alto K10VXI AMT,2015,"69,553kms",Petrol,Automatic,₹2.39 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2013,"87,346kms",Petrol,Manual,₹2.86 Lakh,pune
+Audi,Audi A430 TFSI Premium Plus,2017,"55,418kms",Petrol,Automatic,₹17.07 Lakh,pune
+Maruti,Maruti ErtigaZXI Plus AT BSVI,2023,"20,000kms",Petrol,Automatic,₹10.50 Lakh,pune
+Maruti,Maruti SwiftZXI,2021,"27,489kms",Petrol,Manual,₹5.93 Lakh,pune
+Honda,Honda AmazeV,2021,"62,099kms",Petrol,Manual,₹5.62 Lakh,pune
+Maruti,Maruti BalenoSigma,2020,"46,396kms",Petrol,Manual,₹5.16 Lakh,pune
+Tata,Tata Harrier EVFearless Plus 75 ACFC,2025,"10,000kms",Electric,Automatic,₹22.50 Lakh,pune
+Tata,Tata AltrozXZA DCT BSVI,2023,"16,800kms",Petrol,Automatic,₹6.75 Lakh,pune
+Hyundai,Hyundai i20Magna Optional 1.2,2013,"81,185kms",Petrol,Manual,₹2.89 Lakh,pune
+Mahindra,Mahindra TharLX 4WD Hard Top BSVI,2023,"20,256kms",Petrol,Manual,₹12.95 Lakh,pune
+Skoda,Skoda OctaviaStyle Plus 1.8 TSI AT,2016,"58,000kms",Petrol,Automatic,₹7.50 Lakh,pune
+Hyundai,Hyundai CretaSX (O) Turbo DCT,2024,"23,688kms",Petrol,Automatic,₹20 Lakh,pune
+BMW,2019BMW 6 SeriesGT 630i Luxury Line  -2021,2018,"37,800kms",Petrol,Automatic,₹38.50 Lakh,pune
+Volkswagen,Volkswagen Vento1.6 Highline Plus,2018,"59,624kms",Petrol,Manual,₹5.99 Lakh,pune
+Toyota,Toyota Etios LivaG,2014,"60,000kms",Petrol,Manual,₹4 Lakh,pune
+Honda,Honda AmazeV Petrol BSIV,2019,"56,524kms",Petrol,Manual,₹5.54 Lakh,pune
+Maruti,Maruti BalenoDelta Diesel,2020,"13,521kms",Diesel,Manual,₹5.69 Lakh,pune
+Maruti,Maruti SwiftVXI,2018,"45,000kms",Petrol,Manual,₹5.75 Lakh,pune
+Mahindra,Mahindra XUV700AX7 Diesel AT Luxury Pack BSVI,2022,"1,04,000kms",Diesel,Automatic,₹20 Lakh,pune
+Maruti,Maruti Wagon RZXI Plus AT Dual tone BSVI,2022,"11,100kms",Petrol,Automatic,₹5.25 Lakh,pune
+Maruti,Maruti Ignis1.2 AMT Alpha BSIV,2018,"62,596kms",Petrol,Automatic,₹5.25 Lakh,pune
+Ford,Ford Ecosport1.5 Ti VCT MT Titanium,2017,"45,673kms",Petrol,Manual,₹5.49 Lakh,pune
+Kia,Kia SonetGTX Plus Turbo DCT DT,2021,"75,000kms",Petrol,Automatic,₹9 Lakh,pune
+Honda,Honda BrioV MT,2016,"43,000kms",Petrol,Manual,₹5.50 Lakh,pune
+Hyundai,Hyundai Creta1.6 VTVT E Plus,2017,"82,000kms",Petrol,Manual,₹5.75 Lakh,pune
+Maruti,Maruti Baleno1.2 Delta,2018,"1,11,770kms",Petrol,Manual,₹5.95 Lakh,pune
+Mahindra,Mahindra XUV500W8 4WD,2015,"1,20,000kms",Diesel,Manual,₹7 Lakh,pune
+Ford,Ford FigoAmbiente BSIV,2012,"50,726kms",Petrol,Manual,₹2.07 Lakh,pune
+Honda,Honda WR-Vi-VTEC VX,2019,"50,425kms",Petrol,Manual,₹5.73 Lakh,pune
+Honda,Honda CitySV MT,2016,"8,231kms",Petrol,Manual,₹5.55 Lakh,pune
+Hyundai,Hyundai VernaSX Turbo DCT,2023,"30,000kms",Petrol,Automatic,₹15 Lakh,pune
+Volkswagen,Volkswagen Ameo1.5 TDI Highline,2017,"80,000kms",Diesel,Manual,₹5.70 Lakh,pune
+Audi,Audi Q330 TFSI Premium FWD,2018,"71,800kms",Petrol,Automatic,₹15.50 Lakh,pune
+Kia,Kia SeltosHTX,2023,"22,882kms",Petrol,Manual,₹13.69 Lakh,pune
+Tata,Tata NexonXZ Plus Dark Edition BSVI,2023,"13,000kms",Petrol,Manual,₹8.75 Lakh,pune
+Maruti,Maruti Grand VitaraZeta,2023,"43,228kms",Petrol,Manual,₹11.47 Lakh,pune
+Honda,Honda CityZX MT,2021,"48,692kms",Petrol,Manual,₹11.19 Lakh,pune
+Toyota,Toyota Corolla AltisDiesel LE,2018,"85,419kms",Diesel,Manual,₹11.80 Lakh,pune
+Mahindra,Mahindra XUV500R W10 FWD,2017,"72,000kms",Diesel,Manual,₹8 Lakh,pune
+Volkswagen,Volkswagen Taigun1.0 Topline,2024,"9,345kms",Petrol,Manual,₹14.29 Lakh,pune
+Maruti,Maruti Grand VitaraDelta,2024,"12,557kms",Petrol,Manual,₹10.52 Lakh,pune
+Kia,Kia SeltosGTX Plus,2020,"98,027kms",Petrol,Manual,₹11.45 Lakh,pune
+Maruti,Maruti Ignis1.2 AMT Zeta BSIV,2018,"30,000kms",Petrol,Automatic,₹4.50 Lakh,pune
+Skoda,Skoda Slavia1.5 TSI Style DSG,2022,"36,747kms",Petrol,Automatic,₹13.35 Lakh,pune
+Hyundai,Hyundai Creta1.6 SX,2019,"52,942kms",Petrol,Manual,₹11.64 Lakh,pune
+Honda,Honda CityVX MT,2023,"9,838kms",Petrol,Manual,₹11.61 Lakh,pune
+Hyundai,Hyundai Grand i10Magna,2016,"40,000kms",Petrol,Manual,₹3.50 Lakh,pune
+Skoda,Skoda Kushaq1.0 TSI Style,2022,"42,182kms",Petrol,Manual,₹12.32 Lakh,pune
+Audi,Audi A63.0 TDI Quattro Premium Plus,2015,"77,800kms",Diesel,Automatic,₹13.50 Lakh,pune
+Skoda,Skoda Slavia1.0 TSI Style AT BSVI,2023,"21,900kms",Petrol,Automatic,₹13.99 Lakh,pune
+Mahindra,Mahindra TUV 300T10,2018,"80,000kms",Diesel,Manual,₹6.50 Lakh,pune
+Jeep,Jeep Compass1.4 Limited Plus BSIV,2019,"62,579kms",Petrol,Automatic,₹11.75 Lakh,pune
+Skoda,Skoda Slavia1.0 TSI Ambition AT,2023,"46,863kms",Petrol,Automatic,₹13.99 Lakh,pune
+Kia,Kia SeltosHTX Plus Diesel,2021,"70,000kms",Diesel,Manual,₹13.90 Lakh,pune
+Mahindra,Mahindra TUV 300T10,2018,"80,000kms",Diesel,Manual,₹6.50 Lakh,pune
+Mercedes-Benz,Mercedes-Benz M-ClassML 250 CDI,2014,"1,25,700kms",Diesel,Automatic,₹15 Lakh,pune
+Honda,Honda CityCVT,2021,"38,382kms",Petrol,Automatic,₹12.50 Lakh,pune
+Jeep,Jeep Compass1.4 Limited Plus BSIV,2019,"62,579kms",Petrol,Automatic,₹11.75 Lakh,pune
+Mercedes-Benz,Mercedes-Benz E-ClassExclusive E 220 d BSIV,2018,"60,000kms",Diesel,Automatic,₹25 Lakh,pune
+Skoda,Skoda Slavia1.0 TSI Ambition AT,2023,"46,863kms",Petrol,Automatic,₹13.99 Lakh,pune
+Skoda,Skoda Slavia1.5 TSI Style DSG,2023,"43,000kms",Petrol,Automatic,₹14.65 Lakh,pune
+Skoda,Skoda Slavia1.0 TSI Style AT BSVI,2023,"21,900kms",Petrol,Automatic,₹13.99 Lakh,pune
+Maruti,Maruti Wagon RLXI BS IV,2011,"60,000kms",Petrol,Manual,₹1.70 Lakh,pune
+Audi,Audi A62.0 TDI,2014,"78,000kms",Diesel,Automatic,₹11.25 Lakh,pune
+Hyundai,Hyundai Creta1.6 CRDi AT SX Plus,2018,"1,08,000kms",Diesel,Automatic,₹10.25 Lakh,pune
+Kia,Kia SeltosX-Line DCT,2022,"45,000kms",Petrol,Automatic,₹13.95 Lakh,pune
+Skoda,Skoda Kushaq1.0 TSI Style AT BSVI,2023,"32,207kms",Petrol,Automatic,₹14.40 Lakh,pune
+Hyundai,Hyundai i10Sportz,2013,"27,481kms",Petrol,Manual,₹2.32 Lakh,pune
+Honda,Honda CityV CVT,2011,"1,15,016kms",Petrol,Automatic,₹2.73 Lakh,pune
+Hyundai,Hyundai i10Magna 1.2,2011,"83,177kms",Petrol,Manual,₹2.06 Lakh,pune
+Tata,Tata PunchPure,2023,"20,000kms",Petrol,Manual,₹5.50 Lakh,pune
+Honda,Honda Cityi VTEC VX,2017,"55,777kms",Petrol,Manual,₹5.20 Lakh,pune
+Renault,Renault KigerRXZ,2022,"40,096kms",Petrol,Manual,₹5.50 Lakh,pune
+Volkswagen,Volkswagen Jetta1.4 TSI Comfortline,2015,"89,674kms",Petrol,Manual,₹5.75 Lakh,pune
+MG,2024MG Hector PlusSharp Pro 7 Str Diesel  -2025,2023,"20,000kms",Diesel,Manual,₹21 Lakh,pune
+Renault,Renault KigerRXZ,2022,"40,096kms",Petrol,Manual,₹5.50 Lakh,pune
+Volkswagen,Volkswagen Tiguan2.0 TSI Elegance,2024,"19,000kms",Petrol,Automatic,₹28.95 Lakh,pune
+Mahindra,Mahindra Alturas G44X4 AT BSIV,2019,"56,000kms",Diesel,Automatic,₹21.50 Lakh,pune
+Hyundai,Hyundai CretaSX Opt IVT BSVI,2023,"41,000kms",Petrol,Automatic,₹13.95 Lakh,pune
+Mercedes-Benz,Mercedes-Benz GLCProgressive 300,2017,"44,900kms",Petrol,Automatic,₹24.75 Lakh,pune
+Honda,Honda CityVX MT,2015,"57,177kms",Petrol,Manual,₹5.80 Lakh,pune
+Maruti,Maruti BalenoZeta,2021,"28,741kms",Petrol,Manual,₹5.87 Lakh,pune
+Hyundai,Hyundai i201.2 Magna,2011,"1,60,000kms",Petrol,Manual,₹1.60 Lakh,pune
+Honda,Honda Cityi-VTEC V,2018,"43,000kms",Petrol,Manual,₹5.75 Lakh,pune
+Skoda,Skoda Kushaq1.0 TSI Ambition BSVI,2022,"49,545kms",Petrol,Manual,₹8.80 Lakh,pune
+Mercedes-Benz,Mercedes-Benz GLA4MATIC,2019,"26,300kms",Petrol,Automatic,₹19.90 Lakh,pune
+Hyundai,Hyundai AuraSX Plus AMT,2020,"24,000kms",Petrol,Automatic,₹5.25 Lakh,pune
+Mercedes-Benz,Mercedes-Benz M-ClassML 250 CDI,2014,"1,28,800kms",Diesel,Automatic,₹19.50 Lakh,pune
+Isuzu,Isuzu MU-X2WD,2019,"1,30,000kms",Diesel,Automatic,₹18.55 Lakh,pune
+Mercedes-Benz,Mercedes-Benz GLA Class200 Sport,2019,"77,300kms",Petrol,Automatic,₹18.50 Lakh,pune
+Volkswagen,Volkswagen VirtusTopline AT ES,2024,"26,818kms",Petrol,Automatic,₹14.20 Lakh,pune
+Mercedes-Benz,Mercedes-Benz M-ClassML 250 CDI,2015,"1,14,000kms",Diesel,Automatic,₹16.50 Lakh,pune
+Kia,Kia SeltosGTX Plus Diesel AT,2024,"27,182kms",Diesel,Automatic,₹19.75 Lakh,pune
+Maruti,Maruti Alto 800VXI,2015,"28,516kms",Petrol,Manual,₹2.74 Lakh,pune
+Skoda,Skoda Kushaq1.0 TSI Style BSVI,2021,"60,000kms",Petrol,Manual,₹11.50 Lakh,pune
+Maruti,Maruti Alto 800LXi,2016,"55,781kms",Petrol,Manual,₹2.48 Lakh,pune
+Maruti,Maruti SX4Green Vxi (CNG),2012,"98,000kms",CNG,Manual,₹2.30 Lakh,pune
+Hyundai,Hyundai VenueSX Opt Turbo iMT BSVI,2019,"26,272kms",Petrol,Manual,₹8.04 Lakh,pune
+Maruti,Maruti Vitara BrezzaVDi AMT,2019,"1,50,000kms",Diesel,Automatic,₹7.40 Lakh,pune
+Hyundai,Hyundai VenueSX,2023,"43,022kms",Petrol,Manual,₹8.75 Lakh,pune
+Hyundai,Hyundai i20Magna Optional 1.2,2013,"86,274kms",Petrol,Manual,₹2.26 Lakh,pune
+Hyundai,Hyundai i10Magna 1.1,2012,"55,912kms",Petrol,Manual,₹2.22 Lakh,pune
+Maruti,Maruti Vitara BrezzaZDi AMT,2019,"70,000kms",Diesel,Automatic,₹8.80 Lakh,pune
+Hyundai,Hyundai EONMagna,2015,"69,000kms",Petrol,Manual,₹2.14 Lakh,pune
+Volkswagen,Volkswagen Polo1.2 MPI Highline,2014,"1,24,334kms",Petrol,Manual,₹2.20 Lakh,pune
+Maruti,Maruti Alto 800LXi,2016,"48,230kms",Petrol,Manual,₹2.62 Lakh,pune
+Mercedes-Benz,Mercedes-Benz C-ClassC 200 AVANTGARDE,2018,"45,000kms",Petrol,Automatic,₹21.75 Lakh,pune
+Maruti,Maruti Alto 800VXI,2017,"34,957kms",Petrol,Manual,₹2.72 Lakh,pune
+Renault,Renault KWID1.0 RXT AMT Opt,2019,"29,340kms",Petrol,Automatic,₹2.62 Lakh,pune
+Ford,Ford FigoAmbiente BSIV,2014,"35,833kms",Petrol,Manual,₹2.30 Lakh,pune
+Mahindra,Mahindra Scorpio NZ8,2024,"10,000kms",Petrol,Manual,₹19 Lakh,pune
+Honda,Honda Cityi VTEC V,2014,"1,17,962kms",Petrol,Manual,₹2.91 Lakh,pune
+Maruti,Maruti Alto 800LXi,2016,"75,474kms",Petrol,Manual,₹2.43 Lakh,pune
+Maruti,Maruti Alto 800LXi,2017,"38,356kms",Petrol,Manual,₹2.78 Lakh,pune
+Hyundai,Hyundai i20Sportz Option 1.4 CRDi,2014,"1,04,000kms",Diesel,Manual,₹3.25 Lakh,pune
+Maruti,Maruti Alto 800LXi,2015,"47,615kms",Petrol,Manual,₹2.45 Lakh,pune
+Honda,Honda BrioS MT,2012,"74,425kms",Petrol,Manual,₹2.27 Lakh,pune
+Maruti,Maruti Alto 800LXi,2015,"82,574kms",Petrol,Manual,₹2.36 Lakh,pune
+Tata,Tata Nexon EVEmpowered Plus LR,2023,"20,500kms",Electric,Automatic,₹12.50 Lakh,pune
+Hyundai,Hyundai i20Magna Optional 1.2,2013,"86,274kms",Petrol,Manual,₹2.26 Lakh,pune
+Hyundai,Hyundai i10Magna 1.1,2012,"55,912kms",Petrol,Manual,₹2.22 Lakh,pune
+Hyundai,Hyundai EONMagna,2015,"69,000kms",Petrol,Manual,₹2.14 Lakh,pune
+Mini Cooper,2019Mini Cooper Countryman  -2021Cooper S,2018,"33,500kms",Petrol,Automatic,₹23 Lakh,pune
+Volkswagen,Volkswagen Polo1.2 MPI Highline,2014,"1,24,334kms",Petrol,Manual,₹2.20 Lakh,pune
+Maruti,Maruti Alto 800LXi,2016,"48,230kms",Petrol,Manual,₹2.62 Lakh,pune
+Renault,Renault KWIDRXT,2015,"72,270kms",Petrol,Manual,₹2.25 Lakh,pune
+Mahindra,Mahindra XUV700AX7 Diesel AT Luxury Pack BSVI,2022,"1,20,000kms",Diesel,Automatic,₹18.75 Lakh,pune
+Maruti,Maruti Alto 800LXi,2016,"75,474kms",Petrol,Manual,₹2.43 Lakh,pune
+Maruti,Maruti Alto 800LXi,2017,"38,356kms",Petrol,Manual,₹2.78 Lakh,pune
+Hyundai,Hyundai i20Sportz Petrol,2012,"45,225kms",Petrol,Manual,₹2.07 Lakh,pune
+Toyota,Toyota Innova CrystaLeadership Edition,2020,"88,000kms",Diesel,Manual,₹19.51 Lakh,pune
+Toyota,Toyota EtiosV,2014,"81,689kms",Petrol,Manual,₹2.36 Lakh,pune
+Maruti,Maruti Alto 800VXI,2016,"48,554kms",Petrol,Manual,₹2.51 Lakh,pune
+Nissan,Nissan SunnyXL,2012,"1,25,352kms",Petrol,Manual,₹2.28 Lakh,pune
+Renault,Renault KigerRXZ,2023,"15,000kms",Petrol,Manual,₹6.50 Lakh,pune
+Maruti,Maruti Wagon RLXI CNG,2014,"1,03,754kms",CNG,Manual,₹2.95 Lakh,pune
+Honda,Honda AmazeSX i-VTEC,2014,"1,39,533kms",Petrol,Manual,₹2.11 Lakh,pune
+Renault,Renault KWIDRXL,2017,"31,480kms",Petrol,Manual,₹2.32 Lakh,pune
+Hyundai,Hyundai i201.4 Asta AT with AVN,2011,"80,000kms",Petrol,Automatic,₹2.41 Lakh,pune
+Hyundai,Hyundai EONSportz,2015,"58,542kms",Petrol,Manual,₹2.28 Lakh,pune
+Honda,Honda BrioS MT,2012,"74,425kms",Petrol,Manual,₹2.27 Lakh,pune
+Maruti,Maruti Alto 800LXi,2015,"82,574kms",Petrol,Manual,₹2.36 Lakh,pune
+Mahindra,Mahindra XUV500W10 2WD,2016,"95,000kms",Diesel,Manual,₹8.50 Lakh,pune
+Hyundai,Hyundai i10Sportz 1.1L,2014,"91,078kms",Petrol,Manual,₹2.34 Lakh,pune
+Maruti,Maruti Alto 800VXI,2015,"1,12,473kms",Petrol,Manual,₹2.04 Lakh,pune
+Maruti,Maruti Alto 800LXi,2018,"33,318kms",Petrol,Manual,₹2.92 Lakh,pune
+Tata,Tata AltrozXZA DCT,2023,"15,300kms",Petrol,Automatic,₹9 Lakh,pune
+Toyota,Toyota EtiosV,2014,"81,689kms",Petrol,Manual,₹2.36 Lakh,pune
+Maruti,Maruti Alto 800VXI,2016,"48,554kms",Petrol,Manual,₹2.51 Lakh,pune
+Maruti,Maruti Wagon RLXI BSVI,2012,"54,588kms",Petrol,Manual,₹2.31 Lakh,pune
+Hyundai,Hyundai VernaVTVT 1.6 AT SX Option,2018,"20,000kms",Petrol,Automatic,₹7.50 Lakh,pune
+Hyundai,Hyundai i10Magna 1.2,2011,"64,080kms",Petrol,Manual,₹2.18 Lakh,pune
+Maruti,Maruti Alto 800LXi,2015,"58,663kms",Petrol,Manual,₹2.28 Lakh,pune
+Hyundai,Hyundai i10Sportz,2012,"55,000kms",Petrol,Manual,₹2.15 Lakh,pune
+Skoda,Skoda Slavia1.0 TSI Style AT BSVI,2022,"46,400kms",Petrol,Automatic,₹12.75 Lakh,pune
+Honda,Honda BrioS MT,2012,"68,000kms",Petrol,Manual,₹2.20 Lakh,pune
+Skoda,Skoda Rapid1.6 MPI AT Elegance,2012,"82,000kms",Petrol,Automatic,₹2.29 Lakh,pune
+Honda,Honda City1.5 E MT,2011,"1,23,000kms",Petrol,Manual,₹2.80 Lakh,pune
+Tata,Tata NexonCreative Plus S Diesel AMT,2025,"10,000kms",Diesel,Automatic,₹12.60 Lakh,pune
+Maruti,Maruti SX4ZXI MT BSIV,2011,"41,000kms",Petrol,Manual,₹2.25 Lakh,pune
+Hyundai,Hyundai i10Magna,2013,"77,331kms",Petrol,Manual,₹2.30 Lakh,pune
+Mahindra,Mahindra XyloE8,2011,"77,000kms",Diesel,Manual,₹2.60 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.2,2013,"1,14,000kms",Petrol,Manual,₹2.45 Lakh,pune
+Hyundai,Hyundai i20Asta 1.4 CRDi (Diesel),2010,"1,21,621kms",Diesel,Manual,₹2.95 Lakh,pune
+Maruti,Maruti Wagon RLXI CNG,2012,"1,10,000kms",CNG,Manual,₹2.75 Lakh,pune
+Maruti,Maruti Wagon RLXI BS IV,2011,"81,000kms",Petrol,Manual,₹2.15 Lakh,pune
+Nissan,Nissan SunnyXL CVT,2016,"60,000kms",Petrol,Automatic,₹2.95 Lakh,pune
+Hyundai,Hyundai EONMagna Plus,2015,"23,000kms",Petrol,Manual,₹2.35 Lakh,pune
+Maruti,2013Maruti Alto K10 -2014 VXI,2010,"56,000kms",Petrol,Manual,₹2.35 Lakh,pune
+Hyundai,Hyundai i10Asta 1.2,2008,"73,000kms",Petrol,Manual,₹2.35 Lakh,pune
+Renault,Renault KWIDRXT Optional,2019,"1,34,076kms",Petrol,Manual,₹2.50 Lakh,pune
+Skoda,Skoda Fabia1.2 MPI Active Plus,2012,"93,000kms",Petrol,Manual,₹2.25 Lakh,pune
+Hyundai,Hyundai i20Era 1.2,2012,"75,000kms",Petrol,Manual,₹2.65 Lakh,pune
+Honda,Honda BrioS MT,2013,"86,715kms",Petrol,Manual,₹2.30 Lakh,pune
+Ford,Ford Ecosport1.5 Petrol Trend BSIV,2019,"92,000kms",Petrol,Manual,₹4.80 Lakh,pune
+Mahindra,Mahindra XyloE8,2011,"77,000kms",Diesel,Manual,₹2.60 Lakh,pune
+Volkswagen,Volkswagen Jetta1.9 Highline TDI,2010,"91,000kms",Diesel,Automatic,₹2.91 Lakh,pune
+Honda,Honda BrioS MT,2013,"86,715kms",Petrol,Manual,₹2.30 Lakh,pune
+Hyundai,Hyundai Xcent1.2 Kappa S,2016,"1,20,000kms",Petrol,Manual,₹3.15 Lakh,pune
+Tata,Tata Tigor1.2 Revotron XT,2018,"74,443kms",Petrol,Manual,₹3.05 Lakh,pune
+Hyundai,Hyundai SantroSportz CNG BSIV,2019,"1,00,156kms",CNG,Manual,₹3.01 Lakh,pune
+Maruti,Maruti CiazAT ZXi,2016,"1,03,629kms",Petrol,Automatic,₹5.77 Lakh,pune
+Hyundai,Hyundai Creta1.6 VTVT AT SX Plus,2016,"90,000kms",Petrol,Automatic,₹6.25 Lakh,pune
+Tata,Tata TigorXZA Plus,2020,"49,631kms",Petrol,Automatic,₹5.29 Lakh,pune
+Tata,Tata NexonXZ Plus (O) Diesel,2017,"22,517kms",Diesel,Manual,₹5.70 Lakh,pune
+Maruti,Maruti DzireZXI Plus,2018,"1,19,456kms",Petrol,Manual,₹5.67 Lakh,pune
+Honda,Honda City1.5 S AT,2012,"70,000kms",Petrol,Automatic,₹2.75 Lakh,pune
+Maruti,Maruti Alto 800LXi,2020,"13,000kms",Petrol,Manual,₹3.27 Lakh,pune
+Tata,Tata Tigor1.2 Revotron XZ Option,2018,"67,411kms",Petrol,Manual,₹3.81 Lakh,pune
+Honda,Honda CityVX MT,2015,"89,344kms",Petrol,Manual,₹5.29 Lakh,pune
+Renault,Renault TriberRXT EASY-R AMT BSVI,2020,"45,000kms",Petrol,Automatic,₹4.80 Lakh,pune
+Hyundai,Hyundai Verna1.6 SX VTVT,2016,"31,268kms",Petrol,Manual,₹4.09 Lakh,pune
+Hyundai,Hyundai SantroSportz CNG BSIV,2019,"72,970kms",CNG,Manual,₹3.35 Lakh,pune
+Hyundai,Hyundai i20Petrol CVT Asta,2018,"70,908kms",Petrol,Automatic,₹4.65 Lakh,pune
+Hyundai,Hyundai CretaSX (O) iVT,2024,"10,000kms",Petrol,Automatic,₹17.80 Lakh,pune
+Maruti,Maruti Alto 800LXi,2020,"13,000kms",Petrol,Manual,₹3.27 Lakh,pune
+Tata,Tata Tigor1.2 Revotron XZ Option,2018,"67,411kms",Petrol,Manual,₹3.81 Lakh,pune
+Honda,Honda CityVX MT,2015,"89,344kms",Petrol,Manual,₹5.29 Lakh,pune
+MG,MG AstorSavvy Turbo AT BSVI,2022,"60,000kms",Petrol,Automatic,₹12.93 Lakh,pune
+Hyundai,Hyundai Verna1.6 SX VTVT,2016,"31,268kms",Petrol,Manual,₹4.09 Lakh,pune
+Hyundai,Hyundai SantroSportz CNG BSIV,2019,"72,970kms",CNG,Manual,₹3.35 Lakh,pune
+Hyundai,Hyundai SantroSportz,2021,"11,160kms",Petrol,Manual,₹3.82 Lakh,pune
+Renault,Renault KigerRXZ Turbo CVT DT,2024,"14,000kms",Petrol,Automatic,₹7.25 Lakh,pune
+Maruti,Maruti Baleno1.2 CVT Zeta,2017,"84,169kms",Petrol,Automatic,₹3.95 Lakh,pune
+Hyundai,Hyundai i20Petrol CVT Asta,2018,"70,908kms",Petrol,Automatic,₹4.65 Lakh,pune
+Maruti,Maruti CelerioZXI Optional AMT BSIV,2018,"58,748kms",Petrol,Automatic,₹3.38 Lakh,pune
+MG,2024MG HectorSavvy Pro CVT  -2025,2023,"4,200kms",Petrol,Automatic,₹17.40 Lakh,pune
+Hyundai,Hyundai i20Petrol CVT Asta,2018,"47,233kms",Petrol,Automatic,₹4.70 Lakh,pune
+Tata,Tata TiagoXT BSVI,2022,"21,841kms",Petrol,Manual,₹4.53 Lakh,pune
+Tata,Tata Tigor1.2 Revotron XZ Option,2018,"52,282kms",Petrol,Manual,₹3.63 Lakh,pune
+Maruti,Maruti DzireVXI,2017,"48,740kms",Petrol,Manual,₹5.28 Lakh,pune
+Toyota,Toyota Corolla AltisPetrol LE,2015,"82,684kms",Petrol,Manual,₹5.78 Lakh,pune
+Maruti,Maruti Wagon RCNG LXI,2017,"28,740kms",CNG,Manual,₹4.05 Lakh,pune
+Volkswagen,Volkswagen Ameo1.2 MPI Comfortline Plus,2017,"84,816kms",Petrol,Manual,₹3.47 Lakh,pune
+Volkswagen,Volkswagen Ameo1.2 MPI Comfortline Plus,2017,"84,816kms",Petrol,Manual,₹3.47 Lakh,pune
+Hyundai,Hyundai i20Magna Plus,2020,"1,18,689kms",Petrol,Manual,₹4.20 Lakh,pune
+Volkswagen,Volkswagen Ameo1.2 MPI Comfortline,2017,"36,026kms",Petrol,Manual,₹4.06 Lakh,pune
+Maruti,Maruti Wagon RCNG LXI,2015,"1,18,236kms",CNG,Manual,₹3.17 Lakh,pune
+Ford,Ford FreestyleTitanium Diesel,2021,"56,744kms",Diesel,Manual,₹5.69 Lakh,pune
+Tata,Tata TiagoXZ Plus,2020,"62,834kms",Petrol,Manual,₹4.82 Lakh,pune
+Renault,Renault KigerRXT AMT Opt,2021,"39,237kms",Petrol,Automatic,₹5.02 Lakh,pune
+Tata,Tata Tigor1.2 Revotron XZ Option,2017,"1,00,517kms",Petrol,Manual,₹3.46 Lakh,pune
+Maruti,Maruti CelerioVXI CNG,2014,"1,19,804kms",CNG,Manual,₹3.18 Lakh,pune
+Maruti,Maruti Wagon RLXI CNG,2016,"56,549kms",CNG,Manual,₹3.53 Lakh,pune
+Tata,Tata Tigor1.2 Revotron XZ,2017,"1,16,950kms",Petrol,Manual,₹3.71 Lakh,pune
+Honda,Honda Cityi VTEC V,2016,"52,000kms",Petrol,Manual,₹5.30 Lakh,pune
+Maruti,Maruti CelerioVXI CNG Optional,2020,"82,000kms",CNG,Manual,₹5 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Sportz Option AT,2017,"15,700kms",Petrol,Automatic,₹4.99 Lakh,pune
+Maruti,Maruti ErtigaZDI,2013,"95,000kms",Diesel,Manual,₹6 Lakh,pune
+Volkswagen,Volkswagen Polo1.2 MPI Comfortline,2018,"73,000kms",Petrol,Manual,₹4.45 Lakh,pune
+Maruti,Maruti Wagon RLXI CNG,2018,"53,700kms",CNG,Manual,₹3.95 Lakh,pune
+Maruti,Maruti SwiftVDI BSIV,2017,"92,000kms",Diesel,Manual,₹5.85 Lakh,pune
+Maruti,Maruti SwiftVDI BSIV,2016,"1,30,000kms",Diesel,Manual,₹5.39 Lakh,pune
+Honda,Honda Jazz1.2 V i VTEC,2015,"32,000kms",Petrol,Manual,₹4.50 Lakh,pune
+Maruti,Maruti Wagon RCNG LXI,2017,"28,740kms",CNG,Manual,₹4.05 Lakh,pune
+Volkswagen,Volkswagen Ameo1.2 MPI Comfortline,2017,"36,026kms",Petrol,Manual,₹4.06 Lakh,pune
+Maruti,Maruti Wagon RCNG LXI,2015,"1,18,236kms",CNG,Manual,₹3.17 Lakh,pune
+Ford,Ford FreestyleTitanium Diesel,2021,"56,744kms",Diesel,Manual,₹5.69 Lakh,pune
+Maruti,Maruti Wagon RZXI 1.2,2022,"64,307kms",Petrol,Manual,₹4 Lakh,pune
+Maruti,Maruti Wagon RLXI CNG,2017,"84,524kms",CNG,Manual,₹3.08 Lakh,pune
+Volkswagen,Volkswagen Vento1.5 TDI Highline BSIV,2015,"1,20,781kms",Diesel,Manual,₹5.09 Lakh,pune
+Maruti,Maruti Baleno1.2 CVT Zeta,2018,"40,000kms",Petrol,Automatic,₹5.75 Lakh,pune
+Ford,Ford Ecosport1.5 DV5 MT Ambiente,2015,"99,000kms",Diesel,Manual,₹4.75 Lakh,pune
+Hyundai,Hyundai Verna1.6 VTVT S,2015,"81,000kms",Petrol,Manual,₹5.50 Lakh,pune
+Maruti,Maruti Wagon RLXI CNG,2018,"1,01,953kms",CNG,Manual,₹3.75 Lakh,pune
+Maruti,Maruti Wagon RLXI CNG,2018,"82,000kms",CNG,Manual,₹3.90 Lakh,pune
+Hyundai,Hyundai SantroSportz CNG,2020,"22,000kms",CNG,Manual,₹4.75 Lakh,pune
+Honda,Honda Jazz1.2 V AT i VTEC,2015,"44,000kms",Petrol,Automatic,₹4.50 Lakh,pune
+Maruti,Maruti Wagon RLXI CNG,2018,"1,06,000kms",CNG,Manual,₹3.95 Lakh,pune
+Chevrolet,Chevrolet Enjoy1.3 TCDi LS 7,2016,"82,723kms",Diesel,Manual,₹4 Lakh,pune
+Maruti,Maruti CelerioVXI CNG Optional,2020,"82,000kms",CNG,Manual,₹5 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Sportz Option AT,2017,"15,700kms",Petrol,Automatic,₹4.99 Lakh,pune
+Skoda,Skoda Octavia1.8 TSI AT Onyx,2014,"7,00,000kms",Petrol,Automatic,₹5.50 Lakh,pune
+Ford,Ford Ecosport1.0 Ecoboost Titanium,2015,"75,291kms",Petrol,Manual,₹4.45 Lakh,pune
+Maruti,Maruti RitzVXi,2015,"36,000kms",Petrol,Manual,₹3.65 Lakh,pune
+Hyundai,Hyundai Grand i10Sportz,2015,"79,000kms",Petrol,Manual,₹3.49 Lakh,pune
+Honda,Honda Jazz1.2 V AT i VTEC,2015,"44,000kms",Petrol,Automatic,₹4.50 Lakh,pune
+Maruti,Maruti Wagon RLXI CNG,2018,"1,06,000kms",CNG,Manual,₹3.95 Lakh,pune
+Maruti,Maruti Wagon RLXI CNG,2018,"62,693kms",CNG,Manual,₹4.10 Lakh,pune
+Maruti,Maruti CiazVXi Option,2017,"73,000kms",Petrol,Manual,₹4.75 Lakh,pune
+Maruti,Maruti Wagon RLXI CNG,2018,"1,01,953kms",CNG,Manual,₹3.75 Lakh,pune
+Maruti,Maruti Wagon RLXI CNG,2018,"82,000kms",CNG,Manual,₹3.90 Lakh,pune
+Hyundai,Hyundai i201.2 Spotz,2018,"50,000kms",Petrol,Manual,₹5.20 Lakh,pune
+Chevrolet,Chevrolet Enjoy1.3 TCDi LS 7,2016,"82,723kms",Diesel,Manual,₹4 Lakh,pune
+Honda,Honda WR-Vi-VTEC VX,2018,"92,414kms",Petrol,Manual,₹5.92 Lakh,pune
+Volkswagen,Volkswagen Jetta2.0L TDI Highline AT,2011,"1,12,000kms",Diesel,Automatic,₹3.45 Lakh,pune
+Toyota,Toyota Etios Cross1.2L G,2014,"58,000kms",Petrol,Manual,₹3.55 Lakh,pune
+Tata,Tata Nexon1.5 Revotorq XM,2019,"92,000kms",Diesel,Manual,₹5.99 Lakh,pune
+Renault,Renault DusterRXZ,2020,"80,151kms",Petrol,Manual,₹6.45 Lakh,pune
+Maruti,Maruti Ciaz1.4 Alpha,2021,"52,346kms",Petrol,Manual,₹7.73 Lakh,pune
+Honda,Honda WR-Vi-VTEC S,2022,"1,09,348kms",Petrol,Manual,₹6.03 Lakh,pune
+Honda,Honda CityVX MT,2016,"75,172kms",Petrol,Manual,₹6.16 Lakh,pune
+Skoda,Skoda Kushaq1.5 TSI Ambition,2022,"32,897kms",Petrol,Manual,₹9.95 Lakh,pune
+Honda,Honda CityV MT,2021,"1,21,242kms",Petrol,Manual,₹8.69 Lakh,pune
+Maruti,Maruti DzireZXI Plus,2018,"48,207kms",Petrol,Manual,₹7.32 Lakh,pune
+Hyundai,Hyundai VenueSX Turbo Executive,2019,"49,653kms",Diesel,Manual,₹8.24 Lakh,pune
+Kia,Kia SeltosHTX Diesel,2021,"34,175kms",Diesel,Manual,₹9.66 Lakh,pune
+Honda,Honda CityV MT,2021,"1,21,242kms",Petrol,Manual,₹8.69 Lakh,pune
+Jeep,Jeep Compass2.0 Limited,2018,"98,806kms",Diesel,Manual,₹7.43 Lakh,pune
+Volkswagen,Volkswagen Vento1.2 TSI Highline Plus AT,2019,"1,16,810kms",Petrol,Automatic,₹6.89 Lakh,pune
+Nissan,Nissan MagniteTurbo XV Premium,2022,"91,525kms",Petrol,Manual,₹6.42 Lakh,pune
+Maruti,Maruti Vitara BrezzaZDi Plus Dual Tone,2019,"47,064kms",Diesel,Manual,₹8.68 Lakh,pune
+Honda,Honda AmazeVX CVT Petrol,2022,"24,723kms",Petrol,Automatic,₹7.73 Lakh,pune
+Hyundai,Hyundai VenueSX Opt Turbo iMT BSVI,2019,"36,048kms",Petrol,Manual,₹7.89 Lakh,pune
+Honda,Honda AmazeVX CVT Petrol,2021,"38,422kms",Petrol,Automatic,₹6.52 Lakh,pune
+Maruti,Maruti Ciaz1.4 Alpha,2021,"53,534kms",Petrol,Manual,₹7.59 Lakh,pune
+Maruti,Maruti S CrossZeta,2021,"31,115kms",Petrol,Manual,₹6.55 Lakh,pune
+Honda,Honda AmazeVX Diesel BSIV,2019,"1,14,000kms",Diesel,Manual,₹6.35 Lakh,pune
+Honda,Honda WR-Vi-DTEC VX,2018,"90,000kms",Diesel,Manual,₹6.75 Lakh,pune
+Honda,Honda Cityi-VTEC CVT ZX,2018,"68,000kms",Petrol,Automatic,₹7 Lakh,pune
+Honda,Honda CityV MT,2021,"47,380kms",Petrol,Manual,₹8.20 Lakh,pune
+Honda,Honda Cityi VTEC V,2017,"40,000kms",Petrol,Manual,₹6.85 Lakh,pune
+Hyundai,Hyundai VernaCRDi 1.6 SX Option,2018,"90,000kms",Diesel,Manual,₹9.75 Lakh,pune
+Hyundai,Hyundai Creta1.6 VTVT E Plus,2017,"1,10,476kms",Petrol,Manual,₹6.20 Lakh,pune
+Volkswagen,Volkswagen Vento1.2 TSI Highline Plus AT,2019,"1,16,810kms",Petrol,Automatic,₹6.89 Lakh,pune
+Nissan,Nissan MagniteTurbo XV Premium,2022,"91,525kms",Petrol,Manual,₹6.42 Lakh,pune
+Honda,Honda WR-Vi-VTEC VX,2019,"60,178kms",Petrol,Manual,₹6.65 Lakh,pune
+Hyundai,Hyundai Grand i10 NiosSportz,2023,"25,169kms",Petrol,Manual,₹6.52 Lakh,pune
+Maruti,Maruti Vitara BrezzaZDi Plus Dual Tone,2019,"47,064kms",Diesel,Manual,₹8.68 Lakh,pune
+Honda,Honda AmazeVX CVT Petrol,2022,"24,723kms",Petrol,Automatic,₹7.73 Lakh,pune
+Hyundai,Hyundai VenueSX Opt Turbo iMT BSVI,2019,"36,048kms",Petrol,Manual,₹7.89 Lakh,pune
+Honda,Honda AmazeVX CVT Petrol,2021,"38,422kms",Petrol,Automatic,₹6.52 Lakh,pune
+Jeep,Jeep Compass2.0 Limited,2018,"98,806kms",Diesel,Manual,₹7.43 Lakh,pune
+Honda,Honda CityCVT,2017,"28,808kms",Petrol,Automatic,₹7.40 Lakh,pune
+Hyundai,Hyundai VernaCRDi 1.6 SX Option,2018,"90,000kms",Diesel,Manual,₹9.75 Lakh,pune
+Maruti,Maruti Vitara BrezzaVDi AMT,2018,"1,05,382kms",Diesel,Automatic,₹7.95 Lakh,pune
+Hyundai,Hyundai VenueSX Plus Turbo DCT BSIV,2019,"66,008kms",Petrol,Automatic,₹7.95 Lakh,pune
+Maruti,Maruti Baleno1.2 Delta,2018,"53,151kms",Petrol,Manual,₹6.40 Lakh,pune
+Hyundai,Hyundai Grand i10 NiosAMT Asta,2023,"36,000kms",Petrol,Automatic,₹6.80 Lakh,pune
+Kia,Kia SonetHTK BSVI,2021,"94,000kms",Petrol,Manual,₹6.45 Lakh,pune
+Maruti,Maruti ErtigaCNG VXI,2020,"1,35,000kms",CNG,Manual,₹9.50 Lakh,pune
+Maruti,Maruti SwiftZXI BSIV,2020,"53,000kms",Petrol,Manual,₹6.25 Lakh,pune
+Hyundai,Hyundai VernaSX,2021,"39,000kms",Petrol,Manual,₹8.90 Lakh,pune
+Maruti,Maruti SwiftVDI BSIV,2018,"63,000kms",Diesel,Manual,₹6.99 Lakh,pune
+Volkswagen,Volkswagen Taigun1.0 TSI Topline BSVI,2022,"28,415kms",Petrol,Manual,₹9.95 Lakh,pune
+Honda,Honda Cityi DTec VX Option,2017,"1,19,146kms",Diesel,Manual,₹7.30 Lakh,pune
+Maruti,Maruti Vitara BrezzaVDi AMT,2018,"1,05,382kms",Diesel,Automatic,₹7.95 Lakh,pune
+Hyundai,Hyundai VenueSX Plus Turbo DCT BSIV,2019,"66,008kms",Petrol,Automatic,₹7.95 Lakh,pune
+Maruti,Maruti Baleno1.2 Delta,2018,"53,151kms",Petrol,Manual,₹6.40 Lakh,pune
+Honda,Honda CityV MT,2021,"47,380kms",Petrol,Manual,₹8.20 Lakh,pune
+Audi,Audi A42.0 TDI Multitronic,2012,"82,000kms",Diesel,Automatic,₹7.70 Lakh,pune
+Honda,Honda CityCVT,2017,"1,23,027kms",Petrol,Automatic,₹7 Lakh,pune
+MG,MG HectorSmart Diesel MT BSIV,2019,"85,000kms",Diesel,Manual,₹9.75 Lakh,pune
+Hyundai,Hyundai Creta1.6 VTVT E Plus,2017,"1,10,476kms",Petrol,Manual,₹6.20 Lakh,pune
+Maruti,Maruti ErtigaCNG VXI,2020,"1,35,000kms",CNG,Manual,₹9.50 Lakh,pune
+Maruti,Maruti SwiftZXI BSIV,2020,"53,000kms",Petrol,Manual,₹6.25 Lakh,pune
+Hyundai,Hyundai VernaSX,2021,"39,000kms",Petrol,Manual,₹8.90 Lakh,pune
+Maruti,Maruti SwiftVDI BSIV,2018,"63,000kms",Diesel,Manual,₹6.99 Lakh,pune
+Maruti,Maruti Vitara BrezzaVDi,2019,"78,000kms",Diesel,Manual,₹8 Lakh,pune
+Hyundai,Hyundai Creta1.6 SX Automatic,2019,"88,000kms",Petrol,Automatic,₹8.35 Lakh,pune
+Maruti,Maruti Vitara BrezzaZDi Plus AMT,2019,"1,09,000kms",Diesel,Automatic,₹8.01 Lakh,pune
+Honda,Honda CityV MT AVN,2017,"53,801kms",Petrol,Manual,₹6.75 Lakh,pune
+Hyundai,Hyundai VenueSX Dual Tone Diesel BSIV,2020,"39,690kms",Diesel,Manual,₹8.95 Lakh,pune
+Audi,Audi Q73.0 TDI quattro,2010,"1,00,000kms",Diesel,Automatic,₹9.90 Lakh,pune
+Hyundai,Hyundai Creta1.6 SX Automatic,2019,"88,000kms",Petrol,Automatic,₹8.35 Lakh,pune
+Maruti,Maruti S CrossZeta DDiS 200 SH,2018,"47,804kms",Diesel,Manual,₹7.95 Lakh,pune
+Hyundai,Hyundai i20Asta Option 1.4 CRDi,2017,"85,000kms",Diesel,Manual,₹7 Lakh,pune
+Toyota,Toyota EtiosVXD,2016,"34,500kms",Diesel,Manual,₹6.40 Lakh,pune
+Honda,Honda Cityi VTEC CVT VX,2018,"94,210kms",Petrol,Automatic,₹8.15 Lakh,pune
+Honda,Honda CityV MT AVN,2017,"53,801kms",Petrol,Manual,₹6.75 Lakh,pune
+Audi,Audi Q73.0 TDI quattro,2010,"1,00,000kms",Diesel,Automatic,₹9.90 Lakh,pune
+Skoda,Skoda SuperbAmbition 1.8 TSI MT,2016,"38,000kms",Petrol,Manual,₹9.95 Lakh,pune
+Hyundai,Hyundai VenueSX Dual Tone Diesel BSIV,2020,"39,690kms",Diesel,Manual,₹8.95 Lakh,pune
+Honda,Honda CityV MT,2021,"47,380kms",Petrol,Manual,₹8.20 Lakh,pune
+Volkswagen,Volkswagen Taigun1.0 TSI Topline BSVI,2022,"28,415kms",Petrol,Manual,₹9.95 Lakh,pune
+Honda,Honda Cityi DTec VX Option,2017,"1,19,146kms",Diesel,Manual,₹7.30 Lakh,pune
+Honda,Honda Cityi VTEC V,2017,"40,000kms",Petrol,Manual,₹6.85 Lakh,pune
+Hyundai,Hyundai Creta1.6 VTVT E Plus,2017,"1,10,476kms",Petrol,Manual,₹6.20 Lakh,pune
+MG,MG HectorSmart Diesel MT BSIV,2019,"85,000kms",Diesel,Manual,₹9.75 Lakh,pune
+Renault,Renault KWID1.0 RXT AMT Opt,2017,"95,506kms",Petrol,Automatic,₹2.52 Lakh,pune
+Audi,Audi Q335 TDI Quattro Premium,2015,"1,23,000kms",Diesel,Automatic,₹10.49 Lakh,pune
+Lexus,Lexus NX300h,2019,"60,200kms",Petrol,Automatic,₹36 Lakh,pune
+Hyundai,Hyundai CretaSX Diesel,2023,"39,000kms",Diesel,Manual,₹16.11 Lakh,pune
+Volkswagen,Volkswagen VirtusHighline,2024,"17,792kms",Petrol,Manual,₹12.35 Lakh,pune
+Renault,Renault KWID1.0 RXT AMT Opt,2017,"95,506kms",Petrol,Automatic,₹2.52 Lakh,pune
+Audi,Audi Q335 TDI Quattro Premium,2015,"1,23,000kms",Diesel,Automatic,₹10.49 Lakh,pune
+Lexus,Lexus NX300h,2019,"60,200kms",Petrol,Automatic,₹36 Lakh,pune
+Hyundai,Hyundai CretaSX Diesel,2023,"39,000kms",Diesel,Manual,₹16.11 Lakh,pune
+Volkswagen,Volkswagen VirtusHighline,2024,"17,792kms",Petrol,Manual,₹12.35 Lakh,pune
+Tata,Tata ZestRevotron 1.2 XT,2015,"63,527kms",Petrol,Manual,₹3.46 Lakh,pune
+Maruti,Maruti SwiftVXI,2013,"1,07,472kms",Petrol,Manual,₹3.08 Lakh,pune
+Honda,Honda Jazz1.2 V AT i VTEC,2016,"86,443kms",Petrol,Automatic,₹4.20 Lakh,pune
+Maruti,Maruti Baleno1.2 Delta,2018,"46,954kms",Petrol,Manual,₹4.47 Lakh,pune
+Maruti,Maruti Ignis1.2 AMT Delta BSIV,2018,"37,416kms",Petrol,Automatic,₹3.88 Lakh,pune
+Tata,Tata Tiago1.2 Revotron XZ,2016,"36,254kms",Petrol,Manual,₹3.22 Lakh,pune
+Hyundai,Hyundai i201.2 Asta Dual Tone,2018,"53,566kms",Petrol,Manual,₹4.04 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Sportz Option,2017,"95,064kms",Petrol,Manual,₹3.81 Lakh,pune
+Hyundai,Hyundai AlcazarPrestige Diesel,2024,"27,894kms",Diesel,Manual,₹15 Lakh,pune
+Tata,Tata Tiago1.05 Revotorq XZ,2016,"65,000kms",Diesel,Manual,₹3.50 Lakh,pune
+Mercedes-Benz,Mercedes-Benz C-ClassC 200 Avantgarde Edition C,2017,"39,400kms",Petrol,Automatic,₹23.50 Lakh,pune
+Toyota,Toyota Innova2.5 G (Diesel) 7 Seater BS III,2006,"2,00,000kms",Diesel,Manual,₹2.99 Lakh,pune
+Renault,Renault ScalaDiesel RxL,2014,"92,000kms",Diesel,Manual,₹2.49 Lakh,pune
+Maruti,Maruti Wagon RVXI BS IV,2014,"1,00,000kms",Petrol,Manual,₹2.99 Lakh,pune
+Honda,Honda BrioV MT,2012,"89,000kms",Petrol,Manual,₹2.25 Lakh,pune
+Mercedes-Benz,Mercedes-Benz C-ClassC 200 Avantgarde Edition C,2017,"39,400kms",Petrol,Automatic,₹23.50 Lakh,pune
+Maruti,Maruti Wagon RVXI BS IV,2014,"1,00,000kms",Petrol,Manual,₹2.99 Lakh,pune
+Honda,Honda BrioV MT,2012,"89,000kms",Petrol,Manual,₹2.25 Lakh,pune
+Volkswagen,Volkswagen VentoPetrol Highline,2012,"69,000kms",Petrol,Manual,₹2.85 Lakh,pune
+Renault,Renault ScalaDiesel RxL,2014,"92,000kms",Diesel,Manual,₹2.49 Lakh,pune
+Toyota,Toyota Innova2.5 G (Diesel) 7 Seater BS III,2006,"2,00,000kms",Diesel,Manual,₹2.99 Lakh,pune
+Honda,Honda CityZX MT,2022,"49,241kms",Petrol,Manual,₹11.93 Lakh,pune
+Maruti,Maruti ErtigaVXI CNG,2022,"89,000kms",CNG,Manual,₹10.25 Lakh,pune
+Maruti,Maruti SwiftVXI,2019,"1,05,798kms",Petrol,Manual,₹4.79 Lakh,pune
+Hyundai,Hyundai i201.2 Asta Dual Tone,2018,"45,397kms",Petrol,Manual,₹5.82 Lakh,pune
+Honda,Honda CityV MT,2013,"76,773kms",Petrol,Manual,₹3.72 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2015,"41,161kms",Petrol,Manual,₹4.62 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2016,"52,495kms",Petrol,Manual,₹3.90 Lakh,pune
+Volkswagen,Volkswagen PoloGT TSI,2015,"1,23,522kms",Petrol,Automatic,₹3.92 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.2,2016,"58,206kms",Petrol,Manual,₹4.13 Lakh,pune
+Maruti,Maruti Wagon RAMT VXI,2019,"24,256kms",Petrol,Automatic,₹3.86 Lakh,pune
+Kia,Kia CarensPremium Diesel BSVI,2022,"31,378kms",Diesel,Manual,₹15.75 Lakh,pune
+Hyundai,Hyundai Grand i10Sportz,2015,"58,000kms",Petrol,Manual,₹4 Lakh,pune
+Maruti,Maruti CiazZXi,2015,"70,816kms",Petrol,Manual,₹5.12 Lakh,pune
+Tata,Tata AltrozXZ Diesel BSVI,2020,"66,605kms",Diesel,Manual,₹5.34 Lakh,pune
+Maruti,Maruti Wagon RAMT VXI,2019,"24,256kms",Petrol,Automatic,₹3.86 Lakh,pune
+Kia,Kia CarensPremium Diesel BSVI,2022,"31,378kms",Diesel,Manual,₹15.75 Lakh,pune
+Hyundai,Hyundai Grand i10Sportz,2015,"58,000kms",Petrol,Manual,₹4 Lakh,pune
+Maruti,Maruti CiazZXi,2015,"70,816kms",Petrol,Manual,₹5.12 Lakh,pune
+Tata,Tata AltrozXZ Diesel BSVI,2020,"66,605kms",Diesel,Manual,₹5.34 Lakh,pune
+Renault,Renault KWIDClimber 1.0 MT Opt,2021,"17,000kms",Petrol,Manual,₹4.65 Lakh,pune
+Maruti,Maruti RitzVXi,2015,"44,000kms",Petrol,Manual,₹3.25 Lakh,pune
+Maruti,Maruti Wagon RVXI,2011,"92,707kms",Petrol,Manual,₹2.30 Lakh,pune
+Renault,Renault KWIDRXL,2016,"8,405kms",Petrol,Manual,₹2.34 Lakh,pune
+Tata,Tata Tiago1.2 Revotron XZA,2018,"37,593kms",Petrol,Automatic,₹4.33 Lakh,pune
+Honda,Honda Cityi VTEC VX,2014,"78,910kms",Petrol,Manual,₹3.93 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2014,"43,372kms",Petrol,Manual,₹3.62 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2013,"56,704kms",Petrol,Manual,₹3.05 Lakh,pune
+Kia,Kia CarnivalPrestige 9 STR,2020,"67,600kms",Diesel,Automatic,₹26.50 Lakh,pune
+Volkswagen,Volkswagen Tiguan Allspace4Motion,2020,"30,700kms",Petrol,Automatic,₹25 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.2,2017,"46,000kms",Petrol,Manual,₹4.90 Lakh,pune
+Maruti,Maruti Swift DzireAMT ZXI Plus BS IV,2017,"77,000kms",Petrol,Automatic,₹4.80 Lakh,pune
+Tata,Tata Tiago1.2 Revotron XZ,2017,"61,000kms",Petrol,Manual,₹3.65 Lakh,pune
+Toyota,Toyota Innova Crysta2.8 GX AT BSIV,2017,"1,18,000kms",Diesel,Automatic,₹16.25 Lakh,pune
+Toyota,Toyota Innova Crysta2.4 G MT BSIV,2017,"85,000kms",Diesel,Manual,₹15.75 Lakh,pune
+Maruti,Maruti Swift DzireAMT ZXI Plus BS IV,2017,"77,000kms",Petrol,Automatic,₹4.80 Lakh,pune
+Kia,Kia CarnivalPrestige 9 STR,2020,"67,600kms",Diesel,Automatic,₹26.50 Lakh,pune
+Volkswagen,Volkswagen Tiguan Allspace4Motion,2020,"30,700kms",Petrol,Automatic,₹25 Lakh,pune
+Toyota,Toyota Innova Crysta2.8 GX AT BSIV,2017,"1,18,000kms",Diesel,Automatic,₹16.25 Lakh,pune
+Toyota,Toyota Innova Crysta2.4 G MT BSIV,2017,"85,000kms",Diesel,Manual,₹15.75 Lakh,pune
+Maruti,Maruti CelerioZXI,2017,"41,750kms",Petrol,Manual,₹4.08 Lakh,pune
+Hyundai,Hyundai Grand i10AT Asta,2016,"72,116kms",Petrol,Automatic,₹3.89 Lakh,pune
+BMW,BMW X1sDrive20d Expedition,2019,"81,000kms",Diesel,Automatic,₹21 Lakh,pune
+Hyundai,Hyundai CretaSX BSVI,2020,"43,651kms",Petrol,Manual,₹9.25 Lakh,pune
+Honda,Honda Amaze 2nd GenVX CVT BSVI,2022,"50,213kms",Petrol,Automatic,₹6.75 Lakh,pune
+Maruti,Maruti SwiftZXI AMT,2022,"14,898kms",Petrol,Automatic,₹6.14 Lakh,pune
+MG,MG AstorSuper BSVI,2022,"36,542kms",Petrol,Manual,₹6.68 Lakh,pune
+Hyundai,Hyundai i20 ActiveSX Petrol,2024,"21,058kms",Petrol,Manual,₹8.26 Lakh,pune
+Hyundai,Hyundai VenueSX Opt Turbo iMT BSVI,2019,"73,535kms",Petrol,Manual,₹7.25 Lakh,pune
+Honda,Honda WR-Vi-DTEC S,2019,"52,500kms",Diesel,Manual,₹6.85 Lakh,pune
+Volkswagen,Volkswagen PoloPetrol Highline 1.2L,2012,"95,466kms",Petrol,Manual,₹2.33 Lakh,pune
+Hyundai,Hyundai i10Magna 1.2,2012,"70,823kms",Petrol,Manual,₹2.31 Lakh,pune
+Maruti,Maruti SwiftVXI,2017,"67,410kms",Petrol,Manual,₹4.26 Lakh,pune
+Maruti,Maruti Wagon RVXI,2014,"1,06,245kms",Petrol,Manual,₹2.55 Lakh,pune
+Maruti,Maruti SwiftVXI,2016,"83,849kms",Petrol,Manual,₹4.20 Lakh,pune
+Volkswagen,Volkswagen PoloPetrol Highline 1.2L,2012,"95,466kms",Petrol,Manual,₹2.33 Lakh,pune
+Hyundai,Hyundai i10Magna 1.2,2012,"70,823kms",Petrol,Manual,₹2.31 Lakh,pune
+Maruti,Maruti SwiftVXI,2017,"67,410kms",Petrol,Manual,₹4.26 Lakh,pune
+Maruti,Maruti Wagon RVXI,2014,"1,06,245kms",Petrol,Manual,₹2.55 Lakh,pune
+Maruti,Maruti SwiftVXI,2016,"83,849kms",Petrol,Manual,₹4.20 Lakh,pune
+Volkswagen,Volkswagen VentoPetrol Highline AT,2014,"98,542kms",Petrol,Automatic,₹3.07 Lakh,pune
+Hyundai,Hyundai Xcent1.2 Kappa S Option,2014,"64,985kms",Petrol,Manual,₹2.85 Lakh,pune
+Tata,Tata TiagoXZA,2019,"33,480kms",Petrol,Automatic,₹4.80 Lakh,pune
+Honda,Honda CityV MT,2013,"85,000kms",Petrol,Manual,₹3.75 Lakh,pune
+Tata,Tata Tigor1.2 Revotron XZA,2017,"62,000kms",Petrol,Automatic,₹4.35 Lakh,pune
+Maruti,Maruti Ignis1.2 Delta BSIV,2017,"62,000kms",Petrol,Manual,₹3.75 Lakh,pune
+Maruti,Maruti SwiftVXI Optional,2017,"60,000kms",Petrol,Manual,₹4.75 Lakh,pune
+Honda,Honda Cityi VTEC CVT SV,2014,"80,000kms",Petrol,Automatic,₹4.65 Lakh,pune
+Ford,Ford Aspire1.2 Ti-VCT Titanium,2015,"82,000kms",Petrol,Manual,₹3.20 Lakh,pune
+Honda,Honda BrioVX AT,2014,"62,000kms",Petrol,Automatic,₹3.25 Lakh,pune
+Volkswagen,Volkswagen Vento1.2 TSI Highline AT,2015,"83,000kms",Petrol,Automatic,₹4.95 Lakh,pune
+Hyundai,Hyundai Xcent1.2 Kappa SX,2014,"80,300kms",Petrol,Manual,₹2.99 Lakh,pune
+Volkswagen,Volkswagen Polo1.2 MPI Comfortline,2015,"95,000kms",Petrol,Manual,₹3.50 Lakh,pune
+Tata,Tata ZestRevotron 1.2 XT,2016,"35,000kms",Petrol,Manual,₹3.25 Lakh,pune
+Hyundai,Hyundai i10Magna,2014,"69,618kms",Petrol,Manual,₹3.10 Lakh,pune
+Volkswagen,Volkswagen Vento1.2 TSI Highline AT,2015,"83,000kms",Petrol,Automatic,₹4.95 Lakh,pune
+Hyundai,Hyundai Xcent1.2 Kappa SX,2014,"80,300kms",Petrol,Manual,₹2.99 Lakh,pune
+Volkswagen,Volkswagen Polo1.2 MPI Comfortline,2015,"95,000kms",Petrol,Manual,₹3.50 Lakh,pune
+Tata,Tata ZestRevotron 1.2 XT,2016,"35,000kms",Petrol,Manual,₹3.25 Lakh,pune
+Hyundai,Hyundai i10Magna,2014,"69,618kms",Petrol,Manual,₹3.10 Lakh,pune
+Honda,Honda City1.5 S AT,2009,"37,500kms",Petrol,Automatic,₹3.50 Lakh,pune
+Jaguar,Jaguar F-PacePrestige 2.0 AWD,2019,"71,400kms",Diesel,Automatic,₹31.50 Lakh,pune
+BMW,BMW X5xDrive 30d M Sport,2017,"75,200kms",Diesel,Automatic,₹35 Lakh,pune
+BMW,BMW 5 Series530d M Sport,2020,"56,700kms",Diesel,Automatic,₹42 Lakh,pune
+BMW,2021BMW 6 SeriesGT 630d M Sport  -2021,2018,"64,000kms",Diesel,Automatic,₹46 Lakh,pune
+Volvo,Volvo XC90B6 Ultimate BSVI,2023,"36,530kms",Petrol,Automatic,₹79 Lakh,pune
+Mercedes-Benz,Mercedes-Benz GLC220d 4MATIC Sport,2018,"36,700kms",Diesel,Automatic,₹34 Lakh,pune
+Volkswagen,Volkswagen VentoDiesel Highline,2013,"1,15,000kms",Diesel,Manual,₹3.75 Lakh,pune
+Honda,Honda Cityi DTEC V,2014,"84,000kms",Diesel,Manual,₹4.81 Lakh,pune
+Tata,Tata AltrozXZ Diesel,2023,"25,207kms",Diesel,Manual,₹7.99 Lakh,pune
+Honda,Honda Cityi-VTEC CVT ZX,2018,"73,662kms",Petrol,Automatic,₹7.44 Lakh,pune
+Maruti,Maruti Wagon RVXI BS IV,2013,"53,988kms",Petrol,Manual,₹2.37 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2014,"48,158kms",Petrol,Manual,₹3.75 Lakh,pune
+Hyundai,Hyundai Xcent1.2 Kappa S Option,2015,"57,948kms",Petrol,Manual,₹4.04 Lakh,pune
+Hyundai,Hyundai Grand i10Sportz,2016,"80,145kms",Petrol,Manual,₹3.53 Lakh,pune
+Honda,Honda Cityi-VTEC CVT ZX,2018,"73,662kms",Petrol,Automatic,₹7.44 Lakh,pune
+Maruti,Maruti Wagon RVXI BS IV,2013,"53,988kms",Petrol,Manual,₹2.37 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2014,"48,158kms",Petrol,Manual,₹3.75 Lakh,pune
+Hyundai,Hyundai Xcent1.2 Kappa S Option,2015,"57,948kms",Petrol,Manual,₹4.04 Lakh,pune
+Hyundai,Hyundai Grand i10Sportz,2016,"80,145kms",Petrol,Manual,₹3.53 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2019,"9,788kms",Petrol,Manual,₹4.74 Lakh,pune
+Maruti,Maruti SwiftZXI,2015,"1,12,676kms",Petrol,Manual,₹3.83 Lakh,pune
+Maruti,Maruti SX4ZXI MT BSIV,2010,"81,000kms",Petrol,Manual,₹2.50 Lakh,pune
+Hyundai,Hyundai i10Asta,2011,"55,000kms",Petrol,Manual,₹2.55 Lakh,pune
+Hyundai,Hyundai Xcent1.1 CRDi S,2015,"64,000kms",Diesel,Manual,₹4.10 Lakh,pune
+Hyundai,Hyundai XcentPetrol,2017,"36,376kms",Petrol,Manual,₹4.51 Lakh,pune
+Maruti,Maruti Grand VitaraAlpha AT BSVI,2022,"31,545kms",Petrol,Automatic,₹13.25 Lakh,pune
+Tata,Tata PunchAccomplished Dazzle,2023,"16,080kms",Petrol,Manual,₹8.26 Lakh,pune
+Hyundai,Hyundai VenueS Plus 2024-2025,2022,"51,097kms",Petrol,Manual,₹7.34 Lakh,pune
+Toyota,Toyota YarisV CVT,2018,"74,673kms",Petrol,Automatic,₹6.07 Lakh,pune
+Hyundai,Hyundai Creta1.6 VTVT AT SX Plus,2016,"75,000kms",Petrol,Automatic,₹7.99 Lakh,pune
+Ford,Ford FigoDiesel Titanium,2011,"85,000kms",Diesel,Manual,₹1.99 Lakh,pune
+,Fiat Linea1.3 Dynamic,2012,"65,000kms",Diesel,Manual,₹2.99 Lakh,pune
+Hyundai,Hyundai i20Sportz Petrol,2014,"38,069kms",Petrol,Manual,₹3.03 Lakh,pune
+Maruti,Maruti Swift DzireVDI,2012,"1,05,000kms",Diesel,Manual,₹3.95 Lakh,pune
+Hyundai,Hyundai Creta1.6 VTVT AT SX Plus,2016,"75,000kms",Petrol,Automatic,₹7.99 Lakh,pune
+Ford,Ford FigoDiesel Titanium,2011,"85,000kms",Diesel,Manual,₹1.99 Lakh,pune
+,Fiat Linea1.3 Dynamic,2012,"65,000kms",Diesel,Manual,₹2.99 Lakh,pune
+Hyundai,Hyundai i20Sportz Petrol,2014,"38,069kms",Petrol,Manual,₹3.03 Lakh,pune
+Maruti,Maruti Swift DzireVDI,2012,"1,05,000kms",Diesel,Manual,₹3.95 Lakh,pune
+Maruti,Maruti CelerioVXI AMT,2015,"68,945kms",Petrol,Automatic,₹3.38 Lakh,pune
+Renault,Renault KWID1.0 RXT Opt,2020,"38,678kms",Petrol,Manual,₹3.58 Lakh,pune
+Tata,Tata Nexon1.2 Revotron XZ Plus,2018,"48,000kms",Petrol,Manual,₹5.35 Lakh,pune
+Tata,Tata AltrozXE Diesel,2020,"53,300kms",Diesel,Manual,₹4.99 Lakh,pune
+Ford,Ford Ecosport1.5 TDCi Ambiente BSIV,2016,"85,000kms",Diesel,Manual,₹4.85 Lakh,pune
+Tata,Tata AltrozXZ Diesel BSVI,2022,"60,344kms",Diesel,Manual,₹6.98 Lakh,pune
+Honda,Honda City1.5 V MT Exclusive,2022,"27,904kms",Petrol,Manual,₹8.75 Lakh,pune
+Honda,Honda CityZX MT,2019,"34,431kms",Petrol,Manual,₹7.75 Lakh,pune
+Hyundai,Hyundai i20Asta 1.4 CRDi,2017,"84,000kms",Diesel,Manual,₹6.45 Lakh,pune
+Honda,Honda Cityi-DTEC V,2018,"97,500kms",Diesel,Manual,₹7.75 Lakh,pune
+Skoda,Skoda Kushaq1.0 TSI Style AT,2022,"75,453kms",Petrol,Automatic,₹12.34 Lakh,pune
+Jaguar,Jaguar XF2.2 Litre Luxury,2015,"48,465kms",Diesel,Automatic,₹14.90 Lakh,pune
+Hyundai,Hyundai VenueSX Opt Turbo DCT Special Edition,2022,"10,563kms",Petrol,Automatic,₹10.47 Lakh,pune
+Maruti,Maruti BrezzaZxi AT,2023,"13,102kms",Petrol,Automatic,₹11.33 Lakh,pune
+Volkswagen,Volkswagen Taigun1.0 Highline AT,2022,"37,641kms",Petrol,Automatic,₹11.09 Lakh,pune
+Volkswagen,Volkswagen Taigun1.0 Highline AT,2022,"37,641kms",Petrol,Automatic,₹11.09 Lakh,pune
+Jaguar,Jaguar XF2.2 Litre Luxury,2015,"48,465kms",Diesel,Automatic,₹14.90 Lakh,pune
+Jeep,Jeep Compass2.0 Limited Plus BSIV,2019,"88,507kms",Diesel,Manual,₹10.03 Lakh,pune
+Hyundai,Hyundai VenueSX Opt Diesel,2022,"36,034kms",Diesel,Manual,₹10.82 Lakh,pune
+Hyundai,Hyundai VenueSX Opt Turbo DCT Special Edition,2022,"10,563kms",Petrol,Automatic,₹10.47 Lakh,pune
+Mahindra,Mahindra TharLX Hard Top AT,2022,"8,673kms",Petrol,Automatic,₹13.15 Lakh,pune
+Maruti,Maruti BrezzaZxi AT,2023,"13,102kms",Petrol,Automatic,₹11.33 Lakh,pune
+Skoda,Skoda Kushaq1.0 TSI Style AT,2022,"75,453kms",Petrol,Automatic,₹12.34 Lakh,pune
+Hyundai,Hyundai Verna1.6 SX VTVT (O) AT,2020,"36,748kms",Petrol,Automatic,₹10.81 Lakh,pune
+Toyota,Toyota Innova Crysta2.4 G MT BSIV,2017,"1,20,000kms",Diesel,Manual,₹14.75 Lakh,pune
+Jaguar,Jaguar XF3.0 Litre S Premium Luxury,2012,"95,100kms",Diesel,Automatic,₹11.75 Lakh,pune
+Audi,Audi Q52.0 TFSI Quattro,2013,"35,700kms",Petrol,Automatic,₹11.50 Lakh,pune
+Tata,Tata Punch EVEmpowered LR AC FC,2024,"25,000kms",Electric,Automatic,₹12 Lakh,pune
+Hyundai,Hyundai VenueS Opt Turbo DCT,2024,"10,785kms",Petrol,Automatic,₹13 Lakh,pune
+Skoda,Skoda Slavia1.5 TSI Style AT BSVI,2022,"43,646kms",Petrol,Automatic,₹13.95 Lakh,pune
+Mahindra,Mahindra TharLX Hard Top,2025,"8,500kms",Petrol,Manual,₹13.21 Lakh,pune
+Volkswagen,Volkswagen VirtusTopline AT BSVI,2023,"32,000kms",Petrol,Automatic,₹13.99 Lakh,pune
+Audi,Audi Q32.0 TDI,2014,"95,000kms",Diesel,Automatic,₹10.95 Lakh,pune
+Tata,Tata HarrierXZ Plus BSVI,2021,"92,000kms",Diesel,Manual,₹12.90 Lakh,pune
+Mahindra,Mahindra XUV500W7 BSIV,2019,"74,000kms",Diesel,Manual,₹10.99 Lakh,pune
+Toyota,Toyota Innova Crysta2.4 G MT BSIV,2017,"1,20,000kms",Diesel,Manual,₹14.75 Lakh,pune
+Jaguar,Jaguar XF3.0 Litre S Premium Luxury,2012,"95,100kms",Diesel,Automatic,₹11.75 Lakh,pune
+Audi,Audi Q52.0 TFSI Quattro,2013,"35,700kms",Petrol,Automatic,₹11.50 Lakh,pune
+Mercedes-Benz,Mercedes-Benz C-Class220 CDI AT,2013,"58,000kms",Diesel,Automatic,₹13 Lakh,pune
+Audi,Audi Q32.0 TDI,2014,"95,000kms",Diesel,Automatic,₹10.95 Lakh,pune
+Tata,Tata HarrierXZ Plus BSVI,2021,"92,000kms",Diesel,Manual,₹12.90 Lakh,pune
+Kia,Kia CarnivalLimousine Plus,2023,"43,539kms",Diesel,Automatic,₹37.50 Lakh,pune
+Hyundai,Hyundai i20Sportz Petrol,2013,"23,312kms",Petrol,Manual,₹2.83 Lakh,pune
+Maruti,Maruti Wagon RVXI,2012,"43,922kms",Petrol,Manual,₹2.68 Lakh,pune
+Honda,Honda AmazeVX i-VTEC,2015,"89,622kms",Petrol,Manual,₹4.13 Lakh,pune
+Maruti,Maruti Baleno1.2 Delta,2018,"81,912kms",Petrol,Manual,₹4.54 Lakh,pune
+Hyundai,Hyundai Grand i10Sportz,2015,"82,447kms",Petrol,Manual,₹3.10 Lakh,pune
+Honda,Honda AmazeSX i-VTEC,2015,"51,423kms",Petrol,Manual,₹3.30 Lakh,pune
+Honda,Honda AmazeVX i-Vtech,2013,"86,000kms",Petrol,Manual,₹2.90 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.4 CRDi,2017,"1,32,000kms",Diesel,Manual,₹5 Lakh,pune
+Land Rover,Land Rover Freelander 2SE,2014,"1,13,000kms",Diesel,Automatic,₹15.50 Lakh,pune
+Tata,Tata TigorXZ Plus BSVI,2021,"32,695kms",Petrol,Manual,₹4.88 Lakh,pune
+Audi,Audi Q330 TDI Premium FWD,2017,"64,801kms",Diesel,Automatic,₹16.46 Lakh,pune
+Hyundai,Hyundai Grand i10 NiosSportz,2024,"3,086kms",Petrol,Manual,₹7.02 Lakh,pune
+Maruti,Maruti SwiftZXI BSVI,2021,"71,000kms",Petrol,Manual,₹6.31 Lakh,pune
+Land Rover,Land Rover Freelander 2SE,2014,"1,13,000kms",Diesel,Automatic,₹15.50 Lakh,pune
+Tata,Tata TigorXZ Plus BSVI,2021,"32,695kms",Petrol,Manual,₹4.88 Lakh,pune
+Audi,Audi Q330 TDI Premium FWD,2017,"64,801kms",Diesel,Automatic,₹16.46 Lakh,pune
+Hyundai,Hyundai Grand i10 NiosSportz,2024,"3,086kms",Petrol,Manual,₹7.02 Lakh,pune
+Maruti,Maruti SwiftZXI BSVI,2021,"71,000kms",Petrol,Manual,₹6.31 Lakh,pune
+Skoda,Skoda Kodiaq2.0 TDI Style,2018,"71,900kms",Diesel,Automatic,₹20.95 Lakh,pune
+Mercedes-Benz,Mercedes-Benz GL-Class350 CDI Blue Efficiency,2013,"1,40,000kms",Diesel,Automatic,₹23.50 Lakh,pune
+Audi,Audi Q745 TDI Quattro Technology,2016,"1,13,000kms",Diesel,Automatic,₹24.75 Lakh,pune
+BMW,BMW X5xDrive 30d,2015,"1,01,000kms",Diesel,Automatic,₹28 Lakh,pune
+Skoda,Skoda SuperbSportline BSVI,2021,"62,783kms",Petrol,Automatic,₹22.75 Lakh,pune
+Lexus,Lexus NX300h,2018,"74,500kms",Petrol,Automatic,₹27.50 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2015,"62,079kms",Petrol,Manual,₹3.97 Lakh,pune
+Renault,Renault KWID1.0 AMT RXT,2017,"45,250kms",Petrol,Automatic,₹2.92 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Sportz Option,2017,"99,978kms",Petrol,Manual,₹4.13 Lakh,pune
+Honda,Honda Jazz1.2 SV i VTEC,2015,"57,633kms",Petrol,Manual,₹3.71 Lakh,pune
+Maruti,Maruti Wagon RAMT VXI,2016,"49,646kms",Petrol,Automatic,₹3.35 Lakh,pune
+Volkswagen,Volkswagen Ameo1.2 MPI Highline Plus,2017,"60,000kms",Petrol,Manual,₹4.75 Lakh,pune
+Maruti,Maruti Vitara BrezzaZXI Plus AT Dual Tone,2025,"9,690kms",Petrol,Automatic,₹8.62 Lakh,pune
+Maruti,Maruti RitzVXi,2014,"75,000kms",Petrol,Manual,₹2.90 Lakh,pune
+Maruti,Maruti Alto 800VXI,2021,"10,210kms",Petrol,Manual,₹3.56 Lakh,pune
+Maruti,Maruti Wagon RAMT VXI,2016,"49,646kms",Petrol,Automatic,₹3.35 Lakh,pune
+Volkswagen,Volkswagen Ameo1.2 MPI Highline Plus,2017,"60,000kms",Petrol,Manual,₹4.75 Lakh,pune
+Maruti,Maruti Vitara BrezzaZXI Plus AT Dual Tone,2025,"9,690kms",Petrol,Automatic,₹8.62 Lakh,pune
+Maruti,Maruti RitzVXi,2014,"75,000kms",Petrol,Manual,₹2.90 Lakh,pune
+Maruti,Maruti Alto 800VXI,2021,"10,210kms",Petrol,Manual,₹3.56 Lakh,pune
+Hyundai,Hyundai SantroSportz CNG BSIV,2019,"1,07,083kms",CNG,Manual,₹3.65 Lakh,pune
+Maruti,Maruti CelerioVXI CNG BSVI,2022,"76,000kms",CNG,Manual,₹4.91 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2013,"93,343kms",Petrol,Manual,₹2.58 Lakh,pune
+Honda,Honda Cityi VTEC S,2015,"65,266kms",Petrol,Manual,₹3.61 Lakh,pune
+Hyundai,Hyundai SantroAsta AMT,2021,"21,067kms",Petrol,Automatic,₹4.15 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2017,"1,03,882kms",Petrol,Manual,₹3.05 Lakh,pune
+Maruti,Maruti BrezzaZxi DT BSVI,2023,"33,458kms",Petrol,Manual,₹9.80 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2014,"45,890kms",Petrol,Manual,₹2.84 Lakh,pune
+Volkswagen,Volkswagen Polo1.2 MPI Highline,2015,"34,158kms",Petrol,Manual,₹3.49 Lakh,pune
+Maruti,Maruti BalenoAlpha Diesel,2017,"85,488kms",Diesel,Manual,₹4.93 Lakh,pune
+Hyundai,Hyundai i10Sportz 1.1L,2014,"50,355kms",Petrol,Manual,₹2.76 Lakh,pune
+Honda,Honda AmazeS i-VTEC,2015,"21,576kms",Petrol,Manual,₹4.39 Lakh,pune
+Honda,Honda BrioV MT,2012,"74,152kms",Petrol,Manual,₹2.52 Lakh,pune
+Maruti,Maruti Ignis1.2 Delta BSIV,2018,"35,480kms",Petrol,Manual,₹3.34 Lakh,pune
+Maruti,Maruti Alto 800LXI CNG,2016,"51,346kms",CNG,Manual,₹3.04 Lakh,pune
+Hyundai,Hyundai i10Sportz 1.1L,2014,"50,355kms",Petrol,Manual,₹2.76 Lakh,pune
+Honda,Honda AmazeS i-VTEC,2015,"21,576kms",Petrol,Manual,₹4.39 Lakh,pune
+Honda,Honda BrioV MT,2012,"74,152kms",Petrol,Manual,₹2.52 Lakh,pune
+Maruti,Maruti Ignis1.2 Delta BSIV,2018,"35,480kms",Petrol,Manual,₹3.34 Lakh,pune
+Maruti,Maruti Alto 800LXI CNG,2016,"51,346kms",CNG,Manual,₹3.04 Lakh,pune
+Tata,Tata Tiago1.05 Revotorq XZ,2018,"1,47,128kms",Diesel,Manual,₹3.15 Lakh,pune
+Renault,Renault KWIDClimber 1.0 MT,2018,"34,387kms",Petrol,Manual,₹3.06 Lakh,pune
+Volkswagen,Volkswagen Vento1.2 TSI Highline BSIV,2016,"1,01,834kms",Petrol,Automatic,₹4.94 Lakh,pune
+Honda,Honda JazzVX,2017,"67,415kms",Petrol,Manual,₹4.93 Lakh,pune
+Maruti,Maruti SwiftVXI,2017,"40,784kms",Petrol,Manual,₹4.09 Lakh,pune
+Honda,Honda Cityi VTEC VX,2016,"44,977kms",Petrol,Manual,₹4.71 Lakh,pune
+Hyundai,Hyundai i10Sportz 1.1L,2014,"75,832kms",Petrol,Manual,₹2.39 Lakh,pune
+Maruti,Maruti CelerioZXI,2016,"81,350kms",Petrol,Manual,₹3.23 Lakh,pune
+Honda,Honda AmazeV CVT,2024,"14,141kms",Petrol,Automatic,₹8.70 Lakh,pune
+Ford,Ford FigoTrend,2018,"37,637kms",Petrol,Manual,₹4.05 Lakh,pune
+Honda,Honda JazzVX,2016,"53,338kms",Petrol,Manual,₹4.55 Lakh,pune
+Maruti,Maruti Wagon RVXI,2014,"1,54,440kms",Petrol,Manual,₹2.43 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2012,"65,798kms",Petrol,Manual,₹2.81 Lakh,pune
+Honda,Honda AmazeVX i-VTEC,2015,"65,346kms",Petrol,Manual,₹4.25 Lakh,pune
+Hyundai,Hyundai XcentPetrol,2014,"1,12,098kms",Petrol,Manual,₹3.51 Lakh,pune
+Volkswagen,Volkswagen PoloPetrol Highline 1.2L,2014,"1,26,369kms",Petrol,Manual,₹3.66 Lakh,pune
+Hyundai,Hyundai Grand i10 NiosAMT Sportz,2020,"53,521kms",Petrol,Automatic,₹4.59 Lakh,pune
+Hyundai,Hyundai XcentPetrol,2019,"32,394kms",Petrol,Manual,₹5.10 Lakh,pune
+Maruti,Maruti Ciaz1.3 Zeta,2018,"81,188kms",Diesel,Manual,₹5.96 Lakh,pune
+Maruti,Maruti SwiftVXI,2013,"35,570kms",Petrol,Manual,₹2.69 Lakh,pune
+Skoda,Skoda Kushaq1.5 TSI Ambition,2022,"25,945kms",Petrol,Manual,₹10.51 Lakh,pune
+Hyundai,Hyundai i10Magna 1.1,2013,"42,110kms",Petrol,Manual,₹2.47 Lakh,pune
+Tata,Tata AltrozXZA Plus DCT,2022,"33,465kms",Petrol,Automatic,₹7.07 Lakh,pune
+Maruti,Maruti Alto K10VXI,2018,"49,760kms",Petrol,Manual,₹3.17 Lakh,pune
+Maruti,Maruti Wagon RVXI,2014,"84,835kms",Petrol,Manual,₹2.89 Lakh,pune
+Tata,Tata TiagoXZ Plus,2021,"36,484kms",Petrol,Manual,₹5.51 Lakh,pune
+Hyundai,Hyundai XcentPetrol,2014,"55,659kms",Petrol,Manual,₹3.83 Lakh,pune
+Hyundai,Hyundai i10Sportz 1.1L,2015,"73,609kms",Petrol,Manual,₹3.05 Lakh,pune
+Maruti,Maruti Celerio XAMT ZXI,2020,"17,849kms",Petrol,Automatic,₹4.37 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.2,2015,"1,20,332kms",Petrol,Manual,₹3.25 Lakh,pune
+Tata,Tata Tiago1.2 Revotron XZ,2018,"1,02,630kms",Petrol,Manual,₹3.26 Lakh,pune
+Hyundai,Hyundai i20Sportz BSVI,2021,"1,49,924kms",Petrol,Manual,₹5.05 Lakh,pune
+Maruti,Maruti CelerioZXI AMT,2017,"98,088kms",Petrol,Automatic,₹3.27 Lakh,pune
+Toyota,Toyota GlanzaV CVT,2020,"70,840kms",Petrol,Automatic,₹5.86 Lakh,pune
+Honda,Honda WR-Vi-VTEC VX,2017,"47,415kms",Petrol,Manual,₹5.86 Lakh,pune
+Tata,Tata Tiago1.2 Revotron XZ,2018,"1,02,630kms",Petrol,Manual,₹3.26 Lakh,pune
+Hyundai,Hyundai i20Sportz BSVI,2021,"1,49,924kms",Petrol,Manual,₹5.05 Lakh,pune
+Maruti,Maruti CelerioZXI AMT,2017,"98,088kms",Petrol,Automatic,₹3.27 Lakh,pune
+Toyota,Toyota GlanzaV CVT,2020,"70,840kms",Petrol,Automatic,₹5.86 Lakh,pune
+Honda,Honda WR-Vi-VTEC VX,2017,"47,415kms",Petrol,Manual,₹5.86 Lakh,pune
+Maruti,Maruti Vitara BrezzaZDi,2017,"79,064kms",Diesel,Manual,₹6.76 Lakh,pune
+Tata,Tata TigorXZ Plus,2018,"49,377kms",Petrol,Manual,₹4.29 Lakh,pune
+Honda,Honda BrioS MT,2013,"1,04,471kms",Petrol,Manual,₹2.42 Lakh,pune
+Maruti,Maruti CiazAT ZXi Plus,2016,"84,709kms",Petrol,Automatic,₹4.47 Lakh,pune
+Tata,Tata AltrozXZ Plus BSVI,2022,"22,527kms",Petrol,Manual,₹6.14 Lakh,pune
+Maruti,Maruti Wagon RVXI,2015,"68,911kms",Petrol,Manual,₹3 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.2,2017,"34,864kms",Petrol,Manual,₹4.59 Lakh,pune
+Hyundai,Hyundai Grand i10Asta,2015,"45,424kms",Petrol,Manual,₹3.58 Lakh,pune
+Maruti,Maruti Swift DzireVXI 1.2,2019,"42,205kms",Petrol,Manual,₹4.81 Lakh,pune
+Renault,Renault KWIDRXT,2016,"64,733kms",Petrol,Manual,₹2.49 Lakh,pune
+Renault,Renault KigerRXZ Turbo CVT,2021,"43,974kms",Petrol,Automatic,₹7.32 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2020,"27,243kms",Petrol,Manual,₹5.69 Lakh,pune
+Honda,Honda AmazeVX i-VTEC,2016,"1,01,981kms",Petrol,Manual,₹3.96 Lakh,pune
+Maruti,Maruti BalenoZeta Diesel,2017,"51,814kms",Diesel,Manual,₹4.78 Lakh,pune
+Maruti,Maruti CiazAlpha AT BSVI,2020,"52,387kms",Petrol,Automatic,₹6.83 Lakh,pune
+Honda,Honda AmazeVX i-VTEC,2014,"70,761kms",Petrol,Manual,₹3.54 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2019,"71,622kms",Petrol,Manual,₹3.72 Lakh,pune
+Toyota,Toyota Etios LivaVD,2016,"55,478kms",Diesel,Manual,₹5.80 Lakh,pune
+Maruti,Maruti CiazZXi,2015,"40,416kms",Petrol,Manual,₹4.93 Lakh,pune
+Maruti,Maruti CiazZXi,2015,"81,798kms",Petrol,Manual,₹4.93 Lakh,pune
+Maruti,Maruti Wagon RVXI,2015,"1,00,731kms",Petrol,Manual,₹2.88 Lakh,pune
+Hyundai,Hyundai XcentPetrol,2019,"65,831kms",Petrol,Manual,₹4.99 Lakh,pune
+Renault,Renault KWIDRXT,2016,"64,583kms",Petrol,Manual,₹2.68 Lakh,pune
+Honda,Honda CityVX MT,2015,"1,13,657kms",Petrol,Manual,₹4.76 Lakh,pune
+Honda,Honda Jazz1.2 V AT i VTEC,2017,"78,115kms",Petrol,Automatic,₹3.37 Lakh,pune
+Honda,Honda AmazeVX i-VTEC,2014,"36,857kms",Petrol,Manual,₹3.86 Lakh,pune
+Hyundai,Hyundai Grand i10Asta Option,2015,"1,09,122kms",Petrol,Manual,₹2.77 Lakh,pune
+Honda,Honda BrioVX,2014,"54,476kms",Petrol,Manual,₹2.81 Lakh,pune
+Honda,Honda Cityi VTEC SV,2015,"34,955kms",Petrol,Manual,₹3.58 Lakh,pune
+Hyundai,Hyundai i20 Active1.2,2017,"89,767kms",Petrol,Manual,₹3.82 Lakh,pune
+Volkswagen,Volkswagen PoloPetrol Comfortline 1.2L,2016,"1,36,327kms",Petrol,Manual,₹3.62 Lakh,pune
+Maruti,Maruti Wagon RVXI 1.2,2017,"1,08,175kms",Petrol,Manual,₹3.14 Lakh,pune
+Hyundai,Hyundai Grand i10Sportz,2015,"42,040kms",Petrol,Manual,₹3.07 Lakh,pune
+Tata,Tata Tiago1.2 Revotron XE,2018,"62,656kms",Petrol,Manual,₹3.22 Lakh,pune
+Volkswagen,Volkswagen PoloGT TSI,2017,"61,917kms",Petrol,Automatic,₹5.18 Lakh,pune
+Volkswagen,Volkswagen PoloPetrol Comfortline 1.2L,2016,"1,36,327kms",Petrol,Manual,₹3.62 Lakh,pune
+Maruti,Maruti Wagon RVXI 1.2,2017,"1,08,175kms",Petrol,Manual,₹3.14 Lakh,pune
+Hyundai,Hyundai Grand i10Sportz,2015,"42,040kms",Petrol,Manual,₹3.07 Lakh,pune
+Tata,Tata Tiago1.2 Revotron XE,2018,"62,656kms",Petrol,Manual,₹3.22 Lakh,pune
+Volkswagen,Volkswagen PoloGT TSI,2017,"61,917kms",Petrol,Automatic,₹5.18 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2014,"10,840kms",Petrol,Manual,₹3.62 Lakh,pune
+Honda,Honda JazzV,2016,"1,01,432kms",Petrol,Manual,₹4.10 Lakh,pune
+Maruti,Maruti Wagon RLXI BSVI,2014,"60,247kms",Petrol,Manual,₹2.38 Lakh,pune
+Maruti,Maruti SwiftZXI,2017,"69,521kms",Petrol,Manual,₹5.03 Lakh,pune
+Maruti,Maruti Wagon RVXI 1.2,2017,"52,301kms",Petrol,Manual,₹3.41 Lakh,pune
+Maruti,Maruti CiazZXi,2016,"61,343kms",Petrol,Manual,₹5.83 Lakh,pune
+Tata,Tata Tiago1.2 Revotron XZA,2017,"21,672kms",Petrol,Automatic,₹4.45 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2019,"20,358kms",Petrol,Manual,₹4.81 Lakh,pune
+Maruti,Maruti SwiftVXI,2014,"77,393kms",Petrol,Manual,₹2.75 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2016,"40,543kms",Petrol,Manual,₹3.67 Lakh,pune
+Hyundai,Hyundai Xcent1.2 VTVT S,2014,"77,445kms",Petrol,Manual,₹3.45 Lakh,pune
+Maruti,Maruti Alto 800VXI,2014,"56,164kms",Petrol,Manual,₹2.49 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2013,"32,971kms",Petrol,Manual,₹3.42 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.2,2017,"1,18,523kms",Petrol,Manual,₹4.68 Lakh,pune
+Renault,Renault KWID1.0 RXT AMT Opt,2021,"38,103kms",Petrol,Automatic,₹4 Lakh,pune
+Honda,Honda BrioExclusive Edition,2013,"72,000kms",Petrol,Manual,₹2.90 Lakh,pune
+Maruti,Maruti Baleno1.2 Delta,2019,"57,000kms",Petrol,Manual,₹5.15 Lakh,pune
+Hyundai,Hyundai Verna1.6 SX VTVT (O),2014,"90,000kms",Petrol,Manual,₹3.50 Lakh,pune
+Maruti,Maruti Wagon RLXI BS IV,2015,"75,346kms",Petrol,Manual,₹3.25 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2013,"1,28,000kms",Petrol,Manual,₹3.75 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2018,"43,000kms",Petrol,Manual,₹4 Lakh,pune
+Hyundai,Hyundai Creta1.6 CRDi SX Option,2018,"76,000kms",Diesel,Manual,₹10.50 Lakh,pune
+Maruti,Maruti Wagon RLXI BS IV,2011,"85,000kms",Petrol,Manual,₹2.40 Lakh,pune
+Renault,Renault KWID1.0 RXT Opt BSIV,2019,"32,000kms",Petrol,Manual,₹3.50 Lakh,pune
+Honda,Honda JazzBasic,2012,"86,233kms",Petrol,Manual,₹2.60 Lakh,pune
+Ford,Ford FigoDiesel EXI,2014,"89,000kms",Diesel,Manual,₹2.60 Lakh,pune
+Honda,Honda JazzV CVT,2018,"58,000kms",Petrol,Automatic,₹5.40 Lakh,pune
+Maruti,Maruti Baleno1.2 Zeta,2016,"48,000kms",Petrol,Manual,₹4.70 Lakh,pune
+Skoda,Skoda Rapid1.6 MPI Elegance Plus,2015,"51,000kms",Petrol,Manual,₹4.85 Lakh,pune
+Volkswagen,Volkswagen Polo1.2 MPI Comfortline,2015,"55,000kms",Petrol,Manual,₹4.25 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2015,"48,000kms",Petrol,Manual,₹4.90 Lakh,pune
+Skoda,Skoda Rapid1.6 TDI Ambition Plus,2014,"1,06,000kms",Diesel,Manual,₹3.95 Lakh,pune
+Maruti,Maruti Wagon RLXI BS IV,2012,"95,234kms",Petrol,Manual,₹2.45 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2014,"47,619kms",Petrol,Manual,₹4.25 Lakh,pune
+Hyundai,Hyundai i201.2 Spotz,2018,"35,900kms",Petrol,Manual,₹5.65 Lakh,pune
+Maruti,Maruti Baleno1.2 Zeta,2017,"97,724kms",Petrol,Manual,₹4.37 Lakh,pune
+Hyundai,Hyundai Grand i10Asta Option,2015,"96,881kms",Petrol,Manual,₹3.20 Lakh,pune
+Honda,Honda Jazz1.2 SV i VTEC,2018,"48,966kms",Petrol,Manual,₹4.68 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2015,"79,018kms",Petrol,Manual,₹4.09 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2014,"1,23,232kms",Petrol,Manual,₹3.32 Lakh,pune
+Maruti,Maruti Alto K10VXI AMT,2015,"46,619kms",Petrol,Automatic,₹2.97 Lakh,pune
+Honda,Honda Cityi VTEC V,2015,"90,156kms",Petrol,Manual,₹3.74 Lakh,pune
+Volkswagen,Volkswagen PoloGT TSI,2017,"59,524kms",Petrol,Automatic,₹4.84 Lakh,pune
+Tata,Tata Tiago1.2 Revotron XZA,2018,"1,45,004kms",Petrol,Automatic,₹3.33 Lakh,pune
+Maruti,Maruti CelerioZXI AMT,2018,"31,654kms",Petrol,Automatic,₹4.26 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2017,"92,434kms",Petrol,Manual,₹4.17 Lakh,pune
+Hyundai,Hyundai i10Magna 1.1,2015,"72,559kms",Petrol,Manual,₹2.99 Lakh,pune
+Maruti,Maruti SwiftVXI,2022,"33,926kms",Petrol,Manual,₹5.87 Lakh,pune
+Maruti,Maruti Ignis1.2 Alpha BSIV,2021,"19,687kms",Petrol,Manual,₹4.75 Lakh,pune
+Maruti,Maruti SwiftVXI,2016,"98,776kms",Petrol,Manual,₹2.87 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.2,2016,"71,856kms",Petrol,Manual,₹4.44 Lakh,pune
+Hyundai,Hyundai i10Sportz 1.1L,2014,"99,114kms",Petrol,Manual,₹2.42 Lakh,pune
+Maruti,Maruti DzireVXI,2017,"41,506kms",Petrol,Manual,₹5.12 Lakh,pune
+Maruti,Maruti Wagon RVXI,2016,"50,249kms",Petrol,Manual,₹3.31 Lakh,pune
+Hyundai,Hyundai i20Sportz Petrol,2014,"56,724kms",Petrol,Manual,₹2.54 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.2,2016,"71,856kms",Petrol,Manual,₹4.44 Lakh,pune
+Hyundai,Hyundai i10Sportz 1.1L,2014,"99,114kms",Petrol,Manual,₹2.42 Lakh,pune
+Maruti,Maruti DzireVXI,2017,"41,506kms",Petrol,Manual,₹5.12 Lakh,pune
+Maruti,Maruti Wagon RVXI,2016,"50,249kms",Petrol,Manual,₹3.31 Lakh,pune
+Hyundai,Hyundai i20Sportz Petrol,2014,"56,724kms",Petrol,Manual,₹2.54 Lakh,pune
+Renault,Renault KWIDClimber 1.0 AMT,2017,"86,070kms",Petrol,Automatic,₹2.66 Lakh,pune
+Honda,Honda WR-Vi-VTEC VX,2018,"88,090kms",Petrol,Manual,₹5.82 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.2,2016,"44,861kms",Petrol,Manual,₹4.34 Lakh,pune
+Hyundai,Hyundai Grand i10Magna,2015,"42,243kms",Petrol,Manual,₹3.10 Lakh,pune
+Honda,Honda AmazeVX i-VTEC,2016,"47,472kms",Petrol,Manual,₹4.53 Lakh,pune
+Hyundai,Hyundai i10Sportz 1.1L,2015,"62,494kms",Petrol,Manual,₹2.96 Lakh,pune
+Hyundai,Hyundai EONMagna,2014,"52,274kms",Petrol,Manual,₹2.47 Lakh,pune
+Hyundai,Hyundai i10Magna 1.2,2013,"56,834kms",Petrol,Manual,₹2.47 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2014,"68,208kms",Petrol,Manual,₹3.46 Lakh,pune
+Maruti,Maruti Wagon RVXI,2018,"65,055kms",Petrol,Manual,₹3.53 Lakh,pune
+Maruti,Maruti Alto K10VXI,2018,"49,760kms",Petrol,Manual,₹3.17 Lakh,pune
+Maruti,Maruti Wagon RVXI,2014,"84,835kms",Petrol,Manual,₹2.89 Lakh,pune
+Tata,Tata TiagoXZ Plus,2021,"36,484kms",Petrol,Manual,₹5.51 Lakh,pune
+Hyundai,Hyundai XcentPetrol,2014,"55,659kms",Petrol,Manual,₹3.83 Lakh,pune
+Hyundai,Hyundai i10Sportz 1.1L,2015,"73,609kms",Petrol,Manual,₹3.05 Lakh,pune
+Maruti,Maruti Alto K10VXI,2018,"49,760kms",Petrol,Manual,₹3.17 Lakh,pune
+Maruti,Maruti Wagon RVXI,2014,"84,835kms",Petrol,Manual,₹2.89 Lakh,pune
+Tata,Tata TiagoXZ Plus,2021,"36,484kms",Petrol,Manual,₹5.51 Lakh,pune
+Hyundai,Hyundai XcentPetrol,2014,"55,659kms",Petrol,Manual,₹3.83 Lakh,pune
+Hyundai,Hyundai i10Sportz 1.1L,2015,"73,609kms",Petrol,Manual,₹3.05 Lakh,pune
+Maruti,Maruti Celerio XAMT ZXI,2020,"17,849kms",Petrol,Automatic,₹4.37 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.2,2015,"1,20,332kms",Petrol,Manual,₹3.25 Lakh,pune
+Tata,Tata Tiago1.2 Revotron XZ,2018,"1,02,630kms",Petrol,Manual,₹3.26 Lakh,pune
+Maruti,Maruti CiazRS ZXi Plus,2016,"53,859kms",Petrol,Manual,₹4.66 Lakh,pune
+Honda,Honda Cityi VTEC CVT VX,2015,"65,375kms",Petrol,Automatic,₹5 Lakh,pune
+Maruti,Maruti Baleno1.2 Alpha,2017,"68,491kms",Petrol,Manual,₹4.26 Lakh,pune
+Volkswagen,Volkswagen Vento1.2 TSI Highline BSIV,2016,"55,110kms",Petrol,Automatic,₹5.48 Lakh,pune
+Volkswagen,Volkswagen PoloGT TSI,2015,"1,38,864kms",Petrol,Automatic,₹3.48 Lakh,pune
+Maruti,Maruti Ciaz1.4 AT Alpha,2021,"1,16,239kms",Petrol,Automatic,₹7.84 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.2,2017,"81,590kms",Petrol,Manual,₹4.23 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.2,2017,"41,472kms",Petrol,Manual,₹5.27 Lakh,pune
+Volkswagen,Volkswagen Vento1.6 MPI ALL STAR,2016,"74,659kms",Petrol,Manual,₹3.48 Lakh,pune
+Maruti,Maruti Wagon RAMT VXI,2016,"66,463kms",Petrol,Automatic,₹2.42 Lakh,pune
+Hyundai,Hyundai i20Sportz Petrol,2013,"1,00,626kms",Petrol,Manual,₹2.51 Lakh,pune
+Honda,Honda WR-Vi-VTEC VX,2017,"47,415kms",Petrol,Manual,₹5.86 Lakh,pune
+Honda,Honda AmazeVX i-VTEC,2016,"47,472kms",Petrol,Manual,₹4.53 Lakh,pune
+Hyundai,Hyundai i10Sportz 1.1L,2015,"62,494kms",Petrol,Manual,₹2.96 Lakh,pune
+Hyundai,Hyundai EONMagna,2014,"52,274kms",Petrol,Manual,₹2.47 Lakh,pune
+Hyundai,Hyundai i10Magna 1.2,2013,"56,834kms",Petrol,Manual,₹2.47 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2014,"68,208kms",Petrol,Manual,₹3.46 Lakh,pune
+Maruti,Maruti Wagon RVXI,2018,"65,055kms",Petrol,Manual,₹3.53 Lakh,pune
+Maruti,Maruti CiazRS ZXi Plus,2016,"53,859kms",Petrol,Manual,₹4.66 Lakh,pune
+Honda,Honda Cityi VTEC CVT VX,2015,"65,375kms",Petrol,Automatic,₹5 Lakh,pune
+Hyundai,Hyundai Grand i10Sportz,2015,"42,040kms",Petrol,Manual,₹3.07 Lakh,pune
+Tata,Tata Tiago1.2 Revotron XE,2018,"62,656kms",Petrol,Manual,₹3.22 Lakh,pune
+Volkswagen,Volkswagen PoloGT TSI,2017,"61,917kms",Petrol,Automatic,₹5.18 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2014,"10,840kms",Petrol,Manual,₹3.62 Lakh,pune
+Honda,Honda JazzV,2016,"1,01,432kms",Petrol,Manual,₹4.10 Lakh,pune
+Maruti,Maruti Wagon RLXI BSVI,2014,"60,247kms",Petrol,Manual,₹2.38 Lakh,pune
+Maruti,Maruti SwiftZXI,2017,"69,521kms",Petrol,Manual,₹5.03 Lakh,pune
+Maruti,Maruti Wagon RVXI 1.2,2017,"52,301kms",Petrol,Manual,₹3.41 Lakh,pune
+Maruti,Maruti CiazZXi,2016,"61,343kms",Petrol,Manual,₹5.83 Lakh,pune
+Tata,Tata Tiago1.2 Revotron XZA,2017,"21,672kms",Petrol,Automatic,₹4.45 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2019,"20,358kms",Petrol,Manual,₹4.81 Lakh,pune
+Maruti,Maruti SwiftVXI,2014,"77,393kms",Petrol,Manual,₹2.75 Lakh,pune
+Honda,Honda CityVX MT,2016,"49,908kms",Petrol,Manual,₹6.58 Lakh,pune
+Hyundai,Hyundai Xcent1.2 Kappa SX Option AT,2014,"54,676kms",Petrol,Automatic,₹4.32 Lakh,pune
+Hyundai,Hyundai Xcent1.2 VTVT S AT,2016,"1,05,300kms",Petrol,Automatic,₹3.77 Lakh,pune
+Volkswagen,Volkswagen PoloPetrol Comfortline 1.2L,2016,"82,372kms",Petrol,Manual,₹3.95 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2014,"85,165kms",Petrol,Manual,₹3.53 Lakh,pune
+Hyundai,Hyundai i20Sportz BSVI,2021,"1,49,924kms",Petrol,Manual,₹5.05 Lakh,pune
+Maruti,Maruti CelerioZXI AMT,2017,"98,088kms",Petrol,Automatic,₹3.27 Lakh,pune
+Toyota,Toyota GlanzaV CVT,2020,"70,840kms",Petrol,Automatic,₹5.86 Lakh,pune
+Hyundai,Hyundai i10Magna 1.1,2013,"42,110kms",Petrol,Manual,₹2.47 Lakh,pune
+Tata,Tata AltrozXZA Plus DCT,2022,"33,465kms",Petrol,Automatic,₹7.07 Lakh,pune
+Maruti,Maruti CiazAlpha AT BSVI,2020,"52,387kms",Petrol,Automatic,₹6.83 Lakh,pune
+Maruti,Maruti Celerio XAMT ZXI BSIV,2018,"13,586kms",Petrol,Automatic,₹3.74 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.2,2013,"68,998kms",Petrol,Manual,₹3 Lakh,pune
+Maruti,Maruti Wagon RVXI,2015,"68,911kms",Petrol,Manual,₹3 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.2,2017,"34,864kms",Petrol,Manual,₹4.59 Lakh,pune
+Hyundai,Hyundai Grand i10Asta,2015,"45,424kms",Petrol,Manual,₹3.58 Lakh,pune
+Maruti,Maruti Swift DzireVXI 1.2,2019,"42,205kms",Petrol,Manual,₹4.81 Lakh,pune
+Renault,Renault KWIDRXT,2016,"64,733kms",Petrol,Manual,₹2.49 Lakh,pune
+Renault,Renault KigerRXZ Turbo CVT,2021,"43,974kms",Petrol,Automatic,₹7.32 Lakh,pune
+Hyundai,Hyundai Grand i10 NiosAMT Sportz,2020,"53,521kms",Petrol,Automatic,₹4.59 Lakh,pune
+Hyundai,Hyundai Grand i10Asta,2015,"45,424kms",Petrol,Manual,₹3.58 Lakh,pune
+Maruti,Maruti Swift DzireVXI 1.2,2019,"42,205kms",Petrol,Manual,₹4.81 Lakh,pune
+Renault,Renault KWIDRXT,2016,"64,733kms",Petrol,Manual,₹2.49 Lakh,pune
+Renault,Renault KigerRXZ Turbo CVT,2021,"43,974kms",Petrol,Automatic,₹7.32 Lakh,pune
+Hyundai,Hyundai Grand i10 NiosAMT Sportz,2020,"53,521kms",Petrol,Automatic,₹4.59 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2020,"27,243kms",Petrol,Manual,₹5.69 Lakh,pune
+Honda,Honda AmazeVX i-VTEC,2016,"1,01,981kms",Petrol,Manual,₹3.96 Lakh,pune
+Maruti,Maruti BalenoZeta Diesel,2017,"51,814kms",Diesel,Manual,₹4.78 Lakh,pune
+Honda,Honda Jazz1.2 SV i VTEC,2016,"77,326kms",Petrol,Manual,₹3.65 Lakh,pune
+Hyundai,Hyundai VenueSX Opt Turbo,2021,"15,847kms",Petrol,Manual,₹9.35 Lakh,pune
+Volkswagen,Volkswagen PoloPetrol Highline 1.2L,2014,"1,26,369kms",Petrol,Manual,₹3.66 Lakh,pune
+Honda,Honda BrioVX,2016,"60,944kms",Petrol,Manual,₹3.60 Lakh,pune
+Tata,Tata AltrozXZ,2022,"35,820kms",Petrol,Manual,₹7.83 Lakh,pune
+Tata,Tata AltrozXZ Diesel,2021,"51,807kms",Diesel,Manual,₹7.20 Lakh,pune
+Hyundai,Hyundai Grand i10 NiosAsta,2021,"41,176kms",Petrol,Manual,₹5.35 Lakh,pune
+Maruti,Maruti DzireZXI,2018,"62,340kms",Petrol,Manual,₹4.84 Lakh,pune
+Maruti,Maruti SwiftLDI,2015,"1,02,867kms",Diesel,Manual,₹3.69 Lakh,pune
+Renault,Renault DusterRXZ,2021,"36,536kms",Petrol,Manual,₹7.80 Lakh,pune
+Honda,Honda AmazeVX i-VTEC,2015,"66,804kms",Petrol,Manual,₹3.95 Lakh,pune
+Hyundai,Hyundai Grand i10Sportz,2015,"60,000kms",Petrol,Manual,₹4 Lakh,pune
+Maruti,Maruti DzireZXI,2018,"62,340kms",Petrol,Manual,₹4.84 Lakh,pune
+Maruti,Maruti SwiftLDI,2015,"1,02,867kms",Diesel,Manual,₹3.69 Lakh,pune
+Renault,Renault DusterRXZ,2021,"36,536kms",Petrol,Manual,₹7.80 Lakh,pune
+Honda,Honda AmazeVX i-VTEC,2015,"66,804kms",Petrol,Manual,₹3.95 Lakh,pune
+Hyundai,Hyundai Grand i10Sportz,2015,"60,000kms",Petrol,Manual,₹4 Lakh,pune
+Maruti,Maruti DzireVXI,2018,"36,874kms",Petrol,Manual,₹5.03 Lakh,pune
+Honda,Honda BrioS MT,2012,"97,000kms",Petrol,Manual,₹2.40 Lakh,pune
+Volkswagen,Volkswagen Polo1.2 MPI Highline,2014,"94,000kms",Petrol,Manual,₹3.15 Lakh,pune
+Toyota,Toyota GlanzaG,2020,"47,626kms",Petrol,Manual,₹6 Lakh,pune
+Toyota,Toyota EtiosV,2011,"83,000kms",Petrol,Manual,₹2.60 Lakh,pune
+Toyota,Toyota GlanzaG CVT,2021,"41,440kms",Petrol,Automatic,₹6.80 Lakh,pune
+Renault,Renault FluenceE2 D,2015,"1,15,000kms",Diesel,Manual,₹3.51 Lakh,pune
+Honda,Honda BrioV AT,2013,"67,000kms",Petrol,Automatic,₹3.45 Lakh,pune
+Maruti,Maruti Wagon RAMT VXI,2015,"42,000kms",Petrol,Automatic,₹3.80 Lakh,pune
+Maruti,Maruti Wagon RLXI BS IV,2013,"51,249kms",Petrol,Manual,₹2.65 Lakh,pune
+Toyota,Toyota EtiosGD,2011,"1,10,000kms",Diesel,Manual,₹3.40 Lakh,pune
+Skoda,Skoda Rapid1.6 TDI Ambition Plus,2014,"1,06,000kms",Diesel,Manual,₹3.95 Lakh,pune
+Toyota,Toyota EtiosVX,2011,"84,000kms",Petrol,Manual,₹2.50 Lakh,pune
+Maruti,Maruti Wagon RLXI BS IV,2013,"48,380kms",Petrol,Manual,₹2.65 Lakh,pune
+Maruti,Maruti Wagon RLXI BS IV,2012,"98,000kms",Petrol,Manual,₹2.60 Lakh,pune
+Toyota,Toyota EtiosG,2013,"86,000kms",Petrol,Manual,₹3.25 Lakh,pune
+Maruti,Maruti Swift DzireLDI,2012,"1,10,000kms",Diesel,Manual,₹3.50 Lakh,pune
+Honda,Honda Jazz1.2 SV i VTEC,2015,"68,000kms",Petrol,Manual,₹3.60 Lakh,pune
+Maruti,Maruti Swift DzireVXI 1.2,2020,"72,000kms",Petrol,Manual,₹5.50 Lakh,pune
+Maruti,Maruti Wagon R StingrayLXI Optional,2017,"40,000kms",Petrol,Manual,₹3.55 Lakh,pune
+Honda,Honda AmazeS i-Dtech,2013,"1,76,000kms",Diesel,Manual,₹2.75 Lakh,pune
+Maruti,Maruti SwiftVDI Optional,2017,"88,000kms",Diesel,Manual,₹5.50 Lakh,pune
+Hyundai,Hyundai i201.2 Asta,2012,"1,28,000kms",Petrol,Manual,₹2.99 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.2,2013,"76,000kms",Petrol,Manual,₹2.99 Lakh,pune
+Maruti,Maruti Wagon RLXI BS IV,2011,"85,000kms",Petrol,Manual,₹2.40 Lakh,pune
+Renault,Renault KWID1.0 RXT Opt BSIV,2019,"32,000kms",Petrol,Manual,₹3.50 Lakh,pune
+Honda,Honda JazzBasic,2012,"86,233kms",Petrol,Manual,₹2.60 Lakh,pune
+Ford,Ford FigoDiesel EXI,2014,"89,000kms",Diesel,Manual,₹2.60 Lakh,pune
+Skoda,Skoda Rapid1.6 MPI Elegance Plus,2015,"51,000kms",Petrol,Manual,₹4.85 Lakh,pune
+Volkswagen,Volkswagen Polo1.2 MPI Comfortline,2015,"55,000kms",Petrol,Manual,₹4.25 Lakh,pune
+Hyundai,Hyundai i10Sportz 1.1L,2015,"63,000kms",Petrol,Manual,₹3.51 Lakh,pune
+Maruti,Maruti Wagon RAMT VXI,2015,"42,000kms",Petrol,Automatic,₹3.80 Lakh,pune
+Maruti,Maruti Wagon RLXI BS IV,2013,"51,249kms",Petrol,Manual,₹2.65 Lakh,pune
+Skoda,Skoda RapidLeisure 1.6 MPI AT,2014,"94,263kms",Petrol,Automatic,₹3.75 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.4 CRDi,2013,"1,04,129kms",Diesel,Manual,₹4.11 Lakh,pune
+Tata,Tata Tiago1.2 Revotron XZ,2018,"1,02,630kms",Petrol,Manual,₹3.26 Lakh,pune
+Maruti,Maruti CiazRS ZXi Plus,2016,"53,859kms",Petrol,Manual,₹4.66 Lakh,pune
+Honda,Honda Cityi VTEC CVT VX,2015,"65,375kms",Petrol,Automatic,₹5 Lakh,pune
+Maruti,Maruti Baleno1.2 Alpha,2017,"68,491kms",Petrol,Manual,₹4.26 Lakh,pune
+Volkswagen,Volkswagen Vento1.2 TSI Highline BSIV,2016,"55,110kms",Petrol,Automatic,₹5.48 Lakh,pune
+Volkswagen,Volkswagen PoloGT TSI,2015,"1,38,864kms",Petrol,Automatic,₹3.48 Lakh,pune
+Maruti,Maruti Ciaz1.4 AT Alpha,2021,"1,16,239kms",Petrol,Automatic,₹7.84 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.2,2017,"81,590kms",Petrol,Manual,₹4.23 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.2,2017,"41,472kms",Petrol,Manual,₹5.27 Lakh,pune
+Volkswagen,Volkswagen Vento1.6 MPI ALL STAR,2016,"74,659kms",Petrol,Manual,₹3.48 Lakh,pune
+Maruti,Maruti Wagon RAMT VXI,2016,"66,463kms",Petrol,Automatic,₹2.42 Lakh,pune
+Hyundai,Hyundai i20Sportz Petrol,2013,"1,00,626kms",Petrol,Manual,₹2.51 Lakh,pune
+Honda,Honda WR-Vi-VTEC VX,2017,"47,415kms",Petrol,Manual,₹5.86 Lakh,pune
+Maruti,Maruti Vitara BrezzaZDi,2017,"79,064kms",Diesel,Manual,₹6.76 Lakh,pune
+Tata,Tata TigorXZ Plus,2018,"49,377kms",Petrol,Manual,₹4.29 Lakh,pune
+Honda,Honda BrioS MT,2013,"1,04,471kms",Petrol,Manual,₹2.42 Lakh,pune
+Maruti,Maruti CiazAT ZXi Plus,2016,"84,709kms",Petrol,Automatic,₹4.47 Lakh,pune
+Tata,Tata AltrozXZ Plus BSVI,2022,"22,527kms",Petrol,Manual,₹6.14 Lakh,pune
+Renault,Renault KigerRXZ Turbo CVT,2021,"43,974kms",Petrol,Automatic,₹7.32 Lakh,pune
+Maruti,Maruti CiazZDi Plus SHVS,2016,"53,124kms",Diesel,Manual,₹5.32 Lakh,pune
+Maruti,Maruti CelerioVXI Optional AMT BSIV,2018,"84,000kms",Petrol,Automatic,₹4.25 Lakh,pune
+Maruti,Maruti Wagon RLXI BS IV,2015,"75,346kms",Petrol,Manual,₹3.25 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2013,"1,28,000kms",Petrol,Manual,₹3.75 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2018,"43,000kms",Petrol,Manual,₹4 Lakh,pune
+Hyundai,Hyundai Creta1.6 CRDi SX Option,2018,"76,000kms",Diesel,Manual,₹10.50 Lakh,pune
+Maruti,Maruti SwiftVXI,2015,"44,747kms",Petrol,Manual,₹3.95 Lakh,pune
+Maruti,Maruti Wagon R StingrayLXI Optional,2017,"40,000kms",Petrol,Manual,₹3.55 Lakh,pune
+Honda,Honda AmazeS i-Dtech,2013,"1,76,000kms",Diesel,Manual,₹2.75 Lakh,pune
+Maruti,Maruti SwiftVDI Optional,2017,"88,000kms",Diesel,Manual,₹5.50 Lakh,pune
+Hyundai,Hyundai i201.2 Asta,2012,"1,28,000kms",Petrol,Manual,₹2.99 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.2,2013,"76,000kms",Petrol,Manual,₹2.99 Lakh,pune
+Maruti,Maruti Swift DzireLDI,2012,"1,10,000kms",Diesel,Manual,₹3.50 Lakh,pune
+Honda,Honda Jazz1.2 SV i VTEC,2015,"68,000kms",Petrol,Manual,₹3.60 Lakh,pune
+Maruti,Maruti Swift DzireVXI 1.2,2020,"72,000kms",Petrol,Manual,₹5.50 Lakh,pune
+Honda,Honda Jazz1.2 V i VTEC,2016,"63,000kms",Petrol,Manual,₹4.65 Lakh,pune
+Honda,Honda CityS,2013,"1,02,000kms",Petrol,Manual,₹3.30 Lakh,pune
+Honda,Honda Jazz1.2 V AT i VTEC,2015,"89,000kms",Petrol,Automatic,₹4.15 Lakh,pune
+Maruti,Maruti Ignis1.2 AMT Zeta BSIV,2017,"97,354kms",Petrol,Automatic,₹4.30 Lakh,pune
+Hyundai,Hyundai Grand i10Magna,2015,"97,000kms",Petrol,Manual,₹3.65 Lakh,pune
+Hyundai,Hyundai Grand i10Asta,2015,"65,000kms",Petrol,Manual,₹4.15 Lakh,pune
+Toyota,Toyota Glanza V CVT,2020,"70,840 kms",Petrol,Automatic,₹5.86 Lakh,pune
+Maruti,Maruti Celerio ZXI,2016,"81,350 kms",Petrol,Manual,₹3.23 Lakh,pune
+Honda,Honda Amaze V CVT,2024,"14,141 kms",Petrol,Automatic,₹8.70 Lakh,pune
+Ford,Ford Figo Trend,2018,"37,637 kms",Petrol,Manual,₹4.05 Lakh,pune
+Honda,Honda Jazz VX,2016,"53,338 kms",Petrol,Manual,₹4.55 Lakh,pune
+Maruti,Maruti Wagon R VXI,2014,"1,54,440 kms",Petrol,Manual,₹2.43 Lakh,pune
+Hyundai,Hyundai i10 Magna 1.1,2013,"42,110 kms",Petrol,Manual,₹2.47 Lakh,pune
+Tata,Tata Altroz XZA Plus DCT,2022,"33,465 kms",Petrol,Automatic,₹7.07 Lakh,pune
+Honda,Honda Jazz 1.2 SV i VTEC,2016,"77,326 kms",Petrol,Manual,₹3.65 Lakh,pune
+Hyundai,Hyundai Venue SX Opt Turbo,2021,"15,847 kms",Petrol,Manual,₹9.35 Lakh,pune
+Volkswagen,Volkswagen Polo Petrol Highline 1.2L,2014,"1,26,369 kms",Petrol,Manual,₹3.66 Lakh,pune
+Hyundai,Hyundai Grand i10 Nios AMT Sportz,2020,"53,521 kms",Petrol,Automatic,₹4.59 Lakh,pune
+Maruti,Maruti Ciaz Alpha AT BSVI,2020,"52,387 kms",Petrol,Automatic,₹6.83 Lakh,pune
+Maruti,Maruti Celerio X AMT ZXI BSIV,2018,"13,586 kms",Petrol,Automatic,₹3.74 Lakh,pune
+Hyundai,Hyundai i20 Sportz 1.2,2013,"68,998 kms",Petrol,Manual,₹3 Lakh,pune
+Maruti,Maruti Wagon R VXI,2015,"68,911 kms",Petrol,Manual,₹3 Lakh,pune
+Hyundai,Hyundai i20 Sportz 1.2,2017,"34,864 kms",Petrol,Manual,₹4.59 Lakh,pune
+Hyundai,Hyundai Grand i10 Asta,2015,"45,424 kms",Petrol,Manual,₹3.58 Lakh,pune
+Maruti,Maruti Swift Dzire VXI 1.2,2019,"42,205 kms",Petrol,Manual,₹4.81 Lakh,pune
+Renault,Renault KWID RXT,2016,"64,733 kms",Petrol,Manual,₹2.49 Lakh,pune
+Hyundai,Hyundai Creta1.6 VTVT SX Plus,2015,"55,000kms",Petrol,Manual,₹5.99 Lakh,pune
+Honda,Honda Cityi VTEC V,2016,"58,647kms",Petrol,Manual,₹6 Lakh,pune
+Maruti,Maruti Baleno1.2 Alpha,2016,"76,000kms",Petrol,Manual,₹4.85 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.2,2016,"69,000kms",Petrol,Manual,₹4.69 Lakh,pune
+Honda,Honda BrioS MT,2018,"63,215kms",Petrol,Manual,₹3.55 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Magna AT,2018,"44,500kms",Petrol,Automatic,₹4.65 Lakh,pune
+Honda,Honda JazzX,2012,"84,937kms",Petrol,Manual,₹3.10 Lakh,pune
+Honda,Honda City1.5 S MT,2013,"1,05,655kms",Petrol,Manual,₹3.30 Lakh,pune
+Honda,Honda BrioVX AT,2015,"72,000kms",Petrol,Automatic,₹3.15 Lakh,pune
+Maruti,Maruti Wagon RLXI BS IV,2011,"85,000kms",Petrol,Manual,₹2.40 Lakh,pune
+Renault,Renault KWID1.0 RXT Opt BSIV,2019,"32,000kms",Petrol,Manual,₹3.50 Lakh,pune
+Honda,Honda JazzBasic,2012,"86,233kms",Petrol,Manual,₹2.60 Lakh,pune
+Ford,Ford FigoDiesel EXI,2014,"89,000kms",Diesel,Manual,₹2.60 Lakh,pune
+Skoda,Skoda Rapid1.6 MPI Elegance Plus,2015,"51,000kms",Petrol,Manual,₹4.85 Lakh,pune
+Volkswagen,Volkswagen Polo1.2 MPI Comfortline,2015,"55,000kms",Petrol,Manual,₹4.25 Lakh,pune
+Hyundai,Hyundai i10Sportz 1.1L,2015,"63,000kms",Petrol,Manual,₹3.51 Lakh,pune
+Maruti,Maruti Swift DzireZXI,2014,"82,000kms",Petrol,Manual,₹4.15 Lakh,pune
+Toyota,Toyota Corolla Altis1.8 J,2013,"59,000kms",Petrol,Manual,₹3.85 Lakh,pune
+Skoda,Skoda Fabia1.2 TDI Ambition Plus,2013,"94,000kms",Diesel,Manual,₹2.75 Lakh,pune
+Tata,Tata Tiago1.2 Revotron XZ,2016,"65,000kms",Petrol,Manual,₹3.45 Lakh,pune
+Hyundai,Hyundai i10Sportz 1.1L,2015,"63,000kms",Petrol,Manual,₹3.51 Lakh,pune
+Maruti,Maruti Swift DzireZXI,2014,"82,000kms",Petrol,Manual,₹4.15 Lakh,pune
+Toyota,Toyota Corolla Altis1.8 J,2013,"59,000kms",Petrol,Manual,₹3.85 Lakh,pune
+Skoda,Skoda Fabia1.2 TDI Ambition Plus,2013,"94,000kms",Diesel,Manual,₹2.75 Lakh,pune
+Tata,Tata Tiago1.2 Revotron XZ,2016,"65,000kms",Petrol,Manual,₹3.45 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2019,"65,000kms",Petrol,Manual,₹4.75 Lakh,pune
+Volkswagen,Volkswagen Vento1.2 TSI Comfortline AT,2014,"85,000kms",Petrol,Automatic,₹4.35 Lakh,pune
+Volkswagen,Volkswagen Vento1.2 TSI Comfortline AT,2015,"78,000kms",Petrol,Automatic,₹4.55 Lakh,pune
+Ford,Ford Ecosport1.5 Petrol Titanium BSIV,2017,"68,827kms",Petrol,Manual,₹5.95 Lakh,pune
+Honda,Honda Cityi VTEC CVT SV,2014,"69,615kms",Petrol,Automatic,₹4.25 Lakh,pune
+Land Rover,Land Rover Range Rover Evoque2.0 TD4 HSE,2018,"85,000kms",Diesel,Automatic,₹27.75 Lakh,pune
+Honda,Honda BrioS MT,2014,"78,000kms",Petrol,Manual,₹2.75 Lakh,pune
+Honda,Honda Cityi VTEC VX,2017,"1,06,000kms",Petrol,Manual,₹6.50 Lakh,pune
+Hyundai,Hyundai Grand i10Magna,2016,"10,000kms",Petrol,Manual,₹4.41 Lakh,pune
+Hyundai,Hyundai i20Asta 1.2,2013,"84,000kms",Petrol,Manual,₹3.10 Lakh,pune
+Volkswagen,Volkswagen Vento1.6 Highline,2017,"53,000kms",Petrol,Manual,₹6.25 Lakh,pune
+Hyundai,Hyundai Creta1.4 EX Diesel,2020,"54,000kms",Diesel,Manual,₹10.20 Lakh,pune
+Honda,Honda BrioExclusive Edition,2013,"72,000kms",Petrol,Manual,₹2.90 Lakh,pune
+Honda,Honda JazzV CVT,2018,"58,000kms",Petrol,Automatic,₹5.40 Lakh,pune
+Maruti,Maruti Baleno1.2 Zeta,2016,"48,000kms",Petrol,Manual,₹4.70 Lakh,pune
+Tata,Tata AltrozXZ,2022,"35,820kms",Petrol,Manual,₹7.83 Lakh,pune
+Tata,Tata AltrozXZ Diesel,2021,"51,807kms",Diesel,Manual,₹7.20 Lakh,pune
+Hyundai,Hyundai Grand i10 NiosAsta,2021,"41,176kms",Petrol,Manual,₹5.35 Lakh,pune
+Maruti,Maruti SwiftLDI,2015,"1,02,867kms",Diesel,Manual,₹3.69 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2013,"93,343kms",Petrol,Manual,₹2.58 Lakh,pune
+Honda,Honda Cityi VTEC S,2015,"65,266kms",Petrol,Manual,₹3.61 Lakh,pune
+Hyundai,Hyundai SantroAsta AMT,2021,"21,067kms",Petrol,Automatic,₹4.15 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2017,"1,03,882kms",Petrol,Manual,₹3.05 Lakh,pune
+Maruti,Maruti BrezzaZxi DT BSVI,2023,"33,458kms",Petrol,Manual,₹9.80 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2014,"45,890kms",Petrol,Manual,₹2.84 Lakh,pune
+Volkswagen,Volkswagen Polo1.2 MPI Highline,2015,"34,158kms",Petrol,Manual,₹3.49 Lakh,pune
+Maruti,Maruti BalenoAlpha Diesel,2017,"85,488kms",Diesel,Manual,₹4.93 Lakh,pune
+Hyundai,Hyundai i10Sportz 1.1L,2014,"50,355kms",Petrol,Manual,₹2.76 Lakh,pune
+Honda,Honda AmazeS i-VTEC,2015,"21,576kms",Petrol,Manual,₹4.39 Lakh,pune
+Honda,Honda BrioV MT,2012,"74,152kms",Petrol,Manual,₹2.52 Lakh,pune
+Maruti,Maruti Ignis1.2 Delta BSIV,2018,"35,480kms",Petrol,Manual,₹3.34 Lakh,pune
+Maruti,Maruti Alto 800LXI CNG,2016,"51,346kms",CNG,Manual,₹3.04 Lakh,pune
+Tata,Tata Tiago1.05 Revotorq XZ,2018,"1,47,128kms",Diesel,Manual,₹3.15 Lakh,pune
+Hyundai,Hyundai i20Magna 1.2,2019,"48,975kms",Petrol,Manual,₹5.34 Lakh,pune
+Toyota,Toyota Etios Liva1.2 V Dual Tone,2018,"34,308kms",Petrol,Manual,₹4.10 Lakh,pune
+Toyota,Toyota Corolla AltisVL,2012,"69,889kms",Petrol,Automatic,₹3.65 Lakh,pune
+Toyota,Toyota Corolla Altis1.8 G CNG,2013,"47,763kms",CNG,Manual,₹3.75 Lakh,pune
+Toyota,Toyota GlanzaG,2022,"27,000kms",Petrol,Manual,₹5.60 Lakh,pune
+Volkswagen,Volkswagen Ameo1.5 TDI Comfortline,2017,"91,000kms",Diesel,Manual,₹4.01 Lakh,pune
+Hyundai,Hyundai Verna1.6 SX VTVT (O),2014,"90,000kms",Petrol,Manual,₹3.50 Lakh,pune
+Hyundai,Hyundai i20Magna 1.2,2017,"66,000kms",Petrol,Manual,₹4.75 Lakh,pune
+Honda,Honda AmazeS i-Vtech,2013,"79,000kms",Petrol,Manual,₹2.75 Lakh,pune
+Honda,Honda AmazeS Diesel,2015,"1,79,172kms",Diesel,Manual,₹5.50 Lakh,pune
+Honda,Honda Cityi VTEC CVT VX,2015,"79,000kms",Petrol,Automatic,₹5.45 Lakh,pune
+Hyundai,Hyundai Creta1.6 VTVT SX Plus,2015,"91,000kms",Petrol,Manual,₹6.41 Lakh,pune
+Hyundai,Hyundai i20Sportz Option 1.4 CRDi,2015,"45,420kms",Diesel,Manual,₹5.99 Lakh,pune
+Maruti,Maruti Swift DzireVDI,2015,"87,000kms",Diesel,Manual,₹5.51 Lakh,pune
+Honda,Honda CityVX MT,2020,"77,221kms",Petrol,Manual,₹9.95 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2015,"88,500kms",Petrol,Manual,₹5.60 Lakh,pune
+Volkswagen,Volkswagen VentoDiesel Highline,2013,"71,000kms",Diesel,Manual,₹3.35 Lakh,pune
+Maruti,Maruti Baleno1.2 Delta,2019,"57,000kms",Petrol,Manual,₹5.15 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2015,"74,500kms",Petrol,Manual,₹4.50 Lakh,pune
+Maruti,Maruti CiazZDi SHVS,2016,"62,000kms",Diesel,Manual,₹6.75 Lakh,pune
+Maruti,Maruti CelerioZXI AT,2016,"38,000kms",Petrol,Automatic,₹3.60 Lakh,pune
+Hyundai,Hyundai i20Sportz Option 1.2,2015,"40,153kms",Petrol,Manual,₹4.40 Lakh,pune
+Maruti,Maruti Ciaz1.4 Alpha,2018,"60,000kms",Petrol,Manual,₹6.75 Lakh,pune
+Maruti,Maruti Swift DzireVXI Optional,2016,"44,000kms",Petrol,Manual,₹5.11 Lakh,pune
+Maruti,Maruti Swift DzireZXI,2013,"85,000kms",Petrol,Manual,₹3.65 Lakh,pune
+Hyundai,Hyundai VenueSX Opt Diesel,2022,"50,500kms",Diesel,Manual,₹9.75 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.4 CRDi,2014,"1,03,000kms",Diesel,Manual,₹5.15 Lakh,pune
+Tata,Tata TigorXZ Plus BSVI,2022,"58,000kms",Petrol,Manual,₹6.25 Lakh,pune
+Hyundai,Hyundai Grand i10Asta Option AT,2016,"51,000kms",Petrol,Automatic,₹4.65 Lakh,pune
+Hyundai,Hyundai i20Magna 1.2,2017,"66,000kms",Petrol,Manual,₹4.75 Lakh,pune
+Honda,Honda AmazeS i-Vtech,2013,"79,000kms",Petrol,Manual,₹2.75 Lakh,pune
+Skoda,Skoda Fabia1.2 TDI Ambition Plus,2013,"67,000kms",Diesel,Manual,₹2.75 Lakh,pune
+Audi,Audi A62.0 TDI,2011,"98,000kms",Diesel,Automatic,₹6.25 Lakh,pune
+Maruti,Maruti CelerioZXI AT,2016,"38,000kms",Petrol,Automatic,₹3.60 Lakh,pune
+Jeep,Jeep Compass2.0 Limited,2017,"92,000kms",Diesel,Manual,₹6.79 Lakh,pune
+Maruti,Maruti SwiftVDI BSIV,2015,"79,000kms",Diesel,Manual,₹5 Lakh,pune
+Hyundai,Hyundai VenueSX Diesel BSIV,2019,"84,000kms",Diesel,Manual,₹8.75 Lakh,pune
+Tata,Tata TiagoXZA Plus AMT BSVI,2021,"31,000kms",Petrol,Automatic,₹5.45 Lakh,pune
+Ford,Ford AspireTitanium Plus Diesel BSIV,2018,"85,000kms",Diesel,Manual,₹4.50 Lakh,pune
+Volkswagen,Volkswagen Vento1.6 Highline,2017,"53,000kms",Petrol,Manual,₹6.25 Lakh,pune
+Honda,Honda CityCVT,2017,"27,184kms",Petrol,Automatic,₹6.10 Lakh,pune
+Hyundai,Hyundai Creta1.4 E Plus CRDi,2018,"98,000kms",Diesel,Manual,₹8.50 Lakh,pune
+Maruti,Maruti SwiftZDI BSIV,2017,"70,200kms",Diesel,Manual,₹6.25 Lakh,pune
+Volkswagen,Volkswagen Vento1.2 TSI Highline Plus AT,2017,"60,000kms",Petrol,Automatic,₹7.50 Lakh,pune
+Renault,Renault KigerRXT Opt,2023,"16,000kms",Petrol,Manual,₹6.75 Lakh,pune
+Volkswagen,Volkswagen Polo1.2 MPI Highline,2014,"62,000kms",Petrol,Manual,₹4 Lakh,pune
+Volkswagen,Volkswagen PoloGT TSI,2017,"48,000kms",Petrol,Automatic,₹5.95 Lakh,pune
+Honda,Honda Cityi VTEC V,2014,"70,938kms",Petrol,Manual,₹4.85 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2019,"92,000kms",Petrol,Manual,₹4.25 Lakh,pune
+Maruti,Maruti Swift DzireVXI 1.2,2017,"42,000kms",Petrol,Manual,₹4.75 Lakh,pune
+Tata,Tata TiagoXZA Plus AMT BSVI,2021,"31,000kms",Petrol,Automatic,₹5.45 Lakh,pune
+Ford,Ford AspireTitanium Plus Diesel BSIV,2018,"85,000kms",Diesel,Manual,₹4.50 Lakh,pune
+Maruti,Maruti SwiftVXI,2011,"66,000kms",Petrol,Manual,₹2.50 Lakh,pune
+Skoda,Skoda OctaviaElegance 2.0 TDI AT,2013,"99,650kms",Diesel,Automatic,₹5.70 Lakh,pune
+Ford,Ford EcosportSports Diesel,2020,"90,000kms",Diesel,Manual,₹8.25 Lakh,pune
+Maruti,Maruti Swift DzireZXI,2013,"85,000kms",Petrol,Manual,₹3.65 Lakh,pune
+Hyundai,Hyundai VenueSX Opt Diesel,2022,"50,500kms",Diesel,Manual,₹9.75 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.4 CRDi,2014,"1,03,000kms",Diesel,Manual,₹5.15 Lakh,pune
+Maruti,Maruti Ciaz1.4 Alpha,2018,"60,000kms",Petrol,Manual,₹6.75 Lakh,pune
+Honda,Honda Cityi-VTEC S,2018,"55,000kms",Petrol,Manual,₹6 Lakh,pune
+Maruti,Maruti Baleno1.2 Zeta,2018,"67,000kms",Petrol,Manual,₹4.80 Lakh,pune
+Volkswagen,Volkswagen Vento1.5 TDI Highline AT,2016,"1,13,000kms",Diesel,Automatic,₹5.50 Lakh,pune
+Maruti,Maruti Swift DzireVDI,2015,"87,000kms",Diesel,Manual,₹5.51 Lakh,pune
+Honda,Honda CityVX MT,2020,"77,221kms",Petrol,Manual,₹9.95 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2015,"88,500kms",Petrol,Manual,₹5.60 Lakh,pune
+Volkswagen,Volkswagen VentoDiesel Highline,2013,"71,000kms",Diesel,Manual,₹3.35 Lakh,pune
+Maruti,Maruti Wagon RLXI CNG,2013,"80,000kms",CNG,Manual,₹3 Lakh,pune
+Nissan,Nissan MicraXV CVT,2014,"82,000kms",Petrol,Automatic,₹2.70 Lakh,pune
+Maruti,Maruti SwiftVXI,2011,"66,000kms",Petrol,Manual,₹2.50 Lakh,pune
+Skoda,Skoda OctaviaElegance 2.0 TDI AT,2013,"99,650kms",Diesel,Automatic,₹5.70 Lakh,pune
+Renault,Renault KWID1.0 RXT,2017,"65,791kms",Petrol,Manual,₹3.25 Lakh,pune
+Tata,Tata Tiago1.2 Revotron XZ,2019,"56,393kms",Petrol,Manual,₹4.90 Lakh,pune
+Toyota,Toyota Etios LivaGD,2013,"93,808kms",Diesel,Manual,₹3.80 Lakh,pune
+Honda,Honda BrioVX AT,2017,"35,017kms",Petrol,Automatic,₹4.60 Lakh,pune
+Volkswagen,Volkswagen Polo1.5 TDI Comfortline,2016,"76,097kms",Diesel,Manual,₹4.80 Lakh,pune
+Honda,Honda Jazz1.5 V i DTEC,2015,"76,000kms",Diesel,Manual,₹4.75 Lakh,pune
+Hyundai,Hyundai i10Magna 1.1L,2015,"27,169kms",Petrol,Manual,₹2.75 Lakh,pune
+Renault,Renault KWID1.0 RXL BSVI,2021,"22,000kms",Petrol,Manual,₹3.85 Lakh,pune
+Hyundai,Hyundai EOND Lite Plus,2016,"98,847kms",Petrol,Manual,₹2.85 Lakh,pune
+Maruti,Maruti BalenoDelta CVT,2022,"51,918kms",Petrol,Automatic,₹6.95 Lakh,pune
+Tata,Tata TiagoXT BSVI,2020,"54,105kms",Petrol,Manual,₹4.75 Lakh,pune
+Maruti,Maruti Wagon RLXI CNG,2019,"1,06,000kms",CNG,Manual,₹4.80 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Asta,2014,"1,23,232kms",Petrol,Manual,₹3.32 Lakh,pune
+Maruti,Maruti Alto K10VXI AMT,2015,"46,619kms",Petrol,Automatic,₹2.97 Lakh,pune
+Honda,Honda Cityi VTEC V,2015,"90,156kms",Petrol,Manual,₹3.74 Lakh,pune
+Volkswagen,Volkswagen PoloGT TSI,2017,"59,524kms",Petrol,Automatic,₹4.84 Lakh,pune
+Tata,Tata Tiago1.2 Revotron XZA,2018,"1,45,004kms",Petrol,Automatic,₹3.33 Lakh,pune
+Hyundai,Hyundai Grand i10Magna,2016,"10,000kms",Petrol,Manual,₹4.41 Lakh,pune
+Maruti,Maruti Wagon RAMT VXI,2016,"60,000kms",Petrol,Automatic,₹2.95 Lakh,pune
+Tata,Tata Tiago1.05 Revotorq XZ,2018,"96,000kms",Diesel,Manual,₹4.15 Lakh,pune
+Honda,Honda AmazeS i-Vtech,2015,"75,000kms",Petrol,Manual,₹3.45 Lakh,pune
+Hyundai,Hyundai i20Sportz Option 1.2,2015,"40,153kms",Petrol,Manual,₹4.40 Lakh,pune
+Honda,Honda Cityi-VTEC S,2018,"55,000kms",Petrol,Manual,₹6 Lakh,pune
+Maruti,Maruti Baleno1.2 Zeta,2018,"67,000kms",Petrol,Manual,₹4.80 Lakh,pune
+Volkswagen,Volkswagen Vento1.5 TDI Highline AT,2016,"1,13,000kms",Diesel,Automatic,₹5.50 Lakh,pune
+Honda,Honda AmazeS Diesel,2018,"68,359kms",Diesel,Manual,₹6 Lakh,pune
+Maruti,Maruti Alto 800CNG LXI,2015,"91,000kms",CNG,Manual,₹2.55 Lakh,pune
+Maruti,Maruti CelerioVXI CNG Optional,2020,"87,000kms",CNG,Manual,₹4.95 Lakh,pune
+Maruti,Maruti Alto 800CNG LXI,2016,"86,000kms",CNG,Manual,₹2.75 Lakh,pune
+Maruti,Maruti SwiftVXI BSVI,2022,"77,123kms",Petrol,Manual,₹6.25 Lakh,pune
+Volkswagen,Volkswagen Vento1.5 TDI Comfortline,2015,"87,000kms",Diesel,Manual,₹4.40 Lakh,pune
+Maruti,Maruti Wagon RVXI BS IV,2014,"77,000kms",Petrol,Manual,₹2.75 Lakh,pune
+Maruti,Maruti Wagon RLXI CNG,2016,"71,200kms",CNG,Manual,₹3.85 Lakh,pune
+Tata,Tata Tiago1.2 Revotron XTA,2017,"64,000kms",Petrol,Automatic,₹4.50 Lakh,pune
+Maruti,Maruti Celerio XAMT ZXI BSIV,2019,"44,570kms",Petrol,Automatic,₹4.75 Lakh,pune
+Maruti,Maruti Wagon RLXI CNG,2013,"80,000kms",CNG,Manual,₹3 Lakh,pune
+Nissan,Nissan MicraXV CVT,2014,"82,000kms",Petrol,Automatic,₹2.70 Lakh,pune
+Hyundai,Hyundai i10Magna 1.1L,2015,"27,169kms",Petrol,Manual,₹2.75 Lakh,pune
+Renault,Renault KWID1.0 RXL BSVI,2021,"22,000kms",Petrol,Manual,₹3.85 Lakh,pune
+Hyundai,Hyundai EOND Lite Plus,2016,"98,847kms",Petrol,Manual,₹2.85 Lakh,pune
+Volkswagen,Volkswagen Ameo1.5 TDI Comfortline Plus AT,2018,"1,10,827kms",Diesel,Automatic,₹4.75 Lakh,pune
+Volkswagen,Volkswagen Vento1.2 TSI Highline Plus AT,2018,"49,000kms",Petrol,Automatic,₹7.25 Lakh,pune
+Honda,Honda Cityi-VTEC CVT ZX,2019,"34,341kms",Petrol,Automatic,₹8.75 Lakh,pune
+Renault,Renault KigerRXZ,2024,"13,409kms",Petrol,Manual,₹6.99 Lakh,pune
+Ford,Ford FigoDiesel EXI,2014,"89,000kms",Diesel,Manual,₹2.50 Lakh,pune
+Maruti,Maruti Swift DzireZXI,2012,"82,000kms",Petrol,Manual,₹3.55 Lakh,pune
+Tata,Tata TigorXZ Plus BSVI,2022,"58,000kms",Petrol,Manual,₹6.25 Lakh,pune
+Hyundai,Hyundai Grand i10Asta Option AT,2016,"51,000kms",Petrol,Automatic,₹4.65 Lakh,pune
+Tata,Tata HarrierXZA Plus AT,2022,"59,188kms",Diesel,Automatic,₹15.63 Lakh,pune
+Mahindra,Mahindra XUV700AX5 5Str AT,2023,"11,301kms",Petrol,Automatic,₹17.99 Lakh,pune
+MG,MG Hector PlusSharp Pro 7 Str Diesel  -2025,2023,"57,045kms",Diesel,Manual,₹16.79 Lakh,pune
+Audi,Audi A635 TFSI Matrix,2016,"47,428kms",Petrol,Automatic,₹15.05 Lakh,pune
+Volkswagen,Volkswagen PoloExquisite 1.2 MPI Highline,2015,"55,000kms",Petrol,Manual,₹3.90 Lakh,pune
+Mercedes-Benz,Mercedes-Benz E-ClassE250 CDI,2014,"85,000kms",Diesel,Automatic,₹15.50 Lakh,pune
+Tata,Tata HarrierXZA Plus AT,2022,"59,188kms",Diesel,Automatic,₹15.63 Lakh,pune
+MG,MG Hector PlusSharp Pro 7 Str Diesel  -2025,2023,"57,045kms",Diesel,Manual,₹16.79 Lakh,pune
+Mahindra,Mahindra XUV700AX5 5Str AT,2023,"11,301kms",Petrol,Automatic,₹17.99 Lakh,pune
+Audi,Audi A635 TFSI Matrix,2016,"47,428kms",Petrol,Automatic,₹15.05 Lakh,pune
+Tata,Tata HarrierXZA Plus AT BSVI,2021,"77,500kms",Diesel,Automatic,₹16.50 Lakh,pune
+Audi,Audi A435 TDI Premium Plus,2017,"68,700kms",Diesel,Automatic,₹19.50 Lakh,pune
+Tata,Tata SafariXZ BSVI,2021,"89,500kms",Diesel,Manual,₹15.25 Lakh,pune
+Tata,Tata HarrierXZA Plus AT BSVI,2020,"78,814kms",Diesel,Automatic,₹15.11 Lakh,pune
+Audi,Audi Q330 TDI Premium FWD,2018,"78,798kms",Diesel,Automatic,₹18.50 Lakh,pune
+Volkswagen,Volkswagen Passat2.0 TDI AT Highline,2019,"88,000kms",Diesel,Automatic,₹19.25 Lakh,pune
+Mercedes-Benz,Mercedes-Benz C-ClassC 200 Avantgarde Edition C,2017,"56,300kms",Petrol,Automatic,₹17.50 Lakh,pune
+Mercedes-Benz,Mercedes-Benz GLC220d 4MATIC,2022,"55,300kms",Diesel,Automatic,₹48 Lakh,pune
+Volkswagen,Volkswagen Taigun1.0 TSI Topline BSVI,2022,"76,808kms",Petrol,Manual,₹10.35 Lakh,pune
+Hyundai,Hyundai VernaCRDi 1.4 EX,2019,"67,423kms",Diesel,Manual,₹8.50 Lakh,pune
+Tata,Tata ZestRevotron 1.2 XT,2015,"1,23,079kms",Petrol,Manual,₹2.89 Lakh,pune
+Maruti,Maruti Alto 800VXI,2015,"57,992kms",Petrol,Manual,₹2.06 Lakh,pune
+Ford,Ford FigoAmbiente BSIV,2011,"38,985kms",Petrol,Manual,₹2.04 Lakh,pune
+Maruti,Maruti Alto K10VXI,2017,"73,421kms",Petrol,Manual,₹2.83 Lakh,pune
+Hyundai,Hyundai VernaCRDi 1.4 EX,2019,"67,423kms",Diesel,Manual,₹8.50 Lakh,pune
+Tata,Tata ZestRevotron 1.2 XT,2015,"1,23,079kms",Petrol,Manual,₹2.89 Lakh,pune
+Maruti,Maruti Alto 800VXI,2015,"57,992kms",Petrol,Manual,₹2.06 Lakh,pune
+Ford,Ford FigoAmbiente BSIV,2011,"38,985kms",Petrol,Manual,₹2.04 Lakh,pune
+Maruti,Maruti Alto K10VXI,2017,"73,421kms",Petrol,Manual,₹2.83 Lakh,pune
+Renault,Renault KWIDRXT Optional,2019,"93,218kms",Petrol,Manual,₹2.64 Lakh,pune
+Datsun,Datsun RediGOT Option,2018,"97,153kms",Petrol,Manual,₹1.46 Lakh,pune
+Maruti,Maruti Alto 800LXi,2015,"53,749kms",Petrol,Manual,₹2.30 Lakh,pune
+Hyundai,Hyundai i10Era 1.1 iTech SE,2011,"75,875kms",Petrol,Manual,₹1.80 Lakh,pune
+Renault,Renault KWID1.0 AMT RXT,2018,"1,23,971kms",Petrol,Automatic,₹2.39 Lakh,pune
+Maruti,Maruti Wagon RLXI CNG,2015,"82,833kms",CNG,Manual,₹2.62 Lakh,pune
+Tata,Tata Tiago1.2 Revotron XT,2016,"82,945kms",Petrol,Manual,₹2.62 Lakh,pune
+Tata,Tata ZestQuadrajet 1.3 XT,2014,"1,02,801kms",Diesel,Manual,₹2.63 Lakh,pune
+Maruti,Maruti Alto 800VXI,2016,"65,550kms",Petrol,Manual,₹2.19 Lakh,pune
+Renault,Renault KWIDRXL BSIV,2020,"26,000kms",Petrol,Manual,₹2.99 Lakh,pune
+Tata,Tata BoltRevotron XMS,2015,"55,000kms",Petrol,Manual,₹2.70 Lakh,pune
+Jaguar,Jaguar XF2.2 Litre Luxury,2015,"46,700kms",Diesel,Automatic,₹15 Lakh,pune
+Volkswagen,Volkswagen Ameo1.2 MPI Comfortline Plus,2017,"57,000kms",Petrol,Manual,₹4.85 Lakh,pune
+Tata,Tata Tiago1.2 Revotron XZ Plus,2019,"96,458kms",Petrol,Manual,₹4.30 Lakh,pune
+Volkswagen,Volkswagen Polo1.0 TSI Highline Plus,2020,"1,11,554kms",Petrol,Manual,₹5.08 Lakh,pune
+Tata,Tata BoltRevotron XMS,2015,"55,000kms",Petrol,Manual,₹2.70 Lakh,pune
+Jaguar,Jaguar XF2.2 Litre Luxury,2015,"46,700kms",Diesel,Automatic,₹15 Lakh,pune
+Tata,Tata Tiago1.2 Revotron XZ Plus,2019,"96,458kms",Petrol,Manual,₹4.30 Lakh,pune
+Maruti,Maruti ErtigaVXI,2012,"52,043kms",Petrol,Manual,₹4.40 Lakh,pune
+Hyundai,Hyundai SantroSportz CNG,2022,"28,381kms",CNG,Manual,₹4.38 Lakh,pune
+Maruti,Maruti ErtigaZXI,2013,"1,22,846kms",Petrol,Manual,₹4.55 Lakh,pune
+Hyundai,Hyundai Creta1.6 Gamma SX Plus,2016,"1,14,301kms",Petrol,Manual,₹5.71 Lakh,pune
+Maruti,Maruti S-PressoVXI Opt CNG,2022,"25,190kms",CNG,Manual,₹4.58 Lakh,pune
+Maruti,Maruti ErtigaZXI,2014,"47,925kms",Petrol,Manual,₹4.95 Lakh,pune
+Maruti,Maruti Alto 800LXI Opt,2022,"33,738kms",Petrol,Manual,₹3.42 Lakh,pune
+Tata,Tata Nexon1.2 Revotron XM,2018,"55,956kms",Petrol,Manual,₹5 Lakh,pune
+Honda,Honda MobilioV i-VTEC,2015,"37,889kms",Petrol,Manual,₹4.73 Lakh,pune
+Hyundai,Hyundai Grand i10 NiosSportz CNG,2021,"67,634kms",CNG,Manual,₹4.98 Lakh,pune
+Volkswagen,Volkswagen Polo1.0 TSI Highline Plus,2020,"1,11,554kms",Petrol,Manual,₹5.08 Lakh,pune
+Hyundai,Hyundai AuraS CNG,2022,"27,951kms",CNG,Manual,₹5.54 Lakh,pune
+Tata,Tata TiagoXZA AMT CNG,2018,"44,875kms",CNG,Automatic,₹4.07 Lakh,pune
+Maruti,Maruti Wagon RLXI CNG,2018,"57,961kms",CNG,Manual,₹3.59 Lakh,pune
+Tata,Tata TigorXZ Plus CNG BSVI,2022,"39,569kms",CNG,Manual,₹5.67 Lakh,pune
+Hyundai,Hyundai Grand i10 NiosSportz CNG,2021,"1,03,695kms",CNG,Manual,₹4.95 Lakh,pune
+Hyundai,Hyundai SantroSportz CNG,2022,"61,834kms",CNG,Manual,₹4.34 Lakh,pune
+Hyundai,Hyundai Grand i10 NiosSportz CNG,2021,"67,634kms",CNG,Manual,₹4.98 Lakh,pune
+Hyundai,Hyundai Creta1.6 Gamma SX Plus,2016,"1,14,301kms",Petrol,Manual,₹5.71 Lakh,pune
+Maruti,Maruti S-PressoVXI Opt CNG,2022,"25,190kms",CNG,Manual,₹4.58 Lakh,pune
+Maruti,Maruti ErtigaZXI,2014,"47,925kms",Petrol,Manual,₹4.95 Lakh,pune
+Hyundai,Hyundai SantroSportz CNG,2022,"28,381kms",CNG,Manual,₹4.38 Lakh,pune
+Maruti,Maruti ErtigaZXI,2013,"1,22,846kms",Petrol,Manual,₹4.55 Lakh,pune
+Maruti,Maruti Baleno1.2 CVT Zeta,2018,"60,000kms",Petrol,Automatic,₹5.75 Lakh,pune
+Volkswagen,Volkswagen Polo1.0 MPI Comfortline BSIV,2019,"56,000kms",Petrol,Manual,₹5.25 Lakh,pune
+Honda,Honda WR-Vi-DTEC S,2017,"65,000kms",Diesel,Manual,₹6 Lakh,pune
+Tata,Tata ZestRevotron 1.2 XT,2015,"64,000kms",Petrol,Manual,₹3.65 Lakh,pune
+Hyundai,Hyundai i20Asta 1.2,2017,"16,695kms",Petrol,Manual,₹5.95 Lakh,pune
+Honda,Honda AmazeVX Petrol,2020,"89,687kms",Petrol,Manual,₹5.95 Lakh,pune
+Honda,Honda Cityi VTEC VX,2016,"31,000kms",Petrol,Manual,₹5.90 Lakh,pune
+Volkswagen,Volkswagen Vento1.5 TDI Highline AT,2016,"76,000kms",Diesel,Automatic,₹5.75 Lakh,pune
+Maruti,Maruti Wagon RCNG LXI,2020,"59,000kms",CNG,Manual,₹4.95 Lakh,pune
+Maruti,Maruti CelerioVXI,2015,"21,600kms",Petrol,Manual,₹3.25 Lakh,pune
+Volkswagen,Volkswagen Polo1.0 MPI Comfortline,2020,"75,384kms",Petrol,Manual,₹5.55 Lakh,pune
+Volkswagen,Volkswagen Ameo1.2 MPI Highline,2017,"84,844kms",Petrol,Manual,₹4.35 Lakh,pune
+Volkswagen,Volkswagen Polo1.2 MPI Highline,2018,"74,000kms",Petrol,Manual,₹4.49 Lakh,pune
+Volkswagen,Volkswagen Polo1.0 MPI Highline Plus,2019,"65,212kms",Petrol,Manual,₹5.35 Lakh,pune
+Maruti,Maruti ErtigaVDI,2012,"76,000kms",Diesel,Manual,₹5 Lakh,pune
+Maruti,Maruti CelerioVXI,2014,"37,700kms",Petrol,Manual,₹3.25 Lakh,pune
+Maruti,Maruti CelerioVXI MT BSIV,2019,"1,00,000kms",Petrol,Manual,₹4.50 Lakh,pune
+Maruti,Maruti ErtigaZXI,2012,"96,000kms",Petrol,Manual,₹4.75 Lakh,pune
+Ford,Ford Ecosport1.5 TDCi Titanium BSIV,2016,"1,01,500kms",Diesel,Manual,₹5.75 Lakh,pune
+Honda,Honda Cityi VTEC V,2016,"72,000kms",Petrol,Manual,₹5.50 Lakh,pune
+Volkswagen,Volkswagen Ameo1.5 TDI Highline Plus AT,2017,"89,000kms",Diesel,Automatic,₹5.09 Lakh,pune
+Hyundai,Hyundai Grand i10Asta Option,2014,"54,000kms",Petrol,Manual,₹3.75 Lakh,pune
+Volkswagen,Volkswagen Ameo1.5 TDI Highline AT,2017,"65,500kms",Diesel,Automatic,₹4.49 Lakh,pune
+Maruti,Maruti CelerioVXI AMT BSVI,2023,"19,000kms",Petrol,Automatic,₹5.15 Lakh,pune
+Honda,Honda Cityi VTEC V,2016,"53,000kms",Petrol,Manual,₹5.70 Lakh,pune
+Hyundai,Hyundai i20Sportz Plus BSIV,2019,"52,000kms",Petrol,Manual,₹5.75 Lakh,pune
+Honda,Honda Cityi VTEC VX,2016,"31,000kms",Petrol,Manual,₹5.90 Lakh,pune
+Honda,Honda AmazeVX Petrol,2020,"89,687kms",Petrol,Manual,₹5.95 Lakh,pune
+Volkswagen,Volkswagen Vento1.5 TDI Highline AT,2016,"76,000kms",Diesel,Automatic,₹5.75 Lakh,pune
+Maruti,Maruti Wagon RCNG LXI,2020,"59,000kms",CNG,Manual,₹4.95 Lakh,pune
+Tata,Tata Tiago1.2 Revotron XZA,2017,"18,000kms",Petrol,Automatic,₹3.25 Lakh,pune
+Volkswagen,Volkswagen Polo1.0 MPI Comfortline,2020,"75,384kms",Petrol,Manual,₹5.55 Lakh,pune
+Volkswagen,Volkswagen Ameo1.2 MPI Highline,2017,"84,844kms",Petrol,Manual,₹4.35 Lakh,pune
+Honda,Honda AmazeS Petrol,2019,"54,203kms",Petrol,Manual,₹5.50 Lakh,pune
+Volkswagen,Volkswagen Ameo1.5 TDI Highline AT,2017,"65,500kms",Diesel,Automatic,₹4.49 Lakh,pune
+Maruti,Maruti CelerioVXI AMT BSVI,2023,"19,000kms",Petrol,Automatic,₹5.15 Lakh,pune
+Honda,Honda Cityi VTEC V,2016,"53,000kms",Petrol,Manual,₹5.70 Lakh,pune
+Hyundai,Hyundai i20Sportz Plus BSIV,2019,"52,000kms",Petrol,Manual,₹5.75 Lakh,pune
+Volkswagen,Volkswagen Ameo1.5 TDI Highline Plus AT,2017,"89,000kms",Diesel,Automatic,₹5.09 Lakh,pune
+Maruti,Maruti CelerioVXI,2015,"21,600kms",Petrol,Manual,₹3.25 Lakh,pune
+Volkswagen,Volkswagen Polo1.0 MPI Highline Plus,2019,"65,212kms",Petrol,Manual,₹5.35 Lakh,pune
+Tata,Tata Nexon1.2 Revotron XM,2018,"65,570kms",Petrol,Manual,₹5.95 Lakh,pune
+Volkswagen,Volkswagen Polo1.2 MPI Highline,2018,"74,000kms",Petrol,Manual,₹4.49 Lakh,pune
+Tata,Tata Tiago1.2 Revotron XZA,2017,"18,000kms",Petrol,Automatic,₹3.25 Lakh,pune
+Tata,Tata Tiago1.2 Revotron XZ Plus,2019,"96,458kms",Petrol,Manual,₹4.30 Lakh,pune
+Hyundai,Hyundai VenueSX Turbo Executive,2019,"1,17,312kms",Diesel,Manual,₹7.73 Lakh,pune
+Honda,Honda JazzVX,2021,"28,791kms",Petrol,Manual,₹7.28 Lakh,pune
+Honda,Honda JazzZX,2020,"1,24,589kms",Petrol,Manual,₹6.57 Lakh,pune
+Hyundai,Hyundai AuraSX CNG,2024,"21,312kms",CNG,Manual,₹7.60 Lakh,pune
+Tata,Tata TigorXZ Plus CNG BSVI,2022,"23,888kms",CNG,Manual,₹6.51 Lakh,pune
+Hyundai,Hyundai VenueSX Turbo Executive,2019,"53,890kms",Diesel,Manual,₹8.18 Lakh,pune
+Maruti,Maruti XL6Alpha AT,2021,"52,940kms",Petrol,Automatic,₹9.39 Lakh,pune
+Hyundai,Hyundai AuraSX CNG,2023,"11,084kms",CNG,Manual,₹7.45 Lakh,pune
+Hyundai,Hyundai Grand i10 NiosSportz CNG,2024,"44,528kms",CNG,Manual,₹6.48 Lakh,pune
+Maruti,Maruti Ciaz1.3 Alpha,2017,"95,000kms",Diesel,Manual,₹6.30 Lakh,pune
+Ford,Ford Ecosport1.5 TDCi Titanium BSIV,2016,"1,15,000kms",Diesel,Manual,₹6.75 Lakh,pune
+Maruti,Maruti ErtigaSHVS VDI,2017,"92,000kms",Diesel,Manual,₹8.25 Lakh,pune
+Hyundai,Hyundai Creta1.6 CRDi AT SX Plus,2018,"91,000kms",Diesel,Automatic,₹9.45 Lakh,pune
+Tata,Tata NexonXM S BSVI,2022,"35,000kms",Petrol,Manual,₹7.75 Lakh,pune
+Hyundai,Hyundai VernaVTVT 1.4 EX,2019,"22,930kms",Petrol,Manual,₹8.11 Lakh,pune
+Honda,Honda JazzVX CVT,2018,"48,525kms",Petrol,Automatic,₹6.75 Lakh,pune
+Toyota,Toyota Innova2.5 G (Diesel) 7 Seater,2014,"1,80,000kms",Diesel,Manual,₹6.85 Lakh,pune
+Maruti,Maruti ErtigaBSIV VXI,2017,"96,000kms",Petrol,Manual,₹6.85 Lakh,pune
+Volkswagen,Volkswagen Vento1.2 TSI Highline Plus BSIV,2019,"61,000kms",Petrol,Automatic,₹6.90 Lakh,pune
+Renault,Renault DusterRXS BSIV,2019,"27,009kms",Petrol,Manual,₹6.50 Lakh,pune
+Honda,Honda Cityi VTEC CVT VX,2015,"78,000kms",Petrol,Automatic,₹6.11 Lakh,pune
+Volkswagen,Volkswagen Polo1.2 MPI Highline Plus,2018,"57,000kms",Petrol,Manual,₹6.25 Lakh,pune
+Mahindra,Mahindra XUV500R W10 FWD,2017,"85,000kms",Diesel,Manual,₹8.30 Lakh,pune
+Tata,Tata AltrozXZ CNG,2023,"58,000kms",CNG,Manual,₹7.75 Lakh,pune
+Mahindra,Mahindra XUV500AT W10 FWD,2017,"1,03,000kms",Diesel,Automatic,₹9.80 Lakh,pune
+Maruti,Maruti Baleno1.3 Delta,2019,"91,000kms",Diesel,Manual,₹7 Lakh,pune
+Tata,Tata HexaXM,2019,"1,18,000kms",Diesel,Manual,₹8.75 Lakh,pune
+Hyundai,Hyundai VenueSX Turbo Executive,2019,"1,17,312kms",Diesel,Manual,₹7.73 Lakh,pune
+Honda,Honda JazzVX,2021,"28,791kms",Petrol,Manual,₹7.28 Lakh,pune
+Maruti,Maruti Vitara BrezzaZDi,2019,"86,997kms",Diesel,Manual,₹8.50 Lakh,pune
+Hyundai,Hyundai XcentPetrol,2017,"47,826kms",Petrol,Manual,₹4.79 Lakh,pune
+Tata,Tata AltrozXZ Diesel BSVI,2020,"66,605kms",Diesel,Manual,₹5.34 Lakh,pune
+Hyundai,Hyundai i20Sportz Plus BSIV,2019,"73,512kms",Petrol,Manual,₹4.95 Lakh,pune
+Maruti,Maruti Wagon RVXI,2011,"92,707kms",Petrol,Manual,₹2.30 Lakh,pune
+Maruti,Maruti Alto 800LXi,2018,"40,381kms",Petrol,Manual,₹2.74 Lakh,pune
+Hyundai,Hyundai VenueS Opt Turbo DCT,2024,"10,785kms",Petrol,Automatic,₹13 Lakh,pune
+Volkswagen,Volkswagen Tiguan2.0 TDI Comfortline,2018,"85,000kms",Diesel,Automatic,₹12.50 Lakh,pune
+Volvo,Volvo XC60D5 Inscription,2015,"80,000kms",Diesel,Automatic,₹15 Lakh,pune
+Audi,Audi Q73.0 TDI Quattro Premium Plus,2015,"99,100kms",Diesel,Automatic,₹14.50 Lakh,pune
+Kia,Kia SeltosHTX IVT,2023,"39,000kms",Petrol,Automatic,₹13.50 Lakh,pune
+Hyundai,Hyundai CretaSX Turbo BSVI,2020,"53,800kms",Petrol,Automatic,₹13.75 Lakh,pune
+Mahindra,Mahindra TharLX Hard Top Diesel,2023,"27,133kms",Diesel,Manual,₹13.92 Lakh,pune
+Maruti,Maruti BrezzaZxi AT,2023,"13,102kms",Petrol,Automatic,₹11.33 Lakh,pune
+Mahindra,Mahindra TharLX Hard Top AT RWD,2023,"7,009kms",Petrol,Automatic,₹12.74 Lakh,pune
+Maruti,Maruti XL6Alpha Plus AT BSVI,2023,"43,283kms",Petrol,Automatic,₹11.93 Lakh,pune
+Maruti,Maruti XL6Alpha Plus AT,2022,"87,379kms",Petrol,Automatic,₹10.68 Lakh,pune
+Kia,Kia SeltosGTX Plus S Turbo DCT,2020,"72,863kms",Petrol,Automatic,₹11.57 Lakh,pune
+Kia,Kia SeltosHTX IVT,2021,"1,12,025kms",Petrol,Automatic,₹11.59 Lakh,pune
+Mercedes-Benz,Mercedes-Benz B ClassB180 CDI,2014,"62,100kms",Diesel,Automatic,₹10 Lakh,pune
+Maruti,Maruti BrezzaZxi AT,2023,"13,102kms",Petrol,Automatic,₹11.33 Lakh,pune
+Mahindra,Mahindra TharLX Hard Top AT RWD,2023,"7,009kms",Petrol,Automatic,₹12.74 Lakh,pune
+Maruti,Maruti XL6Alpha Plus AT BSVI,2023,"43,283kms",Petrol,Automatic,₹11.93 Lakh,pune
+Kia,Kia SeltosGTX Plus S Turbo DCT,2020,"72,863kms",Petrol,Automatic,₹11.57 Lakh,pune
+Mercedes-Benz,Mercedes-Benz B ClassB180 CDI,2014,"62,100kms",Diesel,Automatic,₹10 Lakh,pune
+Hyundai,Hyundai Creta1.6 VTVT AT SX Plus,2016,"75,000kms",Petrol,Automatic,₹7.99 Lakh,pune
+Tata,Tata NexonXZA Plus (O) AMT,2022,"11,335kms",Petrol,Automatic,₹9.28 Lakh,pune
+Kia,Kia SonetHTX Turbo iMT BSVI,2022,"17,963kms",Petrol,Manual,₹7.83 Lakh,pune
+Maruti,Maruti CelerioZXI,2017,"41,750kms",Petrol,Manual,₹4.08 Lakh,pune
+Maruti,Maruti S-PressoLXI Opt CNG,2021,"30,757kms",CNG,Manual,₹4.18 Lakh,pune
+Hyundai,Hyundai Grand i10AT Asta,2016,"72,116kms",Petrol,Automatic,₹3.89 Lakh,pune
+Maruti,Maruti CiazDelta Diesel,2017,"38,025kms",Diesel,Automatic,₹5.15 Lakh,pune
+Maruti,Maruti Baleno1.2 CVT Alpha,2018,"98,462kms",Petrol,Automatic,₹5.19 Lakh,pune
+Maruti,Maruti Alto 800LXI Anniversary Edition,2015,"40,596kms",Petrol,Manual,₹2.32 Lakh,pune
+Tata,Tata Tiago1.2 Revotron XT,2016,"1,09,669kms",Petrol,Manual,₹2.97 Lakh,pune
+BMW,BMW X1sDrive20d xLine,2020,"36,300kms",Diesel,Automatic,₹30.50 Lakh,pune
+Hyundai,Hyundai i20Petrol CVT Asta,2018,"28,500kms",Petrol,Automatic,₹7.35 Lakh,pune
+Maruti,Maruti FRONXDelta Plus,2024,"10,785kms",Petrol,Manual,₹8.26 Lakh,pune
+Tata,Tata AltrozXZ Diesel BSVI,2022,"60,344kms",Diesel,Manual,₹6.98 Lakh,pune
+Tata,Tata NexonXZ Plus BSVI,2022,"47,950kms",Petrol,Manual,₹7.03 Lakh,pune
+BMW,BMW X1sDrive20d xLine,2020,"36,300kms",Diesel,Automatic,₹30.50 Lakh,pune
+Maruti,Maruti FRONXDelta Plus,2024,"10,785kms",Petrol,Manual,₹8.26 Lakh,pune
+Tata,Tata AltrozXZ Diesel BSVI,2022,"60,344kms",Diesel,Manual,₹6.98 Lakh,pune
+Tata,Tata NexonXZ Plus BSVI,2022,"47,950kms",Petrol,Manual,₹7.03 Lakh,pune
+Hyundai,Hyundai i20Petrol CVT Asta,2018,"28,500kms",Petrol,Automatic,₹7.35 Lakh,pune
+Renault,Renault DusterRXS BSIV,2019,"57,795kms",Petrol,Manual,₹5.07 Lakh,pune
+Honda,Honda Cityi DTEC V,2014,"84,000kms",Diesel,Manual,₹4.81 Lakh,pune
+Maruti,Maruti Wagon RVXI BS IV,2013,"53,988kms",Petrol,Manual,₹2.37 Lakh,pune
+Maruti,Maruti XL6Zeta CNG,2024,"51,000kms",CNG,Manual,₹10.95 Lakh,pune
+Hyundai,Hyundai AuraSX CNG,2024,"40,654kms",CNG,Manual,₹7.36 Lakh,pune
+Ford,Ford Ecosport1.5 Ti VCT MT Titanium BSIV,2017,"60,554kms",Petrol,Manual,₹4.58 Lakh,pune
+,Fiat Linea1.3 Dynamic,2012,"65,000kms",Diesel,Manual,₹2.99 Lakh,pune
+Hyundai,Hyundai Santro XingGL,2011,"59,000kms",Petrol,Manual,₹1.70 Lakh,pune
+Chevrolet,Chevrolet Aveo1.6 LT,2009,"60,000kms",Petrol,Manual,₹1.90 Lakh,pune
+MG,MG HectorSharp DCT,2020,"61,381kms",Petrol,Automatic,₹11.02 Lakh,pune
+Maruti,Maruti BrezzaZxi AT,2023,"19,000kms",Petrol,Automatic,₹12 Lakh,pune
+Kia,Kia SeltosHTK Plus AT D,2021,"51,400kms",Diesel,Automatic,₹14 Lakh,pune
+Hyundai,Hyundai SantroSportz CNG BSIV,2018,"77,563kms",CNG,Manual,₹3.32 Lakh,pune
+Hyundai,Hyundai SantroSportz CNG,2020,"44,345kms",CNG,Manual,₹3.98 Lakh,pune
+Honda,Honda WR-Vi-VTEC VX,2019,"62,030kms",Petrol,Manual,₹5.73 Lakh,pune
+Kia,Kia SeltosHTK Plus AT D,2021,"51,400kms",Diesel,Automatic,₹14 Lakh,pune
+Maruti,Maruti BrezzaZxi AT,2023,"19,000kms",Petrol,Automatic,₹12 Lakh,pune
+Tata,Tata TiagoXT CNG,2024,"28,000kms",CNG,Manual,₹5.75 Lakh,pune
+Tata,Tata AltrozXE Diesel,2020,"53,300kms",Diesel,Manual,₹4.99 Lakh,pune
+Ford,Ford Ecosport1.5 TDCi Ambiente BSIV,2016,"85,000kms",Diesel,Manual,₹4.85 Lakh,pune
+Hyundai,Hyundai SantroSportz CNG BSIV,2018,"77,563kms",CNG,Manual,₹3.32 Lakh,pune
+Hyundai,Hyundai SantroSportz CNG,2020,"44,345kms",CNG,Manual,₹3.98 Lakh,pune
+Honda,Honda WR-Vi-VTEC VX,2019,"62,030kms",Petrol,Manual,₹5.73 Lakh,pune
+Tata,Tata Nexon1.2 Revotron XMA,2019,"52,500kms",Petrol,Automatic,₹6 Lakh,pune
+Volkswagen,Volkswagen Taigun1.0 Topline AT,2022,"25,684kms",Petrol,Automatic,₹13.75 Lakh,pune
+Maruti,Maruti Wagon RCNG LXI,2021,"63,246kms",CNG,Manual,₹4.60 Lakh,pune
+BMW,BMW 7 Series730Ld M Sport,2018,"98,900kms",Diesel,Automatic,₹36 Lakh,pune
+Mercedes-Benz,Mercedes-Benz E-ClassExpression E 220 d BSIV,2018,"76,000kms",Diesel,Automatic,₹30 Lakh,pune
+Toyota,Toyota Innova Crysta2.4 GX 7Str,2023,"46,000kms",Diesel,Manual,₹22.19 Lakh,pune
+Maruti,Maruti Alto K10VXI,2018,"38,230kms",Petrol,Manual,₹3.67 Lakh,pune
+Toyota,Toyota Innova Crysta2.4 VX MT BSIV,2018,"43,000kms",Diesel,Manual,₹18.50 Lakh,pune
+Mercedes-Benz,Mercedes-Benz E-ClassE350 Edition E,2016,"61,900kms",Diesel,Automatic,₹16.50 Lakh,pune
+BMW,BMW 3 Series GTLuxury Line,2016,"57,200kms",Diesel,Automatic,₹20 Lakh,pune
+Volkswagen,Volkswagen Passat2.0 TDI AT Highline,2019,"88,000kms",Diesel,Automatic,₹19.25 Lakh,pune
+BMW,BMW X1sDrive 20d xLine,2019,"47,800kms",Diesel,Automatic,₹19 Lakh,pune
+Toyota,Toyota Innova Crysta2.4 VX MT BSIV,2018,"43,000kms",Diesel,Manual,₹18.50 Lakh,pune
+Mercedes-Benz,Mercedes-Benz E-ClassE350 Edition E,2016,"61,900kms",Diesel,Automatic,₹16.50 Lakh,pune
+BMW,BMW 3 Series GTLuxury Line,2016,"57,200kms",Diesel,Automatic,₹20 Lakh,pune
+Volkswagen,Volkswagen Passat2.0 TDI AT Highline,2019,"88,000kms",Diesel,Automatic,₹19.25 Lakh,pune
+BMW,BMW X1sDrive 20d xLine,2019,"47,800kms",Diesel,Automatic,₹19 Lakh,pune
+Kia,Kia SeltosGTX Plus Diesel AT,2022,"43,245kms",Diesel,Automatic,₹15.91 Lakh,pune
+Kia,Kia SeltosGTX Plus Diesel AT,2022,"56,419kms",Diesel,Automatic,₹16.05 Lakh,pune
+Tata,Tata HarrierXZ BSIV,2019,"40,171kms",Diesel,Manual,₹9.75 Lakh,pune
+Hyundai,Hyundai AuraSX CNG,2023,"56,354kms",CNG,Manual,₹6.23 Lakh,pune
+BMW,BMW X5xDrive 30d M Sport,2016,"80,700kms",Diesel,Automatic,₹23.75 Lakh,pune
+Mercedes-Benz,Mercedes-Benz C-ClassC 220 CDI Avantgarde,2016,"46,200kms",Diesel,Automatic,₹22.50 Lakh,pune
+,Mini 5 DOORCooper D,2017,"12,500kms",Diesel,Automatic,₹25.50 Lakh,pune
+BMW,BMW X1sDrive 20d xLine,2019,"33,000kms",Diesel,Automatic,₹20.75 Lakh,pune
+Toyota,Toyota Innova Crysta2.4 ZX 7 STR AT,2022,"1,34,428kms",Diesel,Automatic,₹26 Lakh,pune
+Maruti,Maruti CiazDelta BSVI,2022,"26,728kms",Petrol,Manual,₹6.34 Lakh,pune
+Toyota,Toyota Innova2.5 G1 BSIV,2012,"2,82,000kms",Diesel,Manual,₹6.49 Lakh,pune
+Kia,Kia SeltosHTX Plus AT D,2019,"1,47,000kms",Diesel,Automatic,₹10.99 Lakh,pune
+Maruti,Maruti CelerioVXI CNG Optional,2021,"67,000kms",CNG,Manual,₹5.25 Lakh,pune
+Maruti,Maruti CelerioVXI CNG BSVI,2022,"76,000kms",CNG,Manual,₹4.91 Lakh,pune
+Tata,Tata Nexon EVXZ Plus Dark Edition,2022,"71,000kms",Electric,Automatic,₹8.49 Lakh,pune
+Maruti,Maruti CiazDelta BSVI,2022,"26,728kms",Petrol,Manual,₹6.34 Lakh,pune
+Kia,Kia SeltosHTX Plus AT D,2019,"1,47,000kms",Diesel,Automatic,₹10.99 Lakh,pune
+Maruti,Maruti CelerioVXI CNG Optional,2021,"67,000kms",CNG,Manual,₹5.25 Lakh,pune
+Maruti,Maruti CelerioVXI CNG BSVI,2022,"76,000kms",CNG,Manual,₹4.91 Lakh,pune
+Hyundai,Hyundai Verna1.6 VTVT SX,2018,"51,340kms",Petrol,Manual,₹7.19 Lakh,pune
+Mahindra,Mahindra XUV500W5,2016,"1,02,183kms",Diesel,Manual,₹7.67 Lakh,pune
+Hyundai,Hyundai Grand i10 NiosSportz CNG,2024,"44,528kms",CNG,Manual,₹6.48 Lakh,pune
+Honda,Honda JazzZX,2022,"24,520kms",Petrol,Manual,₹7.57 Lakh,pune
+Honda,Honda JazzZX,2020,"38,899kms",Petrol,Manual,₹7.21 Lakh,pune
+Mahindra,Mahindra ScorpioS6 7 Seater,2015,"1,14,000kms",Diesel,Manual,₹8.45 Lakh,pune
+Tata,Tata HexaXM,2019,"1,18,000kms",Diesel,Manual,₹8.75 Lakh,pune
+Tata,Tata Nexon EVXZ Plus Dark Edition,2022,"71,000kms",Electric,Automatic,₹8.49 Lakh,pune
+Maruti,Maruti SwiftAMT VDI,2018,"97,000kms",Diesel,Automatic,₹6.40 Lakh,pune
+Hyundai,Hyundai Creta1.6 SX,2018,"77,022kms",Petrol,Manual,₹7.85 Lakh,pune
+Maruti,Maruti ErtigaSHVS VDI,2016,"47,000kms",Diesel,Manual,₹7.90 Lakh,pune
+Mercedes-Benz,Mercedes-Benz S-ClassMaybach S500,2016,"57,000kms",Petrol,Automatic,₹55 Lakh,pune
+BMW,BMW 3 Series320d Luxury Line,2020,"39,900kms",Diesel,Automatic,₹32 Lakh,pune
+,Aston Martin RapideS V12,2017,"7,000kms",Petrol,Automatic,₹2.50 Crore,pune
+Mercedes-Benz,Mercedes-Benz GLE250d,2017,"95,500kms",Diesel,Automatic,₹32.50 Lakh,pune
+BMW,BMW 7 Series730Ld DPE Signature,2017,"61,800kms",Diesel,Automatic,₹33.50 Lakh,pune
+Mercedes-Benz,Mercedes-Benz S-ClassMaybach S500,2016,"57,000kms",Petrol,Automatic,₹55 Lakh,pune
+BMW,BMW 3 Series320d Luxury Line,2020,"39,900kms",Diesel,Automatic,₹32 Lakh,pune
+,Aston Martin RapideS V12,2017,"7,000kms",Petrol,Automatic,₹2.50 Crore,pune
+Mercedes-Benz,Mercedes-Benz GLE250d,2017,"95,500kms",Diesel,Automatic,₹32.50 Lakh,pune
+Mercedes-Benz,Mercedes-Benz GLE250d,2018,"35,000kms",Diesel,Automatic,₹42 Lakh,pune
+BMW,BMW 7 Series730Ld DPE Signature,2017,"61,800kms",Diesel,Automatic,₹33.50 Lakh,pune
+Renault,Renault DusterPetrol RxE,2013,"61,904kms",Petrol,Manual,₹2.38 Lakh,pune
+Hyundai,Hyundai i10Magna,2013,"1,04,045kms",Petrol,Manual,₹1.69 Lakh,pune
+Maruti,Maruti RitzZXi,2013,"57,961kms",Petrol,Manual,₹2.14 Lakh,pune
+Hyundai,Hyundai i10Era 1.1,2009,"94,300kms",Petrol,Manual,₹1.50 Lakh,pune
+Datsun,Datsun GOT,2014,"56,582kms",Petrol,Manual,₹1.50 Lakh,pune
+Maruti,Maruti Alto K10VXI,2011,"47,016kms",Petrol,Manual,₹1.55 Lakh,pune
+Renault,Renault KWID1.0 RXT Opt,2016,"75,792kms",Petrol,Manual,₹2.26 Lakh,pune
+Hyundai,Hyundai EONMagna Plus,2014,"87,000kms",Petrol,Manual,₹1.99 Lakh,pune
+Tata,Tata BoltRevotron XMS,2015,"55,000kms",Petrol,Manual,₹2.70 Lakh,pune
+Mahindra,Mahindra Verito1.5 D4 BSIV,2012,"75,000kms",Diesel,Manual,₹1.75 Lakh,pune
+Tata,Tata ManzaAura Quadrajet BS IV,2010,"1,14,000kms",Diesel,Manual,₹2 Lakh,pune
+Hyundai,Hyundai i10Magna 1.2,2008,"85,000kms",Petrol,Manual,₹2 Lakh,pune
+Hyundai,Hyundai i10Magna,2013,"77,331kms",Petrol,Manual,₹2.30 Lakh,pune
+Honda,Honda City1.5 S MT,2009,"1,04,000kms",Petrol,Manual,₹2.10 Lakh,pune
+Mahindra,Mahindra Verito1.5 D4 BSIV,2012,"75,000kms",Diesel,Manual,₹1.75 Lakh,pune
+Hyundai,Hyundai i10Era 1.1,2009,"94,300kms",Petrol,Manual,₹1.50 Lakh,pune
+Tata,Tata ManzaAura Quadrajet BS IV,2010,"1,14,000kms",Diesel,Manual,₹2 Lakh,pune
+Hyundai,Hyundai i10Magna,2013,"77,331kms",Petrol,Manual,₹2.30 Lakh,pune
+Honda,Honda City1.5 S MT,2009,"1,04,000kms",Petrol,Manual,₹2.10 Lakh,pune
+Tata,Tata ZestRevotron 1.2 XT,2015,"80,000kms",Petrol,Manual,₹2.10 Lakh,pune
+Hyundai,Hyundai EONEra Plus,2014,"74,000kms",Petrol,Manual,₹2 Lakh,pune
+Maruti,Maruti Zen EstiloLXI BSIII,2008,"1,11,000kms",Petrol,Manual,₹1.25 Lakh,pune
+Kia,Kia SeltosGTX Plus DCT,2020,"1,21,730kms",Petrol,Automatic,₹11.20 Lakh,pune
+Maruti,2020Maruti S-PressoVXI  -2022,2019,"68,179kms",Petrol,Manual,₹3.45 Lakh,pune
+Tata,Tata PunchAdventure BSVI,2022,"20,000kms",Petrol,Manual,₹6 Lakh,pune
+Tata,Tata Tiago NRGXZ BSVI,2021,"37,330kms",Petrol,Manual,₹4.27 Lakh,pune
+Kia,Kia SeltosGTX Plus DCT,2020,"76,045kms",Petrol,Automatic,₹12.34 Lakh,pune
+BMW,BMW X1sDrive20d,2014,"67,070kms",Diesel,Automatic,₹11.61 Lakh,pune
+Volkswagen,Volkswagen Taigun1.0 Topline AT,2021,"1,10,053kms",Petrol,Automatic,₹10.50 Lakh,pune
+Skoda,Skoda Kushaq1.5 TSI Style DSG,2022,"1,07,676kms",Petrol,Automatic,₹13.88 Lakh,pune
+Skoda,Skoda Kushaq1.5 TSI Style DSG,2022,"58,265kms",Petrol,Automatic,₹13.75 Lakh,pune
+BMW,BMW X3xDrive20d,2013,"1,28,144kms",Diesel,Automatic,₹11.50 Lakh,pune
+BMW,BMW X1sDrive 20d Sportline,2016,"83,707kms",Diesel,Automatic,₹14.50 Lakh,pune
+Toyota,Toyota Innova Crysta2.8 GX AT BSIV,2017,"1,44,100kms",Diesel,Automatic,₹14.90 Lakh,pune
+Skoda,Skoda Kushaq1.5 TSI Style DSG,2022,"1,07,676kms",Petrol,Automatic,₹13.88 Lakh,pune
+BMW,BMW X3xDrive20d,2013,"1,28,144kms",Diesel,Automatic,₹11.50 Lakh,pune
+Toyota,Toyota Innova Crysta2.8 GX AT BSIV,2017,"1,44,100kms",Diesel,Automatic,₹14.90 Lakh,pune
+BMW,BMW X1sDrive 20d Sportline,2016,"83,707kms",Diesel,Automatic,₹14.50 Lakh,pune
+Skoda,Skoda Kushaq1.5 TSI Style DSG,2022,"58,265kms",Petrol,Automatic,₹13.75 Lakh,pune
+Jeep,Jeep Compass2.0 Limited,2018,"51,400kms",Diesel,Manual,₹9.90 Lakh,pune
+BMW,BMW 5 Series525i,2009,"52,500kms",Petrol,Automatic,₹7.50 Lakh,pune
+Hyundai,Hyundai VenueS Opt BSVI,2022,"60,333kms",Petrol,Manual,₹6.95 Lakh,pune
+MG,MG HectorSharp AT BSIV,2019,"89,000kms",Petrol,Automatic,₹9.25 Lakh,pune
+Skoda,Skoda Kushaq1.0 TSI Style 4 Airbags AT,2021,"32,700kms",Petrol,Automatic,₹15 Lakh,pune
+Kia,Kia SeltosGTX Plus S Turbo DCT,2020,"71,167kms",Petrol,Automatic,₹12.34 Lakh,pune
+Maruti,Maruti S-PressoVXI Opt CNG,2022,"25,190kms",CNG,Manual,₹4.58 Lakh,pune
+Maruti,Maruti Alto 800LXI Opt,2022,"33,738kms",Petrol,Manual,₹3.42 Lakh,pune
+Mahindra,Mahindra TUV 300T8,2016,"66,861kms",Diesel,Manual,₹4.68 Lakh,pune
+Tata,Tata Tiago1.2 Revotron XZA,2017,"18,000kms",Petrol,Automatic,₹3.25 Lakh,pune
+Hyundai,Hyundai AuraS CNG,2022,"27,951kms",CNG,Manual,₹5.54 Lakh,pune
+Tata,Tata TigorXZ Plus CNG BSVI,2022,"39,569kms",CNG,Manual,₹5.67 Lakh,pune
+Hyundai,Hyundai SantroSportz CNG,2022,"61,834kms",CNG,Manual,₹4.34 Lakh,pune
+Tata,Tata Nexon1.2 Revotron XM,2018,"55,956kms",Petrol,Manual,₹5 Lakh,pune
+Hyundai,Hyundai SantroSportz CNG,2022,"28,381kms",CNG,Manual,₹4.38 Lakh,pune
+Hyundai,Hyundai AuraS CNG,2022,"27,951kms",CNG,Manual,₹5.54 Lakh,pune
+Hyundai,Hyundai SantroSportz CNG,2022,"61,834kms",CNG,Manual,₹4.34 Lakh,pune
+Tata,Tata Nexon1.2 Revotron XM,2018,"55,956kms",Petrol,Manual,₹5 Lakh,pune
+Hyundai,Hyundai SantroSportz CNG,2022,"28,381kms",CNG,Manual,₹4.38 Lakh,pune
+Maruti,Maruti CiazZXi,2017,"66,680kms",Petrol,Manual,₹5.57 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.2,2017,"53,046kms",Petrol,Manual,₹4.90 Lakh,pune
+Renault,Renault TriberRXT EASY-R AMT BSVI,2020,"44,000kms",Petrol,Automatic,₹5.75 Lakh,pune
+Hyundai,Hyundai Grand i10Asta,2014,"53,230kms",Petrol,Manual,₹3.95 Lakh,pune
+Ford,Ford Figo1.2P Ambiente MT,2018,"25,000kms",Petrol,Manual,₹4.50 Lakh,pune
+Maruti,Maruti Wagon RVXI BS IV,2016,"44,000kms",Petrol,Manual,₹3.20 Lakh,pune
+Mahindra,Mahindra XUV500W8 FWD,2012,"1,05,000kms",Diesel,Manual,₹4.25 Lakh,pune
+Maruti,Maruti ErtigaZDI,2013,"50,000kms",Diesel,Manual,₹5.60 Lakh,pune
+Maruti,Maruti ErtigaVDI,2013,"1,33,000kms",Diesel,Manual,₹5.60 Lakh,pune
+Maruti,Maruti Wagon RVXI CNG,2025,"18,000kms",CNG,Manual,₹5.85 Lakh,pune
+Maruti,Maruti S CrossDDiS 200 Zeta,2015,"1,20,000kms",Diesel,Manual,₹6 Lakh,pune
+Maruti,Maruti CelerioZXI BSVI,2021,"54,000kms",Petrol,Manual,₹5.25 Lakh,pune
+Hyundai,Hyundai i20Sportz Plus,2020,"68,000kms",Petrol,Manual,₹5.75 Lakh,pune
+Maruti,Maruti CelerioVXI CNG BSVI,2022,"97,000kms",CNG,Manual,₹4.55 Lakh,pune
+Mahindra,Mahindra XUV500W8 FWD,2012,"65,000kms",Diesel,Manual,₹4.75 Lakh,pune
+Tata,Tata Tiago1.2 Revotron XZA,2017,"18,000kms",Petrol,Automatic,₹3.25 Lakh,pune
+Maruti,Maruti CelerioZXI BSVI,2021,"54,000kms",Petrol,Manual,₹5.25 Lakh,pune
+Hyundai,Hyundai i20Sportz Plus,2020,"68,000kms",Petrol,Manual,₹5.75 Lakh,pune
+Maruti,Maruti CelerioVXI CNG BSVI,2022,"97,000kms",CNG,Manual,₹4.55 Lakh,pune
+Mahindra,Mahindra XUV500W8 FWD,2012,"65,000kms",Diesel,Manual,₹4.75 Lakh,pune
+Tata,Tata Tiago1.2 Revotron XZA,2017,"18,000kms",Petrol,Automatic,₹3.25 Lakh,pune
+Maruti,Maruti CelerioVXI AMT,2014,"72,418kms",Petrol,Automatic,₹3.36 Lakh,pune
+Mitsubishi,Mitsubishi Lancer2.0 LXd,2007,"1,81,000kms",Diesel,Manual,₹1.79 Lakh,pune
+Renault,Renault Duster85PS Diesel RxS,2018,"82,000kms",Diesel,Manual,₹6.45 Lakh,pune
+Maruti,Maruti SwiftAMT ZDI,2018,"56,000kms",Diesel,Automatic,₹7.25 Lakh,pune
+Renault,Renault KWID1.0 AMT RXT,2016,"73,236kms",Petrol,Automatic,₹2.05 Lakh,pune
+Tata,Tata NexonXZ Plus DualTone Roof,2021,"22,944kms",Petrol,Manual,₹7.99 Lakh,pune
+Datsun,Datsun RediGO1.0 T Option,2018,"1,04,773kms",Petrol,Manual,₹1.69 Lakh,pune
+Tata,Tata PunchAccomplished Dazzle S CNG,2024,"27,000kms",CNG,Manual,₹8 Lakh,pune
+Maruti,Maruti S CrossZeta DDiS 200 SH,2018,"69,800kms",Diesel,Manual,₹7.11 Lakh,pune
+Maruti,Maruti XL6Alpha AT,2022,"27,960kms",Petrol,Automatic,₹10.39 Lakh,pune
+Maruti,Maruti CelerioVXI CNG,2022,"84,281kms",CNG,Manual,₹4.46 Lakh,pune
+MG,MG HectorSharp Diesel MT,2022,"71,840kms",Diesel,Manual,₹15.01 Lakh,pune
+MG,2024MG HectorSharp Pro Diesel  -2025,2023,"18,000kms",Diesel,Manual,₹19 Lakh,pune
+MG,2025MG HectorSharp Pro CVT  -2025,2023,"1,900kms",Petrol,Automatic,₹19.90 Lakh,pune
+BMW,BMW 3 Series320d Luxury Line,2022,"20,000kms",Diesel,Automatic,₹43 Lakh,pune
+Maruti,Maruti CelerioVXI CNG,2022,"84,281kms",CNG,Manual,₹4.46 Lakh,pune
+MG,MG HectorSharp Diesel MT,2022,"71,840kms",Diesel,Manual,₹15.01 Lakh,pune
+MG,2024MG HectorSharp Pro Diesel  -2025,2023,"18,000kms",Diesel,Manual,₹19 Lakh,pune
+MG,2025MG HectorSharp Pro CVT  -2025,2023,"1,900kms",Petrol,Automatic,₹19.90 Lakh,pune
+BMW,BMW 3 Series320d Luxury Line,2022,"20,000kms",Diesel,Automatic,₹43 Lakh,pune
+Toyota,Toyota Innova Crysta2.7 ZX AT BSIV,2019,"65,000kms",Petrol,Automatic,₹17.45 Lakh,pune
+Maruti,Maruti SwiftVXI BSII,2009,"1,50,000kms",Petrol,Manual,₹1.99 Lakh,pune
+Porsche,Porsche CayenneS Diesel,2014,"1,47,000kms",Diesel,Automatic,₹27 Lakh,pune
+Mercedes-Benz,Mercedes-Benz S-ClassS 350 CDI,2015,"1,33,800kms",Diesel,Automatic,₹21.80 Lakh,pune
+Volkswagen,Volkswagen PoloGT TSI,2014,"77,051kms",Petrol,Automatic,₹3.88 Lakh,pune
+Maruti,Maruti Wagon RAMT VXI,2016,"78,000kms",Petrol,Automatic,₹3.69 Lakh,pune
+Hyundai,Hyundai Grand i10 NiosSportz CNG,2021,"55,000kms",CNG,Manual,₹5.35 Lakh,pune
+Renault,Renault KWIDRXL,2015,"38,247kms",Petrol,Manual,₹1.99 Lakh,pune
+Tata,Tata HexaXM,2017,"1,23,172kms",Diesel,Manual,₹7.95 Lakh,pune
+Tata,Tata HexaXTA,2017,"93,000kms",Diesel,Automatic,₹9.95 Lakh,pune
+Skoda,Skoda Rapid1.6 MPI Elegance AT,2017,"62,800kms",Petrol,Automatic,₹6.75 Lakh,pune
+Hyundai,Hyundai Verna1.6 CRDI AT SX Option,2017,"1,04,000kms",Diesel,Automatic,₹6.95 Lakh,pune
+Tata,Tata AltrozXZ CNG,2023,"58,000kms",CNG,Manual,₹7.75 Lakh,pune
+Tata,Tata HexaXMA,2018,"1,19,816kms",Diesel,Automatic,₹9.25 Lakh,pune
+MG,MG HectorSharp CVT,2021,"65,599kms",Petrol,Automatic,₹10.77 Lakh,pune
+Tata,Tata HexaXTA,2017,"93,000kms",Diesel,Automatic,₹9.95 Lakh,pune
+Tata,Tata AltrozXZ CNG,2023,"58,000kms",CNG,Manual,₹7.75 Lakh,pune
+Tata,Tata HexaXMA,2018,"1,19,816kms",Diesel,Automatic,₹9.25 Lakh,pune
+Hyundai,Hyundai Verna1.6 CRDI AT SX Option,2017,"1,04,000kms",Diesel,Automatic,₹6.95 Lakh,pune
+MG,MG HectorSharp CVT,2021,"65,599kms",Petrol,Automatic,₹10.77 Lakh,pune
+BMW,BMW 3 Series320d Luxury Line,2015,"42,600kms",Diesel,Automatic,₹13 Lakh,pune
+Honda,Honda CityV MT,2022,"37,968kms",Petrol,Manual,₹12.50 Lakh,pune
+MG,MG HectorSharp DCT,2019,"19,000kms",Petrol,Automatic,₹10.75 Lakh,pune
+Maruti,Maruti Wagon RLXI CNG,2012,"1,13,095kms",CNG,Manual,₹2.61 Lakh,pune
+Mercedes-Benz,Mercedes-Benz GLA Class200 d Sport,2018,"53,512kms",Diesel,Automatic,₹18.08 Lakh,pune
+Maruti,Maruti CelerioVXI CNG,2022,"38,810kms",CNG,Manual,₹4.96 Lakh,pune
+Volvo,Volvo XC90D5 AT AWD,2010,"80,000kms",Diesel,Automatic,₹7.95 Lakh,pune
+Maruti,Maruti Wagon RVXI,2010,"90,887kms",Petrol,Manual,₹1.82 Lakh,pune
+Maruti,Maruti Wagon RLXI BS IV,2013,"93,879kms",Petrol,Manual,₹1.69 Lakh,pune
+Maruti,Maruti Wagon RLXI CNG,2015,"82,833kms",CNG,Manual,₹2.62 Lakh,pune
+Maruti,Maruti Wagon RVXI,2010,"60,855kms",Petrol,Manual,₹1.91 Lakh,pune
+Maruti,Maruti Alto 800LXI,2013,"50,143kms",Petrol,Manual,₹1.92 Lakh,pune
+Maruti,Maruti Wagon RLXI BS IV,2013,"83,871kms",Petrol,Manual,₹1.85 Lakh,pune
+Maruti,Maruti Wagon RLXI CNG,2014,"1,03,754kms",CNG,Manual,₹2.95 Lakh,pune
+Maruti,Maruti Wagon RLXI CNG,2013,"95,000kms",CNG,Manual,₹2.75 Lakh,pune
+Maruti,Maruti Wagon RVXI,2010,"60,855kms",Petrol,Manual,₹1.91 Lakh,pune
+Maruti,Maruti Wagon RVXI,2010,"90,887kms",Petrol,Manual,₹1.82 Lakh,pune
+Maruti,Maruti Wagon RLXI BS IV,2013,"83,871kms",Petrol,Manual,₹1.85 Lakh,pune
+Maruti,Maruti Wagon RLXI CNG,2014,"1,03,754kms",CNG,Manual,₹2.95 Lakh,pune
+Maruti,Maruti Wagon RLXI CNG,2012,"1,10,000kms",CNG,Manual,₹2.75 Lakh,pune
+Maruti,Maruti Wagon RLXI CNG,2013,"95,000kms",CNG,Manual,₹2.75 Lakh,pune
+Chevrolet,Chevrolet BeatDiesel LT,2012,"86,000kms",Diesel,Manual,₹1.85 Lakh,pune
+Ford,Ford FigoDiesel EXI,2012,"91,000kms",Diesel,Manual,₹1.95 Lakh,pune
+Honda,Honda CR-V2.0 2WD,2008,"1,15,000kms",Petrol,Manual,₹1.99 Lakh,pune
+Hyundai,Hyundai Getz1.1 GVS,2009,"1,05,000kms",Petrol,Manual,"₹99,000",pune
+Renault,Renault TriberRXE BSVI,2022,"52,048kms",Petrol,Manual,₹4.20 Lakh,pune
+Maruti,Maruti Alto 800VXI,2015,"79,198kms",Petrol,Manual,₹1.73 Lakh,pune
+Maruti,Maruti Alto 800LXI,2014,"63,944kms",Petrol,Manual,₹1.88 Lakh,pune
+Honda,Honda CityVX MT,2022,"25,750kms",Petrol,Manual,₹11.53 Lakh,pune
+Honda,Honda BR-Vi-VTEC V CVT,2017,"30,564kms",Petrol,Automatic,₹6.24 Lakh,pune
+,Mini 3 DOORCooper D,2019,"24,200kms",Diesel,Automatic,₹33 Lakh,pune
+Renault,Renault Duster110PS Diesel RxZ AMT,2017,"75,760kms",Diesel,Automatic,₹5.16 Lakh,pune
+Maruti,Maruti S CrossDDiS 200 Sigma,2017,"53,301kms",Diesel,Manual,₹3.95 Lakh,pune
+Maruti,Maruti ErtigaZDI,2012,"99,000kms",Diesel,Manual,₹5.45 Lakh,pune
+Honda,Honda CityV MT,2012,"78,500kms",Petrol,Manual,₹3.25 Lakh,pune
+,Mini 3 DOORCooper D,2019,"24,200kms",Diesel,Automatic,₹33 Lakh,pune
+Renault,Renault Duster110PS Diesel RxZ AMT,2017,"75,760kms",Diesel,Automatic,₹5.16 Lakh,pune
+Maruti,Maruti S CrossDDiS 200 Sigma,2017,"53,301kms",Diesel,Manual,₹3.95 Lakh,pune
+Ford,Ford Ecosport1.5 Ti VCT AT Titanium BSIV,2016,"63,500kms",Petrol,Automatic,₹4.75 Lakh,pune
+Honda,Honda CityV MT,2012,"78,500kms",Petrol,Manual,₹3.25 Lakh,pune
+Maruti,Maruti ErtigaZDI,2012,"99,000kms",Diesel,Manual,₹5.45 Lakh,pune
+BMW,BMW X1sDrive20d,2012,"1,27,000kms",Diesel,Automatic,₹3.25 Lakh,pune
+Ford,Ford Ecosport1.5 Ti VCT AT Titanium BSIV,2016,"63,000kms",Petrol,Automatic,₹4.75 Lakh,pune
+Nissan,Nissan MagniteXE BSVI,2021,"48,000kms",Petrol,Manual,₹4.99 Lakh,pune
+Audi,Audi A635 TDI,2017,"84,700kms",Diesel,Automatic,₹16.75 Lakh,pune
+Hyundai,Hyundai i201.2 Sportz,2012,"98,000kms",Petrol,Manual,₹2.75 Lakh,pune
+Maruti,Maruti Wagon RVXI CNG,2011,"93,934kms",CNG,Manual,₹2.15 Lakh,pune
+Hyundai,Hyundai Grand i10 NiosSportz CNG,2022,"24,999kms",CNG,Manual,₹6.24 Lakh,pune
+Tata,Tata PunchCreative DT,2022,"18,270kms",Petrol,Manual,₹7.07 Lakh,pune
+Maruti,Maruti ErtigaZXI,2012,"76,258kms",Petrol,Manual,₹4.95 Lakh,pune
+Maruti,Maruti Wagon RVXI,2012,"1,32,602kms",Petrol,Manual,₹2.25 Lakh,pune
+Toyota,Toyota Innova Crysta2.8 ZX AT BSIV,2017,"55,000kms",Diesel,Automatic,₹18.75 Lakh,pune
+Honda,Honda City1.5 V AT,2012,"1,16,574kms",Petrol,Automatic,₹3.41 Lakh,pune
+Tata,Tata Tigor1.2 Revotron XZA,2018,"73,719kms",Petrol,Automatic,₹4.50 Lakh,pune
+Maruti,Maruti CelerioZXI,2017,"73,903kms",Petrol,Manual,₹3.83 Lakh,pune
+Maruti,Maruti Wagon RVXI,2012,"1,32,602kms",Petrol,Manual,₹2.25 Lakh,pune
+Toyota,Toyota Innova Crysta2.8 ZX AT BSIV,2017,"55,000kms",Diesel,Automatic,₹18.75 Lakh,pune
+Tata,Tata TiagoXZ Plus CNG,2023,"50,250kms",CNG,Manual,₹5.78 Lakh,pune
+Honda,Honda City1.5 V AT,2012,"1,16,574kms",Petrol,Automatic,₹3.41 Lakh,pune
+Tata,Tata Tigor1.2 Revotron XZA,2018,"73,719kms",Petrol,Automatic,₹4.50 Lakh,pune
+Maruti,Maruti CelerioZXI,2017,"73,903kms",Petrol,Manual,₹3.83 Lakh,pune
+Toyota,Toyota Innova2.5 VX (Diesel) 8 Seater BS IV,2014,"96,000kms",Diesel,Manual,₹8.20 Lakh,pune
+Honda,Honda CityZX MT,2021,"48,541kms",Petrol,Manual,₹10.52 Lakh,pune
+MG,MG HectorSharp DCT,2019,"69,033kms",Petrol,Automatic,₹10.20 Lakh,pune
+Honda,Honda CityZX MT,2022,"59,777kms",Petrol,Manual,₹11.53 Lakh,pune
+MG,MG HectorSharp CVT,2021,"34,000kms",Petrol,Automatic,₹12.75 Lakh,pune
+Tata,Tata TiagoXZ CNG,2024,"24,892kms",CNG,Manual,₹6.84 Lakh,pune
+Volkswagen,Volkswagen Ameo1.5 TDI Comfortline Plus AT,2018,"58,000kms",Diesel,Automatic,₹6.55 Lakh,pune
+Mahindra,Mahindra XUV300W8 BSIV,2019,"62,636kms",Petrol,Manual,₹6.39 Lakh,pune
+Maruti,Maruti Wagon RLXI CNG,2012,"64,643kms",CNG,Manual,₹2.02 Lakh,pune
+Maruti,Maruti Alto 800LXI,2016,"1,09,996kms",Petrol,Manual,₹1.87 Lakh,pune
+Ford,Ford FigoAmbiente BSIV,2011,"67,635kms",Petrol,Manual,₹1.94 Lakh,pune
+Hyundai,Hyundai EONSportz,2011,"98,000kms",Petrol,Manual,₹1.80 Lakh,pune
+Hyundai,Hyundai EONSportz,2012,"75,000kms",Petrol,Manual,₹1.95 Lakh,pune
+Tata,Tata ManzaAura (ABS) Safire,2011,"53,000kms",Petrol,Manual,₹1.85 Lakh,pune
+Maruti,Maruti Wagon RLXI CNG,2012,"64,643kms",CNG,Manual,₹2.02 Lakh,pune
+Maruti,Maruti Alto 800LXI,2016,"1,09,996kms",Petrol,Manual,₹1.87 Lakh,pune
+Hyundai,Hyundai EONSportz,2011,"98,000kms",Petrol,Manual,₹1.80 Lakh,pune
+Hyundai,Hyundai EONSportz,2012,"75,000kms",Petrol,Manual,₹1.95 Lakh,pune
+Tata,Tata ManzaAura (ABS) Safire,2011,"53,000kms",Petrol,Manual,₹1.85 Lakh,pune
+Honda,Honda CivicZX,2019,"45,045kms",Petrol,Automatic,₹11.59 Lakh,pune
+Volkswagen,Volkswagen Jetta2.0L TDI Highline AT,2015,"1,35,517kms",Diesel,Automatic,₹5.50 Lakh,pune
+Honda,Honda BrioV MT,2014,"99,000kms",Petrol,Manual,₹3.20 Lakh,pune
+Honda,Honda CityV MT,2013,"1,50,000kms",Petrol,Manual,₹3.65 Lakh,pune
+Hyundai,Hyundai i10Era,2014,"68,000kms",Petrol,Manual,₹3.10 Lakh,pune
+Maruti,Maruti Alto 800LXI S-CNG,2021,"77,211kms",CNG,Manual,₹3.75 Lakh,pune
+Honda,Honda Jazz1.2 V AT i VTEC,2016,"81,708kms",Petrol,Automatic,₹4.74 Lakh,pune
+Maruti,Maruti CelerioVXI AT,2014,"52,000kms",Petrol,Automatic,₹3.25 Lakh,pune
+Toyota,Toyota Fortuner2.8 4WD AT BSIV,2018,"2,35,000kms",Diesel,Automatic,₹26.50 Lakh,pune
+Volkswagen,Volkswagen Taigun1.0 Topline,2022,"45,319kms",Petrol,Manual,₹11.19 Lakh,pune
+Maruti,Maruti Vitara BrezzaZDi,2016,"51,876kms",Diesel,Manual,₹6.27 Lakh,pune
+Volkswagen,Volkswagen PoloGT TSI,2017,"74,000kms",Petrol,Automatic,₹7.35 Lakh,pune
+Toyota,Toyota Fortuner2.8 2WD MT BSIV,2019,"1,25,000kms",Diesel,Manual,₹30 Lakh,pune
+Maruti,Maruti Wagon RCNG LXI,2020,"80,000kms",CNG,Manual,₹5.25 Lakh,pune
+Honda,Honda AmazeVX CVT Petrol,2022,"1,08,288kms",Petrol,Automatic,₹6.41 Lakh,pune
+Maruti,Maruti Vitara BrezzaZDi,2016,"51,876kms",Diesel,Manual,₹6.27 Lakh,pune
+Volkswagen,Volkswagen PoloGT TSI,2017,"74,000kms",Petrol,Automatic,₹7.35 Lakh,pune
+Toyota,Toyota Fortuner2.8 2WD MT BSIV,2019,"1,25,000kms",Diesel,Manual,₹30 Lakh,pune
+Maruti,Maruti Wagon RCNG LXI,2020,"80,000kms",CNG,Manual,₹5.25 Lakh,pune
+Honda,Honda AmazeVX CVT Petrol,2022,"1,08,288kms",Petrol,Automatic,₹6.41 Lakh,pune
+Maruti,Maruti ErtigaCNG VXI,2018,"60,000kms",CNG,Manual,₹8.15 Lakh,pune
+MG,MG Hector Plus1.5 Turbo Sharp Pro 7 Str BSVI,2023,"69,186kms",Petrol,Manual,₹18.30 Lakh,pune
+Maruti,Maruti Alto 800LXI S-CNG,2020,"54,362kms",CNG,Manual,₹2.67 Lakh,pune
+Kia,Kia SeltosHTX IVT,2020,"82,268kms",Petrol,Automatic,₹10.74 Lakh,pune
+BMW,BMW 2 Series Gran Coupe220d M Sport,2024,"15,000kms",Diesel,Automatic,₹38 Lakh,pune
+Tata,Tata NexonXZA Plus LUXS Diesel AMT,2023,"44,195kms",Diesel,Automatic,₹10.25 Lakh,pune
+Volkswagen,Volkswagen Taigun1.0 Topline AT,2023,"37,944kms",Petrol,Automatic,₹12.40 Lakh,pune
+Maruti,Maruti Grand VitaraZeta Plus Hybrid CVT,2022,"70,715kms",Petrol,Automatic,₹14.80 Lakh,pune
+Tata,Tata NexonCreative Plus Dark Diesel AMT,2023,"25,432kms",Diesel,Automatic,₹11.38 Lakh,pune
+Tata,Tata NexonXZA Plus AMT Diesel S,2021,"24,217kms",Diesel,Automatic,₹10.06 Lakh,pune
+Mahindra,Mahindra TharLX 4WD Hard Top BSVI,2023,"24,024kms",Petrol,Manual,₹12.36 Lakh,pune
+Kia,Kia SonetGTX Plus Diesel BSVI,2021,"39,000kms",Diesel,Manual,₹10.50 Lakh,pune
+Hyundai,Hyundai VenueSX Opt Turbo DCT,2023,"10,000kms",Petrol,Automatic,₹12.50 Lakh,pune
+Jeep,Jeep Compass2.0 Longitude BSIV,2017,"92,000kms",Diesel,Manual,₹10.60 Lakh,pune
+Hyundai,Hyundai Creta1.4 E Plus,2020,"61,800kms",Diesel,Manual,₹10.25 Lakh,pune
+Mahindra,Mahindra TharLX 4WD Hard Top BSVI,2023,"24,024kms",Petrol,Manual,₹12.36 Lakh,pune
+Kia,Kia SonetGTX Plus Diesel BSVI,2021,"39,000kms",Diesel,Manual,₹10.50 Lakh,pune
+Hyundai,Hyundai VenueSX Opt Turbo DCT,2023,"10,000kms",Petrol,Automatic,₹12.50 Lakh,pune
+Jeep,Jeep Compass2.0 Longitude BSIV,2017,"92,000kms",Diesel,Manual,₹10.60 Lakh,pune
+Hyundai,Hyundai Creta1.4 E Plus,2020,"61,800kms",Diesel,Manual,₹10.25 Lakh,pune
+Mercedes-Benz,Mercedes-Benz E-ClassE350 Petrol,2010,"67,700kms",Petrol,Automatic,₹11.25 Lakh,pune
+Toyota,Toyota Innova Crysta2.4 GX MT BSIV,2017,"1,91,000kms",Diesel,Manual,₹14.50 Lakh,pune
+Kia,Kia CarensPrestige Diesel BSVI,2022,"82,000kms",Diesel,Manual,₹12.25 Lakh,pune
+Volkswagen,Volkswagen VirtusTopline AT BSVI,2022,"53,000kms",Petrol,Automatic,₹13.25 Lakh,pune
+Hyundai,Hyundai AlcazarPlatinum 7-Seater Diesel BSVI,2021,"40,000kms",Diesel,Manual,₹14.50 Lakh,pune
+Maruti,Maruti Alto K10VXI Plus,2023,"38,611kms",Petrol,Manual,₹3.44 Lakh,pune
+Hyundai,Hyundai VenueSX Plus Turbo DCT BSIV,2019,"54,000kms",Petrol,Automatic,₹8.35 Lakh,pune
+Ford,Ford Figo1.2P Titanium MT,2018,"36,043kms",Petrol,Manual,₹4.25 Lakh,pune
+Maruti,Maruti Vitara BrezzaZDi Plus AMT,2018,"51,093kms",Diesel,Automatic,₹7.16 Lakh,pune
+Hyundai,Hyundai Verna1.6 CRDi S,2017,"38,906kms",Diesel,Manual,₹7.90 Lakh,pune
+Tata,Tata NanoXT,2019,"31,000kms",Petrol,Manual,₹1.85 Lakh,pune
+Kia,Kia CarensLuxury Plus iMT,2023,"9,098kms",Petrol,Manual,₹15.89 Lakh,pune
+MG,MG Hector1.5 Turbo Smart,2020,"29,550kms",Petrol,Manual,₹16.61 Lakh,pune
+Honda,Honda City HybridZX CVT Non RF,2023,"49,583kms",Petrol,Automatic,₹16.31 Lakh,pune
+Kia,Kia SeltosHTX IVT,2023,"42,379kms",Petrol,Automatic,₹15.50 Lakh,pune
+Tata,Tata NanoXT,2019,"31,000kms",Petrol,Manual,₹1.85 Lakh,pune
+Honda,Honda City HybridZX CVT Non RF,2023,"49,583kms",Petrol,Automatic,₹16.31 Lakh,pune
+Kia,Kia CarensLuxury Plus iMT,2023,"9,098kms",Petrol,Manual,₹15.89 Lakh,pune
+MG,MG Hector1.5 Turbo Smart,2020,"29,550kms",Petrol,Manual,₹16.61 Lakh,pune
+Audi,Audi Q335 TDI Quattro Premium Plus,2018,"82,000kms",Diesel,Automatic,₹18 Lakh,pune
+BMW,BMW X1sDrive20d Expedition,2017,"63,600kms",Diesel,Automatic,₹16.95 Lakh,pune
+Mercedes-Benz,Mercedes-Benz GLA Class200 CDI,2016,"79,000kms",Diesel,Automatic,₹15.25 Lakh,pune
+Kia,Kia SeltosHTX IVT,2023,"42,379kms",Petrol,Automatic,₹15.50 Lakh,pune
+BMW,BMW X3xDrive20d xLine,2015,"57,900kms",Diesel,Automatic,₹16 Lakh,pune
+Toyota,Toyota HyryderG CNG,2023,"23,200kms",CNG,Manual,₹15.65 Lakh,pune
+Audi,Audi Q32.0 TDI Quattro,2015,"55,200kms",Diesel,Automatic,₹15.50 Lakh,pune
+Skoda,Skoda SuperbLK 1.8 TSI AT,2021,"92,736kms",Petrol,Automatic,₹23.95 Lakh,pune
+Mercedes-Benz,Mercedes-Benz E-ClassE200 Edition E,2017,"71,000kms",Petrol,Automatic,₹29 Lakh,pune
+Land Rover,Land Rover Range Rover EvoqueHSE,2015,"81,000kms",Diesel,Automatic,₹24 Lakh,pune
+MG,MG Hector PlusSharp Pro 7 Str Diesel,2024,"9,000kms",Diesel,Manual,₹21 Lakh,pune
+Mercedes-Benz,Mercedes-Benz C-ClassC 220 CDI Avantgarde,2017,"89,000kms",Diesel,Automatic,₹20.75 Lakh,pune
+BMW,BMW X1sDrive20d Expedition,2018,"52,000kms",Diesel,Automatic,₹21.75 Lakh,pune
+Mercedes-Benz,Mercedes-Benz C-ClassC 220 CDI Avantgarde,2020,"31,100kms",Diesel,Automatic,₹29.50 Lakh,pune
+Volkswagen,Volkswagen Passat2.0 TDI AT Highline,2018,"59,000kms",Diesel,Automatic,₹21 Lakh,pune
+Mercedes-Benz,Mercedes-Benz GLC220d 4MATIC Sport,2016,"71,605kms",Diesel,Automatic,₹27.50 Lakh,pune
+BMW,BMW X1sDrive20d Expedition,2018,"52,000kms",Diesel,Automatic,₹21.75 Lakh,pune
+Mercedes-Benz,Mercedes-Benz C-ClassC 220 CDI Avantgarde,2020,"31,100kms",Diesel,Automatic,₹29.50 Lakh,pune
+Volkswagen,Volkswagen Passat2.0 TDI AT Highline,2018,"59,000kms",Diesel,Automatic,₹21 Lakh,pune
+Mercedes-Benz,Mercedes-Benz GLC220d 4MATIC Sport,2016,"71,605kms",Diesel,Automatic,₹27.50 Lakh,pune
+Land Rover,Land Rover Range Rover EvoqueHSE,2015,"81,000kms",Diesel,Automatic,₹24 Lakh,pune
+Hyundai,Hyundai Creta1.6 SX Automatic,2015,"1,05,081kms",Petrol,Automatic,₹7.42 Lakh,pune
+Kia,Kia SonetGTX Plus Turbo DCT,2022,"77,299kms",Petrol,Automatic,₹9.58 Lakh,pune
+Kia,Kia SonetGTX Plus Turbo iMT,2022,"21,681kms",Petrol,Automatic,₹9.72 Lakh,pune
+Mahindra,Mahindra XUV500W5,2015,"98,905kms",Diesel,Manual,₹6.82 Lakh,pune
+Tata,Tata AltrozXZ Plus,2023,"68,654kms",Petrol,Manual,₹8.18 Lakh,pune
+Tata,Tata NexonXZ Plus (O) Diesel,2023,"26,343kms",Diesel,Manual,₹8.75 Lakh,pune
+Tata,Tata PunchAccomplished Dazzle,2024,"9,061kms",Petrol,Manual,₹8.51 Lakh,pune
+Tata,Tata AltrozXZ Plus Turbo,2023,"25,154kms",Petrol,Manual,₹7.23 Lakh,pune
+Renault,Renault DusterPetrol RXS CVT,2020,"25,827kms",Petrol,Automatic,₹7.17 Lakh,pune
+Mahindra,Mahindra XUV500AT W10 1.99 mHawk,2018,"99,702kms",Diesel,Automatic,₹7.65 Lakh,pune
+Hyundai,Hyundai VernaSX Diesel,2022,"23,583kms",Diesel,Manual,₹9.67 Lakh,pune
+Tata,Tata AltrozXZ,2022,"25,229kms",Petrol,Manual,₹7.07 Lakh,pune
+Tata,Tata AltrozXZ,2022,"44,039kms",Petrol,Manual,₹6.62 Lakh,pune
+Mahindra,Mahindra XUV500W9,2015,"1,27,797kms",Diesel,Manual,₹7.98 Lakh,pune
+Tata,Tata AltrozXZ Plus Diesel,2022,"74,217kms",Diesel,Manual,₹6.97 Lakh,pune
+Tata,Tata NexonXZ Plus (O) Diesel,2022,"47,061kms",Diesel,Manual,₹7.40 Lakh,pune
+Tata,Tata NexonXZ Plus S,2022,"29,058kms",Petrol,Manual,₹8.41 Lakh,pune
+Nissan,Nissan MagniteTurbo CVT XV,2022,"33,711kms",Petrol,Automatic,₹7.16 Lakh,pune
+Hyundai,Hyundai Creta1.6 SX Automatic,2017,"60,963kms",Petrol,Automatic,₹9.13 Lakh,pune
+Hyundai,Hyundai VenueSX Opt Turbo DCT Special Edition,2021,"46,999kms",Petrol,Automatic,₹9.33 Lakh,pune
+Tata,Tata NexonXZ Plus S,2023,"17,839kms",Petrol,Manual,₹9.58 Lakh,pune
+Tata,Tata AltrozXZ Turbo,2023,"19,304kms",Petrol,Manual,₹7.30 Lakh,pune
+Tata,Tata NexonXZ Plus (O) Diesel,2023,"26,343kms",Diesel,Manual,₹8.75 Lakh,pune
+Tata,Tata PunchAccomplished Dazzle,2024,"9,061kms",Petrol,Manual,₹8.51 Lakh,pune
+Tata,Tata AltrozXZ Plus Turbo,2023,"25,154kms",Petrol,Manual,₹7.23 Lakh,pune
+Renault,Renault DusterPetrol RXS CVT,2020,"25,827kms",Petrol,Automatic,₹7.17 Lakh,pune
+Hyundai,Hyundai VenueSX Opt Diesel BSVI,2021,"1,23,753kms",Diesel,Manual,₹8.78 Lakh,pune
+Mahindra,Mahindra XUV500AT W10 1.99 mHawk,2018,"99,702kms",Diesel,Automatic,₹7.65 Lakh,pune
+Tata,Tata NexonXZ Plus (O) Diesel,2018,"1,20,681kms",Diesel,Manual,₹6.08 Lakh,pune
+Hyundai,Hyundai VernaSX Diesel,2022,"23,583kms",Diesel,Manual,₹9.67 Lakh,pune
+Hyundai,Hyundai Verna1.6 CRDi S Option,2016,"82,868kms",Diesel,Manual,₹6.11 Lakh,pune
+BMW,BMW X1sDrive20d,2011,"95,000kms",Diesel,Automatic,₹6.50 Lakh,pune
+Hyundai,Hyundai Creta1.6 CRDi AT SX Plus,2016,"75,000kms",Diesel,Automatic,₹8.90 Lakh,pune
+Tata,Tata PunchCreative Plus AMT,2024,"16,500kms",Petrol,Automatic,₹8.01 Lakh,pune
+Tata,Tata PunchPure BSVI,2024,"4,400kms",Petrol,Manual,₹6.80 Lakh,pune
+BMW,BMW X1sDrive20d,2011,"95,000kms",Diesel,Automatic,₹6.50 Lakh,pune
+Hyundai,Hyundai Creta1.6 CRDi AT SX Plus,2016,"75,000kms",Diesel,Automatic,₹8.90 Lakh,pune
+Ford,Ford Ecosport1.5 Diesel Titanium,2020,"69,000kms",Diesel,Manual,₹8.75 Lakh,pune
+Tata,Tata PunchCreative Plus AMT,2024,"16,500kms",Petrol,Automatic,₹8.01 Lakh,pune
+Tata,Tata PunchPure BSVI,2024,"4,400kms",Petrol,Manual,₹6.80 Lakh,pune
+Maruti,Maruti Vitara BrezzaZDi,2016,"71,000kms",Diesel,Manual,₹7.75 Lakh,pune
+Mercedes-Benz,Mercedes-Benz B ClassB180 Sport,2014,"33,000kms",Petrol,Automatic,₹6.75 Lakh,pune
+Skoda,Skoda Octavia1.8 TSI AT Style,2017,"80,000kms",Petrol,Automatic,₹10 Lakh,pune
+Hyundai,Hyundai Creta1.6 CRDi SX Option,2016,"1,53,000kms",Diesel,Manual,₹7.50 Lakh,pune
+Hyundai,Hyundai Verna1.6 CRDi S Option,2016,"82,868kms",Diesel,Manual,₹6.11 Lakh,pune
+BMW,BMW X3xDrive20d,2013,"1,22,100kms",Diesel,Automatic,₹8.25 Lakh,pune
+Mercedes-Benz,Mercedes-Benz B ClassB180 Sports,2012,"57,000kms",Petrol,Automatic,₹6.75 Lakh,pune
+Honda,Honda BR-Vi-VTEC V CVT,2019,"1,01,000kms",Petrol,Automatic,₹6.90 Lakh,pune
+Maruti,Maruti Swift DzireVXI CNG BSVI,2022,"50,000kms",CNG,Manual,₹6.85 Lakh,pune
+Mahindra,Mahindra XUV500AT W10 FWD,2016,"1,43,000kms",Diesel,Automatic,₹7.80 Lakh,pune
+Maruti,Maruti ErtigaBSIV ZXI,2016,"46,000kms",Petrol,Manual,₹6.30 Lakh,pune
+Mahindra,Mahindra XUV300W8 Diesel BSVI,2021,"52,000kms",Diesel,Manual,₹8.95 Lakh,pune
+Renault,Renault Duster110PS Diesel RxS AMT,2019,"67,000kms",Diesel,Automatic,₹6.75 Lakh,pune
+Maruti,Maruti Vitara BrezzaZDi,2016,"74,000kms",Diesel,Manual,₹6.99 Lakh,pune
+Tata,Tata Nexon1.5 Revotorq XZA Plus,2018,"62,000kms",Diesel,Automatic,₹7.15 Lakh,pune
+Maruti,Maruti Vitara BrezzaZDi,2016,"74,000kms",Diesel,Manual,₹6.99 Lakh,pune
+Tata,Tata Nexon1.5 Revotorq XZA Plus,2018,"62,000kms",Diesel,Automatic,₹7.15 Lakh,pune
+Tata,Tata NexonXM BSVI,2022,"26,000kms",Petrol,Manual,₹7.01 Lakh,pune
+Mercedes-Benz,Mercedes-Benz B ClassB180 Sports,2012,"57,000kms",Petrol,Automatic,₹6.75 Lakh,pune
+Honda,Honda BR-Vi-VTEC V CVT,2019,"1,01,000kms",Petrol,Automatic,₹6.90 Lakh,pune
+Maruti,Maruti Swift DzireVXI CNG BSVI,2022,"50,000kms",CNG,Manual,₹6.85 Lakh,pune
+Mahindra,Mahindra XUV500AT W10 FWD,2016,"1,43,000kms",Diesel,Automatic,₹7.80 Lakh,pune
+Mahindra,Mahindra XUV300W8 Diesel BSVI,2021,"52,000kms",Diesel,Manual,₹8.95 Lakh,pune
+Renault,Renault KWIDRXL,2016,"66,090kms",Petrol,Manual,₹1.64 Lakh,pune
+Maruti,Maruti Wagon RLXI BSVI,2011,"74,183kms",Petrol,Manual,₹2.02 Lakh,pune
+Maruti,Maruti Alto K10VXI,2014,"72,291kms",Petrol,Manual,₹2.23 Lakh,pune
+Renault,Renault KWIDRXT,2016,"64,150kms",Petrol,Manual,₹2.31 Lakh,pune
+Hyundai,Hyundai i10Era 1.1 iTech SE,2011,"34,347kms",Petrol,Manual,₹2.06 Lakh,pune
+Renault,Renault KWIDRXT,2016,"1,14,612kms",Petrol,Manual,₹2.10 Lakh,pune
+Maruti,Maruti Alto K10VXI,2013,"44,098kms",Petrol,Manual,₹2.13 Lakh,pune
+Hyundai,Hyundai i10Sportz AT,2011,"64,000kms",Petrol,Automatic,₹2.15 Lakh,pune
+Hyundai,Hyundai i10Magna,2013,"70,000kms",Petrol,Manual,₹2.30 Lakh,pune
+Nissan,Nissan MicraXE,2012,"91,000kms",Petrol,Manual,₹1.51 Lakh,pune
+Renault,Renault KWID1.0 AMT RXT,2016,"77,000kms",Petrol,Automatic,₹2.25 Lakh,pune
+Honda,Honda CityV MT AVN,2009,"43,282kms",Petrol,Manual,₹2.40 Lakh,pune
+Hyundai,Hyundai i10Magna,2013,"70,000kms",Petrol,Manual,₹2.30 Lakh,pune
+Hyundai,Hyundai i10Era,2011,"62,000kms",Petrol,Manual,₹1.75 Lakh,pune
+Hyundai,Hyundai i10Magna,2011,"68,000kms",Petrol,Manual,₹2.10 Lakh,pune
+Maruti,Maruti Wagon RLXI BS IV,2013,"60,000kms",Petrol,Manual,₹2.30 Lakh,pune
+Hyundai,Hyundai i201.2 Asta,2011,"77,000kms",Petrol,Manual,₹2.10 Lakh,pune
+Honda,Honda City1.5 S MT,2009,"95,924kms",Petrol,Manual,₹2.20 Lakh,pune
+Ford,Ford FigoDiesel EXI,2012,"70,000kms",Diesel,Manual,₹2.30 Lakh,pune
+Honda,Honda CityGXi,2008,"1,12,000kms",Petrol,Manual,₹1.70 Lakh,pune
+Hyundai,Hyundai i10Sportz 1.1L,2010,"81,000kms",Petrol,Manual,₹1.55 Lakh,pune
+Maruti,Maruti Zen EstiloLXI BSIII,2007,"92,000kms",Petrol,Manual,₹1.05 Lakh,pune
+Hyundai,Hyundai i10Sportz AT,2011,"64,000kms",Petrol,Automatic,₹2.15 Lakh,pune
+Maruti,Maruti A-StarLxi,2010,"90,000kms",Petrol,Manual,₹1.74 Lakh,pune
+Nissan,Nissan MicraXL,2014,"41,000kms",Petrol,Manual,₹1.85 Lakh,pune
+Maruti,Maruti Alto K10 -2014 VXI,2010,"77,000kms",Petrol,Manual,₹1.55 Lakh,pune
+Hyundai,Hyundai i10Magna 1.2,2010,"67,000kms",Petrol,Manual,₹1.95 Lakh,pune
+Ford,Ford Fiesta1.6 Duratec CLXI,2012,"42,000kms",Petrol,Manual,₹1.80 Lakh,pune
+Volkswagen,Volkswagen VentoDiesel Highline,2012,"1,15,000kms",Diesel,Manual,₹3 Lakh,pune
+Nissan,Nissan MicraXE,2012,"91,000kms",Petrol,Manual,₹1.51 Lakh,pune
+Renault,Renault KWID1.0 AMT RXT,2016,"77,000kms",Petrol,Automatic,₹2.25 Lakh,pune
+Volkswagen,Volkswagen VentoDiesel Comfortline,2014,"1,67,113kms",Diesel,Manual,₹2.80 Lakh,pune
+Ford,Ford Fiesta1.6 Duratec CLXI,2012,"42,000kms",Petrol,Manual,₹1.80 Lakh,pune
+Volkswagen,Volkswagen VentoDiesel Highline,2012,"1,15,000kms",Diesel,Manual,₹3 Lakh,pune
+Maruti,Maruti SwiftVXI,2012,"38,000kms",Petrol,Manual,₹2.85 Lakh,pune
+Hyundai,Hyundai i20Asta Optional With Sunroof 1.2,2009,"97,000kms",Petrol,Manual,₹1.85 Lakh,pune
+Maruti,Maruti Alto K10 -2014 VXI,2010,"77,000kms",Petrol,Manual,₹1.55 Lakh,pune
+Hyundai,Hyundai i10Magna 1.2,2010,"67,000kms",Petrol,Manual,₹1.95 Lakh,pune
+Hyundai,Hyundai i201.2 Asta,2011,"68,000kms",Petrol,Manual,₹1.75 Lakh,pune
+Honda,Honda CityV MT AVN,2009,"43,282kms",Petrol,Manual,₹2.40 Lakh,pune
+Maruti,Maruti A-StarLxi,2010,"90,000kms",Petrol,Manual,₹1.74 Lakh,pune
+Maruti,Maruti SwiftVXI,2013,"49,000kms",Petrol,Manual,₹3.40 Lakh,pune
+Renault,Renault KWIDClimber 1.0 AMT Opt,2022,"53,414kms",Petrol,Automatic,₹4.10 Lakh,pune
+Tata,Tata AltrozXT Diesel,2014,"1,10,860kms",Diesel,Manual,₹3.50 Lakh,pune
+Hyundai,Hyundai SantroSportz CNG,2019,"98,368kms",CNG,Manual,₹4.10 Lakh,pune
+Maruti,Maruti Wagon RCNG LXI,2015,"91,098kms",CNG,Manual,₹3.28 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2019,"31,101kms",Petrol,Manual,₹3.94 Lakh,pune
+Hyundai,Hyundai i20Petrol CVT Asta,2018,"52,507kms",Petrol,Automatic,₹4.94 Lakh,pune
+Renault,Renault TriberRXZ,2020,"27,955kms",Petrol,Manual,₹4.67 Lakh,pune
+Hyundai,Hyundai i20Sportz AT 1.4,2012,"78,000kms",Petrol,Automatic,₹3.10 Lakh,pune
+Honda,Honda Cityi VTEC SV,2014,"70,000kms",Petrol,Manual,₹4.35 Lakh,pune
+Honda,Honda AmazeS Petrol,2017,"61,000kms",Petrol,Manual,₹4 Lakh,pune
+Hyundai,Hyundai i20Petrol CVT Asta,2018,"52,507kms",Petrol,Automatic,₹4.94 Lakh,pune
+Renault,Renault TriberRXZ,2020,"27,955kms",Petrol,Manual,₹4.67 Lakh,pune
+Honda,Honda Cityi VTEC SV,2014,"70,000kms",Petrol,Manual,₹4.35 Lakh,pune
+Honda,Honda AmazeS Petrol,2017,"61,000kms",Petrol,Manual,₹4 Lakh,pune
+Maruti,Maruti ErtigaZDI,2013,"85,000kms",Diesel,Manual,₹5.70 Lakh,pune
+Hyundai,Hyundai Grand i10Magna,2017,"36,000kms",Petrol,Manual,₹4 Lakh,pune
+Ford,Ford Ecosport1.5 Petrol Titanium Plus AT BSIV,2016,"84,000kms",Petrol,Automatic,₹5.49 Lakh,pune
+Hyundai,Hyundai Verna1.6 CRDI SX Option,2016,"98,000kms",Diesel,Manual,₹5.85 Lakh,pune
+Honda,Honda BR-Vi-DTEC V MT,2016,"1,10,000kms",Diesel,Manual,₹6 Lakh,pune
+Maruti,Maruti CelerioVXI BSVI,2022,"8,500kms",Petrol,Manual,₹5 Lakh,pune
+Maruti,Maruti ErtigaVXI,2013,"82,000kms",Petrol,Manual,₹4.50 Lakh,pune
+Maruti,Maruti ErtigaVDI,2014,"1,28,000kms",Diesel,Manual,₹6 Lakh,pune
+Maruti,Maruti CelerioZXI Plus BSVI,2022,"44,000kms",Petrol,Manual,₹4.85 Lakh,pune
+Maruti,Maruti RitzVXi,2014,"44,000kms",Petrol,Manual,₹3.10 Lakh,pune
+Skoda,Skoda Rapid1.6 MPI Ambition Plus,2014,"64,015kms",Petrol,Manual,₹4.85 Lakh,pune
+Skoda,Skoda Rapid1.5 TDI AT Ambition,2015,"75,000kms",Diesel,Automatic,₹5.45 Lakh,pune
+Maruti,Maruti Swift DzireLXI 1.2,2020,"41,900kms",Petrol,Manual,₹4.25 Lakh,pune
+Honda,Honda CityV MT AVN,2014,"16,052kms",Petrol,Manual,₹4.35 Lakh,pune
+Hyundai,Hyundai i20Sportz AT 1.4,2012,"78,000kms",Petrol,Automatic,₹3.10 Lakh,pune
+Honda,Honda City1.5 V MT Exclusive,2016,"49,023kms",Petrol,Manual,₹4.50 Lakh,pune
+Skoda,Skoda Rapid1.5 TDI AT Ambition,2015,"75,000kms",Diesel,Automatic,₹5.45 Lakh,pune
+Maruti,Maruti Swift DzireLXI 1.2,2020,"41,900kms",Petrol,Manual,₹4.25 Lakh,pune
+Honda,Honda CityV MT AVN,2014,"16,052kms",Petrol,Manual,₹4.35 Lakh,pune
+Hyundai,Hyundai i20Sportz AT 1.4,2012,"78,000kms",Petrol,Automatic,₹3.10 Lakh,pune
+Honda,Honda City1.5 V MT Exclusive,2016,"49,023kms",Petrol,Manual,₹4.50 Lakh,pune
+Maruti,Maruti ErtigaZXI,2013,"57,850kms",Petrol,Manual,₹5.45 Lakh,pune
+Hyundai,Hyundai Grand i101.2 Kappa Sportz BSIV,2018,"57,000kms",Petrol,Manual,₹4.30 Lakh,pune
+Hyundai,Hyundai Verna1.6 SX,2012,"11,20,000kms",Diesel,Manual,₹3.80 Lakh,pune
+Tata,Tata Tigor1.2 Revotron XZA,2018,"52,000kms",Petrol,Automatic,₹3.50 Lakh,pune
+Tata,Tata Nexon1.2 Revotron XZ Plus,2019,"64,461kms",Petrol,Manual,₹5.45 Lakh,pune
+Maruti,Maruti CelerioVXI CNG BSIV,2018,"75,000kms",CNG,Manual,₹4.21 Lakh,pune
+Maruti,Maruti Wagon RLXI CNG,2015,"83,000kms",CNG,Manual,₹3.10 Lakh,pune
+Honda,Honda AmazeS i-Dtech,2015,"78,373kms",Diesel,Manual,₹3.60 Lakh,pune
+Maruti,Maruti CelerioVXI Optional MT BSIV,2017,"96,226kms",Petrol,Manual,₹3.80 Lakh,pune
+Maruti,Maruti Baleno1.2 Zeta,2017,"56,325kms",Petrol,Manual,₹4.90 Lakh,pune
+Volkswagen,Volkswagen Vento1.6 Comfortline,2018,"41,000kms",Petrol,Manual,₹6 Lakh,pune
+Tata,Tata NanoTwist XTA,2016,"42,000kms",Petrol,Automatic,₹1.99 Lakh,pune
+Audi,Audi Q745 TDI Quattro Technology,2016,"91,900kms",Diesel,Automatic,₹24.50 Lakh,pune
+Hyundai,Hyundai Grand i10Sportz,2014,"63,000kms",Petrol,Manual,₹3.60 Lakh,pune
+Chevrolet,Chevrolet Spark1.0 LT,2011,"1,30,000kms",Petrol,Manual,₹2 Lakh,pune
+Volkswagen,Volkswagen Vento1.6 Comfortline,2018,"41,000kms",Petrol,Manual,₹6 Lakh,pune
+Tata,Tata NanoTwist XTA,2016,"42,000kms",Petrol,Automatic,₹1.99 Lakh,pune
+Audi,Audi Q745 TDI Quattro Technology,2016,"91,900kms",Diesel,Automatic,₹24.50 Lakh,pune
+Hyundai,Hyundai Grand i10Sportz,2014,"63,000kms",Petrol,Manual,₹3.60 Lakh,pune
+Chevrolet,Chevrolet Spark1.0 LT,2011,"1,30,000kms",Petrol,Manual,₹2 Lakh,pune
+Mercedes-Benz,Mercedes-Benz GLC220d 4MATIC,2022,"40,000kms",Diesel,Automatic,₹49.99 Lakh,pune
+Mercedes-Benz,Mercedes-Benz M-ClassML 250 CDI,2012,"1,50,000kms",Diesel,Automatic,₹13.50 Lakh,pune
+Audi,Audi Q335 TDI Quattro Technology,2017,"78,000kms",Diesel,Automatic,₹13.75 Lakh,pune
+Hyundai,Hyundai VenueSX Opt Diesel BSVI,2023,"68,000kms",Diesel,Manual,₹12.11 Lakh,pune
+Hyundai,Hyundai CretaSX IVT,2023,"25,000kms",Petrol,Automatic,₹14.99 Lakh,pune
+Tata,Tata SafariXT Plus BSVI,2021,"37,000kms",Diesel,Manual,₹14.50 Lakh,pune
+Maruti,Maruti Ertiga1.5 ZDI,2019,"10,10,000kms",Diesel,Manual,₹10.25 Lakh,pune
+Maruti,Maruti ErtigaZDI Plus,2019,"1,05,000kms",Diesel,Manual,₹10.75 Lakh,pune
+Maruti,Maruti ErtigaZXI (O) CNG,2025,"21,000kms",CNG,Manual,₹11.95 Lakh,pune
+Hyundai,Hyundai CretaS plus Knight Diesel BSVI,2022,"86,000kms",Diesel,Manual,₹16 Lakh,pune
+BMW,BMW 5 Series520d,2013,"90,000kms",Diesel,Automatic,₹16 Lakh,pune
+Tata,Tata HarrierXZA Plus AT BSVI,2022,"26,000kms",Diesel,Automatic,₹16.95 Lakh,pune
+Hyundai,Hyundai i10Magna 1.1L,2013,"1,19,983kms",Petrol,Manual,₹1.67 Lakh,pune
+BMW,BMW 3 Series GTLuxury Line,2017,"59,900kms",Diesel,Automatic,₹23.50 Lakh,pune
+Mercedes-Benz,Mercedes-Benz GLC220d 4MATIC Style,2018,"71,500kms",Diesel,Automatic,₹27.50 Lakh,pune
+Hyundai,Hyundai CretaS plus Knight Diesel BSVI,2022,"86,000kms",Diesel,Manual,₹16 Lakh,pune
+BMW,BMW 5 Series520d,2013,"90,000kms",Diesel,Automatic,₹16 Lakh,pune
+Hyundai,Hyundai i10Magna 1.1L,2013,"1,19,983kms",Petrol,Manual,₹1.67 Lakh,pune
+BMW,BMW 5 Series530i M Sport,2018,"44,600kms",Petrol,Automatic,₹29 Lakh,pune
+BMW,BMW 5 Series520d Luxury Line,2016,"85,000kms",Diesel,Automatic,₹22 Lakh,pune
+BMW,BMW 3 Series GTLuxury Line,2017,"59,900kms",Diesel,Automatic,₹23.50 Lakh,pune
+BMW,BMW 3 Series GTLuxury Line,2018,"40,850kms",Diesel,Automatic,₹23.75 Lakh,pune
+Mercedes-Benz,Mercedes-Benz GLC220d 4MATIC Style,2018,"71,500kms",Diesel,Automatic,₹27.50 Lakh,pune
+Mercedes-Benz,Mercedes-Benz GLA45 AMG,2017,"14,000kms",Petrol,Automatic,₹22.50 Lakh,pune
+BMW,BMW X1sDrive20i SportX,2020,"44,000kms",Petrol,Automatic,₹23 Lakh,pune
+Tata,Tata NexonXM Diesel,2023,"10,339kms",Diesel,Manual,₹7.57 Lakh,pune
+Tata,Tata NexonXZA Plus (O) AMT Diesel,2021,"1,25,142kms",Diesel,Automatic,₹8.82 Lakh,pune
+Tata,Tata NexonXZ Plus (O) Diesel,2023,"28,593kms",Diesel,Manual,₹8.99 Lakh,pune
+Tata,Tata NexonXZ Plus Kaziranga Edition Diesel,2022,"39,618kms",Diesel,Manual,₹7.90 Lakh,pune
+Tata,Tata NexonXM Plus S Diesel,2019,"38,560kms",Diesel,Manual,₹6.40 Lakh,pune
+Maruti,Maruti ErtigaVXI,2019,"36,000kms",Petrol,Manual,₹8.45 Lakh,pune
+Hyundai,Hyundai VernaCRDi 1.6 AT SX Plus,2017,"52,000kms",Diesel,Automatic,₹9 Lakh,pune
+Mahindra,Mahindra XUV500W6 2WD,2016,"1,01,000kms",Diesel,Manual,₹7.10 Lakh,pune
+Hyundai,Hyundai Tucson2.0 Dual VTVT 2WD MT,2017,"54,000kms",Petrol,Manual,₹7.99 Lakh,pune
+Tata,Tata Nexon1.5 Revotorq XMA,2018,"76,000kms",Diesel,Automatic,₹6.75 Lakh,pune
+Maruti,Maruti ErtigaVXI,2019,"36,000kms",Petrol,Manual,₹8.45 Lakh,pune
+Hyundai,Hyundai VernaCRDi 1.6 AT SX Plus,2017,"52,000kms",Diesel,Automatic,₹9 Lakh,pune
+Mahindra,Mahindra XUV500W6 2WD,2016,"1,01,000kms",Diesel,Manual,₹7.10 Lakh,pune
+Hyundai,Hyundai Tucson2.0 Dual VTVT 2WD MT,2017,"54,000kms",Petrol,Manual,₹7.99 Lakh,pune
+Tata,Tata Nexon1.5 Revotorq XMA,2018,"76,000kms",Diesel,Automatic,₹6.75 Lakh,pune
+Mahindra,Mahindra Scorpio1.99 S4,2016,"1,00,000kms",Diesel,Manual,₹8.75 Lakh,pune
+Tata,Tata HexaXTA,2018,"1,35,000kms",Diesel,Automatic,₹9.75 Lakh,pune
+Mahindra,Mahindra XUV500W6 2WD,2016,"1,27,781kms",Diesel,Manual,₹7.99 Lakh,pune
+Mahindra,Mahindra XUV300W4 Diesel BSVI,2022,"24,000kms",Diesel,Manual,₹8.90 Lakh,pune
+Renault,2018Renault KWID1.0 RXT Optional AT  -2019,2016,"47,888kms",Petrol,Automatic,₹2.32 Lakh,pune
+Hyundai,Hyundai EONMagna Plus,2013,"93,032kms",Petrol,Manual,₹1.42 Lakh,pune
+Honda,Honda CityV CVT,2011,"1,19,846kms",Petrol,Automatic,₹2.88 Lakh,pune
+Maruti,Maruti Alto K10VXI,2012,"53,237kms",Petrol,Manual,₹1.93 Lakh,pune
+Hyundai,Hyundai i10Era 1.1 iTech SE,2012,"77,988kms",Petrol,Manual,₹1.98 Lakh,pune
+Datsun,Datsun GO PlusT,2015,"60,016kms",Petrol,Manual,₹1.81 Lakh,pune
+Tata,Tata ManzaAura (ABS) Safire,2011,"50,598kms",Petrol,Manual,₹1.80 Lakh,pune
+Honda,Honda CityV AT,2011,"1,36,708kms",Petrol,Automatic,₹2.85 Lakh,pune
+,Fiat Punto1.3 Active,2011,"1,03,000kms",Diesel,Manual,₹1.19 Lakh,pune
+Renault,Renault KWIDRXT,2016,"32,000kms",Petrol,Manual,₹2.25 Lakh,pune
+Toyota,Toyota Etios LivaG Plus,2012,"1,05,000kms",Petrol,Manual,₹1.89 Lakh,pune
+Honda,Honda City1.5 V MT,2011,"85,000kms",Petrol,Manual,₹2.70 Lakh,pune
+Ford,Ford FigoPetrol EXI,2013,"45,000kms",Petrol,Manual,₹1.55 Lakh,pune
+,Fiat Punto1.3 Active,2011,"1,03,000kms",Diesel,Manual,₹1.19 Lakh,pune
+Chevrolet,Chevrolet Sail1.2 LS,2013,"97,000kms",Petrol,Manual,₹1.75 Lakh,pune
+Maruti,Maruti Alto 800LXI,2013,"40,167kms",Petrol,Manual,₹1.55 Lakh,pune
+Tata,Tata ManzaAura (ABS) Safire,2011,"50,598kms",Petrol,Manual,₹1.80 Lakh,pune
+Honda,Honda CityV AT,2011,"1,36,708kms",Petrol,Automatic,₹2.85 Lakh,pune
+Maruti,Maruti RitzVXi,2014,"49,000kms",Petrol,Manual,₹3 Lakh,pune
+Renault,Renault KWIDRXT,2016,"32,000kms",Petrol,Manual,₹2.25 Lakh,pune
+Toyota,Toyota Etios LivaG Plus,2012,"1,05,000kms",Petrol,Manual,₹1.89 Lakh,pune
+Honda,Honda City1.5 S MT,2009,"99,149kms",Petrol,Manual,₹2.16 Lakh,pune
+Honda,Honda CityZX MT,2006,"37,845kms",Petrol,Manual,₹2.10 Lakh,pune
+Honda,Honda BrioVX,2013,"1,40,000kms",Petrol,Manual,₹1.95 Lakh,pune
+Chevrolet,Chevrolet BeatLT,2013,"62,000kms",Petrol,Manual,₹1.95 Lakh,pune
+Maruti,Maruti Alto K10LXI CNG,2015,"75,000kms",CNG,Manual,₹2.69 Lakh,pune
+Chevrolet,Chevrolet BeatDiesel LS,2011,"1,26,000kms",Diesel,Manual,₹1.90 Lakh,pune
+Renault,Renault DusterRXZ,2021,"42,314kms",Petrol,Manual,₹8.02 Lakh,pune
+Volkswagen,Volkswagen PoloPetrol Comfortline 1.2L,2011,"76,000kms",Petrol,Manual,₹2.65 Lakh,pune
+Renault,Renault DusterSANDSTORM RXS 85 PS,2014,"78,947kms",Diesel,Manual,₹4.24 Lakh,pune
+Nissan,Nissan TerranoXL 85 PS,2015,"94,000kms",Diesel,Manual,₹3.90 Lakh,pune
+Chevrolet,Chevrolet BeatDiesel LS,2011,"1,26,000kms",Diesel,Manual,₹1.90 Lakh,pune
+Renault,Renault DusterRXZ,2021,"42,314kms",Petrol,Manual,₹8.02 Lakh,pune
+Volkswagen,Volkswagen PoloPetrol Comfortline 1.2L,2011,"76,000kms",Petrol,Manual,₹2.65 Lakh,pune
+Renault,Renault DusterSANDSTORM RXS 85 PS,2014,"78,947kms",Diesel,Manual,₹4.24 Lakh,pune
+Nissan,Nissan TerranoXL 85 PS,2015,"94,000kms",Diesel,Manual,₹3.90 Lakh,pune
+Tata,Tata Nexon1.2 Revotron XZA Plus,2019,"36,000kms",Petrol,Automatic,₹5.85 Lakh,pune
+Tata,2021Tata TiagoXZA AMT  -2022,2020,"24,000kms",Petrol,Automatic,₹5.75 Lakh,pune
+Hyundai,Hyundai Verna1.6 SX VTVT (O) AT,2015,"27,000kms",Petrol,Automatic,₹5.75 Lakh,pune
+Ford,Ford Ecosport1.0 Ecoboost Titanium Optional,2014,"27,000kms",Petrol,Manual,₹3.85 Lakh,pune
+Renault,Renault DusterRXZ AWD,2014,"92,000kms",Diesel,Manual,₹4 Lakh,pune
+Honda,Honda MobilioV i-VTEC,2015,"88,000kms",Petrol,Manual,₹4 Lakh,pune
+Tata,Tata TigorXMA AMT,2023,"27,527kms",Petrol,Automatic,₹4.50 Lakh,pune
+Maruti,Maruti S CrossDDiS 200 Zeta,2015,"74,000kms",Diesel,Manual,₹4.85 Lakh,pune
+Maruti,Maruti SwiftVXI,2016,"38,443kms",Petrol,Manual,₹4.48 Lakh,pune
+Maruti,Maruti Alto K10VXI,2015,"62,038kms",Petrol,Manual,₹2.48 Lakh,pune
+Maruti,Maruti BalenoZeta Diesel,2018,"46,099kms",Diesel,Manual,₹4.80 Lakh,pune
+Mahindra,Mahindra XUV500W9 AT,2016,"83,980kms",Diesel,Automatic,₹9.25 Lakh,pune
+Maruti,Maruti CelerioVXI AMT,2015,"36,276kms",Petrol,Automatic,₹2.52 Lakh,pune
+Maruti,Maruti Wagon RLXI BSVI,2015,"35,964kms",Petrol,Manual,₹2.95 Lakh,pune
+Kia,Kia SonetHTX Turbo iMT,2023,"24,978kms",Petrol,Manual,₹9.64 Lakh,pune
+Ford,Ford Ecosport1.5 TDCi Ambiente BSIV,2017,"66,734kms",Diesel,Manual,₹5.20 Lakh,pune
+Maruti,Maruti Vitara BrezzaZDi,2017,"77,164kms",Diesel,Manual,₹6.79 Lakh,pune
+Maruti,Maruti CelerioZXI,2017,"60,038kms",Petrol,Manual,₹3.77 Lakh,pune
+Volkswagen,Volkswagen VentoPetrol Comfortline,2021,"71,153kms",Petrol,Manual,₹6.81 Lakh,pune
+Kia,Kia SonetGTX Plus Turbo DCT,2020,"92,508kms",Petrol,Automatic,₹8.49 Lakh,pune
+Kia,Kia CarensPrestige Plus Diesel,2023,"23,699kms",Diesel,Manual,₹10.57 Lakh,pune
+Hyundai,Hyundai AuraSX Plus AMT Diesel,2024,"12,124kms",Diesel,Automatic,₹7.19 Lakh,pune
+Skoda,Skoda Kushaq1.5 TSI Ambition,2023,"22,536kms",Petrol,Manual,₹10.88 Lakh,pune
+Kia,Kia SeltosHTX,2021,"41,664kms",Petrol,Manual,₹9 Lakh,pune
+Tata,Tata AltrozXZ Diesel,2022,"68,177kms",Diesel,Manual,₹7.37 Lakh,pune
+Maruti,Maruti FRONXZeta Turbo AT,2023,"14,257kms",Petrol,Automatic,₹10.02 Lakh,pune
+Kia,Kia SeltosGTX Plus,2019,"41,598kms",Petrol,Manual,₹10.76 Lakh,pune
+Kia,Kia SeltosGTX Plus,2020,"28,270kms",Petrol,Manual,₹8.70 Lakh,pune
+Maruti,Maruti Alto 800LXi,2015,"39,373kms",Petrol,Manual,₹2.56 Lakh,pune
+MG,MG AstorSharp EX BSVI,2022,"52,428kms",Petrol,Manual,₹7.31 Lakh,pune
+Renault,Renault KigerRXZ Turbo CVT,2022,"21,886kms",Petrol,Automatic,₹8.02 Lakh,pune
+Honda,Honda JazzVX,2019,"21,348kms",Petrol,Manual,₹5.90 Lakh,pune
+Hyundai,Hyundai VenueSX Turbo iMT,2022,"36,740kms",Petrol,Manual,₹9.97 Lakh,pune
+Renault,Renault KigerRXZ Turbo CVT,2021,"34,001kms",Petrol,Automatic,₹6.12 Lakh,pune
+Hyundai,Hyundai VenueSX Turbo iMT,2021,"45,432kms",Petrol,Manual,₹8.22 Lakh,pune
+Kia,Kia SonetHTX Turbo iMT,2023,"24,978kms",Petrol,Manual,₹9.64 Lakh,pune
+Maruti,Maruti Alto K10VXI,2014,"36,191kms",Petrol,Manual,₹2.41 Lakh,pune
+Hyundai,Hyundai EONMagna,2016,"27,936kms",Petrol,Manual,₹2.66 Lakh,pune
+Kia,Kia SeltosGTX Option,2022,"23,144kms",Petrol,Manual,₹14.31 Lakh,pune
+Kia,Kia SeltosHTX Diesel,2020,"1,07,572kms",Diesel,Manual,₹9.79 Lakh,pune
+Maruti,Maruti FRONXZeta Turbo,2023,"25,778kms",Petrol,Manual,₹8.63 Lakh,pune
+Kia,Kia SeltosHTX Diesel,2021,"41,584kms",Diesel,Manual,₹11.42 Lakh,pune
+Maruti,Maruti Alto 800LXi,2015,"39,373kms",Petrol,Manual,₹2.56 Lakh,pune
+MG,MG AstorSharp EX BSVI,2022,"52,428kms",Petrol,Manual,₹7.31 Lakh,pune
+Maruti,Maruti FRONXZeta Turbo AT,2023,"14,257kms",Petrol,Automatic,₹10.02 Lakh,pune
+Kia,Kia SeltosGTX Plus,2019,"41,598kms",Petrol,Manual,₹10.76 Lakh,pune
+Kia,Kia SeltosGTX Plus,2020,"28,270kms",Petrol,Manual,₹8.70 Lakh,pune
+Kia,Kia SonetHTX Turbo iMT,2023,"63,146kms",Petrol,Manual,₹8.72 Lakh,pune
+Maruti,Maruti CelerioVXI AMT,2015,"36,276kms",Petrol,Automatic,₹2.52 Lakh,pune
+Maruti,Maruti Wagon RLXI BSVI,2015,"35,964kms",Petrol,Manual,₹2.95 Lakh,pune
+Maruti,Maruti CelerioZXI,2017,"60,038kms",Petrol,Manual,₹3.77 Lakh,pune
+Volkswagen,Volkswagen VentoPetrol Comfortline,2021,"71,153kms",Petrol,Manual,₹6.81 Lakh,pune
+Kia,Kia SonetGTX Plus Turbo DCT,2020,"92,508kms",Petrol,Automatic,₹8.49 Lakh,pune
+Maruti,Maruti CelerioVXI,2017,"80,052kms",Petrol,Manual,₹3.80 Lakh,pune
+Volkswagen,Volkswagen Tiguan2.0 TDI Highline,2018,"84,571kms",Diesel,Automatic,₹16.66 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2014,"20,967kms",Petrol,Manual,₹4.03 Lakh,pune
+Hyundai,Hyundai VenueSX Opt Turbo,2022,"20,177kms",Petrol,Manual,₹8.39 Lakh,pune
+Maruti,Maruti CelerioVXI,2017,"80,052kms",Petrol,Manual,₹3.80 Lakh,pune
+Volkswagen,Volkswagen Tiguan2.0 TDI Highline,2018,"84,571kms",Diesel,Automatic,₹16.66 Lakh,pune
+Toyota,Toyota Etios LivaV,2019,"38,663kms",Petrol,Manual,₹5.52 Lakh,pune
+Tata,Tata Tiago1.2 Revotron XT,2019,"1,01,845kms",Petrol,Manual,₹3.93 Lakh,pune
+Maruti,Maruti Wagon RVXI,2015,"48,877kms",Petrol,Manual,₹3.15 Lakh,pune
+Honda,Honda Amaze 2nd GenE,2016,"27,771kms",Petrol,Manual,₹4.19 Lakh,pune
+Hyundai,Hyundai VenueSX,2024,"11,021kms",Petrol,Manual,₹9.99 Lakh,pune
+Hyundai,Hyundai i20Magna Plus BSIV,2019,"67,495kms",Petrol,Manual,₹3.98 Lakh,pune
+Hyundai,Hyundai Verna1.6 SX,2013,"1,36,029kms",Diesel,Manual,₹3.27 Lakh,pune
+Kia,Kia SeltosHTX Diesel,2020,"1,07,572kms",Diesel,Manual,₹9.79 Lakh,pune
+Maruti,Maruti FRONXZeta Turbo,2023,"25,778kms",Petrol,Manual,₹8.63 Lakh,pune
+Kia,Kia SeltosHTX Diesel,2021,"41,584kms",Diesel,Manual,₹11.42 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2014,"55,807kms",Petrol,Manual,₹3.42 Lakh,pune
+Toyota,Toyota GlanzaV,2020,"58,322kms",Petrol,Manual,₹6.51 Lakh,pune
+Kia,Kia SeltosHTX,2020,"35,325kms",Petrol,Manual,₹7.82 Lakh,pune
+Maruti,Maruti SwiftVXI,2016,"38,443kms",Petrol,Manual,₹4.48 Lakh,pune
+Maruti,Maruti Alto K10VXI,2015,"62,038kms",Petrol,Manual,₹2.48 Lakh,pune
+Maruti,Maruti BalenoZeta Diesel,2018,"46,099kms",Diesel,Manual,₹4.80 Lakh,pune
+Hyundai,Hyundai Verna1.6 SX,2013,"1,36,029kms",Diesel,Manual,₹3.27 Lakh,pune
+Kia,Kia SeltosHTX Diesel,2020,"1,07,572kms",Diesel,Manual,₹9.79 Lakh,pune
+Maruti,Maruti FRONXZeta Turbo,2023,"25,778kms",Petrol,Manual,₹8.63 Lakh,pune
+Kia,Kia SeltosHTX Diesel,2021,"41,584kms",Diesel,Manual,₹11.42 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2014,"55,807kms",Petrol,Manual,₹3.42 Lakh,pune
+Toyota,Toyota GlanzaV,2020,"58,322kms",Petrol,Manual,₹6.51 Lakh,pune
+Kia,Kia SeltosHTX,2020,"35,325kms",Petrol,Manual,₹7.82 Lakh,pune
+Maruti,Maruti SwiftVXI,2016,"38,443kms",Petrol,Manual,₹4.48 Lakh,pune
+Maruti,Maruti Alto K10VXI,2015,"62,038kms",Petrol,Manual,₹2.48 Lakh,pune
+Maruti,Maruti BalenoZeta Diesel,2018,"46,099kms",Diesel,Manual,₹4.80 Lakh,pune
+Mahindra,Mahindra XUV500W9 AT,2016,"83,980kms",Diesel,Automatic,₹9.25 Lakh,pune
+Maruti,Maruti CelerioVXI AMT,2015,"36,276kms",Petrol,Automatic,₹2.52 Lakh,pune
+Maruti,Maruti Wagon RLXI BSVI,2015,"35,964kms",Petrol,Manual,₹2.95 Lakh,pune
+Kia,Kia SonetHTX Turbo iMT,2023,"24,978kms",Petrol,Manual,₹9.64 Lakh,pune
+Maruti,Maruti Alto K10VXI,2014,"36,191kms",Petrol,Manual,₹2.41 Lakh,pune
+Hyundai,Hyundai EONMagna,2016,"27,936kms",Petrol,Manual,₹2.66 Lakh,pune
+Kia,Kia SeltosGTX Option,2022,"23,144kms",Petrol,Manual,₹14.31 Lakh,pune
+Kia,Kia SonetHTX Turbo iMT,2023,"63,146kms",Petrol,Manual,₹8.72 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.2,2016,"79,352kms",Petrol,Manual,₹4.99 Lakh,pune
+Toyota,Toyota YarisVX CVT BSIV,2018,"50,200kms",Petrol,Automatic,₹7.45 Lakh,pune
+Hyundai,Hyundai Verna1.6 SX,2013,"1,36,029kms",Diesel,Manual,₹3.27 Lakh,pune
+Kia,Kia SeltosHTX Diesel,2020,"1,07,572kms",Diesel,Manual,₹9.79 Lakh,pune
+Maruti,Maruti FRONXZeta Turbo,2023,"25,778kms",Petrol,Manual,₹8.63 Lakh,pune
+Kia,Kia SeltosHTX Diesel,2021,"41,584kms",Diesel,Manual,₹11.42 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2014,"55,807kms",Petrol,Manual,₹3.42 Lakh,pune
+Toyota,Toyota GlanzaV,2020,"58,322kms",Petrol,Manual,₹6.51 Lakh,pune
+Kia,Kia SeltosHTX,2020,"35,325kms",Petrol,Manual,₹7.82 Lakh,pune
+Maruti,Maruti SwiftVXI,2016,"38,443kms",Petrol,Manual,₹4.48 Lakh,pune
+Maruti,Maruti Alto K10VXI,2015,"62,038kms",Petrol,Manual,₹2.48 Lakh,pune
+Maruti,Maruti BalenoZeta Diesel,2018,"46,099kms",Diesel,Manual,₹4.80 Lakh,pune
+Mahindra,Mahindra XUV500W9 AT,2016,"83,980kms",Diesel,Automatic,₹9.25 Lakh,pune
+Maruti,Maruti CelerioVXI AMT,2015,"36,276kms",Petrol,Automatic,₹2.52 Lakh,pune
+Maruti,Maruti Wagon RLXI BSVI,2015,"35,964kms",Petrol,Manual,₹2.95 Lakh,pune
+Kia,Kia SonetHTX Turbo iMT,2023,"24,978kms",Petrol,Manual,₹9.64 Lakh,pune
+Maruti,Maruti Alto K10VXI,2014,"36,191kms",Petrol,Manual,₹2.41 Lakh,pune
+Hyundai,Hyundai EONMagna,2016,"27,936kms",Petrol,Manual,₹2.66 Lakh,pune
+Kia,Kia SeltosGTX Option,2022,"23,144kms",Petrol,Manual,₹14.31 Lakh,pune
+Kia,Kia SonetHTX Turbo iMT,2023,"63,146kms",Petrol,Manual,₹8.72 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.2,2016,"79,352kms",Petrol,Manual,₹4.99 Lakh,pune
+Toyota,Toyota YarisVX CVT BSIV,2018,"50,200kms",Petrol,Automatic,₹7.45 Lakh,pune
+Honda,Honda Cityi VTEC SV,2017,"61,000kms",Petrol,Manual,₹5.80 Lakh,pune
+Hyundai,Hyundai SantroMagna AMT BSIV,2019,"61,000kms",Petrol,Automatic,₹4.25 Lakh,pune
+Hyundai,Hyundai Grand i10AT Asta,2015,"78,000kms",Petrol,Automatic,₹4 Lakh,pune
+Kia,Kia SeltosGTK,2019,"30,700kms",Petrol,Manual,₹10.25 Lakh,pune
+Hyundai,Hyundai Creta1.6 VTVT AT SX Plus,2016,"80,000kms",Petrol,Automatic,₹7.70 Lakh,pune
+Volkswagen,Volkswagen Polo1.2 MPI Comfortline,2017,"90,000kms",Petrol,Manual,₹3.95 Lakh,pune
+Hyundai,Hyundai Creta1.6 VTVT Base,2016,"1,08,000kms",Petrol,Manual,₹5.60 Lakh,pune
+Jaguar,Jaguar XFDiesel,2013,"75,000kms",Diesel,Automatic,₹12.25 Lakh,pune
+Audi,Audi Q530 TDI quattro Premium,2016,"69,000kms",Diesel,Automatic,₹16.95 Lakh,pune
+Hyundai,Hyundai Grand i10Sportz,2016,"81,000kms",Petrol,Manual,₹3.20 Lakh,pune
+Maruti,Maruti Alto 800LXI,2019,"78,000kms",Petrol,Manual,₹3.30 Lakh,pune
+Honda,Honda Cityi-VTEC CVT ZX,2018,"38,800kms",Petrol,Automatic,₹7.50 Lakh,pune
+Volkswagen,Volkswagen PoloGT TDI,2013,"1,38,000kms",Diesel,Manual,₹3.25 Lakh,pune
+Renault,Renault Lodgy85PS RxZ,2015,"1,19,000kms",Diesel,Manual,₹4.75 Lakh,pune
+Mahindra,Mahindra XUV500AT W6 1.99 mHawk,2018,"92,000kms",Diesel,Automatic,₹8.99 Lakh,pune
+Hyundai,Hyundai Creta1.6 E Plus,2018,"68,000kms",Petrol,Manual,₹6.75 Lakh,pune
+Hyundai,Hyundai Creta1.6 CRDi AT S Plus,2018,"91,000kms",Diesel,Automatic,₹9.25 Lakh,pune
+Maruti,Maruti SwiftVXI,2019,"55,000kms",Petrol,Manual,₹5.50 Lakh,pune
+Hyundai,Hyundai VenueSX Diesel,2021,"50,090kms",Diesel,Manual,₹9.50 Lakh,pune
+Toyota,Toyota YarisG CVT BSIV,2018,"33,075kms",Petrol,Automatic,₹8 Lakh,pune
+Honda,Honda CityZX MT Diesel,2023,"39,715kms",Diesel,Manual,₹12.80 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2014,"20,967kms",Petrol,Manual,₹4.03 Lakh,pune
+Hyundai,Hyundai VenueSX Opt Turbo,2022,"20,177kms",Petrol,Manual,₹8.39 Lakh,pune
+Skoda,Skoda Rapid1.5 TDI AT Ambition,2016,"81,017kms",Diesel,Automatic,₹5.89 Lakh,pune
+Mahindra,Mahindra XUV500W9,2017,"89,675kms",Diesel,Manual,₹8.52 Lakh,pune
+Ford,Ford Ecosport1.5 TDCi Ambiente BSIV,2017,"66,734kms",Diesel,Manual,₹5.20 Lakh,pune
+Maruti,Maruti Vitara BrezzaZDi,2017,"77,164kms",Diesel,Manual,₹6.79 Lakh,pune
+Maruti,Maruti SwiftVXI,2015,"59,505kms",Petrol,Manual,₹4.03 Lakh,pune
+Hyundai,Hyundai VenueSX Opt Turbo DCT Special Edition,2021,"46,345kms",Petrol,Automatic,₹8.99 Lakh,pune
+Renault,Renault DusterRXZ Turbo CVT,2021,"23,223kms",Petrol,Automatic,₹9.18 Lakh,pune
+Kia,Kia SeltosHTX,2021,"41,933kms",Petrol,Manual,₹8.31 Lakh,pune
+Renault,Renault KigerRXZ Turbo CVT,2023,"23,453kms",Petrol,Automatic,₹8.47 Lakh,pune
+Kia,Kia SeltosHTX,2022,"18,668kms",Petrol,Manual,₹8.55 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2014,"55,807kms",Petrol,Manual,₹3.42 Lakh,pune
+Toyota,Toyota GlanzaV,2020,"58,322kms",Petrol,Manual,₹6.51 Lakh,pune
+Hyundai,Hyundai Xcent1.2 Kappa S Option,2014,"96,000kms",Petrol,Manual,₹4 Lakh,pune
+Volkswagen,Volkswagen Polo1.5 TDI Highline,2015,"84,000kms",Diesel,Manual,₹4.65 Lakh,pune
+Renault,Renault PulsePetrol RxL,2014,"1,00,660kms",Petrol,Manual,₹2.65 Lakh,pune
+Volkswagen,Volkswagen Vento1.2 TSI Highline AT,2014,"61,000kms",Petrol,Automatic,₹4.40 Lakh,pune
+Maruti,Maruti SwiftVVT VXI,2014,"74,000kms",Petrol,Manual,₹4 Lakh,pune
+Honda,Honda Cityi VTEC SV,2017,"61,000kms",Petrol,Manual,₹5.80 Lakh,pune
+Hyundai,Hyundai SantroMagna AMT BSIV,2019,"61,000kms",Petrol,Automatic,₹4.25 Lakh,pune
+Hyundai,Hyundai Grand i10AT Asta,2015,"78,000kms",Petrol,Automatic,₹4 Lakh,pune
+Kia,Kia SeltosGTK,2019,"30,700kms",Petrol,Manual,₹10.25 Lakh,pune
+Hyundai,Hyundai Creta1.6 VTVT AT SX Plus,2016,"80,000kms",Petrol,Automatic,₹7.70 Lakh,pune
+Volkswagen,Volkswagen Polo1.2 MPI Comfortline,2017,"90,000kms",Petrol,Manual,₹3.95 Lakh,pune
+Hyundai,Hyundai Creta1.6 VTVT Base,2016,"1,08,000kms",Petrol,Manual,₹5.60 Lakh,pune
+Jaguar,Jaguar XFDiesel,2013,"75,000kms",Diesel,Automatic,₹12.25 Lakh,pune
+Audi,Audi Q530 TDI quattro Premium,2016,"69,000kms",Diesel,Automatic,₹16.95 Lakh,pune
+Hyundai,Hyundai Grand i10Sportz,2016,"81,000kms",Petrol,Manual,₹3.20 Lakh,pune
+Maruti,Maruti Alto 800LXI,2019,"78,000kms",Petrol,Manual,₹3.30 Lakh,pune
+Honda,Honda Cityi-VTEC CVT ZX,2018,"38,800kms",Petrol,Automatic,₹7.50 Lakh,pune
+Volkswagen,Volkswagen PoloGT TDI,2013,"1,38,000kms",Diesel,Manual,₹3.25 Lakh,pune
+Renault,Renault Lodgy85PS RxZ,2015,"1,19,000kms",Diesel,Manual,₹4.75 Lakh,pune
+Mahindra,Mahindra XUV500AT W6 1.99 mHawk,2018,"92,000kms",Diesel,Automatic,₹8.99 Lakh,pune
+Hyundai,Hyundai Creta1.6 E Plus,2018,"68,000kms",Petrol,Manual,₹6.75 Lakh,pune
+Hyundai,Hyundai Creta1.6 CRDi AT S Plus,2018,"91,000kms",Diesel,Automatic,₹9.25 Lakh,pune
+Maruti,Maruti SwiftVXI,2019,"55,000kms",Petrol,Manual,₹5.50 Lakh,pune
+Hyundai,Hyundai VenueSX Diesel,2021,"50,090kms",Diesel,Manual,₹9.50 Lakh,pune
+Toyota,Toyota YarisG CVT BSIV,2018,"33,075kms",Petrol,Automatic,₹8 Lakh,pune
+Hyundai,Hyundai Verna1.6 SX,2013,"1,36,029kms",Diesel,Manual,₹3.27 Lakh,pune
+Kia,Kia SeltosHTX Diesel,2020,"1,07,572kms",Diesel,Manual,₹9.79 Lakh,pune
+Maruti,Maruti FRONXZeta Turbo,2023,"25,778kms",Petrol,Manual,₹8.63 Lakh,pune
+Kia,Kia SeltosHTX Diesel,2021,"41,584kms",Diesel,Manual,₹11.42 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2014,"55,807kms",Petrol,Manual,₹3.42 Lakh,pune
+Toyota,Toyota GlanzaV,2020,"58,322kms",Petrol,Manual,₹6.51 Lakh,pune
+Kia,Kia SeltosHTX,2020,"35,325kms",Petrol,Manual,₹7.82 Lakh,pune
+Maruti,Maruti SwiftVXI,2016,"38,443kms",Petrol,Manual,₹4.48 Lakh,pune
+Maruti,Maruti Alto K10VXI,2015,"62,038kms",Petrol,Manual,₹2.48 Lakh,pune
+Maruti,Maruti BalenoZeta Diesel,2018,"46,099kms",Diesel,Manual,₹4.80 Lakh,pune
+Mahindra,Mahindra XUV500W9 AT,2016,"83,980kms",Diesel,Automatic,₹9.25 Lakh,pune
+Maruti,Maruti CelerioVXI AMT,2015,"36,276kms",Petrol,Automatic,₹2.52 Lakh,pune
+Maruti,Maruti Wagon RLXI BSVI,2015,"35,964kms",Petrol,Manual,₹2.95 Lakh,pune
+Kia,Kia SonetHTX Turbo iMT,2023,"24,978kms",Petrol,Manual,₹9.64 Lakh,pune
+Maruti,Maruti Alto K10VXI,2014,"36,191kms",Petrol,Manual,₹2.41 Lakh,pune
+Hyundai,Hyundai EONMagna,2016,"27,936kms",Petrol,Manual,₹2.66 Lakh,pune
+Kia,Kia SeltosGTX Option,2022,"23,144kms",Petrol,Manual,₹14.31 Lakh,pune
+Kia,Kia SonetHTX Turbo iMT,2023,"63,146kms",Petrol,Manual,₹8.72 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.2,2016,"79,352kms",Petrol,Manual,₹4.99 Lakh,pune
+Toyota,Toyota YarisVX CVT BSIV,2018,"50,200kms",Petrol,Automatic,₹7.45 Lakh,pune
+Honda,Honda Cityi VTEC SV,2017,"61,000kms",Petrol,Manual,₹5.80 Lakh,pune
+Hyundai,Hyundai SantroMagna AMT BSIV,2019,"61,000kms",Petrol,Automatic,₹4.25 Lakh,pune
+Hyundai,Hyundai Grand i10AT Asta,2015,"78,000kms",Petrol,Automatic,₹4 Lakh,pune
+Kia,Kia SeltosGTK,2019,"30,700kms",Petrol,Manual,₹10.25 Lakh,pune
+Hyundai,Hyundai Creta1.6 VTVT AT SX Plus,2016,"80,000kms",Petrol,Automatic,₹7.70 Lakh,pune
+Volkswagen,Volkswagen Polo1.2 MPI Comfortline,2017,"90,000kms",Petrol,Manual,₹3.95 Lakh,pune
+Hyundai,Hyundai Creta1.6 VTVT Base,2016,"1,08,000kms",Petrol,Manual,₹5.60 Lakh,pune
+Jaguar,Jaguar XFDiesel,2013,"75,000kms",Diesel,Automatic,₹12.25 Lakh,pune
+Audi,Audi Q530 TDI quattro Premium,2016,"69,000kms",Diesel,Automatic,₹16.95 Lakh,pune
+Hyundai,Hyundai Grand i10Sportz,2016,"81,000kms",Petrol,Manual,₹3.20 Lakh,pune
+Maruti,Maruti Alto 800LXI,2019,"78,000kms",Petrol,Manual,₹3.30 Lakh,pune
+Honda,Honda Cityi-VTEC CVT ZX,2018,"38,800kms",Petrol,Automatic,₹7.50 Lakh,pune
+Volkswagen,Volkswagen PoloGT TDI,2013,"1,38,000kms",Diesel,Manual,₹3.25 Lakh,pune
+Renault,Renault Lodgy85PS RxZ,2015,"1,19,000kms",Diesel,Manual,₹4.75 Lakh,pune
+Mahindra,Mahindra XUV500AT W6 1.99 mHawk,2018,"92,000kms",Diesel,Automatic,₹8.99 Lakh,pune
+Hyundai,Hyundai Creta1.6 E Plus,2018,"68,000kms",Petrol,Manual,₹6.75 Lakh,pune
+Hyundai,Hyundai Creta1.6 CRDi AT S Plus,2018,"91,000kms",Diesel,Automatic,₹9.25 Lakh,pune
+Maruti,Maruti SwiftVXI,2019,"55,000kms",Petrol,Manual,₹5.50 Lakh,pune
+Hyundai,Hyundai VenueSX Diesel,2021,"50,090kms",Diesel,Manual,₹9.50 Lakh,pune
+Toyota,Toyota YarisG CVT BSIV,2018,"33,075kms",Petrol,Automatic,₹8 Lakh,pune
+Honda,Honda Cityi VTEC SV,2017,"61,000kms",Petrol,Manual,₹5.80 Lakh,pune
+Hyundai,Hyundai SantroMagna AMT BSIV,2019,"61,000kms",Petrol,Automatic,₹4.25 Lakh,pune
+Hyundai,Hyundai Grand i10AT Asta,2015,"78,000kms",Petrol,Automatic,₹4 Lakh,pune
+Kia,Kia SeltosGTK,2019,"30,700kms",Petrol,Manual,₹10.25 Lakh,pune
+Hyundai,Hyundai Creta1.6 VTVT AT SX Plus,2016,"80,000kms",Petrol,Automatic,₹7.70 Lakh,pune
+Volkswagen,Volkswagen Polo1.2 MPI Comfortline,2017,"90,000kms",Petrol,Manual,₹3.95 Lakh,pune
+Hyundai,Hyundai Creta1.6 VTVT Base,2016,"1,08,000kms",Petrol,Manual,₹5.60 Lakh,pune
+Jaguar,Jaguar XFDiesel,2013,"75,000kms",Diesel,Automatic,₹12.25 Lakh,pune
+Audi,Audi Q530 TDI quattro Premium,2016,"69,000kms",Diesel,Automatic,₹16.95 Lakh,pune
+Hyundai,Hyundai Grand i10Sportz,2016,"81,000kms",Petrol,Manual,₹3.20 Lakh,pune
+Maruti,Maruti Alto 800LXI,2019,"78,000kms",Petrol,Manual,₹3.30 Lakh,pune
+Honda,Honda Cityi-VTEC CVT ZX,2018,"38,800kms",Petrol,Automatic,₹7.50 Lakh,pune
+Volkswagen,Volkswagen PoloGT TDI,2013,"1,38,000kms",Diesel,Manual,₹3.25 Lakh,pune
+Renault,Renault Lodgy85PS RxZ,2015,"1,19,000kms",Diesel,Manual,₹4.75 Lakh,pune
+Mahindra,Mahindra XUV500AT W6 1.99 mHawk,2018,"92,000kms",Diesel,Automatic,₹8.99 Lakh,pune
+Hyundai,Hyundai Creta1.6 E Plus,2018,"68,000kms",Petrol,Manual,₹6.75 Lakh,pune
+Hyundai,Hyundai Creta1.6 CRDi AT S Plus,2018,"91,000kms",Diesel,Automatic,₹9.25 Lakh,pune
+Maruti,Maruti SwiftVXI,2019,"55,000kms",Petrol,Manual,₹5.50 Lakh,pune
+Hyundai,Hyundai VenueSX Diesel,2021,"50,090kms",Diesel,Manual,₹9.50 Lakh,pune
+Toyota,Toyota YarisG CVT BSIV,2018,"33,075kms",Petrol,Automatic,₹8 Lakh,pune
+Hyundai,Hyundai Verna1.6 SX,2013,"1,36,029kms",Diesel,Manual,₹3.27 Lakh,pune
+Kia,Kia SeltosHTX Diesel,2020,"1,07,572kms",Diesel,Manual,₹9.79 Lakh,pune
+Maruti,Maruti FRONXZeta Turbo,2023,"25,778kms",Petrol,Manual,₹8.63 Lakh,pune
+Kia,Kia SeltosHTX Diesel,2021,"41,584kms",Diesel,Manual,₹11.42 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2014,"55,807kms",Petrol,Manual,₹3.42 Lakh,pune
+Toyota,Toyota GlanzaV,2020,"58,322kms",Petrol,Manual,₹6.51 Lakh,pune
+Kia,Kia SeltosHTX,2020,"35,325kms",Petrol,Manual,₹7.82 Lakh,pune
+Maruti,Maruti SwiftVXI,2016,"38,443kms",Petrol,Manual,₹4.48 Lakh,pune
+Maruti,Maruti Alto K10VXI,2015,"62,038kms",Petrol,Manual,₹2.48 Lakh,pune
+Maruti,Maruti BalenoZeta Diesel,2018,"46,099kms",Diesel,Manual,₹4.80 Lakh,pune
+Mahindra,Mahindra XUV500W9 AT,2016,"83,980kms",Diesel,Automatic,₹9.25 Lakh,pune
+Maruti,Maruti CelerioVXI AMT,2015,"36,276kms",Petrol,Automatic,₹2.52 Lakh,pune
+Maruti,Maruti Wagon RLXI BSVI,2015,"35,964kms",Petrol,Manual,₹2.95 Lakh,pune
+Kia,Kia SonetHTX Turbo iMT,2023,"24,978kms",Petrol,Manual,₹9.64 Lakh,pune
+Maruti,Maruti Alto K10VXI,2014,"36,191kms",Petrol,Manual,₹2.41 Lakh,pune
+Hyundai,Hyundai EONMagna,2016,"27,936kms",Petrol,Manual,₹2.66 Lakh,pune
+Kia,Kia SeltosGTX Option,2022,"23,144kms",Petrol,Manual,₹14.31 Lakh,pune
+Kia,Kia SonetHTX Turbo iMT,2023,"63,146kms",Petrol,Manual,₹8.72 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.2,2016,"79,352kms",Petrol,Manual,₹4.99 Lakh,pune
+Toyota,Toyota YarisVX CVT BSIV,2018,"50,200kms",Petrol,Automatic,₹7.45 Lakh,pune
+Hyundai,Hyundai Verna1.6 SX,2013,"1,36,029kms",Diesel,Manual,₹3.27 Lakh,pune
+Kia,Kia SeltosHTX Diesel,2020,"1,07,572kms",Diesel,Manual,₹9.79 Lakh,pune
+Maruti,Maruti FRONXZeta Turbo,2023,"25,778kms",Petrol,Manual,₹8.63 Lakh,pune
+Kia,Kia SeltosHTX Diesel,2021,"41,584kms",Diesel,Manual,₹11.42 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2014,"55,807kms",Petrol,Manual,₹3.42 Lakh,pune
+Toyota,Toyota GlanzaV,2020,"58,322kms",Petrol,Manual,₹6.51 Lakh,pune
+Kia,Kia SeltosHTX,2020,"35,325kms",Petrol,Manual,₹7.82 Lakh,pune
+Maruti,Maruti SwiftVXI,2016,"38,443kms",Petrol,Manual,₹4.48 Lakh,pune
+Maruti,Maruti Alto K10VXI,2015,"62,038kms",Petrol,Manual,₹2.48 Lakh,pune
+Maruti,Maruti BalenoZeta Diesel,2018,"46,099kms",Diesel,Manual,₹4.80 Lakh,pune
+Mahindra,Mahindra XUV500W9 AT,2016,"83,980kms",Diesel,Automatic,₹9.25 Lakh,pune
+Maruti,Maruti CelerioVXI AMT,2015,"36,276kms",Petrol,Automatic,₹2.52 Lakh,pune
+Maruti,Maruti Wagon RLXI BSVI,2015,"35,964kms",Petrol,Manual,₹2.95 Lakh,pune
+Kia,Kia SonetHTX Turbo iMT,2023,"24,978kms",Petrol,Manual,₹9.64 Lakh,pune
+Maruti,Maruti Alto K10VXI,2014,"36,191kms",Petrol,Manual,₹2.41 Lakh,pune
+Hyundai,Hyundai EONMagna,2016,"27,936kms",Petrol,Manual,₹2.66 Lakh,pune
+Kia,Kia SeltosGTX Option,2022,"23,144kms",Petrol,Manual,₹14.31 Lakh,pune
+Kia,Kia SonetHTX Turbo iMT,2023,"63,146kms",Petrol,Manual,₹8.72 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.2,2016,"79,352kms",Petrol,Manual,₹4.99 Lakh,pune
+Toyota,Toyota YarisVX CVT BSIV,2018,"50,200kms",Petrol,Automatic,₹7.45 Lakh,pune
+Honda,Honda Cityi VTEC SV,2017,"61,000kms",Petrol,Manual,₹5.80 Lakh,pune
+Hyundai,Hyundai SantroMagna AMT BSIV,2019,"61,000kms",Petrol,Automatic,₹4.25 Lakh,pune
+Hyundai,Hyundai Grand i10AT Asta,2015,"78,000kms",Petrol,Automatic,₹4 Lakh,pune
+Kia,Kia SeltosGTK,2019,"30,700kms",Petrol,Manual,₹10.25 Lakh,pune
+Hyundai,Hyundai Creta1.6 VTVT AT SX Plus,2016,"80,000kms",Petrol,Automatic,₹7.70 Lakh,pune
+Volkswagen,Volkswagen Polo1.2 MPI Comfortline,2017,"90,000kms",Petrol,Manual,₹3.95 Lakh,pune
+Hyundai,Hyundai Creta1.6 VTVT Base,2016,"1,08,000kms",Petrol,Manual,₹5.60 Lakh,pune
+Jaguar,Jaguar XFDiesel,2013,"75,000kms",Diesel,Automatic,₹12.25 Lakh,pune
+Audi,Audi Q530 TDI quattro Premium,2016,"69,000kms",Diesel,Automatic,₹16.95 Lakh,pune
+Hyundai,Hyundai Grand i10Sportz,2016,"81,000kms",Petrol,Manual,₹3.20 Lakh,pune
+Maruti,Maruti Alto 800LXI,2019,"78,000kms",Petrol,Manual,₹3.30 Lakh,pune
+Honda,Honda Cityi-VTEC CVT ZX,2018,"38,800kms",Petrol,Automatic,₹7.50 Lakh,pune
+Volkswagen,Volkswagen PoloGT TDI,2013,"1,38,000kms",Diesel,Manual,₹3.25 Lakh,pune
+Renault,Renault Lodgy85PS RxZ,2015,"1,19,000kms",Diesel,Manual,₹4.75 Lakh,pune
+Mahindra,Mahindra XUV500AT W6 1.99 mHawk,2018,"92,000kms",Diesel,Automatic,₹8.99 Lakh,pune
+Hyundai,Hyundai Creta1.6 E Plus,2018,"68,000kms",Petrol,Manual,₹6.75 Lakh,pune
+Hyundai,Hyundai Creta1.6 CRDi AT S Plus,2018,"91,000kms",Diesel,Automatic,₹9.25 Lakh,pune
+Maruti,Maruti SwiftVXI,2019,"55,000kms",Petrol,Manual,₹5.50 Lakh,pune
+Hyundai,Hyundai VenueSX Diesel,2021,"50,090kms",Diesel,Manual,₹9.50 Lakh,pune
+Toyota,Toyota YarisG CVT BSIV,2018,"33,075kms",Petrol,Automatic,₹8 Lakh,pune
+Honda,Honda CityZX MT Diesel,2023,"39,715kms",Diesel,Manual,₹12.80 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2014,"20,967kms",Petrol,Manual,₹4.03 Lakh,pune
+Hyundai,Hyundai VenueSX Opt Turbo,2022,"20,177kms",Petrol,Manual,₹8.39 Lakh,pune
+Skoda,Skoda Rapid1.5 TDI AT Ambition,2016,"81,017kms",Diesel,Automatic,₹5.89 Lakh,pune
+Mahindra,Mahindra XUV500W9,2017,"89,675kms",Diesel,Manual,₹8.52 Lakh,pune
+Ford,Ford Ecosport1.5 TDCi Ambiente BSIV,2017,"66,734kms",Diesel,Manual,₹5.20 Lakh,pune
+Maruti,Maruti Vitara BrezzaZDi,2017,"77,164kms",Diesel,Manual,₹6.79 Lakh,pune
+Maruti,Maruti SwiftVXI,2015,"59,505kms",Petrol,Manual,₹4.03 Lakh,pune
+Hyundai,Hyundai VenueSX Opt Turbo DCT Special Edition,2021,"46,345kms",Petrol,Automatic,₹8.99 Lakh,pune
+Renault,Renault DusterRXZ Turbo CVT,2021,"23,223kms",Petrol,Automatic,₹9.18 Lakh,pune
+Kia,Kia SeltosHTX,2021,"41,933kms",Petrol,Manual,₹8.31 Lakh,pune
+Renault,Renault KigerRXZ Turbo CVT,2023,"23,453kms",Petrol,Automatic,₹8.47 Lakh,pune
+Kia,Kia SeltosHTX,2022,"18,668kms",Petrol,Manual,₹8.55 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2014,"55,807kms",Petrol,Manual,₹3.42 Lakh,pune
+Toyota,Toyota GlanzaV,2020,"58,322kms",Petrol,Manual,₹6.51 Lakh,pune
+Hyundai,Hyundai Xcent1.2 Kappa S Option,2014,"96,000kms",Petrol,Manual,₹4 Lakh,pune
+Volkswagen,Volkswagen Polo1.5 TDI Highline,2015,"84,000kms",Diesel,Manual,₹4.65 Lakh,pune
+Renault,Renault PulsePetrol RxL,2014,"1,00,660kms",Petrol,Manual,₹2.65 Lakh,pune
+Volkswagen,Volkswagen Vento1.2 TSI Highline AT,2014,"61,000kms",Petrol,Automatic,₹4.40 Lakh,pune
+Maruti,Maruti SwiftVVT VXI,2014,"74,000kms",Petrol,Manual,₹4 Lakh,pune
+Honda,Honda CityZX MT Diesel,2023,"39,715kms",Diesel,Manual,₹12.80 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2014,"20,967kms",Petrol,Manual,₹4.03 Lakh,pune
+Hyundai,Hyundai VenueSX Opt Turbo,2022,"20,177kms",Petrol,Manual,₹8.39 Lakh,pune
+Skoda,Skoda Rapid1.5 TDI AT Ambition,2016,"81,017kms",Diesel,Automatic,₹5.89 Lakh,pune
+Mahindra,Mahindra XUV500W9,2017,"89,675kms",Diesel,Manual,₹8.52 Lakh,pune
+Ford,Ford Ecosport1.5 TDCi Ambiente BSIV,2017,"66,734kms",Diesel,Manual,₹5.20 Lakh,pune
+Maruti,Maruti Vitara BrezzaZDi,2017,"77,164kms",Diesel,Manual,₹6.79 Lakh,pune
+Maruti,Maruti SwiftVXI,2015,"59,505kms",Petrol,Manual,₹4.03 Lakh,pune
+Hyundai,Hyundai VenueSX Opt Turbo DCT Special Edition,2021,"46,345kms",Petrol,Automatic,₹8.99 Lakh,pune
+Renault,Renault DusterRXZ Turbo CVT,2021,"23,223kms",Petrol,Automatic,₹9.18 Lakh,pune
+Kia,Kia SeltosHTX,2021,"41,933kms",Petrol,Manual,₹8.31 Lakh,pune
+Renault,Renault KigerRXZ Turbo CVT,2023,"23,453kms",Petrol,Automatic,₹8.47 Lakh,pune
+Kia,Kia SeltosHTX,2022,"18,668kms",Petrol,Manual,₹8.55 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2014,"55,807kms",Petrol,Manual,₹3.42 Lakh,pune
+Toyota,Toyota GlanzaV,2020,"58,322kms",Petrol,Manual,₹6.51 Lakh,pune
+Hyundai,Hyundai Xcent1.2 Kappa S Option,2014,"96,000kms",Petrol,Manual,₹4 Lakh,pune
+Volkswagen,Volkswagen Polo1.5 TDI Highline,2015,"84,000kms",Diesel,Manual,₹4.65 Lakh,pune
+Renault,Renault PulsePetrol RxL,2014,"1,00,660kms",Petrol,Manual,₹2.65 Lakh,pune
+Volkswagen,Volkswagen Vento1.2 TSI Highline AT,2014,"61,000kms",Petrol,Automatic,₹4.40 Lakh,pune
+Maruti,Maruti SwiftVVT VXI,2014,"74,000kms",Petrol,Manual,₹4 Lakh,pune
+Honda,Honda Cityi VTEC SV,2017,"61,000kms",Petrol,Manual,₹5.80 Lakh,pune
+Hyundai,Hyundai SantroMagna AMT BSIV,2019,"61,000kms",Petrol,Automatic,₹4.25 Lakh,pune
+Hyundai,Hyundai Grand i10AT Asta,2015,"78,000kms",Petrol,Automatic,₹4 Lakh,pune
+Kia,Kia SeltosGTK,2019,"30,700kms",Petrol,Manual,₹10.25 Lakh,pune
+Hyundai,Hyundai Creta1.6 VTVT AT SX Plus,2016,"80,000kms",Petrol,Automatic,₹7.70 Lakh,pune
+Volkswagen,Volkswagen Polo1.2 MPI Comfortline,2017,"90,000kms",Petrol,Manual,₹3.95 Lakh,pune
+Hyundai,Hyundai Creta1.6 VTVT Base,2016,"1,08,000kms",Petrol,Manual,₹5.60 Lakh,pune
+Jaguar,Jaguar XFDiesel,2013,"75,000kms",Diesel,Automatic,₹12.25 Lakh,pune
+Audi,Audi Q530 TDI quattro Premium,2016,"69,000kms",Diesel,Automatic,₹16.95 Lakh,pune
+Hyundai,Hyundai Grand i10Sportz,2016,"81,000kms",Petrol,Manual,₹3.20 Lakh,pune
+Maruti,Maruti Alto 800LXI,2019,"78,000kms",Petrol,Manual,₹3.30 Lakh,pune
+Honda,Honda Cityi-VTEC CVT ZX,2018,"38,800kms",Petrol,Automatic,₹7.50 Lakh,pune
+Volkswagen,Volkswagen PoloGT TDI,2013,"1,38,000kms",Diesel,Manual,₹3.25 Lakh,pune
+Renault,Renault Lodgy85PS RxZ,2015,"1,19,000kms",Diesel,Manual,₹4.75 Lakh,pune
+Mahindra,Mahindra XUV500AT W6 1.99 mHawk,2018,"92,000kms",Diesel,Automatic,₹8.99 Lakh,pune
+Hyundai,Hyundai Creta1.6 E Plus,2018,"68,000kms",Petrol,Manual,₹6.75 Lakh,pune
+Hyundai,Hyundai Creta1.6 CRDi AT S Plus,2018,"91,000kms",Diesel,Automatic,₹9.25 Lakh,pune
+Maruti,Maruti SwiftVXI,2019,"55,000kms",Petrol,Manual,₹5.50 Lakh,pune
+Hyundai,Hyundai VenueSX Diesel,2021,"50,090kms",Diesel,Manual,₹9.50 Lakh,pune
+Toyota,Toyota YarisG CVT BSIV,2018,"33,075kms",Petrol,Automatic,₹8 Lakh,pune
+Honda,Honda Cityi VTEC SV,2017,"61,000kms",Petrol,Manual,₹5.80 Lakh,pune
+Hyundai,Hyundai SantroMagna AMT BSIV,2019,"61,000kms",Petrol,Automatic,₹4.25 Lakh,pune
+Hyundai,Hyundai Grand i10AT Asta,2015,"78,000kms",Petrol,Automatic,₹4 Lakh,pune
+Kia,Kia SeltosGTK,2019,"30,700kms",Petrol,Manual,₹10.25 Lakh,pune
+Hyundai,Hyundai Creta1.6 VTVT AT SX Plus,2016,"80,000kms",Petrol,Automatic,₹7.70 Lakh,pune
+Volkswagen,Volkswagen Polo1.2 MPI Comfortline,2017,"90,000kms",Petrol,Manual,₹3.95 Lakh,pune
+Hyundai,Hyundai Creta1.6 VTVT Base,2016,"1,08,000kms",Petrol,Manual,₹5.60 Lakh,pune
+Jaguar,Jaguar XFDiesel,2013,"75,000kms",Diesel,Automatic,₹12.25 Lakh,pune
+Audi,Audi Q530 TDI quattro Premium,2016,"69,000kms",Diesel,Automatic,₹16.95 Lakh,pune
+Hyundai,Hyundai Grand i10Sportz,2016,"81,000kms",Petrol,Manual,₹3.20 Lakh,pune
+Maruti,Maruti Alto 800LXI,2019,"78,000kms",Petrol,Manual,₹3.30 Lakh,pune
+Honda,Honda Cityi-VTEC CVT ZX,2018,"38,800kms",Petrol,Automatic,₹7.50 Lakh,pune
+Volkswagen,Volkswagen PoloGT TDI,2013,"1,38,000kms",Diesel,Manual,₹3.25 Lakh,pune
+Renault,Renault Lodgy85PS RxZ,2015,"1,19,000kms",Diesel,Manual,₹4.75 Lakh,pune
+Mahindra,Mahindra XUV500AT W6 1.99 mHawk,2018,"92,000kms",Diesel,Automatic,₹8.99 Lakh,pune
+Hyundai,Hyundai Creta1.6 E Plus,2018,"68,000kms",Petrol,Manual,₹6.75 Lakh,pune
+Hyundai,Hyundai Creta1.6 CRDi AT S Plus,2018,"91,000kms",Diesel,Automatic,₹9.25 Lakh,pune
+Maruti,Maruti SwiftVXI,2019,"55,000kms",Petrol,Manual,₹5.50 Lakh,pune
+Hyundai,Hyundai VenueSX Diesel,2021,"50,090kms",Diesel,Manual,₹9.50 Lakh,pune
+Toyota,Toyota YarisG CVT BSIV,2018,"33,075kms",Petrol,Automatic,₹8 Lakh,pune
+Honda,Honda Cityi VTEC SV,2017,"61,000kms",Petrol,Manual,₹5.80 Lakh,pune
+Hyundai,Hyundai SantroMagna AMT BSIV,2019,"61,000kms",Petrol,Automatic,₹4.25 Lakh,pune
+Hyundai,Hyundai Grand i10AT Asta,2015,"78,000kms",Petrol,Automatic,₹4 Lakh,pune
+Kia,Kia SeltosGTK,2019,"30,700kms",Petrol,Manual,₹10.25 Lakh,pune
+Hyundai,Hyundai Creta1.6 VTVT AT SX Plus,2016,"80,000kms",Petrol,Automatic,₹7.70 Lakh,pune
+Volkswagen,Volkswagen Polo1.2 MPI Comfortline,2017,"90,000kms",Petrol,Manual,₹3.95 Lakh,pune
+Hyundai,Hyundai Creta1.6 VTVT Base,2016,"1,08,000kms",Petrol,Manual,₹5.60 Lakh,pune
+Jaguar,Jaguar XFDiesel,2013,"75,000kms",Diesel,Automatic,₹12.25 Lakh,pune
+Audi,Audi Q530 TDI quattro Premium,2016,"69,000kms",Diesel,Automatic,₹16.95 Lakh,pune
+Hyundai,Hyundai Grand i10Sportz,2016,"81,000kms",Petrol,Manual,₹3.20 Lakh,pune
+Maruti,Maruti Alto 800LXI,2019,"78,000kms",Petrol,Manual,₹3.30 Lakh,pune
+Honda,Honda Cityi-VTEC CVT ZX,2018,"38,800kms",Petrol,Automatic,₹7.50 Lakh,pune
+Volkswagen,Volkswagen PoloGT TDI,2013,"1,38,000kms",Diesel,Manual,₹3.25 Lakh,pune
+Renault,Renault Lodgy85PS RxZ,2015,"1,19,000kms",Diesel,Manual,₹4.75 Lakh,pune
+Mahindra,Mahindra XUV500AT W6 1.99 mHawk,2018,"92,000kms",Diesel,Automatic,₹8.99 Lakh,pune
+Hyundai,Hyundai Creta1.6 E Plus,2018,"68,000kms",Petrol,Manual,₹6.75 Lakh,pune
+Hyundai,Hyundai Creta1.6 CRDi AT S Plus,2018,"91,000kms",Diesel,Automatic,₹9.25 Lakh,pune
+Maruti,Maruti SwiftVXI,2019,"55,000kms",Petrol,Manual,₹5.50 Lakh,pune
+Hyundai,Hyundai VenueSX Diesel,2021,"50,090kms",Diesel,Manual,₹9.50 Lakh,pune
+Toyota,Toyota YarisG CVT BSIV,2018,"33,075kms",Petrol,Automatic,₹8 Lakh,pune
+Honda,Honda CityZX MT Diesel,2023,"39,715kms",Diesel,Manual,₹12.80 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2014,"20,967kms",Petrol,Manual,₹4.03 Lakh,pune
+Hyundai,Hyundai VenueSX Opt Turbo,2022,"20,177kms",Petrol,Manual,₹8.39 Lakh,pune
+Skoda,Skoda Rapid1.5 TDI AT Ambition,2016,"81,017kms",Diesel,Automatic,₹5.89 Lakh,pune
+Mahindra,Mahindra XUV500W9,2017,"89,675kms",Diesel,Manual,₹8.52 Lakh,pune
+Ford,Ford Ecosport1.5 TDCi Ambiente BSIV,2017,"66,734kms",Diesel,Manual,₹5.20 Lakh,pune
+Maruti,Maruti Vitara BrezzaZDi,2017,"77,164kms",Diesel,Manual,₹6.79 Lakh,pune
+Maruti,Maruti SwiftVXI,2015,"59,505kms",Petrol,Manual,₹4.03 Lakh,pune
+Hyundai,Hyundai VenueSX Opt Turbo DCT Special Edition,2021,"46,345kms",Petrol,Automatic,₹8.99 Lakh,pune
+Renault,Renault DusterRXZ Turbo CVT,2021,"23,223kms",Petrol,Automatic,₹9.18 Lakh,pune
+Kia,Kia SeltosHTX,2021,"41,933kms",Petrol,Manual,₹8.31 Lakh,pune
+Renault,Renault KigerRXZ Turbo CVT,2023,"23,453kms",Petrol,Automatic,₹8.47 Lakh,pune
+Kia,Kia SeltosHTX,2022,"18,668kms",Petrol,Manual,₹8.55 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2014,"55,807kms",Petrol,Manual,₹3.42 Lakh,pune
+Toyota,Toyota GlanzaV,2020,"58,322kms",Petrol,Manual,₹6.51 Lakh,pune
+Hyundai,Hyundai Xcent1.2 Kappa S Option,2014,"96,000kms",Petrol,Manual,₹4 Lakh,pune
+Volkswagen,Volkswagen Polo1.5 TDI Highline,2015,"84,000kms",Diesel,Manual,₹4.65 Lakh,pune
+Renault,Renault PulsePetrol RxL,2014,"1,00,660kms",Petrol,Manual,₹2.65 Lakh,pune
+Volkswagen,Volkswagen Vento1.2 TSI Highline AT,2014,"61,000kms",Petrol,Automatic,₹4.40 Lakh,pune
+Maruti,Maruti SwiftVVT VXI,2014,"74,000kms",Petrol,Manual,₹4 Lakh,pune
+Hyundai,Hyundai Verna1.6 SX,2013,"1,36,029kms",Diesel,Manual,₹3.27 Lakh,pune
+Kia,Kia SeltosHTX Diesel,2020,"1,07,572kms",Diesel,Manual,₹9.79 Lakh,pune
+Maruti,Maruti FRONXZeta Turbo,2023,"25,778kms",Petrol,Manual,₹8.63 Lakh,pune
+Kia,Kia SeltosHTX Diesel,2021,"41,584kms",Diesel,Manual,₹11.42 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2014,"55,807kms",Petrol,Manual,₹3.42 Lakh,pune
+Toyota,Toyota GlanzaV,2020,"58,322kms",Petrol,Manual,₹6.51 Lakh,pune
+Kia,Kia SeltosHTX,2020,"35,325kms",Petrol,Manual,₹7.82 Lakh,pune
+Maruti,Maruti SwiftVXI,2016,"38,443kms",Petrol,Manual,₹4.48 Lakh,pune
+Maruti,Maruti Alto K10VXI,2015,"62,038kms",Petrol,Manual,₹2.48 Lakh,pune
+Maruti,Maruti BalenoZeta Diesel,2018,"46,099kms",Diesel,Manual,₹4.80 Lakh,pune
+Mahindra,Mahindra XUV500W9 AT,2016,"83,980kms",Diesel,Automatic,₹9.25 Lakh,pune
+Maruti,Maruti CelerioVXI AMT,2015,"36,276kms",Petrol,Automatic,₹2.52 Lakh,pune
+Maruti,Maruti Wagon RLXI BSVI,2015,"35,964kms",Petrol,Manual,₹2.95 Lakh,pune
+Kia,Kia SonetHTX Turbo iMT,2023,"24,978kms",Petrol,Manual,₹9.64 Lakh,pune
+Maruti,Maruti Alto K10VXI,2014,"36,191kms",Petrol,Manual,₹2.41 Lakh,pune
+Hyundai,Hyundai EONMagna,2016,"27,936kms",Petrol,Manual,₹2.66 Lakh,pune
+Kia,Kia SeltosGTX Option,2022,"23,144kms",Petrol,Manual,₹14.31 Lakh,pune
+Kia,Kia SonetHTX Turbo iMT,2023,"63,146kms",Petrol,Manual,₹8.72 Lakh,pune
+Hyundai,Hyundai i20Sportz 1.2,2016,"79,352kms",Petrol,Manual,₹4.99 Lakh,pune
+Toyota,Toyota YarisVX CVT BSIV,2018,"50,200kms",Petrol,Automatic,₹7.45 Lakh,pune
+Honda,Honda CityZX MT Diesel,2023,"39,715kms",Diesel,Manual,₹12.80 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2014,"20,967kms",Petrol,Manual,₹4.03 Lakh,pune
+Hyundai,Hyundai VenueSX Opt Turbo,2022,"20,177kms",Petrol,Manual,₹8.39 Lakh,pune
+Skoda,Skoda Rapid1.5 TDI AT Ambition,2016,"81,017kms",Diesel,Automatic,₹5.89 Lakh,pune
+Mahindra,Mahindra XUV500W9,2017,"89,675kms",Diesel,Manual,₹8.52 Lakh,pune
+Ford,Ford Ecosport1.5 TDCi Ambiente BSIV,2017,"66,734kms",Diesel,Manual,₹5.20 Lakh,pune
+Maruti,Maruti Vitara BrezzaZDi,2017,"77,164kms",Diesel,Manual,₹6.79 Lakh,pune
+Maruti,Maruti SwiftVXI,2015,"59,505kms",Petrol,Manual,₹4.03 Lakh,pune
+Hyundai,Hyundai VenueSX Opt Turbo DCT Special Edition,2021,"46,345kms",Petrol,Automatic,₹8.99 Lakh,pune
+Renault,Renault DusterRXZ Turbo CVT,2021,"23,223kms",Petrol,Automatic,₹9.18 Lakh,pune
+Kia,Kia SeltosHTX,2021,"41,933kms",Petrol,Manual,₹8.31 Lakh,pune
+Renault,Renault KigerRXZ Turbo CVT,2023,"23,453kms",Petrol,Automatic,₹8.47 Lakh,pune
+Kia,Kia SeltosHTX,2022,"18,668kms",Petrol,Manual,₹8.55 Lakh,pune
+Maruti,Maruti Swift DzireVXI,2014,"55,807kms",Petrol,Manual,₹3.42 Lakh,pune
+Toyota,Toyota GlanzaV,2020,"58,322kms",Petrol,Manual,₹6.51 Lakh,pune
+Hyundai,Hyundai Xcent1.2 Kappa S Option,2014,"96,000kms",Petrol,Manual,₹4 Lakh,pune
+Volkswagen,Volkswagen Polo1.5 TDI Highline,2015,"84,000kms",Diesel,Manual,₹4.65 Lakh,pune
+Renault,Renault PulsePetrol RxL,2014,"1,00,660kms",Petrol,Manual,₹2.65 Lakh,pune
+Volkswagen,Volkswagen Vento1.2 TSI Highline AT,2014,"61,000kms",Petrol,Automatic,₹4.40 Lakh,pune
+Maruti,Maruti SwiftVVT VXI,2014,"74,000kms",Petrol,Manual,₹4 Lakh,pune
+Mahindra,Mahindra XUV700AX7 Diesel AT Luxury Pack BSVI,2022,"1,04,000kms",Diesel,Automatic,₹20 Lakh,pune
+Jeep,Jeep Compass2.0 Limited 4X4 Opt Diesel AT BSVI,2021,"72,000kms",Diesel,Automatic,₹22 Lakh,pune
+BMW,2019BMW 6 SeriesGT 630i Luxury Line  -2021,2018,"37,800kms",Petrol,Automatic,₹38.50 Lakh,pune
+Audi,Audi A430 TFSI Premium Plus,2017,"55,418kms",Petrol,Automatic,₹17.07 Lakh,pune
+Mahindra,Mahindra XUV500W8 4WD,2015,"1,20,000kms",Diesel,Manual,₹7 Lakh,pune
+Volkswagen,Volkswagen VentoPetrol Highline,2011,"88,000kms",Petrol,Manual,₹2.49 Lakh,pune
+Honda,Honda AmazeS i-VTEC,2014,"1,41,486kms",Petrol,Manual,₹2.95 Lakh,pune
+Maruti,Maruti Alto K10VXI AMT,2015,"69,553kms",Petrol,Automatic,₹2.39 Lakh,pune
+Tata,Tata Harrier EVFearless Plus 75 ACFC,2025,"10,000kms",Electric,Automatic,₹22.50 Lakh,pune
+Maruti,Maruti Grand VitaraZeta,2023,"43,228kms",Petrol,Manual,₹11.47 Lakh,pune
+Skoda,Skoda Slavia1.5 TSI Style DSG,2022,"36,747kms",Petrol,Automatic,₹13.35 Lakh,pune
+Toyota,Toyota Corolla AltisDiesel LE,2018,"85,419kms",Diesel,Manual,₹11.80 Lakh,pune
+Skoda,Skoda Slavia1.0 TSI Style AT BSVI,2023,"13,200kms",Petrol,Automatic,₹13.95 Lakh,pune
+Honda,Honda CityVX MT,2023,"9,838kms",Petrol,Manual,₹11.61 Lakh,pune
+Honda,Honda CityZX MT,2021,"48,692kms",Petrol,Manual,₹11.19 Lakh,pune
+Skoda,Skoda Slavia1.0 TSI Ambition AT,2023,"46,863kms",Petrol,Automatic,₹13.99 Lakh,pune
+MG,MG ZS EVExclusive,2022,"19,800kms",Electric,Automatic,₹18 Lakh,pune
+Audi,Audi A62.0 TDI,2012,"70,000kms",Diesel,Automatic,₹10.30 Lakh,pune
+Audi,Audi A62.0 TDI,2014,"78,000kms",Diesel,Automatic,₹11.25 Lakh,pune
+Skoda,Skoda Slavia1.5 TSI Style DSG,2023,"43,000kms",Petrol,Automatic,₹14.65 Lakh,pune
+Mahindra,Mahindra XUV700AX7 Diesel AT Luxury Pack BSVI,2022,"1,04,000kms",Diesel,Automatic,₹20 Lakh,pune
+Jeep,Jeep Compass2.0 Limited 4X4 Opt Diesel AT BSVI,2021,"72,000kms",Diesel,Automatic,₹22 Lakh,pune
+BMW,2019BMW 6 SeriesGT 630i Luxury Line  -2021,2018,"37,800kms",Petrol,Automatic,₹38.50 Lakh,pune
+Audi,Audi A430 TFSI Premium Plus,2017,"55,418kms",Petrol,Automatic,₹17.07 Lakh,pune
+Mahindra,Mahindra XUV500W8 4WD,2015,"1,20,000kms",Diesel,Manual,₹7 Lakh,pune
+Volkswagen,Volkswagen VentoPetrol Highline,2011,"88,000kms",Petrol,Manual,₹2.49 Lakh,pune
+Honda,Honda AmazeS i-VTEC,2014,"1,41,486kms",Petrol,Manual,₹2.95 Lakh,pune
+Maruti,Maruti Alto K10VXI AMT,2015,"69,553kms",Petrol,Automatic,₹2.39 Lakh,pune
+Tata,Tata Harrier EVFearless Plus 75 ACFC,2025,"10,000kms",Electric,Automatic,₹22.50 Lakh,pune
+Toyota,Toyota Corolla AltisDiesel LE,2018,"85,419kms",Diesel,Manual,₹11.80 Lakh,pune
+Skoda,Skoda Slavia1.5 TSI Style DSG,2022,"36,747kms",Petrol,Automatic,₹13.35 Lakh,pune
+Maruti,Maruti Grand VitaraZeta,2023,"43,228kms",Petrol,Manual,₹11.47 Lakh,pune
+Skoda,Skoda Slavia1.0 TSI Style AT BSVI,2023,"13,200kms",Petrol,Automatic,₹13.95 Lakh,pune
+Honda,Honda CityZX MT,2021,"48,692kms",Petrol,Manual,₹11.19 Lakh,pune
+Honda,Honda CityVX MT,2023,"9,838kms",Petrol,Manual,₹11.61 Lakh,pune
+Skoda,Skoda Slavia1.5 TSI Style DSG,2023,"43,000kms",Petrol,Automatic,₹14.65 Lakh,pune
+MG,MG ZS EVExclusive,2022,"19,800kms",Electric,Automatic,₹18 Lakh,pune
+Skoda,Skoda Slavia1.0 TSI Ambition AT,2023,"46,863kms",Petrol,Automatic,₹13.99 Lakh,pune
+Honda,Honda CityCVT,2021,"38,382kms",Petrol,Automatic,₹12.50 Lakh,pune
+Skoda,Skoda Slavia1.0 TSI Style AT BSVI,2023,"21,900kms",Petrol,Automatic,₹13.99 Lakh,pune

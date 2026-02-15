@@ -1,0 +1,461 @@
+car_brand,car_name,year,km_driven,fuel,transmission,price,city
+Tata,Tata Tiago EVXZ Plus LR,2024,"25,942kms",Electric,Automatic,₹8.50 Lakh,chandigarh
+Hyundai,Hyundai i20Sportz 1.2,2017,"27,368kms",Petrol,Manual,₹5.10 Lakh,chandigarh
+Honda,Honda AmazeVX CVT Petrol,2022,"35,944kms",Petrol,Automatic,₹6.92 Lakh,chandigarh
+Maruti,Maruti BalenoAlpha AMT,2022,"67,281kms",Petrol,Automatic,₹6.45 Lakh,chandigarh
+MG,MG GlosterSavvy 4x4 6Str,2023,"65,000kms",Diesel,Automatic,₹35 Lakh,chandigarh
+Hyundai,Hyundai VenueSX BSVI,2022,"38,015kms",Petrol,Manual,₹7.14 Lakh,chandigarh
+Maruti,Maruti XL6Alpha AT,2021,"55,809kms",Petrol,Automatic,₹9.46 Lakh,chandigarh
+Skoda,Skoda Slavia1.5 TSI Style DSG,2022,"45,603kms",Petrol,Automatic,₹13.28 Lakh,chandigarh
+Audi,Audi Q745 TDI Quattro Technology,2019,"70,000kms",Diesel,Automatic,₹42 Lakh,chandigarh
+Volkswagen,Volkswagen VirtusHighline AT,2022,"55,357kms",Petrol,Automatic,₹10.09 Lakh,chandigarh
+Hyundai,Hyundai VernaSX,2022,"25,620kms",Petrol,Manual,₹11.80 Lakh,chandigarh
+Hyundai,Hyundai Grand i10 NiosMagna,2023,"20,381kms",Petrol,Manual,₹5.33 Lakh,chandigarh
+Mitsubishi,Mitsubishi Outlander2.4,2009,"1,52,000kms",Petrol,Automatic,₹2.75 Lakh,chandigarh
+Honda,Honda WR-Vi-VTEC VX,2018,"71,438kms",Petrol,Manual,₹5.19 Lakh,chandigarh
+Tata,Tata NexonXM S Diesel,2021,"35,382kms",Diesel,Manual,₹6.42 Lakh,chandigarh
+Skoda,Skoda Slavia1.0 TSI Style AT BSVI,2023,"52,734kms",Petrol,Automatic,₹12.36 Lakh,chandigarh
+Nissan,Nissan KicksXV Premium Option D Dual Tone,2019,"1,35,000kms",Diesel,Manual,₹6.90 Lakh,chandigarh
+Hyundai,Hyundai Verna1.6 SX VTVT AT,2018,"85,681kms",Petrol,Automatic,₹7.68 Lakh,chandigarh
+Maruti,Maruti Grand VitaraAlpha AT,2022,"49,765kms",Petrol,Automatic,₹12.44 Lakh,chandigarh
+Hyundai,Hyundai CretaSX (O) Diesel AT,2022,"51,334kms",Diesel,Automatic,₹13.94 Lakh,chandigarh
+BMW,BMW XMxDrive,2024,"26,000kms",Petrol,Automatic,₹1.52 Crore,chandigarh
+Maruti,Maruti BalenoZeta Diesel,2021,"80,071kms",Diesel,Manual,₹5.40 Lakh,chandigarh
+Maruti,Maruti BalenoZeta Diesel,2020,"40,616kms",Diesel,Manual,₹5.51 Lakh,chandigarh
+Honda,Honda JazzVX,2017,"52,844kms",Petrol,Manual,₹4.12 Lakh,chandigarh
+Audi,Audi Q7Technology  -,2022,"18,000kms",Petrol,Automatic,₹64 Lakh,chandigarh
+Maruti,Maruti Alto 800LXi,2021,"24,828kms",Petrol,Manual,₹3.21 Lakh,chandigarh
+Volkswagen,Volkswagen Taigun1.0 TSI Topline AT BSVI,2021,"44,373kms",Petrol,Automatic,₹11.32 Lakh,chandigarh
+Volkswagen,Volkswagen VirtusHighline AT,2023,"24,873kms",Petrol,Automatic,₹12.53 Lakh,chandigarh
+BMW,BMW X5xDrive 40i M Sport,2022,"30,000kms",Petrol,Automatic,₹69 Lakh,chandigarh
+Hyundai,Hyundai VenueSX BSVI,2023,"37,204kms",Petrol,Manual,₹8.42 Lakh,chandigarh
+MG,MG GlosterSharp 7-Str,2020,"1,87,000kms",Diesel,Automatic,₹20.90 Lakh,chandigarh
+Hyundai,Hyundai Grand i101.2 Kappa Magna BSIV,2017,"41,291kms",Petrol,Manual,₹3.75 Lakh,chandigarh
+Toyota,Toyota VellfireHi,2025,"5,900kms",Petrol,Automatic,₹1.19 Crore,chandigarh
+Honda,Honda BrioS MT,2017,"34,787kms",Petrol,Manual,₹3.24 Lakh,chandigarh
+Hyundai,Hyundai EONMagna,2015,"60,336kms",Petrol,Manual,₹2.39 Lakh,chandigarh
+Maruti,Maruti Alto 800VXI,2021,"50,671kms",Petrol,Manual,₹3.08 Lakh,chandigarh
+BMW,BMW X1sDrive18i M Sport,2025,"2,000kms",Petrol,Automatic,₹47.50 Lakh,chandigarh
+Renault,Renault TriberRXT,2022,"49,873kms",Petrol,Manual,₹4.76 Lakh,chandigarh
+Hyundai,Hyundai Grand i101.2 Kappa Sportz Option,2017,"1,15,632kms",Petrol,Manual,₹3.62 Lakh,chandigarh
+Datsun,Datsun RediGOT Option,2018,"52,812kms",Petrol,Manual,₹2.24 Lakh,chandigarh
+BMW,BMW 5 Series530Li,2024,"27,000kms",Petrol,Automatic,₹64 Lakh,chandigarh
+Tata,Tata NexonXZA Plus (O) AMT Diesel,2022,"23,289kms",Diesel,Automatic,₹8.16 Lakh,chandigarh
+Volkswagen,Volkswagen Polo1.0 MPI Trendline,2020,"1,05,659kms",Petrol,Manual,₹4.27 Lakh,chandigarh
+Maruti,Maruti Alto K10VXI Plus,2023,"23,294kms",Petrol,Manual,₹4.20 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz GLC220d,2025,"20,000kms",Diesel,Automatic,₹64 Lakh,chandigarh
+Honda,Honda CitySV MT,2015,"1,03,874kms",Petrol,Manual,₹4.41 Lakh,chandigarh
+Maruti,Maruti Alto 800LXi,2018,"54,205kms",Petrol,Manual,₹3.08 Lakh,chandigarh
+Ford,Ford Ecosport1.0 Ecoboost Titanium,2014,"73,653kms",Petrol,Manual,₹3.89 Lakh,chandigarh
+Ford,Ford MustangV8,2017,"24,000kms",Petrol,Automatic,₹76.75 Lakh,chandigarh
+Honda,Honda Jazz1.2 V AT i VTEC,2017,"52,734kms",Petrol,Automatic,₹4.32 Lakh,chandigarh
+Renault,Renault KWIDRXT,2017,"55,000kms",Petrol,Manual,₹2.35 Lakh,chandigarh
+Maruti,Maruti Alto 800LXi,2013,"51,180kms",Petrol,Manual,₹2.10 Lakh,chandigarh
+BMW,BMW X1sDrive20i xLine,2022,"28,000kms",Petrol,Automatic,₹29.75 Lakh,chandigarh
+Maruti,Maruti Ciaz1.4 AT Alpha,2021,"56,429kms",Petrol,Automatic,₹8.01 Lakh,chandigarh
+Renault,Renault Duster85PS Diesel RxL,2012,"68,121kms",Diesel,Manual,₹2.35 Lakh,chandigarh
+Hyundai,Hyundai VenueS Plus 2024-2025,2021,"41,103kms",Petrol,Manual,₹6.33 Lakh,chandigarh
+BMW,BMW i7xDrive60 M Sport,2024,"8,066kms",Electric,Automatic,₹1.36 Crore,chandigarh
+Maruti,Maruti Alto K10VXI,2015,"78,000kms",Petrol,Manual,₹2.68 Lakh,chandigarh
+Ford,Ford Ecosport1.5 TDCi Ambiente BSIV,2015,"72,026kms",Diesel,Manual,₹3.30 Lakh,chandigarh
+Tata,Tata NexonXZ Plus (O) Diesel,2022,"31,584kms",Diesel,Manual,₹8.59 Lakh,chandigarh
+BMW,BMW 7 Series740Li M Sport,2022,"16,000kms",Petrol,Automatic,₹77 Lakh,chandigarh
+Maruti,Maruti Alto K10VXI,2015,"28,704kms",Petrol,Manual,₹2.79 Lakh,chandigarh
+Maruti,Maruti SwiftVDI BSIV,2016,"89,000kms",Diesel,Manual,₹4.85 Lakh,chandigarh
+Hyundai,Hyundai AlcazarPlatinum 6Str Diesel AT,2021,"1,02,513kms",Diesel,Automatic,₹12.94 Lakh,chandigarh
+BMW,BMW 3 Series Long Wheelbase330Li M Sport First Edition,2022,"48,000kms",Petrol,Automatic,₹38.75 Lakh,chandigarh
+Tata,Tata NexonXZA Plus (O) AMT Diesel,2020,"98,255kms",Diesel,Automatic,₹7.39 Lakh,chandigarh
+Hyundai,Hyundai Grand i10 NiosSportz CNG,2022,"46,156kms",CNG,Manual,₹5.36 Lakh,chandigarh
+MG,MG Hector1.5 Turbo Sharp pro BSVI,2023,"37,794kms",Petrol,Manual,₹16.42 Lakh,chandigarh
+Audi,Audi Q740 TFSI Quattro Technology,2019,"59,000kms",Petrol,Automatic,₹35.75 Lakh,chandigarh
+Maruti,Maruti Vitara BrezzaVDi Option,2018,"47,835kms",Diesel,Manual,₹6.02 Lakh,chandigarh
+Kia,Kia SonetHTX Turbo iMT,2023,"16,882kms",Petrol,Manual,₹8.79 Lakh,chandigarh
+Hyundai,Hyundai Creta1.6 SX,2020,"66,194kms",Petrol,Manual,₹9.56 Lakh,chandigarh
+Mercedes-Benz,2021Mercedes-Benz AMG G 634MATIC  -2023,2018,"45,000kms",Petrol,Automatic,₹2.58 Crore,chandigarh
+Kia,Kia SeltosHTX,2020,"53,838kms",Petrol,Manual,₹7.21 Lakh,chandigarh
+Toyota,Toyota GlanzaV AMT BSVI,2023,"28,020kms",Petrol,Automatic,₹7.51 Lakh,chandigarh
+Hyundai,Hyundai VenueSX BSVI,2023,"36,833kms",Petrol,Manual,₹7.99 Lakh,chandigarh
+Land Rover,Land Rover Range Rover VelarDynamic HSE,2024,"13,000kms",Petrol,Automatic,₹75.75 Lakh,chandigarh
+Mahindra,Mahindra XUV500W9 AT,2017,"77,978kms",Diesel,Automatic,₹8.14 Lakh,chandigarh
+Maruti,Maruti BrezzaVxi CNG,2023,"51,000kms",CNG,Manual,₹9.65 Lakh,chandigarh
+Hyundai,Hyundai Verna1.6 CRDi SX,2017,"90,000kms",Diesel,Manual,₹6.90 Lakh,chandigarh
+Land Rover,Land Rover Range Rover VelarDynamic HSE,2024,"13,000kms",Petrol,Automatic,₹75.75 Lakh,chandigarh
+Hyundai,Hyundai VernaSX Opt Turbo,2021,"25,969kms",Petrol,Automatic,₹11.14 Lakh,chandigarh
+Skoda,Skoda Slavia1.0 TSI Ambition,2023,"27,140kms",Petrol,Manual,₹10.97 Lakh,chandigarh
+Skoda,Skoda Kushaq1.5 TSI Ambition,2022,"26,885kms",Petrol,Manual,₹10.25 Lakh,chandigarh
+Skoda,Skoda Kushaq1.5 TSI Ambition,2023,"21,909kms",Petrol,Manual,₹10.09 Lakh,chandigarh
+Kia,Kia SeltosHTX Diesel AT,2024,"26,897kms",Diesel,Automatic,₹10.93 Lakh,chandigarh
+Kia,Kia SeltosGTX Plus,2019,"70,330kms",Petrol,Manual,₹10.07 Lakh,chandigarh
+Hyundai,Hyundai VernaSX Turbo,2023,"35,000kms",Petrol,Manual,₹13 Lakh,chandigarh
+Hyundai,Hyundai EONSportz,2015,"25,621kms",Petrol,Manual,₹2.43 Lakh,chandigarh
+Volkswagen,Volkswagen VentoIPL II Petrol Highline AT,2011,"79,500kms",Petrol,Automatic,₹2.78 Lakh,chandigarh
+Hyundai,Hyundai i20Asta 1.2,2015,"58,157kms",Petrol,Manual,₹4.70 Lakh,chandigarh
+Honda,Honda BrioVX,2015,"1,02,673kms",Petrol,Manual,₹3.13 Lakh,chandigarh
+Hyundai,Hyundai i201.2 Asta,2018,"37,109kms",Petrol,Manual,₹5.58 Lakh,chandigarh
+Maruti,Maruti Wagon RVXI 1.2,2021,"31,366kms",Petrol,Manual,₹4.37 Lakh,chandigarh
+Maruti,Maruti Baleno1.2 Delta,2017,"44,886kms",Petrol,Manual,₹4.79 Lakh,chandigarh
+Maruti,Maruti Baleno1.2 Delta,2017,"44,886kms",Petrol,Manual,₹4.79 Lakh,chandigarh
+Ford,Ford FigoTrend,2018,"76,609kms",Petrol,Manual,₹3.64 Lakh,chandigarh
+Ford,Ford EcosportTitanium Plus AT,2018,"84,231kms",Petrol,Automatic,₹5.69 Lakh,chandigarh
+Honda,Honda AmazeVX CVT Petrol,2019,"56,811kms",Petrol,Automatic,₹5.28 Lakh,chandigarh
+Tata,Tata TiagoXT CNG,2022,"38,931kms",CNG,Manual,₹5.17 Lakh,chandigarh
+Maruti,Maruti Wagon RVXI 1.2,2021,"31,366kms",Petrol,Manual,₹4.37 Lakh,chandigarh
+Hyundai,Hyundai i20Asta 1.2,2015,"58,157kms",Petrol,Manual,₹4.70 Lakh,chandigarh
+Honda,Honda BrioVX,2015,"1,02,673kms",Petrol,Manual,₹3.13 Lakh,chandigarh
+Hyundai,Hyundai i201.2 Asta,2018,"37,109kms",Petrol,Manual,₹5.58 Lakh,chandigarh
+Skoda,Skoda Kodiaq2.0 TDI Style,2018,"77,484kms",Diesel,Automatic,₹16.66 Lakh,chandigarh
+Jeep,Jeep Compass1.4 Limited,2018,"55,190kms",Petrol,Automatic,₹7.30 Lakh,chandigarh
+Maruti,Maruti Alto 800LXI CNG,2014,"57,453kms",CNG,Manual,₹2.27 Lakh,chandigarh
+Tata,Tata NexonXZ Plus,2021,"1,15,643kms",Petrol,Manual,₹6.32 Lakh,chandigarh
+Maruti,Maruti Vitara BrezzaZXI Plus Dual Tone,2019,"1,25,069kms",Petrol,Manual,₹6.49 Lakh,chandigarh
+Jeep,Jeep Compass2.0 Longitude BSIV,2017,"57,000kms",Diesel,Manual,₹7.35 Lakh,chandigarh
+Chevrolet,Chevrolet TrailblazerLTZ 4X2 AT,2015,"58,000kms",Diesel,Automatic,₹9.65 Lakh,chandigarh
+MG,MG Hector2.0 Sharp Pro Diesel BSVI,2022,"50,325kms",Diesel,Manual,₹14.25 Lakh,chandigarh
+Maruti,Maruti FRONXAlpha Turbo AT,2023,"4,928kms",Petrol,Automatic,₹10.41 Lakh,chandigarh
+Hyundai,Hyundai AlcazarPlatinum AE 7Str Diesel,2022,"21,103kms",Diesel,Manual,₹14.47 Lakh,chandigarh
+MG,MG Hector2.0 Sharp Pro Diesel BSVI,2022,"72,353kms",Diesel,Manual,₹13.31 Lakh,chandigarh
+Maruti,Maruti FRONXAlpha Turbo AT,2023,"8,112kms",Petrol,Automatic,₹10.48 Lakh,chandigarh
+Hyundai,Hyundai AlcazarPlatinum AE 7Str Diesel,2022,"57,140kms",Diesel,Manual,₹14.25 Lakh,chandigarh
+Hyundai,Hyundai AlcazarSignature 6Str Diesel AT,2021,"66,307kms",Diesel,Automatic,₹13.45 Lakh,chandigarh
+Mahindra,Mahindra XUV500W11 FWD Diesel,2018,"79,000kms",Diesel,Manual,₹10.85 Lakh,chandigarh
+Kia,Kia SeltosHTK Plus AT D,2021,"82,000kms",Diesel,Automatic,₹10.15 Lakh,chandigarh
+Maruti,Maruti FRONXAlpha Turbo AT,2023,"8,112kms",Petrol,Automatic,₹10.48 Lakh,chandigarh
+Hyundai,Hyundai AlcazarPlatinum AE 7Str Diesel,2022,"57,140kms",Diesel,Manual,₹14.25 Lakh,chandigarh
+Hyundai,Hyundai AlcazarSignature 6Str Diesel AT,2021,"66,307kms",Diesel,Automatic,₹13.45 Lakh,chandigarh
+Mahindra,Mahindra XUV500W11 FWD Diesel,2018,"79,000kms",Diesel,Manual,₹10.85 Lakh,chandigarh
+Kia,Kia SeltosHTK Plus AT D,2021,"82,000kms",Diesel,Automatic,₹10.15 Lakh,chandigarh
+Hyundai,Hyundai CretaS plus Knight Diesel,2023,"55,000kms",Diesel,Manual,₹13.50 Lakh,chandigarh
+Ford,Ford Ecosport1.5 Ti VCT AT Titanium,2014,"46,936kms",Petrol,Automatic,₹3.87 Lakh,chandigarh
+Honda,Honda CitySV MT,2014,"98,248kms",Petrol,Manual,₹3.69 Lakh,chandigarh
+Hyundai,Hyundai SantroSportz Executive CNG,2022,"74,623kms",CNG,Manual,₹4.09 Lakh,chandigarh
+Maruti,Maruti Vitara BrezzaZXI Plus Dual Tone,2016,"78,337kms",Petrol,Manual,₹5.75 Lakh,chandigarh
+Tata,Tata TigorXZ Plus CNG BSVI,2022,"1,21,613kms",CNG,Manual,₹5.25 Lakh,chandigarh
+Maruti,Maruti SwiftZXI BSVI,2021,"75,000kms",Petrol,Manual,₹5.95 Lakh,chandigarh
+Renault,Renault TriberRXT,2022,"20,368kms",Petrol,Manual,₹5.08 Lakh,chandigarh
+Skoda,Skoda Slavia1.0 TSI Style,2023,"52,685kms",Petrol,Manual,₹11.21 Lakh,chandigarh
+Ford,Ford EcosportTitanium Plus AT,2021,"36,458kms",Petrol,Automatic,₹8.38 Lakh,chandigarh
+Honda,Honda ElevateVX Non RF,2023,"16,469kms",Petrol,Manual,₹11.56 Lakh,chandigarh
+Skoda,Skoda Slavia1.0 TSI Ambition,2023,"65,755kms",Petrol,Manual,₹9.65 Lakh,chandigarh
+Volkswagen,Volkswagen Vento1.0 TSI Highline Plus AT,2021,"57,018kms",Petrol,Automatic,₹8.29 Lakh,chandigarh
+Ford,Ford FiestaPetrol Style,2021,"66,648kms",Petrol,Manual,₹7.53 Lakh,chandigarh
+Volkswagen,Volkswagen Vento1.0 TSI Highline Plus AT,2022,"92,413kms",Petrol,Automatic,₹7.95 Lakh,chandigarh
+Volkswagen,Volkswagen Vento1.0 TSI Highline Plus AT,2022,"92,413kms",Petrol,Automatic,₹7.95 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz C-ClassProgressive C 220d,2020,"48,000kms",Diesel,Automatic,₹29.50 Lakh,chandigarh
+Skoda,Skoda Slavia1.0 TSI Style AT BSVI,2022,"81,397kms",Petrol,Automatic,₹11.09 Lakh,chandigarh
+Honda,Honda ElevateVX Non RF,2023,"16,469kms",Petrol,Manual,₹11.56 Lakh,chandigarh
+Skoda,Skoda Slavia1.0 TSI Ambition,2023,"65,755kms",Petrol,Manual,₹9.65 Lakh,chandigarh
+Volkswagen,Volkswagen Taigun1.0 Topline,2021,"1,22,587kms",Petrol,Manual,₹9.97 Lakh,chandigarh
+Skoda,Skoda Slavia1.5 TSI Ambition,2022,"58,763kms",Petrol,Manual,₹8.70 Lakh,chandigarh
+Kia,Kia SeltosHTX,2023,"43,055kms",Petrol,Manual,₹10.64 Lakh,chandigarh
+Maruti,Maruti ErtigaZXI AT,2022,"34,935kms",Petrol,Automatic,₹9.65 Lakh,chandigarh
+Renault,Renault TriberRXT,2022,"20,368kms",Petrol,Manual,₹5.08 Lakh,chandigarh
+Skoda,Skoda Slavia1.0 TSI Style,2023,"52,685kms",Petrol,Manual,₹11.21 Lakh,chandigarh
+Ford,Ford EcosportTitanium Plus AT,2021,"36,458kms",Petrol,Automatic,₹8.38 Lakh,chandigarh
+Ford,Ford FiestaPetrol Style,2021,"66,648kms",Petrol,Manual,₹7.53 Lakh,chandigarh
+Volkswagen,Volkswagen Vento1.0 TSI Highline Plus AT,2021,"57,018kms",Petrol,Automatic,₹8.29 Lakh,chandigarh
+Honda,Honda CityVX CVT,2017,"86,682kms",Petrol,Automatic,₹6.18 Lakh,chandigarh
+Datsun,Datsun RediGOT Option,2019,"67,967kms",Petrol,Manual,₹2.41 Lakh,chandigarh
+Mahindra,Mahindra XUV700AX7 Diesel AT Luxury Pack BSVI,2022,"1,15,042kms",Diesel,Automatic,₹16.75 Lakh,chandigarh
+Maruti,Maruti Alto K10VXI,2015,"59,712kms",Petrol,Manual,₹2.36 Lakh,chandigarh
+Isuzu,Isuzu MU 74x2 HIPACK,2015,"90,000kms",Diesel,Manual,₹6.35 Lakh,chandigarh
+Hyundai,Hyundai i10Asta,2012,"85,000kms",Petrol,Manual,₹2.35 Lakh,chandigarh
+Datsun,Datsun RediGOT Option,2019,"67,967kms",Petrol,Manual,₹2.41 Lakh,chandigarh
+Mahindra,Mahindra XUV700AX7 Diesel AT Luxury Pack BSVI,2022,"1,15,042kms",Diesel,Automatic,₹16.75 Lakh,chandigarh
+Maruti,Maruti Alto K10VXI,2015,"59,712kms",Petrol,Manual,₹2.36 Lakh,chandigarh
+Hyundai,Hyundai i10Asta,2012,"85,000kms",Petrol,Manual,₹2.35 Lakh,chandigarh
+Isuzu,Isuzu MU 74x2 HIPACK,2015,"90,000kms",Diesel,Manual,₹6.35 Lakh,chandigarh
+Tata,Tata HarrierXZ BSIV,2019,"87,000kms",Diesel,Manual,₹8.65 Lakh,chandigarh
+Maruti,Maruti DzireZXI Plus,2017,"68,544kms",Petrol,Manual,₹4.85 Lakh,chandigarh
+Maruti,Maruti SwiftVXI,2022,"39,926kms",Petrol,Manual,₹5.15 Lakh,chandigarh
+Renault,Renault TriberRXL,2020,"41,283kms",Petrol,Manual,₹4.09 Lakh,chandigarh
+Hyundai,Hyundai SantroMagna BSIV,2018,"47,000kms",Petrol,Manual,₹3.90 Lakh,chandigarh
+Tata,Tata CurvvCreative S Diesel,2025,"6,617kms",Diesel,Manual,₹11.93 Lakh,chandigarh
+Hyundai,Hyundai AlcazarSignature 6Str Diesel AT,2022,"87,295kms",Diesel,Automatic,₹13.61 Lakh,chandigarh
+Tata,Tata CurvvAccomplished S Diesel,2024,"5,618kms",Diesel,Manual,₹14.36 Lakh,chandigarh
+MG,MG Hector PlusSharp DCT,2020,"1,30,000kms",Petrol,Automatic,₹10.90 Lakh,chandigarh
+Jaguar,Jaguar XJ5.0 L V8 Supercharged,2011,"77,000kms",Petrol,Automatic,₹12.85 Lakh,chandigarh
+Maruti,Maruti Alto K10VXI,2016,"46,252kms",Petrol,Manual,₹2.90 Lakh,chandigarh
+Honda,Honda CityS,2011,"89,000kms",Petrol,Manual,₹2.65 Lakh,chandigarh
+Hyundai,Hyundai i10Asta 1.2 AT with Sunroof,2010,"16,000kms",Petrol,Automatic,₹2.95 Lakh,chandigarh
+Hyundai,Hyundai Santro XingGLS,2009,"84,000kms",Petrol,Manual,"₹95,000",chandigarh
+Honda,Honda City1.5 S MT,2011,"90,000kms",Petrol,Manual,₹2.90 Lakh,chandigarh
+Honda,Honda CityS,2011,"89,000kms",Petrol,Manual,₹2.65 Lakh,chandigarh
+Hyundai,Hyundai Santro XingGLS,2009,"84,000kms",Petrol,Manual,"₹95,000",chandigarh
+Hyundai,Hyundai i10Asta 1.2 AT with Sunroof,2010,"16,000kms",Petrol,Automatic,₹2.95 Lakh,chandigarh
+Honda,Honda City1.5 S MT,2011,"90,000kms",Petrol,Manual,₹2.90 Lakh,chandigarh
+Maruti,Maruti Alto K10VXI,2016,"46,252kms",Petrol,Manual,₹2.90 Lakh,chandigarh
+Mahindra,Mahindra XUV700AX7 BSVI,2021,"83,000kms",Petrol,Manual,₹18.65 Lakh,chandigarh
+Hyundai,Hyundai Verna1.6 VTVT SX,2012,"58,999kms",Petrol,Manual,₹3.52 Lakh,chandigarh
+Mahindra,Mahindra KUV 100mFALCON D75 K2,2016,"81,000kms",Diesel,Manual,₹3.45 Lakh,chandigarh
+Renault,Renault DusterRXZ AWD,2016,"76,000kms",Diesel,Manual,₹4.75 Lakh,chandigarh
+Skoda,Skoda YetiElegance,2012,"88,000kms",Diesel,Manual,₹3.65 Lakh,chandigarh
+Chevrolet,Chevrolet Captiva2.2 AT AWD,2015,"87,000kms",Diesel,Automatic,₹4.90 Lakh,chandigarh
+Porsche,Porsche CayenneS,2009,"81,000kms",Petrol,Manual,₹9.70 Lakh,chandigarh
+Skoda,Skoda OctaviaElegance 2.0 TDI AT,2015,"1,20,000kms",Diesel,Automatic,₹6.85 Lakh,chandigarh
+Kia,Kia SeltosHTK Plus D,2020,"75,000kms",Diesel,Manual,₹9.75 Lakh,chandigarh
+Audi,Audi A635 TDI Premium,2015,"81,000kms",Diesel,Automatic,₹9.85 Lakh,chandigarh
+Mahindra,Mahindra Alturas G44X2 AT BSIV,2018,"1,28,000kms",Diesel,Automatic,₹14.65 Lakh,chandigarh
+Mahindra,Mahindra ScorpioS9 BSIV,2019,"58,000kms",Diesel,Manual,₹12.90 Lakh,chandigarh
+Tata,Tata HarrierXZA Plus Kaziranga Edition AT,2022,"89,120kms",Diesel,Automatic,₹13.60 Lakh,chandigarh
+Maruti,Maruti SX4VXI,2010,"34,000kms",Petrol,Manual,₹2.15 Lakh,chandigarh
+Honda,Honda JazzSelect Edition,2012,"74,000kms",Petrol,Manual,₹2.35 Lakh,chandigarh
+Mahindra,Mahindra ScorpioS9 BSIV,2019,"58,000kms",Diesel,Manual,₹12.90 Lakh,chandigarh
+Mahindra,Mahindra Alturas G44X2 AT BSIV,2018,"1,28,000kms",Diesel,Automatic,₹14.65 Lakh,chandigarh
+Tata,Tata HarrierXZA Plus Kaziranga Edition AT,2022,"89,120kms",Diesel,Automatic,₹13.60 Lakh,chandigarh
+Maruti,Maruti SX4VXI,2010,"34,000kms",Petrol,Manual,₹2.15 Lakh,chandigarh
+Honda,Honda JazzSelect Edition,2012,"74,000kms",Petrol,Manual,₹2.35 Lakh,chandigarh
+Maruti,Maruti Baleno1.3 Zeta,2018,"1,00,000kms",Diesel,Manual,₹4.90 Lakh,chandigarh
+Hyundai,Hyundai i10Sportz 1.2,2010,"1,20,000kms",Petrol,Manual,₹1.90 Lakh,chandigarh
+Audi,Audi A62.0 TDI,2011,"83,000kms",Diesel,Automatic,₹7.35 Lakh,chandigarh
+Honda,Honda Cityi DTec SV,2015,"62,000kms",Diesel,Manual,₹4.35 Lakh,chandigarh
+Maruti,Maruti SX4Vxi BSIII,2008,"65,000kms",Petrol,Manual,₹1.35 Lakh,chandigarh
+Hyundai,Hyundai Verna1.6 SX,2013,"80,000kms",Diesel,Manual,₹3.90 Lakh,chandigarh
+Volvo,Volvo XC90D5 R-Design,2017,"85,000kms",Diesel,Automatic,₹29.50 Lakh,chandigarh
+Maruti,Maruti JimnyZeta,2023,"38,000kms",Petrol,Manual,₹10.25 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz GLA Class200 CDI SPORT,2016,"1,05,000kms",Diesel,Automatic,₹14.90 Lakh,chandigarh
+Tata,Tata NanoCx,2011,"33,000kms",Petrol,Manual,"₹42,000",chandigarh
+Renault,Renault DusterPetrol RxL,2013,"1,50,000kms",Petrol,Manual,₹2.23 Lakh,chandigarh
+Ford,Ford Fiesta1.6 ZXi ABS,2007,"64,000kms",Petrol,Manual,₹1.50 Lakh,chandigarh
+Volkswagen,Volkswagen PoloDiesel Comfortline 1.2L,2014,"1,50,000kms",Diesel,Manual,₹1.90 Lakh,chandigarh
+Ford,Ford FiestaDiesel Style,2012,"1,00,200kms",Diesel,Manual,₹2.75 Lakh,chandigarh
+Ford,Ford Fiesta1.6 LE,2009,"90,000kms",Petrol,Manual,₹1 Lakh,chandigarh
+Ford,Ford Ecosport1.5 DV5 MT Titanium,2014,"1,50,000kms",Diesel,Manual,₹3 Lakh,chandigarh
+Ford,Ford Fiesta1.6 LE,2009,"90,000kms",Petrol,Manual,₹1 Lakh,chandigarh
+Honda,Honda AmazeE i-Vtech,2015,"60,000kms",Petrol,Manual,₹3 Lakh,chandigarh
+Ford,Ford Fiesta1.6 ZXi ABS,2007,"64,000kms",Petrol,Manual,₹1.50 Lakh,chandigarh
+Ford,Ford FiestaDiesel Style,2012,"1,00,200kms",Diesel,Manual,₹2.75 Lakh,chandigarh
+Maruti,Maruti Baleno1.2 Delta,2018,"1,50,000kms",Petrol,Manual,₹4.25 Lakh,chandigarh
+Maruti,Maruti S CrossDDiS 200 Zeta,2015,"1,15,000kms",Diesel,Manual,₹3.30 Lakh,chandigarh
+Maruti,Maruti CiazDelta BSIV,2017,"50,000kms",Petrol,Manual,₹5.60 Lakh,chandigarh
+Maruti,Maruti CiazZDi Plus SHVS,2015,"75,000kms",Diesel,Manual,₹5.50 Lakh,chandigarh
+Honda,Honda AmazeS Petrol,2021,"1,00,000kms",Petrol,Manual,₹5.70 Lakh,chandigarh
+Toyota,Toyota EtiosGD,2015,"1,20,000kms",Diesel,Manual,₹3.50 Lakh,chandigarh
+Hyundai,Hyundai Grand i10Sportz,2015,"1,00,000kms",Petrol,Manual,₹3 Lakh,chandigarh
+Skoda,Skoda KodiaqL & K,2023,"30,000kms",Petrol,Automatic,₹37 Lakh,chandigarh
+Audi,Audi Q745 TDI Quattro Premium Plus,2017,"1,00,000kms",Diesel,Automatic,₹27.45 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz C-ClassPrime C 200,2019,"1,15,000kms",Petrol,Automatic,₹24 Lakh,chandigarh
+Volkswagen,Volkswagen PoloDiesel Comfortline 1.2L,2014,"1,50,000kms",Diesel,Manual,₹1.90 Lakh,chandigarh
+Skoda,Skoda Laura1.9 TDI MT Ambiente,2009,"1,60,000kms",Diesel,Manual,₹2.25 Lakh,chandigarh
+Maruti,Maruti Grand VitaraSigma,2024,"40,000kms",Petrol,Manual,₹10 Lakh,chandigarh
+Tata,Tata AltrozXZ,2023,"30,000kms",Petrol,Manual,₹9 Lakh,chandigarh
+Maruti,Maruti Grand VitaraSigma,2024,"14,500kms",Petrol,Manual,₹9.75 Lakh,chandigarh
+Volkswagen,Volkswagen PoloDiesel Comfortline 1.2L,2014,"1,50,000kms",Diesel,Manual,₹1.90 Lakh,chandigarh
+Skoda,Skoda Laura1.9 TDI MT Ambiente,2009,"1,60,000kms",Diesel,Manual,₹2.25 Lakh,chandigarh
+Maruti,Maruti Grand VitaraSigma,2024,"40,000kms",Petrol,Manual,₹10 Lakh,chandigarh
+Tata,Tata AltrozXZ,2023,"30,000kms",Petrol,Manual,₹9 Lakh,chandigarh
+Maruti,Maruti Grand VitaraSigma,2024,"14,500kms",Petrol,Manual,₹9.75 Lakh,chandigarh
+MG,MG HectorSmart Diesel MT,2020,"80,000kms",Diesel,Manual,₹10 Lakh,chandigarh
+Maruti,Maruti Vitara BrezzaVDi Option,2018,"1,00,000kms",Diesel,Manual,₹6.50 Lakh,chandigarh
+Mahindra,Mahindra XUV300W8 Opt,2023,"34,000kms",Petrol,Manual,₹11 Lakh,chandigarh
+Maruti,Maruti Grand VitaraAlpha AT BSVI,2023,"10,000kms",Petrol,Automatic,₹13 Lakh,chandigarh
+Mahindra,Mahindra TharLX Hard Top,2025,"10,000kms",Petrol,Manual,₹14.50 Lakh,chandigarh
+Maruti,Maruti CiazVXi Plus,2017,"50,000kms",Petrol,Manual,₹5.60 Lakh,chandigarh
+Hyundai,Hyundai EONEra Plus,2012,"90,000kms",Petrol,Manual,₹1.35 Lakh,chandigarh
+Hyundai,Hyundai Xcent1.2 CRDi E,2016,"1,50,000kms",Diesel,Manual,₹1.70 Lakh,chandigarh
+Maruti,Maruti SwiftLxi BSIII,2009,"80,000kms",Petrol,Manual,₹1.65 Lakh,chandigarh
+Renault,Renault DusterPetrol RxL,2013,"1,50,000kms",Petrol,Manual,₹2.23 Lakh,chandigarh
+Hyundai,Hyundai i10Magna,2012,"60,000kms",Petrol,Manual,₹2 Lakh,chandigarh
+Ford,Ford FigoPetrol ZXI,2015,"62,000kms",Petrol,Manual,₹1.90 Lakh,chandigarh
+Maruti,Maruti SwiftZXI BSVI,2022,"80,000kms",Petrol,Manual,₹6 Lakh,chandigarh
+Mahindra,Mahindra XUV500W8 FWD,2013,"1,20,000kms",Diesel,Manual,₹3.45 Lakh,chandigarh
+Maruti,Maruti Vitara BrezzaZDi,2020,"1,00,000kms",Diesel,Manual,₹5.90 Lakh,chandigarh
+Maruti,Maruti SwiftLxi BSIII,2009,"80,000kms",Petrol,Manual,₹1.65 Lakh,chandigarh
+Ford,Ford FigoPetrol ZXI,2015,"62,000kms",Petrol,Manual,₹1.90 Lakh,chandigarh
+Maruti,Maruti SwiftZXI BSVI,2022,"80,000kms",Petrol,Manual,₹6 Lakh,chandigarh
+Maruti,Maruti Vitara BrezzaZDi,2020,"1,00,000kms",Diesel,Manual,₹5.90 Lakh,chandigarh
+Mahindra,Mahindra XUV500W8 FWD,2013,"1,20,000kms",Diesel,Manual,₹3.45 Lakh,chandigarh
+Toyota,Toyota Fortuner4X2 Diesel BSVI,2021,"20,000kms",Diesel,Manual,₹34 Lakh,chandigarh
+Datsun,Datsun RediGO1.0 S,2017,"1,50,000kms",Petrol,Manual,₹1.10 Lakh,chandigarh
+Volkswagen,Volkswagen VentoPetrol Trendline,2011,"1,60,000kms",Petrol,Manual,₹1.10 Lakh,chandigarh
+Maruti,Maruti Alto 800LXi,2011,"1,40,000kms",Petrol,Manual,₹1.35 Lakh,chandigarh
+Kia,Kia CarensPremium BSVI,2023,"60,000kms",Petrol,Manual,₹11 Lakh,chandigarh
+Citroen,Citroen C3Turbo Feel,2023,"30,000kms",Petrol,Manual,₹7 Lakh,chandigarh
+Chevrolet,Chevrolet CruzeLT,2013,"1,20,000kms",Diesel,Manual,₹3 Lakh,chandigarh
+Hyundai,Hyundai i201.2 Asta,2012,"1,70,000kms",Petrol,Manual,₹2.20 Lakh,chandigarh
+Hyundai,Hyundai TucsonPlatinum AT,2024,"20,000kms",Petrol,Automatic,₹26 Lakh,chandigarh
+Tata,Tata Nexon EVXM,2022,"70,000kms",Electric,Automatic,₹8.50 Lakh,chandigarh
+Audi,Audi Q52.0 TDI,2012,"1,12,000kms",Diesel,Automatic,₹8.20 Lakh,chandigarh
+Mahindra,Mahindra TharLX 4WD Hard Top Diesel BSVI,2022,"40,000kms",Diesel,Manual,₹10 Lakh,chandigarh
+Toyota,Toyota Innova Crysta2.8 GX AT BSIV,2018,"80,000kms",Diesel,Automatic,₹12.50 Lakh,chandigarh
+Mahindra,Mahindra TharLX 4WD Hard Top BSVI,2022,"50,000kms",Petrol,Manual,₹12.50 Lakh,chandigarh
+Hyundai,Hyundai ExterEX,2023,"30,000kms",Petrol,Manual,₹6 Lakh,chandigarh
+Mahindra,Mahindra TharLX 4WD Hard Top Diesel BSVI,2022,"40,000kms",Diesel,Manual,₹10 Lakh,chandigarh
+Tata,Tata Nexon EVXM,2022,"70,000kms",Electric,Automatic,₹8.50 Lakh,chandigarh
+Mahindra,Mahindra TharLX 4WD Hard Top BSVI,2022,"50,000kms",Petrol,Manual,₹12.50 Lakh,chandigarh
+Toyota,Toyota Innova Crysta2.8 GX AT BSIV,2018,"80,000kms",Diesel,Automatic,₹12.50 Lakh,chandigarh
+Hyundai,Hyundai ExterEX,2023,"30,000kms",Petrol,Manual,₹6 Lakh,chandigarh
+Land Rover,Land Rover Range Rover Evoque2.0 TD4 HSE,2018,"70,000kms",Diesel,Automatic,₹22 Lakh,chandigarh
+Tata,Tata SafariXZA AT BSVI,2022,"23,000kms",Diesel,Automatic,₹17 Lakh,chandigarh
+Maruti,Maruti Zen EstiloLXI,2009,"70,000kms",Petrol,Manual,₹1.65 Lakh,chandigarh
+Maruti,Maruti Alto 800LXi BSIII,2009,"1,00,000kms",Petrol,Manual,₹1.10 Lakh,chandigarh
+Tata,Tata NexonXZ Plus S,2023,"60,000kms",Petrol,Manual,₹8.90 Lakh,chandigarh
+Hyundai,Hyundai SantroSportz CNG,2020,"70,000kms",CNG,Manual,₹4.60 Lakh,chandigarh
+Ford,Ford Endeavour3.2 Titanium AT 4X4,2016,"1,00,000kms",Diesel,Automatic,₹15.80 Lakh,chandigarh
+Tata,Tata SafariXZA AT BSVI,2022,"60,000kms",Diesel,Automatic,₹17 Lakh,chandigarh
+Kia,Kia CarensPrestige,2023,"52,000kms",Petrol,Manual,₹11 Lakh,chandigarh
+Skoda,Skoda Rapid1.5 TDI Style BSIV,2017,"1,60,000kms",Diesel,Manual,₹4.25 Lakh,chandigarh
+Hyundai,Hyundai CretaSX Opt Diesel BSVI,2020,"90,000kms",Diesel,Manual,₹11 Lakh,chandigarh
+Honda,Honda Cityi VTEC VX,2015,"76,000kms",Petrol,Manual,₹4.20 Lakh,chandigarh
+Tata,2022Tata NexonXZ  -2022,2020,"70,000kms",Petrol,Manual,₹7.25 Lakh,chandigarh
+Tata,Tata Tiago1.2 Revotron XT,2018,"1,60,000kms",Petrol,Manual,₹3.30 Lakh,chandigarh
+Maruti,Maruti Vitara BrezzaVDi,2018,"1,00,000kms",Diesel,Manual,₹5.50 Lakh,chandigarh
+Hyundai,Hyundai i201.2 Magna Executive,2018,"95,000kms",Petrol,Manual,₹4.80 Lakh,chandigarh
+Maruti,Maruti Vitara BrezzaZDi Plus,2018,"73,000kms",Diesel,Manual,₹7 Lakh,chandigarh
+Honda,Honda Cityi VTEC VX,2015,"76,000kms",Petrol,Manual,₹4.20 Lakh,chandigarh
+Skoda,Skoda Rapid1.5 TDI Style BSIV,2017,"1,60,000kms",Diesel,Manual,₹4.25 Lakh,chandigarh
+Hyundai,Hyundai CretaSX (O) iVT,2025,"5,000kms",Petrol,Automatic,₹19 Lakh,chandigarh
+Maruti,Maruti Vitara BrezzaVDi,2018,"1,00,000kms",Diesel,Manual,₹5.50 Lakh,chandigarh
+Tata,2022Tata NexonXZ  -2022,2020,"70,000kms",Petrol,Manual,₹7.25 Lakh,chandigarh
+Tata,Tata Tiago1.2 Revotron XT,2018,"1,60,000kms",Petrol,Manual,₹3.30 Lakh,chandigarh
+Toyota,Toyota Innova Crysta2.8 GX AT BSIV,2018,"1,39,000kms",Diesel,Automatic,₹18 Lakh,chandigarh
+Maruti,Maruti Alto 800LX,2011,"1,80,000kms",Petrol,Manual,"₹80,000",chandigarh
+BMW,BMW X1xDrive 20d xLine,2017,"60,000kms",Diesel,Automatic,₹11 Lakh,chandigarh
+Mahindra,Mahindra TharLX Hard Top Diesel,2023,"50,000kms",Diesel,Manual,₹15 Lakh,chandigarh
+Mahindra,Mahindra ScorpioS 11 BSVI,2022,"99,000kms",Diesel,Manual,₹15 Lakh,chandigarh
+Maruti,Maruti JimnyAlpha AT,2024,"14,000kms",Petrol,Automatic,₹15.20 Lakh,chandigarh
+Mahindra,Mahindra ScorpioS11,2022,"1,00,000kms",Diesel,Manual,₹14.50 Lakh,chandigarh
+Honda,Honda Civic1.8 V AT,2009,"58,000kms",Petrol,Automatic,₹3.50 Lakh,chandigarh
+Honda,Honda BrioV MT,2013,"80,000kms",Petrol,Manual,₹2 Lakh,chandigarh
+Honda,Honda Amaze 2nd GenVX BSVI,2023,"42,000kms",Petrol,Manual,₹4.50 Lakh,chandigarh
+Mahindra,Mahindra Bolero Power PlusSLX,2020,"1,60,000kms",Diesel,Manual,₹4.60 Lakh,chandigarh
+Tata,Tata Indica V2eL,2013,"1,41,000kms",Diesel,Manual,"₹85,000",chandigarh
+Honda,Honda Civic1.8 V AT,2009,"58,000kms",Petrol,Automatic,₹3.50 Lakh,chandigarh
+Honda,Honda BrioV MT,2013,"80,000kms",Petrol,Manual,₹2 Lakh,chandigarh
+Mahindra,Mahindra Bolero Power PlusSLX,2020,"1,60,000kms",Diesel,Manual,₹4.60 Lakh,chandigarh
+Honda,Honda Amaze 2nd GenVX BSVI,2023,"42,000kms",Petrol,Manual,₹4.50 Lakh,chandigarh
+Honda,Honda AmazeAnniversary Edition,2015,"1,80,000kms",Diesel,Manual,₹1.85 Lakh,chandigarh
+Tata,Tata Indica V2eL,2013,"1,41,000kms",Diesel,Manual,"₹85,000",chandigarh
+Maruti,Maruti Alto 800LX BSIII,2006,"1,20,000kms",Petrol,Manual,"₹95,000",chandigarh
+Hyundai,Hyundai Xcent1.1 CRDi S,2015,"1,20,000kms",Diesel,Manual,₹2 Lakh,chandigarh
+Maruti,Maruti Alto 800LXI,2014,"40,000kms",Petrol,Manual,₹2 Lakh,chandigarh
+Maruti,Maruti RitzZXI,2010,"70,000kms",Petrol,Manual,₹1.40 Lakh,chandigarh
+Maruti,Maruti Swift DzireAMT ZXI,2018,"46,000kms",Petrol,Automatic,₹4 Lakh,chandigarh
+Maruti,Maruti BrezzaLxi,2025,"4,800kms",Petrol,Manual,₹7.50 Lakh,chandigarh
+Tata,Tata PunchAccomplished BSVI,2023,"50,000kms",Petrol,Manual,₹7 Lakh,chandigarh
+Toyota,Toyota HyryderE,2025,"11,000kms",Petrol,Manual,₹11.25 Lakh,chandigarh
+Mahindra,Mahindra Scorpio NZ4 Diesel 4x4,2024,"20,000kms",Diesel,Manual,₹16.50 Lakh,chandigarh
+BMW,BMW 3 Series320d,2011,"1,20,000kms",Diesel,Automatic,₹4 Lakh,chandigarh
+BMW,BMW 3 Series320d Luxury Line,2013,"90,000kms",Diesel,Automatic,₹5 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz E-ClassExclusive E 200 BSIV,2019,"27,000kms",Petrol,Automatic,₹32 Lakh,chandigarh
+Volvo,Volvo S60T4 Inscription,2021,"31,500kms",Petrol,Automatic,₹32 Lakh,chandigarh
+,Mini CountrymanS JCW Inspired,2024,"13,000kms",Petrol,Automatic,₹44.50 Lakh,chandigarh
+BMW,BMW 3 Series320d,2011,"1,20,000kms",Diesel,Automatic,₹4 Lakh,chandigarh
+BMW,BMW 3 Series320d Luxury Line,2013,"90,000kms",Diesel,Automatic,₹5 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz E-ClassExclusive E 200 BSIV,2019,"27,000kms",Petrol,Automatic,₹32 Lakh,chandigarh
+Volvo,Volvo S60T4 Inscription,2021,"31,500kms",Petrol,Automatic,₹32 Lakh,chandigarh
+,Mini CountrymanS JCW Inspired,2024,"13,000kms",Petrol,Automatic,₹44.50 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz GLC300,2024,"11,000kms",Petrol,Automatic,₹67 Lakh,chandigarh
+Mini Cooper,2021Mini Cooper Countryman  -2021Cooper S,2018,"21,640kms",Petrol,Automatic,₹32 Lakh,chandigarh
+Ford,Ford MustangV8,2017,"23,000kms",Petrol,Automatic,₹83 Lakh,chandigarh
+BMW,BMW 3 Series Long Wheelbase330Li M Sport First Edition,2022,"48,000kms",Petrol,Automatic,₹38.75 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz S-ClassS450 4Matic BSVI,2022,"5,500kms",Petrol,Automatic,₹1.28 Crore,chandigarh
+BMW,BMW X1sDrive 20d Sportline,2019,"42,000kms",Diesel,Automatic,₹22.75 Lakh,chandigarh
+Ford,Ford MustangV8,2017,"16,000kms",Petrol,Automatic,₹75 Lakh,chandigarh
+BMW,BMW 3 Series Long Wheelbase330Li M Sport First Edition,2022,"48,000kms",Petrol,Automatic,₹38.75 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz S-ClassS 450,2019,"54,000kms",Petrol,Automatic,₹66.75 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz GLC300,2024,"20,000kms",Petrol,Automatic,₹63.75 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz G-ClassG 63 AMG,2019,"42,000kms",Petrol,Automatic,₹2.20 Crore,chandigarh
+Mercedes-Benz,Mercedes-Benz GLS450d 4matic,2024,"14,000kms",Diesel,Automatic,₹1.18 Crore,chandigarh
+Audi,Audi Q7Bold Edition,2024,"13,000kms",Petrol,Automatic,₹79 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz E-ClassExclusive E 200,2024,"28,000kms",Petrol,Automatic,₹62 Lakh,chandigarh
+Toyota,Toyota VellfireExecutive Lounge BSVI,2022,"45,000kms",Petrol,Automatic,₹82.75 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz S-ClassS450 4Matic,2024,"18,000kms",Petrol,Automatic,₹1.32 Crore,chandigarh
+Mercedes-Benz,Mercedes-Benz S-ClassS450 4Matic,2024,"18,000kms",Petrol,Automatic,₹1.32 Crore,chandigarh
+Mercedes-Benz,Mercedes-Benz S-ClassS450 4Matic BSVI,2022,"5,500kms",Petrol,Automatic,₹1.28 Crore,chandigarh
+Mercedes-Benz,Mercedes-Benz S-ClassS 450,2019,"54,000kms",Petrol,Automatic,₹66.75 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz GLC300,2024,"20,000kms",Petrol,Automatic,₹63.75 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz GLS450d 4matic,2024,"14,000kms",Diesel,Automatic,₹1.18 Crore,chandigarh
+Mercedes-Benz,Mercedes-Benz G-ClassG 63 AMG,2019,"42,000kms",Petrol,Automatic,₹2.20 Crore,chandigarh
+Toyota,Toyota VellfireExecutive Lounge BSVI,2022,"45,000kms",Petrol,Automatic,₹82.75 Lakh,chandigarh
+Mercedes-Benz,2019Mercedes-Benz AMG G 634MATIC  -2023,2018,"42,000kms",Petrol,Automatic,₹2.20 Crore,chandigarh
+BMW,BMW 3 SeriesM340i xDrive,2024,"21,400kms",Petrol,Automatic,₹61 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz GLC200,2020,"32,000kms",Petrol,Automatic,₹38 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz GLS450 4matic,2024,"3,000kms",Petrol,Automatic,₹1.10 Crore,chandigarh
+BMW,BMW X5xDrive 40i M Sport,2022,"79,000kms",Petrol,Automatic,₹61.75 Lakh,chandigarh
+Porsche,Porsche MacanS,2024,"20,000kms",Petrol,Automatic,₹75.75 Lakh,chandigarh
+BMW,BMW X5xDrive40i xLine,2023,"33,000kms",Petrol,Automatic,₹74.75 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz GLS450 4MATIC BSVI,2021,"72,000kms",Petrol,Automatic,₹77.75 Lakh,chandigarh
+BMW,BMW X5xDrive 40i M Sport,2022,"79,000kms",Petrol,Automatic,₹61.75 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz GLS450 4MATIC BSVI,2021,"75,000kms",Petrol,Automatic,₹77.75 Lakh,chandigarh
+Porsche,Porsche MacanS BSVI,2021,"14,000kms",Petrol,Automatic,₹58 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz S-ClassS 500 L,2014,"81,000kms",Petrol,Automatic,₹35.90 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz GLS450 4MATIC BSVI,2021,"75,000kms",Petrol,Automatic,₹77.75 Lakh,chandigarh
+BMW,BMW X5xDrive 40i M Sport,2022,"79,000kms",Petrol,Automatic,₹61.75 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz GLS450 4matic,2024,"3,000kms",Petrol,Automatic,₹1.10 Crore,chandigarh
+Porsche,Porsche MacanS BSVI,2021,"14,000kms",Petrol,Automatic,₹58 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz S-ClassS 500 L,2014,"81,000kms",Petrol,Automatic,₹35.90 Lakh,chandigarh
+Jaguar,Jaguar XJ2.0L Portfolio,2016,"22,000kms",Petrol,Automatic,₹36.90 Lakh,chandigarh
+Audi,Audi A435 TDI Technology,2019,"45,000kms",Diesel,Automatic,₹17.95 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz C-ClassC 200 CGI,2016,"66,000kms",Petrol,Automatic,₹21.90 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz GLAAero Edition,2018,"35,000kms",Petrol,Automatic,₹22.90 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz S-ClassS 350 d,2017,"55,000kms",Diesel,Automatic,₹37.90 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz S-ClassS 350 d,2020,"46,000kms",Diesel,Automatic,₹49.75 Lakh,chandigarh
+BMW,BMW X5xDrive 40i M Sport,2022,"79,000kms",Petrol,Automatic,₹61.75 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz EQC400 4MATIC,2023,"80,000kms",Electric,Automatic,₹40 Lakh,chandigarh
+Land Rover,Land Rover Range Rover3.0 l LWB HSE PHEV,2024,"14,000kms",Petrol,Automatic,₹2.36 Crore,chandigarh
+Mercedes-Benz,Mercedes-Benz GLS400d 4MATIC BSVI,2022,"55,000kms",Diesel,Automatic,₹85.90 Lakh,chandigarh
+BMW,BMW X5xDrive40i xLine,2023,"33,000kms",Petrol,Automatic,₹74.75 Lakh,chandigarh
+Audi,Audi Q8Celebration Edition BSVI,2022,"31,000kms",Petrol,Automatic,₹59 Lakh,chandigarh
+BMW,BMW X1sDrive20i xLine,2022,"59,000kms",Petrol,Automatic,₹25 Lakh,chandigarh
+Mini Cooper,Mini Cooper Countryman  -2021Cooper S,2018,"49,000kms",Petrol,Automatic,₹22 Lakh,chandigarh
+Toyota,Toyota VellfireVIP Executive Lounge,2023,"16,900kms",Petrol,Automatic,₹88 Lakh,chandigarh
+Audi,Audi Q8Celebration Edition BSVI,2022,"31,000kms",Petrol,Automatic,₹59 Lakh,chandigarh
+BMW,BMW X5xDrive40i xLine,2023,"33,000kms",Petrol,Automatic,₹74.75 Lakh,chandigarh
+BMW,BMW X1sDrive20i xLine,2022,"59,000kms",Petrol,Automatic,₹25 Lakh,chandigarh
+Mini Cooper,Mini Cooper Countryman  -2021Cooper S,2018,"49,000kms",Petrol,Automatic,₹22 Lakh,chandigarh
+Toyota,Toyota VellfireVIP Executive Lounge,2023,"16,900kms",Petrol,Automatic,₹88 Lakh,chandigarh
+Lexus,Lexus ES300h,2020,"62,000kms",Petrol,Automatic,₹38.90 Lakh,chandigarh
+Land Rover,Land Rover Range Rover3.0 I Diesel LWB HSE,2023,"52,000kms",Diesel,Automatic,₹2 Crore,chandigarh
+Audi,Audi Q7Premium plus BSVI,2022,"10,000kms",Petrol,Automatic,₹59 Lakh,chandigarh
+Land Rover,Land Rover Range Rover Sport2.0 Petrol SE,2020,"37,000kms",Petrol,Automatic,₹71.75 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz GLS400d 4MATIC BSVI,2022,"59,000kms",Diesel,Automatic,₹87.90 Lakh,chandigarh
+Land Rover,Land Rover Range Rover3.0 Petrol LWB Vogue,2021,"54,000kms",Petrol,Automatic,₹1.36 Crore,chandigarh
+Land Rover,Land Rover Range Rover VelarDynamic HSE,2024,"27,000kms",Petrol,Automatic,₹74 Lakh,chandigarh
+BMW,BMW X1sDrive 20d xLine,2017,"35,000kms",Diesel,Automatic,₹13.50 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz GLAAero Edition,2017,"35,000kms",Petrol,Automatic,₹15.75 Lakh,chandigarh
+Land Rover,Land Rover Range Rover VelarDynamic HSE,2025,"2,600kms",Petrol,Automatic,₹78 Lakh,chandigarh
+Porsche,Porsche 718Cayman BSVI,2017,"28,000kms",Petrol,Automatic,₹75.75 Lakh,chandigarh
+Jeep,Jeep WranglerRubicon,2024,"19,000kms",Petrol,Automatic,₹61 Lakh,chandigarh
+BMW,BMW 7 Series740Li DPE Signature,2016,"58,000kms",Petrol,Automatic,₹37.90 Lakh,chandigarh
+BMW,BMW 5 Series530i Sport Line,2018,"66,000kms",Petrol,Automatic,₹30.90 Lakh,chandigarh
+BMW,BMW 5 Series530i Sport Line,2018,"66,000kms",Petrol,Automatic,₹30.90 Lakh,chandigarh
+Porsche,Porsche 718Cayman BSVI,2017,"28,000kms",Petrol,Automatic,₹75.75 Lakh,chandigarh
+Jeep,Jeep WranglerRubicon,2024,"19,000kms",Petrol,Automatic,₹61 Lakh,chandigarh
+BMW,BMW 7 Series740Li DPE Signature,2016,"58,000kms",Petrol,Automatic,₹37.90 Lakh,chandigarh
+BMW,BMW 5 Series530i Sport Line,2018,"66,000kms",Petrol,Automatic,₹30.90 Lakh,chandigarh
+BMW,BMW 5 Series530i Sport Line,2018,"66,000kms",Petrol,Automatic,₹30.90 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz GLS350d Grand Edition,2019,"1,17,000kms",Diesel,Automatic,₹46.90 Lakh,chandigarh
+Audi,Audi Q5Premium plus BSVI,2022,"15,000kms",Petrol,Automatic,₹43.90 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz GLS350d Grand Edition,2019,"1,10,000kms",Diesel,Automatic,₹48.90 Lakh,chandigarh
+Porsche,Porsche 911Carrera S,2024,"2,500kms",Petrol,Automatic,₹2.30 Crore,chandigarh
+Mercedes-Benz,Mercedes-Benz GLS450 4MATIC BSVI,2021,"72,000kms",Petrol,Automatic,₹77.75 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz EQA250 Plus,2024,"12,000kms",Electric,Automatic,₹46.50 Lakh,chandigarh
+BMW,BMW 7 Series740Li DPE Signature,2016,"55,000kms",Petrol,Automatic,₹39.90 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz EQS580 4Matic,2023,"25,000kms",Electric,Automatic,₹79.75 Lakh,chandigarh
+Toyota,Toyota Fortuner4X2 AT,2024,"15,000kms",Petrol,Automatic,₹34 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz E-ClassExpression E 200 BSIV,2019,"28,000kms",Petrol,Automatic,₹33 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz GLAAero Edition,2017,"35,000kms",Petrol,Automatic,₹15.75 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz E-ClassE 200 CGI,2014,"55,000kms",Petrol,Automatic,₹15.90 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz E-ClassE 200 CGI,2014,"55,000kms",Petrol,Automatic,₹15.90 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz EQS580 4Matic,2023,"25,000kms",Electric,Automatic,₹79.75 Lakh,chandigarh
+BMW,BMW 5 Series520i Luxury Line,2016,"55,000kms",Petrol,Automatic,₹22.90 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz GLAAero Edition,2017,"35,000kms",Petrol,Automatic,₹15.75 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz E-ClassE 200 CGI,2014,"55,000kms",Petrol,Automatic,₹15.90 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz E-ClassE 200 CGI,2014,"55,000kms",Petrol,Automatic,₹15.90 Lakh,chandigarh
+Mercedes-Benz,Mercedes-Benz EQS580 4Matic,2023,"25,000kms",Electric,Automatic,₹79.75 Lakh,chandigarh
+BMW,BMW 5 Series520i Luxury Line,2016,"55,000kms",Petrol,Automatic,₹22.90 Lakh,chandigarh
+BMW,BMW 5 Series520i Luxury Line,2016,"58,000kms",Petrol,Automatic,₹23.90 Lakh,chandigarh
+Land Rover,Land Rover Discovery SportSi4 HSE,2017,"69,000kms",Petrol,Automatic,₹24.90 Lakh,chandigarh
+Land Rover,Land Rover Discovery SportSi4 HSE,2017,"69,000kms",Petrol,Automatic,₹24.90 Lakh,chandigarh
+Audi,Audi Q330 TDI,2017,"48,000kms",Diesel,Manual,₹16.90 Lakh,chandigarh
+Audi,Audi Q330 TDI,2017,"48,000kms",Diesel,Manual,₹16.90 Lakh,chandigarh
+BMW,BMW 5 Series520d Sport Line,2018,"39,000kms",Diesel,Automatic,₹26.90 Lakh,chandigarh
+Audi,Audi A635 TDI Premium,2015,"55,000kms",Diesel,Automatic,₹11.90 Lakh,chandigarh
+BMW,BMW X1sDrive 20d xLine,2018,"66,000kms",Diesel,Automatic,₹17.90 Lakh,chandigarh
+BMW,BMW X1sDrive 20d xLine,2018,"69,000kms",Diesel,Automatic,₹17.90 Lakh,chandigarh
+Volvo,Volvo XC90D5 Inscription,2020,"48,000kms",Diesel,Automatic,₹55.90 Lakh,chandigarh
+Mahindra,Mahindra TharLX 4WD Hard Top AT BSVI,2022,"35,000kms",Petrol,Automatic,₹9.75 Lakh,chandigarh
+Mahindra,Mahindra XUV500W7 AT BSIV,2019,"90,000kms",Diesel,Automatic,₹7.85 Lakh,chandigarh
+Land Rover,Land Rover Range Rover VelarDynamic HSE,2024,"14,000kms",Petrol,Automatic,₹75.75 Lakh,chandigarh
+Toyota,Toyota CamryHybrid,2017,"13,90,000kms",Petrol,Automatic,₹12.90 Lakh,chandigarh
+Toyota,Toyota CamryHybrid,2017,"1,39,000kms",Petrol,Automatic,₹11.90 Lakh,chandigarh
